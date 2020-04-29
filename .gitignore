@@ -7,3 +7,5 @@ out_*
 *.nds
 *.idb
 *.xdelta
+*.mkv
+font_data.bin
