@@ -1,0 +1,82 @@
+﻿This is an (incomplete) guide with useful information that should be taken into account when making translations. The translation should reference terms from the official Yen Press translation of the anime where light novels/manga.
+
+The text will likely go through several passes of proofreading to ensure it remains consistent, so please don’t worry about re-checking through your work/following the style precisely at this stage.
+
+Terms are taken from the old translation work and by no means final. Do feel free to suggest changes to anything in the discord channel!
+
+==Text Editing (from the readme)==
+-Rename the *_output.txt files to *_input.txt (bin_output.txt to bin_input.txt, etc) and add translations for each line after the "=" sign.
+-The text in wsb_input is automatically wordwrapped, but a "|" can be used to force a line break.
+-New textboxes can be added by appending ">>" followed by the new text.
+-Control codes are specified as <XX> or UNK(XXXX), they should usually be kept.
+-To blank out a line, use a single "!". If just left empty, the line will be left untranslated.
+-Comments can be added at the end of lines by using #
+
+==Style==
+-Text should be in English (US) spellings, e.g. “color” instead of “colour”
+-Sound effects should be ‘westernized’, e.g. うーん > “Hmm/Well...”, ケッケッ > “Heh heh.” Any that can’t be effectively made into an onomatopoeia should be surrounded by *’s, e.g. はぁ > “*Sigh*”
+-To represent Holo’s archaic-ish speech, don’t use any contractions e.g. “will not” instead of “won’t" and change “it is” to “’tis”. Her dialogue is usually wordy (think of a princess; each sentence is ‘proper’, and slang is avoided.) Props if you can use words that have fallen out of fashion.
+-Choices should end with a full stop or appropriate punctuation if parts of dialogue.
+-Replace double ellipses “……” with the standard “...” Ellipses that represent a pause within a word should be flush with the text on both sides. E.g. "W...What is that?" Ellipses that represent a pause between words are flush with the text on the left, and are followed by a space on the right. "That... can’t be..."
+-Rather than following the original formatting exactly, ellipses can be used to represent slower text progression, whereas ‘--’ can be used to represent a fast pace, or interrupted dialogue.  
+-Stutters should be capitalized e.g. “R-Right...”
+-If a title is being used to replace a name, it should be capitalized e.g. “Good morning, Innkeeper.” If it’s proceeded by ‘the’ or a possessive pronoun e.g. ‘my’, it is not replacing a name and so does not need a capital letter e.g. “the innkeeper is busy”.
+-The C in “the Church” (教会) should also be capitalized.
+
+==Characters (from the 1st game)==
+ホロ=Holo
+店員=Clerk
+シュミット=Schmidt
+酒場の主人=Barkeeper
+村人=Villager
+店主=Shopkeeper
+村長=Mayor
+アニス=Anise
+執事=Steward
+吟遊詩人=Bard
+骨董商=Antique Seller
+ロウメス=Loumes
+神父=Priest
+サーセン=Sarsen
+グスタ=Gusta
+巨大な狼=Giant Wolf
+受付係=Receptionist
+
+==Locations (from the 1st game)==
+交易都市 アイマベルグ=Trade City Eimeberg
+交易都市 クライシュタイン=Trade City Kleistein
+港湾都市 メリンツ=Port Town Melintz
+港湾都市 セアベルク=Port Town Seabelk
+地方都市 タルリッヒ=Provincial Town Tarlich
+地方都市 メルス・クリッツ= Provincial Town Mels-Kritz
+要塞都市 ロマネスブルグ=Fortified City Romannesburg
+要塞都市 グラバラス= Fortified City Gravaras
+教会都市 ドルトンク=Parish Town Doltonkh
+教会都市 クリーグル=Parish Town Kriegel
+漁業都市 ルッシ=Fishing Village Lusch
+漁業都市 ランドルタット=Fishing Village Landoltatt
+鉱山都市 ヴァルアリー=Mining Town Valerie
+鉱山都市 シュリンケル=Mining Town Schrinkel
+村ノーリン=Village Norlin
+村 ナウレナス=Village Naulenas
+村 デッセル=Village Dessel
+村 マールケ=Village Mahlke
+村 ナインドルハ=Village Neindolha
+村 ヴィンヘン=Village Vinchen
+村 スウィージ=Village Suize
+村ミランド=Village Miland
+故郷 シラ=Historic Village Shila
+故郷 エーレ=Historic Village Ehre
+故郷 ワーデン=Historic Village Warden
+故郷 ユーベル=Historic Village Yubel
+
+==Common Terms==
+わっち=Holo-speak for “I” (私)
+ぬし=Holo-speak for “you”
+たわけっ=Holo-speak for “fool” (ばか)
+賢狼ホロ=Holo the Wisewolf
+商人=merchant
+噂=rumor
+『古狼の森』=“Ancient Forest”
+酒場=tavern
+町情報=Town Information
