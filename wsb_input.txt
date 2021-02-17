@@ -40,7 +40,7 @@
 アマーティ=
 男達=
 港受付=
-店員=Clerk
+店員=Barmaid
 商館長=
 噂話を聞く=Ask about Recent Rumors
 ホロを誘う=
@@ -6383,8 +6383,8 @@
 そうか、またな。=
 親方=Cartwright
 !FILE:event/facilities/pub_t06_diem.wsb
-店員と話す=Talk to the Clerk
-店員と話す=Talk to the Clerk
+店員と話す=Talk to the Barmaid
+店員と話す=Talk to the Barmaid
 いらっしゃいませ。|ご注文は？=
 え？|この町以外から海を渡る方法ですか？=
 そういえば前にベオリーヌという|村に渡し守がいるって聞いたことが|あるわ。=
