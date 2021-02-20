@@ -9,3 +9,4 @@ out_*
 *.xdelta
 *.mkv
 font_data.bin
+.idea
