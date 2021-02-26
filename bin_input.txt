@@ -24,7 +24,7 @@
 　※完了前ならスライドで荷馬車に戻せます。=
 在庫がありません。=Out of stock.
 荷台に戻せる依頼の品はありません。=
-商品知識が足りません。=商品知識が足りません=Insufficient Goods Knowledge.
+商品知識が足りません。=Insufficient Goods Knowledge.
 ⑩カーソル移動　①商品の選択　②キャンセル=
 　　　　　　　　③商品の回転　④商品の自動積み込み=
 %sの知識レベルが上がりました=Knowledge of %s has increased.
