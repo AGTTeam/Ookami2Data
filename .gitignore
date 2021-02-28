@@ -8,6 +8,8 @@ out_*
 *.idb
 *.xdelta
 *.mkv
+*.wav
+voice
 font_data.bin
 redirects.asm
 .idea
