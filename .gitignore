@@ -9,4 +9,5 @@ out_*
 *.xdelta
 *.mkv
 font_data.bin
+redirects.asm
 .idea
