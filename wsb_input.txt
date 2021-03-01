@@ -702,7 +702,7 @@
 　　　　−　ボタン操作　−|①会話送り　　④オートリード切替|③会話早送り　⑩カーソル移動=
 ※②と表示された選択肢は、|　カーソルを操作することなく、|　Ｂボタンで直接決定できます。=
 俺の名は、クラフト・ロレンス。|町から町を渡る、行商人だ。=The name's Kraft Lawrence. I work as a peddler, traveling around from town to town.
-行商人は皆同じ夢を抱いて旅をする。|いつか自分の店を持つ。|俺もまた、その夢を追う一人だ。=All peddlers travel with the same aim, to one day own their own shop. I'm just one of many chasing that dream. 
+行商人は皆同じ夢を抱いて旅をする。|いつか自分の店を持つ。|俺もまた、その夢を追う一人だ。=All peddlers travel with the same aim, to one day own their own shop. I'm just one of many chasing that dream.
 行商の旅――と言うと聞こえはいい|が、気楽でも華やかなものでもない。|むしろその逆だ。=The life of a traveling peddler might sound fun, but it's neither comfortable nor glamorous. Quite the opposite, even.
 一年の大半を馬車の上で過ごす行商|人にとって、孤独は職業病のような|ものだ。=For people who spend most of the year on a cart, loneliness is practically an occupational hazard.
 旅を共にする連れがいたらどれだけ|いいだろう。|そう願わない行商人はいない。=How nice it would be to have a companion to travel with. There are no peddlers who don't think that way.
