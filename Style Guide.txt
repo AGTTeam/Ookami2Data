@@ -14,11 +14,11 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 
 ==Style==
 -Text should be in English (US) spellings, e.g. “color” instead of “colour”
--Sound effects should be ‘westernized’, e.g. うーん > “Hmm/Well...”, ケッケッ > “Heh heh.” Any that can’t be effectively made into an onomatopoeia should be surrounded by *’s, e.g. はぁ > “*Sigh*”
+-Sound effects should be ‘westernized’, e.g. うーん > “Hmm/Well...”, ケッケッ > “Heh-heh.” Any that can’t be effectively made into an onomatopoeia should be surrounded by *’s, e.g. はぁ > “*Sigh*”
 -To represent Holo’s archaic-ish speech, don’t use any contractions e.g. “will not” instead of “won’t" and change “it is” to “’tis”. Her dialogue is usually wordy (think of a princess; each sentence is ‘proper’, and slang is avoided.) Props if you can use words that have fallen out of fashion.
 -Choices should end with a full stop or appropriate punctuation if parts of dialogue.
--Replace double ellipses “……” with the standard “...” Ellipses that represent a pause within a word should be flush with the text on both sides. E.g. "W...What is that?" Ellipses that represent a pause between words are flush with the text on the left, and are followed by a space on the right. "That... can’t be..."
--Rather than following the original formatting exactly, ellipses can be used to represent slower text progression, whereas ‘--’ can be used to represent a fast pace, or interrupted dialogue.  
+-Replace double ellipses “……” with the standard “...” Ellipses that represent a pause within a word should be flush with the text on both sides. E.g. "W...What is that?" Ellipses that represent a pause between words are flush with the text on the left, and are followed by a space on the right. "That... can’t be..."
+-Rather than following the original formatting exactly, ellipses can be used to represent slower text progression, whereas ‘--’ can be used to represent a fast pace, or interrupted dialogue.
 -Stutters should be capitalized e.g. “R-Right...”
 -If a title is being used to replace a name, it should be capitalized e.g. “Good morning, Innkeeper.” If it’s proceeded by ‘the’ or a possessive pronoun e.g. ‘my’, it is not replacing a name and so does not need a capital letter e.g. “the innkeeper is busy”.
 -The C in “the Church” (教会) should also be capitalized.
@@ -69,6 +69,30 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 故郷 エーレ=Historic Village Ehre
 故郷 ワーデン=Historic Village Warden
 故郷 ユーベル=Historic Village Yubel
+
+==Locations (from the 2nd game)==
+ヨイツ=Yoitsu#canon location, Holo's hometown
+ポロソン=Poroson#canon location
+リュビンハイゲン=Ruvinheigen#canon location
+ラムトラ=Lamtra#canon location
+クメルスン=Kumersun#canon location
+レノス=Lenos#canon location
+ディーモルン=Diemoln
+ベオリーヌ=
+レヤージュ=
+ウルリヒ=
+グラハ=
+エルン=
+リューン=
+デリンツコルツ
+リボールカント
+ルッキホル
+ガーノ
+アールマルン
+ブルラッティア
+ロズサルト
+小島
+ザーラント=Saarland
 
 ==Common Terms==
 わっち=Holo-speak for “I” (私)
