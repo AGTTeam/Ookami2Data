@@ -272,7 +272,7 @@
 データを書けませんでした。|電源を切って、|カードを差し込み直してください。=Could not write data.|Please turn off the|console and try again.
 旅の記録%2d=Travel Log %2d
 商人レベル：%2d=Merchant Level: %2d
-日付：%s%2d日=Date: %s%2d
+日付：%s%2d日=Date: %s %2d
 銀貨：%7d 枚=Money: %7d SLV
 %2d 周目=
 %2d 年目=
