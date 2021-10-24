@@ -82,8 +82,8 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 レヤージュ=
 ウルリヒ=
 グラハ=
-エルン=
-リューン=
+エルン=Elen
+リューン=Lune
 デリンツコルツ
 リボールカント
 ルッキホル
@@ -91,7 +91,7 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 アールマルン
 ブルラッティア
 ロズサルト
-小島
+小島=Iselt
 ザーラント=Saarland
 
 ==Common Terms==
