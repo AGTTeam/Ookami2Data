@@ -80,7 +80,7 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 ディーモルン=Diemoln
 ベオリーヌ=Beorein
 レヤージュ=
-ウルリヒ=
+ウルリヒ=Ulrich
 グラハ=
 エルン=Elen
 リューン=Lune
