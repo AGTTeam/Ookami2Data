@@ -250,7 +250,7 @@
 報酬 銀貨%7d枚=Reward: %7d SLV
 %s×%2d=%s x %2d
 医療品=
-錬金工房拡張用素材=
+錬金工房拡張用素材=Materials for Expansion
 －借用書－=- Loan Terms -
 返済期限:残り%3d日=Repayment deadline: In %3d days
 借用銀貨=Amount to Borrow
