@@ -454,7 +454,7 @@
 レノスでは近頃木材の価格が下落|しているようだね。|聞いた話だと向こう３５日は半値|で取り引きできるだろうってさ。|これはチャンスだね。=
 レノスで価格暴落中？=
 レノスの市場では今価格暴落がお|きているようだ。|劣悪な交易品を仕入れてしまった|ためひと月は半値程度でのやり取り|になるんじゃないかと言われてるよ。=
-炭酸水が暴落？=Soda water slupms?
+炭酸水が暴落？=Soda water slump?
 ディーモルンでは今、炭酸水の値|が暴落していて半値で仕入れるこ|とができるようだ。|３５日間位はこの状態が続くと思|うから買うなら今がチャンスだ。=The price of soda water in Diemoln is plummeting. You can buy it at half price for about 35 days. Now is the time to buy!
 ディーモルンで価格暴落中？=
 ディーモルンの町では一時的に商|品の値段が暴落しているようだ。|ひと月は半値で交渉できるだろう。|原因は海産物が飽和状態になった|からとも言われているが…。=
@@ -569,15 +569,15 @@
 買えない商品に関して=About Greyed-Out Goods
 市場に商品が並んでいても買えな|いのは、その商品の商品知識がま|だ足りていないからだね。|商品知識ランクを上げれば買い付|けることができるようになるよ。=The reason why you can't buy a product on the market is because you don't have enough product knowledge of that product yet. Raise your product knowledge rank to be able to buy it.
 他の町の情報を見るには？=Seeing Other Towns' Information?
-交易マップに表示されてる町アイ|コンを１回タッチするとその町の|特産品や人気の品を確認できるよ。|下画面下部の地図アイコンからで|も確認できるから便利だよ。=You can check the specialties and popular items of that town, if you touch its town icon on the trading map once. You can also tap the map icon at the bottom of the screen to make it easier.#unsure
+交易マップに表示されてる町アイ|コンを１回タッチするとその町の|特産品や人気の品を確認できるよ。|下画面下部の地図アイコンからで|も確認できるから便利だよ。=You can check the specialties and popular items of a town by touching its icon on the trading map once. You can also use the map at the bottom of the screen to make it easier.
 商人のレベルを上げるには=Raising your Merchant Level
-商人として経験を得るには、何よ|りも商品の売り買いをすることだ|ね。|商人レベルが高くなれば、商品を|少しだけ高く売れるようになるよ。=The best way to gain experience as a merchant is to buy and sell goods. When your merchan level increases, you'll be able to sell your goods at a slightly higher price.
+商人として経験を得るには、何よ|りも商品の売り買いをすることだ|ね。|商人レベルが高くなれば、商品を|少しだけ高く売れるようになるよ。=The best way to gain experience as a merchant is to buy and sell goods. When your merchant level increases, you'll be able to sell your goods at a slightly higher price.
 商品知識を上げるには=Raising your Goods Knowledge
 各商品は系統ごとにジャンルに分|けられていて、そのジャンルの商|品を売り買いしてると、より高い|ランクの商品を扱うことができる|ようになるんだ。=
 ！アイコンは何？=What's the ! Icon?
 町に入ると色んな施設があります。|その中に「！」がついてる施設が|あったらそこで何か起こります。|何が起こるかは自分で確かめてく|ださいね。=When you enter the town, there are various places to go. If there is a place with a "!" something will happen there. Find out what exactly by yourself.
 銀貨を借りる=Borrowing Coins
-商館に行けば銀貨を借りれるよ。|返却の際には利子をつけて返すこ|とになるけど困ってるときは借り|るのはありだと思うな。|でも、もし返却できなかったら…。=If you go to the trading post, you can borrow some silver coins. When you return it, you'll have to pay interest on it, it might be worth it when you are in trouble. But if you can't return it...
+商館に行けば銀貨を借りれるよ。|返却の際には利子をつけて返すこ|とになるけど困ってるときは借り|るのはありだと思うな。|でも、もし返却できなかったら…。=If you go to the trading post, you can borrow some silver coins. You'll have to pay interest when you return it, but it might be worth it when you are in trouble. Although, if you can't return it...
 会話画面の操作説明=Basic Controls
 　　−　タッチペン操作　−　　　|タッチ:会話送り、選択肢決定|　　　−　ボタン操作　−　　　　|①会話送り　　④オートリード切替|③会話早送り　⑩カーソル移動=<<- Touch Controls -|Touch: Advance text, make choices|<<- Button Controls -|① Advance text ④ Toggle auto mode|③ Fast Forward ⑩ Move the Cursor
 町ナビ画面の操作説明=Using the town navigation screen
