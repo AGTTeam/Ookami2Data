@@ -3963,13 +3963,13 @@
 わ、わかった、わかったよ。|蜂蜜漬けだろ？=I know, I know...|Honeyed, was it?
 桃の蜂蜜漬けを食べさせてくれる。|そういう約束じゃったよな？=You're going to buy me honeyed peaches.|That was the deal, right?
 桃じゃぞ、桃！|桃だけでも甘くてとろりとしておる|のに、その上蜂蜜とは……。=Peaches, Peaches!|Peaches alone are sweet and mellow, but honey on top of that is...
-ああ、信じられぬ！|そんな食べ物が世の中にあるとは。|人間の業はどこまでも深いものよの。=Ahh, I can't believe it!|I didn't know there was such food in the world. Man's work is so incredible.
+ああ、信じられぬ！|そんな食べ物が世の中にあるとは。|人間の業はどこまでも深いものよの。=Ahh, I can't believe it!|I didn't know there was such food in the world. Man's enterprising knows no bounds.
 それは確かにそうかもな。|あまりに贅沢すぎるので、教会もい|い顔をしていないと聞く。=That's probably true.|I heard that the church doesn't like them because they are too extravagant.
 ぬしらの神はわっちには関係ありん|せん。|ああ、楽しみじゃ……！=I have nothing to do with your god.|Ahh, I'm looking forward to them...
 ホロ、あれは稀少品なんだ。|絶対あるわけじゃないから、そこは|勘違いしないでくれよ？=Holo, they are a rare find. It's not sure we'll be able to buy some. Don't have false hopes, okay?
 わかっておる、わかっておる。|ああ、どんな味がするのかの……！=I understand, I understand.|Ahh, I wonder how they taste...
 なに？|売り切れ……じゃと！？=What?|Sold out!?
-すまない、そうみたいだ。|悪いが、あきらめてくれ。=I'm sorry, it looks like it.|I'm sorry, but you're gonna have to give it up.
+すまない、そうみたいだ。|悪いが、あきらめてくれ。=I'm sorry, it looks like it.|I'm afraid but you're gonna have to give it up.
 あんまりじゃ……。|あんなに食べさせてくれると約束し|たではないか！=No...|You promised me you would buy them for me!
 言っただろう、贅沢な稀少品だって。|ほとんど出回らないものなんだ。=I told you, it's a rare luxury.|It's almost impossible to find.
 うう……！|あきらめきれぬ……！=Ugh... I can't give up!
@@ -3977,11 +3977,11 @@
 自分たちで作ってみよう=Let's try making our own.
 よし、そんなに欲しいなら探して回|ってみよう。|町中探せば、まだあるかもしれない。=Okay, if you want them so bad, let's look around. If we search the whole town, we might be able to find some.
 ……もうよい、ぬしよ。|子供みたいなことを言うでない。|宿に戻ろう。=It's okay.|Don't say such childish things. Let's go back to the inn.
-理屈では判っておるのじゃ。|ないものをねだっても仕方ないとな。=I understand, theoretically. It's no use asking for what you don't have.
+理屈では判っておるのじゃ。|ないものをねだっても仕方ないとな。=I understand the logic. It's no use asking for what you can't have.
 ただ、期待が大きかったばかりに、|どうしても頭から離れぬ。|子供はわっちの方じゃな……。=I just can't get them out of my head because I had such high hopes. I'm rather childish...
 じゃあ……。|少し早いけど、代わりに何か豪華な|夕飯を食べに行こうか。=Well... I know it's a little early, but let's get something fancy for dinner in exchange.
 おお、それがよい。|早速店を探しに行こう、ぬしよ。=Ahh, that's a good idea.|Let's go look for a shop right away!
-売ってないものは仕方がない。|ホロ、いっそのこと、俺たちで蜂蜜|漬けを作ってみないか？=We can't help it if they don't sell it. Holo, why don't you and I make our own honeyed peaches?#unsure
+売ってないものは仕方がない。|ホロ、いっそのこと、俺たちで蜂蜜|漬けを作ってみないか？=We can't help it if no one’s selling any. Holo, why don't you and I make our own honeyed peaches?
 なんじゃと？|わっちらが、自分でかや？=What? Make them ourselves?
 そうだ。|材料は判っているからな、そんなに|難しいものでもないだろう。=That's right. I know what ingredients we need, so it shouldn't be too hard.
 店で売ってるような高級品の味には|ならないかもしれないが、たぶん近|いものにはなるんじゃないかと思う。=It may not taste like the high-end stuff they sell in the stores, but it'll probably be close.
@@ -3989,11 +3989,11 @@
 ぬしよ……。|わっちゃあ、嬉しい……。=You...|That makes me happy...
 蜂蜜漬けはもちろんじゃが、ぬしが|わっちのことを考えてくれているこ|とが何より嬉しい。=I'm happy about the honeyed peaches but more so that you think about me.
 礼を言うぞ、ぬしよ。|わっちはもう、ぬしの気持ちだけで|十分じゃ……。=Thank you...|That you think like that is already enough for me.
-……で、結局蜂蜜漬けは要るのか？=So, do you need honeyed peaches after all?
-もちろん要るに決まっておる。|ぬしのお手製なんじゃろう？|面白そうじゃ！=Of course I need them. It's your fault, isn't it? You are an interesting one.#unsure
-それに、出来上がるのを待つのもま|た一興じゃ。|毎日が楽しくなりそうじゃの。=And it will be fun to wait for them. I will look forward to them every day.#unsure
+……で、結局蜂蜜漬けは要るのか？=So, I guess you don’t need the honeyed peaches then?
+もちろん要るに決まっておる。|ぬしのお手製なんじゃろう？|面白そうじゃ！=Of course I need them. You’re going to make some, aren’t you? I’m intrigued.
+それに、出来上がるのを待つのもま|た一興じゃ。|毎日が楽しくなりそうじゃの。=And it will be fun to wait for them to be done. I will look forward to them every day.
 よし、じゃあ材料を買いに行こうか。|桃と蜂蜜と……いちじくやショウガ|も入れるんだったかな？=Okay, so let's go buy the ingredients. Peaches, honey, and... I think we were supposed to add figs and ginger?
-くふふ、ぬしに任しんす。|出来上がるのが楽しみじゃの！=Hehehe. I'll leave you to it. I can't wait to see what you will make!
+くふふ、ぬしに任しんす。|出来上がるのが楽しみじゃの！=Heh-heh-heh. I'll leave you to it. I can't wait to see what you will make!
 !FILE:event/ev_ren/ren_hor_25_nonbiri.wsb
 …………。=......
 どうした、ホロ。|落ち着かない様子だな。=

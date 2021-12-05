@@ -219,7 +219,7 @@
 町情報　ディーモルン=Town Information: Diemoln
 海岸沿いにある大きな港町がディ|ーモルンだよ。|湾で採れる海産物を買い付けに多|くの商人が訪れているよ。|最近は教化が進んでいるようだね。=Diemoln is a big port town along the coast. A lot of merchants come here to buy seafood from the bay. It seems to be getting more and more cultured these days.#too long
 町情報　ベオリーヌ=Town Information: Beorein
-ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's a small village, and it might be hard to find. If you see a lonely village, that's it.
+ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's a small village, and it might be hard to find. If you see a rundown village, that's it.
 町情報　レヤージュ=
 ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=
 町情報　ウルリヒ=Town Information: Ulrich
