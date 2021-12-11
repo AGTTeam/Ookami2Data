@@ -192,39 +192,39 @@ kaiwa/bg/sf_bg_04
 
 kaiwa/bg/sf_bg_05 (all)
 ノーラ=Norah
-中原麻衣=
+中原麻衣=Mai Nakahara
 エーブ=Eve
-朴璐美=
+朴璐美=Romi Park
 ルカ=Luka
-斎藤千和=
+斎藤千和=Chiwa Saito
 
 kaiwa/bg/sf_bg_06
 アマーティ=Amati
-紗子千葉=
+紗子千葉=Saeko Chiba 
 ディアナ=Diana
-渡辺 明乃=
+渡辺 明乃=Akeno Watanabe
 オイゲン=Eugen
-宝亀克寿=
+宝亀克寿= Katsuhisa Hoki
 ヨハン=Johan
-武藤 正史=
+武藤 正史=Tadashi Muto
 ロルフ=Rolf
-赤城 進=
+赤城 進=Susumu Akagi
 アザース/パネース=Aserth/Phanes#qc
-石川ひろあき=
+石川ひろあき=Hiroaki Ishikawa
 
 kaiwa/bg/sf_bg_07
 村長=Village Leader
-千田光男=
+千田光男=Mitsuo Senda
 司教=Bishop
-斎藤志郎=
+斎藤志郎=Shiro Saito
 
-岩村琴美=
-達坂力=
-河本邦弘=
-木下紗華=
-高塚正也=
-武田華=
-名村幸太朗=
+岩村琴美=Kotomi Iwamura
+達坂力=Chikara Osaka
+河本邦弘=Kunihiro Kawamoto
+木下紗華=Sayaka Kinoshita
+高塚正也=Masaya Takatsuka
+武田華=Hana Takeda
+名村幸太朗=Yukitaro Namura
 
 kaiwa/bg/sf_bg_08
 シナリオ=Scenario
@@ -238,7 +238,7 @@ kaiwa/bg/sf_bg_09
 山田 晋=Shin Yamada
 
 プログラム=Programming
-滝井裕太=
+滝井裕太=#unknown
 
 kaiwa/bg/sf_bg_10
 メイングラフィック=Main Graphics
@@ -253,16 +253,16 @@ SDホロイラスト=Chibi Holo Art
 
 kaiwa/bg/sf_bg_12
 キャラクターグラフイック=Character Art
-マーヴィージャック=
+マーヴィージャック=Marvy Jack Co., Ltd.
 制作進行=Production Management
-石井仁=
+石井仁=Hitoshi Ishii
 原画=Art
-大槻ちえ 正金時直子=
-ヘパラキ=
+大槻ちえ 正金時直子=Chie Otsuki  #unknown - worked on the anime
+ヘパラキ=HEBARAKI
 彩色=Coloring
-Dカラーズ 緋和=D-Colors
+Dカラーズ 緋和=D-Colors (Hiyori)
 検査=Review
-佐野ひとみ=
+佐野ひとみ=Hitomi Sano
 背景協力=Background Cooperation
 スタジオ美峰=Studio Biho
 
@@ -272,28 +272,28 @@ kaiwa/bg/sf_bg_13 (all)
 
 kaiwa/bg/sf_bg_14
 音響監督=Sound Director
-高桑 一=
+高桑 一=Hajime Takakuwa
 音響制作=Sound Production
-神南スタジオ=
+神南スタジオ=Jinnan Studio
 音響制作担当=Sound Work Manager
-長嶋篤史=
+長嶋篤史=Atsushi Nagashima
 
 kaiwa/bg/sf_bg_15
 録音=Recording
-鈴木裕幸=
-山口贵之 川口珠代=
-砂押知宏=
+鈴木裕幸=Hiroyuki Suzuki
+山口贵之 川口珠代=Takayuki Yamaguchi  Tamayo Kawaguchi
+砂押知宏=Tomohiro Sunaoshi
 
 録音助手=Recording Assistance
-真下のぞみ=
-白鳥陽一 立原正隆= 
-新城基之 篤田菜々=
+真下のぞみ=Nozomi Mashita
+白鳥陽一 立原正隆=Youichi Shiratori  Masataka Tachihara
+新城基之 篤田菜々=Motoyuki Arashiro  #unknown
 
 収録スタジオ=Recording Studios
-神南スタジオ
-デルファイサウンド=
-AMGスタジオ=
-スタジオエコー=
+神南スタジオ=Jinnan Studio
+デルファイサウンド=Delfisound Inc.
+AMGスタジオ=AMG Studio
+スタジオエコー=Echo Studio
 
 kaiwa/bg/sf_bg_16
 オープニングテーマ=Opening Theme
@@ -312,16 +312,16 @@ PINKYGREEN
 kaiwa/bg/sf_bg_17
 宣伝=Promotion
 藤本裕子=Yuko Fujimoto
-高橋由紀=
+高橋由紀=Yuki Takahashi
 菊池明菜=Akina Nakamori
 
 営業=Sales
-望月紹良=
+望月紹良=#unknown
 加納宏樹=Hisako Kanou
-高橋孝造(角川ゲームス)=
-小態孝広(角川ゲームス)=
-山添 俊直(角川ゲームス)=
-野口正樹=
+高橋孝造(角川ゲームス)=Kozo Takahashi (Kadokawa Games)
+小熊孝広(角川ゲームス)=Takahiro Oguma (Kadokawa Games)
+山添 俊直(角川ゲームス)= Toshinao Yamazoe (Kadokawa Games)
+野口正樹=Masaki Noguchi (Kadokawa Games)
 
 kaiwa/bg/sf_bg_18
 制作協力=Production Cooperation
@@ -331,16 +331,16 @@ kaiwa/bg/sf_bg_18
 電擊マ王編集部=Dengeki Maoh Editorial Department
 
 バランス調整協力/デバッグ=Balancing/Debugging
-猿楽庁=
-デジタルハーツ=
+猿楽庁=Sarugakucho Inc.
+デジタルハーツ=Digital Hearts Co., Ltd.
 
 Special Thanks
-石黒 達也=
+石黒 達也=Tatsuya Ishiguro
 
 kaiwa/bg/sf_bg_19
 アシスタント=Assistant
 高橋理恵=Rie Takahashi
-大根田理絵=
+大根田理絵=#unknown
 
 kaiwa/bg/sf_bg_20 (all)
 アシスタント・プロデューサー=Assistant Producer
@@ -349,15 +349,15 @@ kaiwa/bg/sf_bg_20 (all)
 
 アシスタント=Assistant
 高橋理恵=Rie Takahashi
-大根田理絵=
+大根田理絵=#unknown, same as sf_bg_19
 
 kaiwa/bg/sf_bg_21
 統括プロデューサー=General Producer
-鈴木 則道=Norimichi Suzuki
+鈴木 則道=Norimichi Suzuki
 
 プロデューサー=Producer
-宮下 知幸=
-徳田 直巳=
+宮下 知幸=Tomoyuki Miyashita
+徳田 直巳=Naomi Tokuda
 
 kaiwa/bg/sf_bg_22
 統括プロデューサー=General Producer
@@ -384,13 +384,13 @@ kaiwa/bg/sf_bg_27
 ASCII MEDIA WORKS
 
 kaiwa/system/KaiwaObj
-枚=SLV #money counter. Make coin icon?
+枚=SLV #money counter
 
 komono/Komono
-枚=SLV #money counter. Make coin icon?
+枚=SLV #money counter
 
 market/PlayerInfo
-枚=SLV #money counter. Make coin icon?
+枚=SLV #money counter
 
 menu/Menu
 地図=Map
@@ -405,83 +405,110 @@ SYS=Menu
 進む=Next
 
 record/BottomBack
-旅の記録=Travel Records# chronicles
+旅の記録=Travel Log
 
-systemmenu/BottomBG
-systemmenu/TopBG00
-systemmenu/TopBG01
-systemmenu/TopBG02
-systemmenu/TopBG03
-systemmenu/TopBG04
-systemmenu/TopBG05
-systemmenu/TopBG06
-systemmenu/TopBG07
-狼と香辛料=Spice an Wolf# all sysmenus are the same text
-海を渡る風=Ocean winds#wind that crosses the ocean
+Systemmenu (all)
+狼と香辛料=Spice and Wolf
+海を渡る風=(final game title)
 
 title/title/titlemenu
-つずきから=Continue
+つづきから=Continue
 はじめから=New Game
-エンドレス=endless
+エンドレス=Endless#unlocked after beating all endings
 オプション=Options
-CGを見る=CG# watch CG
-エベントを見る=Events# watch events
+CGを見る=View CG
+エベントを見る=Replay Events
 セーブダタ初期化=Reset Save Data
-記録=chronicles# records
-実績一覧=achievements
-ハイスコア=highscore
+記録=Records
+実績一覧=Achievements
+ハイスコア=Highscores
 
 title/title/title_ue
+狼と香辛料=Spice and Wolf
+海を渡る風=(final game title)
+(C)支倉凍砂/アスキー・メディアワークス/「狼と香辛料」製作委員会=(C)Isuna Hasekura / ASCII MEDIA WORKS / "Spice & Wolf" Production Committee
+(C)2009 「狼どと香辛料」製作委員会/ASCII MEDIA WORKS Inc.=(C)2009 "Spice & Wolf" Production Committee / ASCII MEDIA WORKS Inc.
 
 towninfo/kiwaku
-施設=facillity
+施設=Places
+
+Towninfo (common)
+特産品=Specials#Local Specialties
+買値=Buy Price
+人気の品=Popular
+売値=Sell Price
 
 towninfo/TownInfo01
+ポロソン=Poroson
 
 towninfo/TownInfo02
+リュビンハイゲン=Ruvinheigen
 
 towninfo/TownInfo03
+ラムトラ=Lamtra
 
 towninfo/TownInfo04
+クメルスン=Kumersun
 
 towninfo/TownInfo05
+レノス=Lenos
 
 towninfo/TownInfo06
+ディーモルン=Diemoln
 
 towninfo/TownInfo07
+ベオリーヌ=Beorein
 
 towninfo/TownInfo07_lv2
+ベオリーヌ=Beorein
 
 towninfo/TownInfo07_lv3
+ベオリーヌ=Beorein
 
 towninfo/TownInfo07_lv4
+ベオリーヌ=Beorein
 
 towninfo/TownInfo07_lv5
+ベオリーヌ=Beorein
 
 towninfo/TownInfo08
+レヤージュ=
 
 towninfo/TownInfo09
+ウルリヒ=Ulrich
 
 towninfo/TownInfo10
+グラハ=
 
 towninfo/TownInfo11
+エルン=Elen
 
 towninfo/TownInfo12
+リューン=Lune
 
 towninfo/TownInfo13
+デリンツコルツ=Delintskolz
 
 towninfo/TownInfo14
+リボールカント=
 
 towninfo/TownInfo15
+ルッキホルク=
 
 towninfo/TownInfo16
+ガーノ=
 
 towninfo/TownInfo17
+アールマルン=
 
 towninfo/TownInfo18
+ブルラッティア=
 
 towninfo/TownInfo19
+ロズサルト=
 
 towninfo/TownInfo20
+小島=Iselt
 
 towninfo/TownInfo21
+ザーラント=Saarland
