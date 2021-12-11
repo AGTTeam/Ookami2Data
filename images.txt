@@ -2,233 +2,386 @@ achievement/BottomBack
 実績=Achievements
 
 achievement/TopObj
-ぬしはすごいの=you are amazing# in holos archaic speech
+ぬしはすごいの=Good job!
 
-doubleinfo/DoubleInfo00
-
-doubleinfo/DoubleInfo01
-
-doubleinfo/DoubleInfo02
-
-doubleinfo/DoubleInfo03
-
-doubleinfo/DoubleInfo04
-
-doubleinfo/DoubleInfo05
-
-doubleinfo/DoubleInfo06
-
-doubleinfo/DoubleInfo07
-
-doubleinfo/DoubleInfo07_lv2
-
-doubleinfo/DoubleInfo07_lv3
-
-doubleinfo/DoubleInfo07_lv4
-
-doubleinfo/DoubleInfo07_lv5
-
-doubleinfo/DoubleInfo08
-
-doubleinfo/DoubleInfo09
-
-doubleinfo/DoubleInfo10
-
-doubleinfo/DoubleInfo11
-
-doubleinfo/DoubleInfo12
-
-doubleinfo/DoubleInfo13
-
-doubleinfo/DoubleInfo14
-
-doubleinfo/DoubleInfo15
-
-doubleinfo/DoubleInfo16
-
-doubleinfo/DoubleInfo17
-
-doubleinfo/DoubleInfo18
-
-doubleinfo/DoubleInfo19
-
-doubleinfo/DoubleInfo20
-
-doubleinfo/DoubleInfo21
+doubleinfo
+市場=Market
+特産品=Specials#Local Specialties
+買値=Buy price
+人気の品=Popular
+売値=Sell price
 
 eventview/Menu
 ホロ=Holo
-ノーラ=Nora
+ノーラ=Norah
 エーブ=Eve
-ルカ=Ruka
+ルカ=Luka
 その他=Others
 
 goods/goodslevel
 家畜=Livestock
 魚介類=Seafood
 農産物=Produce
-加工食品=Processed# Food
+加工食品=Processed
 鉱物素材=Minerals
 衣料素材=Fabrics
 道具類=Tools
 酒類=Liquors
-贅沢品=Luxuries# Luxury Items
+贅沢品=Luxuries
 香料=Spices
 
 goods/guideIcon
-特産=Local Specialty
+特産=Specials
 人気=Popular
 
 gossip/Gossip
+要 日=Days
 
 gossipinfo/List
 最近の噂=New Rumor
-完=FIN# end/complete?
-
-kaiwa/bg/bg_badend_letter
+完=OK#or tick symbol
 
 kaiwa/bg/bg_sys_tutorial_01
+施設アイコン=Place icon
+基本メンユー=Basic menu
+イベントが発生している施設=Event scene available
 
 kaiwa/bg/bg_sys_tutorial_02
+商品アイコン=Goods Icon
+荷馬車=Cart
+決済アイコン=Touch to purchase
+買値=Price
+大きさ=Size
+在庫数=Stock
+相場目史=History
+高騰⇈=Soaring
+高値↑=Up
+同額→=Steady
+暴落⇊ =Crash
+安値↓=Down
 
 kaiwa/bg/bg_sys_tutorial_03
+商品名=Goods Name
+商品ランク=Goods Rank
+大きさ=Size
+商品ジャンル=Goods Type
+*For the small icons, see goods/goodslevel
 
 kaiwa/bg/bg_sys_tutorial_04
+酒場=Tavern
+町の酒場で=Listen to rumors
+噂話を間く=at the town tavern
+交易マップ=Map
+噂話アイコン=Pass by the rumor
+を馬車で通る=icon via cart
+(right)噂話を聞けます=Listen to rumors
 
 kaiwa/bg/bg_sys_tutorial_05
+町アイコン=Town Icon
+要3日=3 Days
+移動必要日数=Travel time
+１回タッチ　町情報を表示=Tap once: Show town info
+２回タッチ　町へ移動=Tap twice: Travel to town
 
 kaiwa/bg/bg_sys_tutorial_06
+納品先=Destination
+商品の届け先です。=The place to deliver to.
+納品期限=Deadline
+期限内に届けると報酬がもらえます。=Deliver within this time to receive payment.
+依頼の品=Requested Goods
+全ての商品納品をすると報酬がもらえます。=Deliver everything to complete the contract.
+報酬金額=Reward
+※契約状況は「情報画面」で確認できます。=You can check the contract conditions using the "Info" Menu.
 
 kaiwa/bg/bg_sys_tutorial_07
+返済期限=Repayment Deadline
+借用した銀貨の返済期限です。=The deadline to return the borrowed money.
+借用銀貨=Amount to Borrow
+借りた金額です。=The amount of money to be borrowed.
+返済額（利子含む）=Full Amount to be Repaid
+返済が必要な金額です。=The amount of money to be repaid (including intrest).
+※借用状況は「情報画面」で確認できます。=You can check the loan conditions using the "Info" Menu.
 
 kaiwa/bg/bg_sys_tutorial_08
+銀貨を支払って荷台を拡張=Pay to upgrade storage space.
 
 kaiwa/bg/bg_sys_tutorial_09
+商品アイコン=Goods Icon
+売値=Price
+大きさ=Size
+在庫数=Selling
+決済アイコン=Touch to sell
+荷馬車=Cart
+購入時の値段=Original price
 
 kaiwa/bg/bg_sys_tutorial_10
+売買の平均値=Average Buy Price
+噂を聞いていない=An item you can't buy as
+ので買えない販売品=you haven't heard the rumor
+
+売値の平均値=Average Sell Price
+所持している=Popular items you own are
+人気の品(黄色フチ取り)=indicated by a yellow border
+
 
 kaiwa/bg/bg_sys_tutorial_11
+噂話を間くと…=When you hear a rumor...
+新しい=New 
+町を=towns
+発見=appear
+
+新しい=New
+特産品=specials
+を発見=surface
+
+他にさまざまなことが起こります=...and much more!
 
 kaiwa/bg/bg_sys_tutorial_12
+会話画面=Talk Screen
+下画面タッチで文字送り=Touch the bottom screen to advance
+オートリードアイコン='Auto' button
+
+選択肢画面=Choice Screen
+１回 タッチで選択=Tap once: Select
+２回 タッチで決定=Tap twice: Confirm choice
 
 kaiwa/bg/bg_sys_tutorial_13
+ヒロインのいる施設を訪れて、旅の同行者を選択=Visit the places where the heroines are and choose a travel companion.
 
 kaiwa/bg/bg_sys_tutorial_14
+人気の品として高値売却できる町=Towns where you can sell popular items at a good price
+商品を販売している町=Towns selling local specialties
+商品の情報=Goods info
 
 kaiwa/bg/bg_sys_tutorial_15
+あら、こんにちは。|皆さんも、雨宿りですか？=Oh, hello there. Are you taking shelter from the rain, too?
 
 kaiwa/bg/cred33
+オープニングテーマ=Opening Theme
+「海を渡る風」=(final game title)
+作詞・作曲・編曲：=Lyrics, Composition + Arrangement:
+PINKYGREEN
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
+
+エンディングテーマ=Ending Theme
+「この道の終わりに・・」="At The End Of This Road…"
+作詞・作曲・編曲：=Lyrics, Composition + Arrangement:
+PINKYGREEN
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
 
 kaiwa/bg/sf_bg_01
+スタッフ=Staff
 
-kaiwa/bg/sf_bg_02
-
-kaiwa/bg/sf_bg_02_e
-
-kaiwa/bg/sf_bg_02_h
-
-kaiwa/bg/sf_bg_02_l
-
-kaiwa/bg/sf_bg_02_n
+kaiwa/bg/sf_bg_02 (all)
+原作=Original Work
+支倉凍砂 (電撃文庫)=Isuna Hasekura (Dengeki Bunko)
+原作イラスト=Original Work Illustrations
+文倉十=Jyuu Ayakura
 
 kaiwa/bg/sf_bg_03
+キャラクターデザイン=Character Design
+小林利充=Toshimitsu Kobayashi
 
 kaiwa/bg/sf_bg_04
+キャスト=Cast
+ロレンス=Lawrence
+福山 潤=Jun Fukuyama
+ホロ=Holo
+小清水 亜美=Ami Koshimizu
 
-kaiwa/bg/sf_bg_05
-
-kaiwa/bg/sf_bg_05_e
-
-kaiwa/bg/sf_bg_05_h
-
-kaiwa/bg/sf_bg_05_l
-
-
-kaiwa/bg/sf_bg_05_n
+kaiwa/bg/sf_bg_05 (all)
+ノーラ=Norah
+中原麻衣=
+エーブ=Eve
+朴璐美=
+ルカ=Luka
+斎藤千和=
 
 kaiwa/bg/sf_bg_06
+アマーティ=Amati
+紗子千葉=
+ディアナ=Diana
+渡辺 明乃=
+オイゲン=Eugen
+宝亀克寿=
+ヨハン=Johan
+武藤 正史=
+ロルフ=Rolf
+赤城 進=
+アザース/パネース=Aserth/Phanes#qc
+石川ひろあき=
 
 kaiwa/bg/sf_bg_07
+村長=Village Leader
+千田光男=
+司教=Bishop
+斎藤志郎=
+
+岩村琴美=
+達坂力=
+河本邦弘=
+木下紗華=
+高塚正也=
+武田華=
+名村幸太朗=
 
 kaiwa/bg/sf_bg_08
+シナリオ=Scenario
+山根 敬洋=Takahiro Yamane
+
+ラムダプランニング=Lambda Planning Co., Ltd
+氷鳥隆一=Ryuichi Hitori
 
 kaiwa/bg/sf_bg_09
+メインプログラム=Main Programming
+山田 晋=Shin Yamada
+
+プログラム=Programming
+滝井裕太=
 
 kaiwa/bg/sf_bg_10
+メイングラフィック=Main Graphics
+池田 靖爾=Seiji Ikeda
+グラフィック=Graphics
+田中 幸子=Sachiko Tanaka
+伊藤 美和子=Miwako Ito
 
-kaiwa/bg/sf_bg_11
-
-kaiwa/bg/sf_bg_11_e
-
-kaiwa/bg/sf_bg_11_h
-
-kaiwa/bg/sf_bg_11_l
-
-kaiwa/bg/sf_bg_11_n
+kaiwa/bg/sf_bg_11 (all)
+SDホロイラスト=Chibi Holo Art
+ゑむ=emu
 
 kaiwa/bg/sf_bg_12
+キャラクターグラフイック=Character Art
+マーヴィージャック=
+制作進行=Production Management
+石井仁=
+原画=Art
+大槻ちえ 正金時直子=
+ヘパラキ=
+彩色=Coloring
+Dカラーズ 緋和=D-Colors
+検査=Review
+佐野ひとみ=
+背景協力=Background Cooperation
+スタジオ美峰=Studio Biho
 
-kaiwa/bg/sf_bg_13
-
-kaiwa/bg/sf_bg_13_e
-
-kaiwa/bg/sf_bg_13_h
-
-kaiwa/bg/sf_bg_13_l
-
-kaiwa/bg/sf_bg_13_n
+kaiwa/bg/sf_bg_13 (all)
+サウンド=Sound
+福田康文=Yasufumi Fukuda
 
 kaiwa/bg/sf_bg_14
+音響監督=Sound Director
+高桑 一=
+音響制作=Sound Production
+神南スタジオ=
+音響制作担当=Sound Work Manager
+長嶋篤史=
 
 kaiwa/bg/sf_bg_15
+録音=Recording
+鈴木裕幸=
+山口贵之 川口珠代=
+砂押知宏=
+
+録音助手=Recording Assistance
+真下のぞみ=
+白鳥陽一 立原正隆= 
+新城基之 篤田菜々=
+
+収録スタジオ=Recording Studios
+神南スタジオ
+デルファイサウンド=
+AMGスタジオ=
+スタジオエコー=
 
 kaiwa/bg/sf_bg_16
+オープニングテーマ=Opening Theme
+「海を渡る風」=(final game title)
+作詞・作曲・編曲：=Lyrics, Composition + Arrangement:
+PINKYGREEN
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
+
+エンディングテーマ=Ending Theme
+「この道の終わりに・・」="At The End Of This Road…"
+作詞・作曲・編曲：=Lyrics, Composition + Arrangement:
+PINKYGREEN
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
+歌：ホロ(小清水亜美)=Singer: Holo (Ami Koshimizu)
 
 kaiwa/bg/sf_bg_17
+宣伝=Promotion
+藤本裕子=Yuko Fujimoto
+高橋由紀=
+菊池明菜=Akina Nakamori
+
+営業=Sales
+望月紹良=
+加納宏樹=Hisako Kanou
+高橋孝造(角川ゲームス)=
+小態孝広(角川ゲームス)=
+山添 俊直(角川ゲームス)=
+野口正樹=
 
 kaiwa/bg/sf_bg_18
+制作協力=Production Cooperation
+「狼と香辛料」製作委員会="Spice & Wolf" Production Committee
+ポニーキャニオン=Pony Canyon Inc.
+電擊文庫編集部=Dengeki Bunko Editorial Department
+電擊マ王編集部=Dengeki Maoh Editorial Department
+
+バランス調整協力/デバッグ=Balancing/Debugging
+猿楽庁=
+デジタルハーツ=
+
+Special Thanks
+石黒 達也=
 
 kaiwa/bg/sf_bg_19
+アシスタント=Assistant
+高橋理恵=Rie Takahashi
+大根田理絵=
 
-kaiwa/bg/sf_bg_20
+kaiwa/bg/sf_bg_20 (all)
+アシスタント・プロデューサー=Assistant Producer
+丸尾 加奈江=Kanae Maruo
+荒木 人美=Hitomi Araki
 
-kaiwa/bg/sf_bg_20_e
-
-kaiwa/bg/sf_bg_20_h
-
-kaiwa/bg/sf_bg_20_l
-
-kaiwa/bg/sf_bg_20_n
+アシスタント=Assistant
+高橋理恵=Rie Takahashi
+大根田理絵=
 
 kaiwa/bg/sf_bg_21
+統括プロデューサー=General Producer
+鈴木 則道=Norimichi Suzuki
+
+プロデューサー=Producer
+宮下 知幸=
+徳田 直巳=
 
 kaiwa/bg/sf_bg_22
+統括プロデューサー=General Producer
+鈴木 則道=Norimichi Suzuki
 
 kaiwa/bg/sf_bg_23
+製作総指揮=Executive Producer
+高野潔=Kiyoshi Takano
 
-kaiwa/bg/sf_bg_24
+kaiwa/bg/sf_bg_24 (all)
+ゲームディレクター=Game Director
+高橋 健二=Kenji Ohba
 
-kaiwa/bg/sf_bg_24_e
-
-kaiwa/bg/sf_bg_24_h
-
-kaiwa/bg/sf_bg_24_l
-
-kaiwa/bg/sf_bg_24_n
-
-kaiwa/bg/sf_bg_25
-
-kaiwa/bg/sf_bg_25_e
-
-kaiwa/bg/sf_bg_25_h
-
-kaiwa/bg/sf_bg_25_l
-
-kaiwa/bg/sf_bg_25_n
+kaiwa/bg/sf_bg_25 (all)
+ディレクター=Director
+吉田 桂一=Keiichi Yoshida
 
 kaiwa/bg/sf_bg_26
+企画・開発=Planning and Development
+热中日和=Netchubiyori
 
 kaiwa/bg/sf_bg_27
+企画・製作=Planning and Production
+ASCII MEDIA WORKS
 
 kaiwa/system/KaiwaObj
 枚=SLV #money counter. Make coin icon?
@@ -245,9 +398,9 @@ menu/Menu
 噂=Rumor
 情報=Info
 SYS=Menu
-決済=settlement
-完了=completion
-契約=contract
+決済=OK
+完了=Done
+契約=Contract
 戻る=Back
 進む=Next
 
