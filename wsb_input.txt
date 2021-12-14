@@ -1216,7 +1216,7 @@
 いえ、たまたま立ち寄ったことが|ある程度です。|偶然ですよ。=Oh no, we just happened to stop there. It’s just a coincidence.
 ところで、その村に何か？|あまり大きな商売ができるような|村には見えなかったのですが……。=But, why the question? It didn’t look like the kind of village where you could do much business...
 実はですね、ベオリーヌまでの使い|を頼みたい、という風変わりな相談|が舞い込んできておりまして。=To tell you the truth, we received an unusual request asking for someone to go on an errand to Beorein.
-ちを相乗り馬車の斡旋先と間違え|ているのではないかと思ったのです|が、当人も困っている様子でして。=At first, I thought the client had mistaken us for a passenger service, but he did seem to be in genuine need of assistance.
+うちを相乗り馬車の斡旋先と間違え|ているのではないかと思ったのです|が、当人も困っている様子でして。=At first, I thought the client had mistaken us for a passenger service, but he did seem to be in genuine need of assistance.#missing "u" broke the translation
 ただ相当な田舎らしく、あいにく|誰もそんな地名を知りませんでね。|途方に暮れていたところなのですよ。=But it was such a rural area that no one recognized the name. We were at a loss.
 なるほど。|そういうことでしたか。=I see, so that’s the situation.
 ご興味はありますでしょうか？|もしご存じなら、私どもも大変に|助かるのですが。=Would you be interested in taking it on? If you know the village, it would be a great help to us.
