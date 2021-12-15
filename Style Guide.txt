@@ -79,10 +79,10 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 レノス=Lenos#canon location
 ディーモルン=Diemoln
 ベオリーヌ=Beorein
-レヤージュ=
+レヤージュ=Leyage
 ウルリヒ=Ulrich
-グラハ=
-エルン=Elen
+グラハ=Graha
+エルン=Erne
 リューン=Lune
 デリンツコルツ=Delintskolz
 リボールカント

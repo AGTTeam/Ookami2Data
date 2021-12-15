@@ -472,16 +472,16 @@ towninfo/TownInfo07_lv5
 ベオリーヌ=Beorein
 
 towninfo/TownInfo08
-レヤージュ=
+レヤージュ=Leyage
 
 towninfo/TownInfo09
 ウルリヒ=Ulrich
 
 towninfo/TownInfo10
-グラハ=
+グラハ=Graha
 
 towninfo/TownInfo11
-エルン=Elen
+エルン=Erne
 
 towninfo/TownInfo12
 リューン=Lune

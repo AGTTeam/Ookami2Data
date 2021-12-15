@@ -1199,7 +1199,7 @@
 あら、こんにちは！|どうです？|儲かってますか？=Oh, hello! How goes it? Did you make a profit?
 私はディーモルンで伝達を終えて、|次の町に向かうところなんです。|お兄さん達は？=I’ve just finished passing on a message in Diemoln, so I’m on my way to the next place. What about you, sir?
 なるほど、東に向かうんですね。|それなら、いいことを教えてあげま|すよ！=Oh, East is it? In that case, I've some good news for you!
-この南にエルンって村があります。|実は、この村とエルンを結ぶ山道が|あるんです！=There’s a village south of here called Elen. Plus, there’s actually a mountain road that directly connects to it from here.
+この南にエルンって村があります。|実は、この村とエルンを結ぶ山道が|あるんです！=There’s a village south of here called Erne. Plus, there’s actually a mountain road that directly connects to it from here.
 つい最近見つけたばかりなんですが、|知ってると便利ですよ！|私も、いつも近道してるんです。=I’ve only just found out about it, but it’s useful to know! I’m always taking shortcuts where I can.
 じゃ、私は急ぐのでこれで。|頑張って、儲けてくださいね！=Well, I’ve gotta dash now. Good luck scoring big!
 お使いソフィー= Errand-Girl Sophie
