@@ -221,7 +221,7 @@
 町情報　ベオリーヌ=Town Information: Beorein
 ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's a small village, and it might be hard to find. If you see a rundown village, that's it.
 町情報　レヤージュ=Town Information: Leyage
-ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=There is a town called Leyage in the upper reaches of the Roam River. Trade is lively there and merchants from all over travel to Lesage, especially for the high-quality fabric.
+ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=There is a town called Leyage in the upper reaches of the Roam River. Trade is lively there and merchants from all over travel to Leyage, especially for the high-quality fabric.
 町情報　ウルリヒ=Town Information: Ulrich
 ウルリヒという町はどうやらエル|ンから南へ進むとあるらしい。|大きな果樹園があり、温泉などで|も有名なようだ。=The town of Ulrich seems to be located south of Erne. It has a big orchard and it is famous for its hot springs.
 町情報　グラハ=Town Information: Graha
@@ -631,10 +631,10 @@
 レノス=Lenos
 ディーモルン=Diemoln
 ベオリーヌ=Beorein
-レヤージュ=
+レヤージュ=Leyage
 ウルリヒ=Ulrich
 グラハ=
-エルン=Elen
+エルン=Erne
 リューン=Lune
 デリンツコルツ=
 リボールカント=

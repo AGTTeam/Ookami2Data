@@ -85,12 +85,12 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 エルン=Erne
 リューン=Lune
 デリンツコルツ=Delintskolz
-リボールカント
-ルッキホルク
-ガーノ
-アールマルン
-ブルラッティア
-ロズサルト
+リボールカント=Riborkant
+ルッキホル=Ruckiholk
+ガーノ=Gano# or Gahno ?
+アールマルン=Ahrmaln
+ブルラッティア=Blurattia
+ロズサルト=Rossalt
 小島=Iselt
 ザーラント=Saarland
 
