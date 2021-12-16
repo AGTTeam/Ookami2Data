@@ -1,4 +1,4 @@
-﻿!FILE:goods.dat
+!FILE:goods.dat
 牛=Cow
 役用としても食用としても役立|ち、乳もたくさん取れる人気種。=A very popular animal used for meat and milk.
 馬=Horse
@@ -229,21 +229,22 @@
 町情報　エルン=Town Information: Erne
 ベオリーヌから南に進むとエルン|という村があるらしい。|近頃、山道が見つかりエルンへの|移動が楽になったようだ。=#ignore me
 町情報　リューン=Town Information: Lune
-川沿いに北へ向かえばリューンと|いう村にたどり着くよ。|昔は漁業で生計を立てていたけど|うまくいかなくなったのか今は工|房や畜産に力を入れてるね。=
+川沿いに北へ向かえばリューンと|いう村にたどり着くよ。|昔は漁業で生計を立てていたけど|うまくいかなくなったのか今は工|房や畜産に力を入れてるね。=If you head north along the river, you'll reach a village called Lune. They used to make a living from fishing, but because that didn't work too well, they're focusing on workshops and livestock farming now.#unsure
 町情報　デリンツコルツ=Town Information: Delintskolz
-大きな山の付近にデリンツコルツ|という大きな都市があってね。|観光地として有名な所なんだが商|人も多く訪れて町は賑わっている|よ。=
-町情報　リボールカント=
-リボールカントという職人達が集|まる町があるんだ。|そこでは日夜競うように職人達が|腕を磨きあっているんだ。|おかげで商品は良質な物が多いよ。=
-町情報　ルッキホルク=
-ルッキホルクというリンゴの産地|があるぞ。|大きな湖が目印の村だ。|リンゴは美味いが獲れる魚は不味|いから注意するんだな。=
-町情報　ガーノ=
-海の東側にガーノという鉱山都市|があるのを知っているかな。|あそこは豊富な資源を巡って山向|こうの町と争っていてね。|北への門は閉じられているんだよ。=
-町情報　アールマルン=
-山岳地帯の麓にアールマルンとい|う村がある。|行商の途中にここで一休みする商|人も多い。|放牧されている羊達も可愛いぞ。=
-町情報　ブルラッティア=
-商業都市としてこの辺で有名なの|はブルラッティアだろう。|東の異国とも交流があり人も商人|の流れも多い。|一度は訪れてみるといいよ。=
-町情報　ロズサルト=
-東南の地方にある小高い丘を登る|とロズサルトの町が見えてくる。|領主は少し変わり者だが町の雰囲|気は良いし高台からの風景も素晴|らしいよ。=
+大きな山の付近にデリンツコルツ|という大きな都市があってね。|観光地として有名な所なんだが商|人も多く訪れて町は賑わっている|よ。=There is a famous as a tourist destination called Delinzkolz near the large mountains. It's a big city always busy with merchants visiting.
+町情報　リボールカント=Town Information: Liberkant
+リボールカントという職人達が集|まる町があるんだ。|そこでは日夜競うように職人達が|腕を磨きあっているんだ。|おかげで商品は良質な物が多いよ。=Craftsmen gather in the town called Liborkant. There they hone their skills in a constant competition with each other. Thanks to this, there are many high quality products available there.
+町情報　ルッキホルク=Town Information: Ruckiholk
+ルッキホルクというリンゴの産地|があるぞ。|大きな湖が目印の村だ。|リンゴは美味いが獲れる魚は不味|いから注意するんだな。=There's an apple-growing region called Ruckiholk. The village there is marked by a large lake. The apples there are delicious, but the fish isn't. Watch out for that.#unsure
+町情報　ガーノ=Town Information: Gahno
+海の東側にガーノという鉱山都市|があるのを知っているかな。|あそこは豊富な資源を巡って山向|こうの町と争っていてね。|北への門は閉じられているんだよ。=Do you know that there is a mining city called Gahno on the east side of the lake? It's in dispute with a town on the other side of the mountains over the rich resources available for mining.|The gate to the north there is closed.#unsure
+町情報　アールマルン=Town Information: Ahrmaln
+山岳地帯の麓にアールマルンとい|う村がある。|行商の途中にここで一休みする商|人も多い。|放牧されている羊達も可愛いぞ。=There is a village called Ahrmaln at the foot of the mountains. Many merchants take a rest here on their journeys. The grazing sheep are cute too.
+町情報　ブルラッティア=Town Information: Bourattia
+商業都市としてこの辺で有名なの|はブルラッティアだろう。|東の異国とも交流があり人も商人|の流れも多い。|一度は訪れてみるといいよ。=The most famous commercial city in this area is Bourattia. There is a lot of interchange with countries in the east, as well as a large flow of merchants. You should visit it at least once.#unsure
+
+町情報　ロズサルト=Town Information: Rossalt
+東南の地方にある小高い丘を登る|とロズサルトの町が見えてくる。|領主は少し変わり者だが町の雰囲|気は良いし高台からの風景も素晴|らしいよ。=If you climb a small hill in the southeast, you'll see the town of Rossalt. The lord there is a bit eccentric, but the town itself has a nice atmosphere and the scenery from the hill is fantastic.
 町情報　小島=Town Information: Islet
 内海の中にある小さな島。|腕の立つ船乗りしか近づけない場|所にあり、島内には海神をまつっ|たほこらがあるようだ。=A small island in the middle of the landlocked sea. It only accessible to skilled sailors, and hosts a small shrine dedicated to the sea god.
 町情報　ザーラント=Town Information: Saarland
