@@ -104,3 +104,4 @@ Terms are taken from the old translation work and by no means final. Do feel fre
 『古狼の森』=“Ancient Forest”
 酒場=tavern
 町情報=Town Information
+商館=trading house
