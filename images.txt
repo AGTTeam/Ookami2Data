@@ -248,7 +248,7 @@ kaiwa/bg/sf_bg_10
 伊藤 美和子=Miwako Ito
 
 kaiwa/bg/sf_bg_11 (all)
-SDホロイラスト=Chibi Holo Art
+SDキャララスト=Chibi Character Art
 ゑむ=emu
 
 kaiwa/bg/sf_bg_12
