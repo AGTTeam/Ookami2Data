@@ -534,8 +534,8 @@
 錬金釜について聞きたいならグラ|ハの酒場にいる神父に話を聞いて|みるといい。|なんで酒場に神父がいるのかって？|それは自分で確かめな。=
 蒸留装置の情報=
 蒸留装置ですか？|それならレヤージュの酒場へ行っ|てみたらどうでしょうか？|前に蒸留装置に関する情報を売っ|ている男がいましたよ。=
-ディアン・ルーベンス=
-オイゲンの手術をするには錬金術|師の力が必要なようだ。|腕の良い錬金術師をウルリヒの町|にいるディアン・ルーベンスとい|う人が知っているらしい。=
+ディアン・ルーベンス=Dian Rubens
+オイゲンの手術をするには錬金術|師の力が必要なようだ。|腕の良い錬金術師をウルリヒの町|にいるディアン・ルーベンスとい|う人が知っているらしい。=The help of a skillful alchemist is required to perform the operation on Eugen. Someone in the city of Ulrich called Dian Rubens is seems to know a one.
 オイゲンの依頼=Eugen's Request
 ベオリーヌへ行き、ルカと会い、|リューンまで連れてきてほしい。|どうやらルカの父に関する話があ|るようだ。=Go to Beorein, find Luka, and take her back to Lune. It seems he has some information about Luka’s father.
 依頼人ヨハン=Johan’s Request
