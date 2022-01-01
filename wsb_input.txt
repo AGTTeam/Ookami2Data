@@ -6750,29 +6750,29 @@
 はい、許可が下りました。|明日からは、ロレンスさんのために|服を作りますね。=
 これからも、一緒に頑張りましょう。|ロレンスさん！=
 !FILE:event/system/debt_over.wsb
-いたぞ！|クラフト・ロレンスだ！=
-……なんじゃ？=
-ぬしよ。|何やら見慣れぬ輩が蹄の音と共に|近づいてくるが……。=
-払うもの払ってもらおうか。=
-しまった！=
-借金の返済……。|すっかり、忘れてた……！=
-なんじゃと！=
-逃げろ、ホロ！|お前だけでも逃げるんだ！=
-＄全資産が没収されました=
-俺は、借金のカタに２０日間の強制|労働を科せられた……。=
-おお、ぬしよ……。|どうしたのじゃ、そんなに痩せて。|いったい、何があったのじゃ……？=
-思い出すのも辛い……。|少しだけでいい、そっとしておいて|くれ……。=
-借金の契約が破棄されました=
-ぬしよ、気を落とすでない。=
-これはわっちのへそくりじゃ。|わずかばかりの額じゃが、これで|また旅をやり直そうではないか。=
-銀貨@<number3@>枚　受け取った！=
-ありがとう、ホロ……。=
-取り立て屋=
+いたぞ！|クラフト・ロレンスだ！=There he is! It's Lawrence Kraft!
+……なんじゃ？=What?
+ぬしよ。|何やら見慣れぬ輩が蹄の音と共に|近づいてくるが……。=Hey, you. Some unfamiliar people are approaching. I can hear galloping.
+払うもの払ってもらおうか。=Let's get you to pay what you owe.
+しまった！=Damn!
+借金の返済……。|すっかり、忘れてた……！=The payment for the debt... i totally forgot about that!
+なんじゃと！=What!?
+逃げろ、ホロ！|お前だけでも逃げるんだ！=Run, Holo! You've got to get out of here alone!
+＄全資産が没収されました=$All assets have been confiscated.
+俺は、借金のカタに２０日間の強制|労働を科せられた……。=I was sentenced to 20 days of forced labor to cover my debts...
+おお、ぬしよ……。|どうしたのじゃ、そんなに痩せて。|いったい、何があったのじゃ……？=Oh, my goodness... What's the matter with you, you've lost so much weight. What happened?
+思い出すのも辛い……。|少しだけでいい、そっとしておいて|くれ……。=I don't want to remember... Just leave me alone for a bit...
+借金の契約が破棄されました=The debt agreement has been broken.
+ぬしよ、気を落とすでない。=Don't give up.
+これはわっちのへそくりじゃ。|わずかばかりの額じゃが、これで|また旅をやり直そうではないか。=These are my personal savings. It's only a small amount, but we can start our journey all over again with this.
+銀貨@<number3@>枚　受け取った！=I received @<number3@> pieces of silver!
+ありがとう、ホロ……。=Thanks, Holo...
+取り立て屋=Debt Collector
 !FILE:event/system/debt_warning.wsb
-そういえば、借金の返済期限……。|もうそろそろだったな。=
-確か、あと１０日ほどのはずだ。|忘れずに商館に行かないとな……。=
-ん？|どうしたのじゃ、ぬしよ。|浮かぬ顔をして。=
-あ、いや、なんでもない。|ちょっと考え事をしていたんだ。=
+そういえば、借金の返済期限……。|もうそろそろだったな。=The repayment for the load is due soon...
+確か、あと１０日ほどのはずだ。|忘れずに商館に行かないとな……。=I believe it's only about 10 days away. I'll have to remember to go to the trading house.
+ん？|どうしたのじゃ、ぬしよ。|浮かぬ顔をして。=Hmm? What's the matter? You look dejected.
+あ、いや、なんでもない。|ちょっと考え事をしていたんだ。=Oh, no, it's nothing. I was just thinking about something.
 !FILE:event/system/end_on_1_month.wsb
 のう、ぬしよ。|例の債権とやらの刻限がいよいよ|来月に迫っておるのではないか？=
 本当に大丈夫なのかや？|回収できぬと、債権の莫大な額面を|ぬしが払わねばならぬのじゃろう？=
@@ -6788,13 +6788,13 @@
 ＄債券回収の契約期限まで|残りあと３ヶ月です=
 !FILE:event/system/end_on_6_month.wsb
 よい天気じゃの……。=What sublime weather!
-こんな空の下で馬車に揺られておる|と、何のために旅をしているのか、|ついつい忘れてしまいんす。=
-のう、ぬしよ。|わっちらの旅は順調なのかや？=
-わっちも早く北へ渡りたい。|それに、ぬしも確か対岸の町に用が|あるのではなかったかの。=
-債権とやらの回収をせねばならぬと|ぬしは言っておったが、その刻限が|あと半年ほどなのではないかや？=
-まあ、ぬしのことだから大丈夫じゃ|ろうと踏んではおるがの。=
-のんびりした旅もよいが、やはり早|く北の地に渡って安心してしまいた|いものじゃな。=
-＄債券回収の契約期限まで|残りあと半年です=
+こんな空の下で馬車に揺られておる|と、何のために旅をしているのか、|ついつい忘れてしまいんす。=When you're riding in a carriage under a sky like this, it's easy to forget what you're traveling for.
+のう、ぬしよ。|わっちらの旅は順調なのかや？=Say, you, isn't our trip nice?
+わっちも早く北へ渡りたい。|それに、ぬしも確か対岸の町に用が|あるのではなかったかの。=I want to cross to the north as soon as possible. Besides, don't you have some business in the town on the other side of the river?
+債権とやらの回収をせねばならぬと|ぬしは言っておったが、その刻限が|あと半年ほどなのではないかや？=The debt you have to collect is due in half a year, isn't it?
+まあ、ぬしのことだから大丈夫じゃ|ろうと踏んではおるがの。=You're a competent man, I'm sure you'll be fine.#unsure
+のんびりした旅もよいが、やはり早|く北の地に渡って安心してしまいた|いものじゃな。=A leisurely journey is good, but I would like to cross over to the north as soon as possible to get some peace of mind.
+＄債券回収の契約期限まで|残りあと半年です=$The bond collection contract expires in half a year.
 !FILE:event/system/level_up.wsb
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……。=Say, lately I’ve been thinking...
 また少し商品の扱いに長けてきたの|ではないかや。=You’ve become more adept at handling goods.
