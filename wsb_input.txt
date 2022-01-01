@@ -6398,21 +6398,21 @@
 提供できる情報はもう無いですね。=I don't have any more information to offer.
 # Common lines
 !FILE:event/facilities/pub_t10_grah.wsb
-迷える子羊よ。|今日はどうなされましたか？=
-ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=
-この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=
-さて私に用件があるようですが？=
-ふむ、錬金釜の情報ですか…。=
-よろしい。|では、お布施をいただければ教えて|さしあげましょう。=
-迷える子羊よ。|お布施の用意はできましたかな？=
-では、|銀貨@<number1@>枚ほどで|いかがですかな。=
-情報を買う=
-今はあきらめる=
-おお、神はあなたに感謝しておられ|ます。=
-それでは、これで。|神のお導きがありますように。=
-金額が足りないようですな。|もっと稼いではいかがかな。=
-神はいつでもここで待っていますよ。=
-提供できるものはもうありません。|神のお導きがありますように。=
+迷える子羊よ。|今日はどうなされましたか？=O lost lamb. What hast thou done today?
+ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? You look like you're wondering why there is a priest in such a place?
+この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=There is no church in this village. So we borrow a corner of a tavern to hold our activities like this.
+さて私に用件があるようですが？=Now then, do you have business with me?
+ふむ、錬金釜の情報ですか…。=Mhm, information on an alchemy pot...
+よろしい。|では、お布施をいただければ教えて|さしあげましょう。=Very well. Then, if you make an offering, I will tell you.
+迷える子羊よ。|お布施の用意はできましたかな？=O lost lamb. What hast thou done today?
+では、|銀貨@<number1@>枚ほどで|いかがですかな。=So, how do @<number1@> silver coins sound?
+情報を買う=Buy Information.
+今はあきらめる=Maybe later.
+おお、神はあなたに感謝しておられ|ます。=God thanks you.#unsure
+それでは、これで。|神のお導きがありますように。=Well, here you go. May God guide you.
+金額が足りないようですな。|もっと稼いではいかがかな。=I'm afraid the amount is not enough. Why don't you go and earn more?
+神はいつでもここで待っていますよ。=God is always here waiting for you.
+提供できるものはもうありません。|神のお導きがありますように。=There is nothing more I can offer. May God guide you.
 # Common lines
 神父=Priest
 !FILE:event/facilities/pub_t11_elne.wsb
