@@ -2236,20 +2236,20 @@
 わかった、降参だ。|そのかわり、もう冗談でもあんなこ|とを言わないでくれよ？=Okay, I give up. But in return, don't say anything like that again, not even in jest, okay?
 大丈夫じゃ。|わっちはぬしを信じておるからの。=Don't worry. I have faith in you.
 !FILE:event/ev_main/sub_290_gano.wsb
-商人クラフト・ロレンスと連れが一|人、通行目的は商売のため、と……。|以上で相違ありませんね？=
-はい、間違いありません。|通行税も支払い済みです。=
-……はい、確かに。|通ってもよろしいですよ。=
+商人クラフト・ロレンスと連れが一|人、通行目的は商売のため、と……。|以上で相違ありませんね？=Merchant Kraft Lawrence and one companion, the purpose of your passage is business, and noting else. Is that correct?
+はい、間違いありません。|通行税も支払い済みです。=Yes, correct. The toll has been paid.
+……はい、確かに。|通ってもよろしいですよ。=Yes, indeed... You may pass.
 ありがとうございます。=I appreciate it.
-ところでロレンスさん。|戦争の話はもうご存じですかな？=
+ところでロレンスさん。|戦争の話はもうご存じですかな？=By the way, Mr. Lawrence. Have you heard of the war yet?
 いいえ=No
-さすが行商人さん、お耳が早い。|それなら通行規制のこともご存じで|しょう。=
-北への通行は全面的に禁止との触れ|が出ております。|どうぞ、ご承知置きください。=
-おや、行商人さんならもうご存じか|と思っていたのですが……。|では、お伝えしておきましょう。=
-北の国境は、資源を巡る異教徒との|争いが戦争へと発展しそうな状態に|なっております。=
-騎士団の方々も、戦いに備えて既に|町の北方に駐屯されております。|近づかれぬほうがよろしいかと。=
-それは、北への旅行もできない、と|いうことでしょうか？=
-ええ、通行は全面的に禁止との触れ|が出ております。|ご承知置きください。=
-門番=
+さすが行商人さん、お耳が早い。|それなら通行規制のこともご存じで|しょう。=As expected of a merchant, you get news quickly. Then you must also know about the restrictions on passage.
+北への通行は全面的に禁止との触れ|が出ております。|どうぞ、ご承知置きください。=Be advised that all traffic to the north is prohibited. Please be aware of this.
+おや、行商人さんならもうご存じか|と思っていたのですが……。|では、お伝えしておきましょう。=Oh, I thought you merchants already knew about this... Well, let me tell you about it.
+北の国境は、資源を巡る異教徒との|争いが戦争へと発展しそうな状態に|なっております。=On the northern border, a dispute with pagans over resources is on the verge of turning into a war.
+騎士団の方々も、戦いに備えて既に|町の北方に駐屯されております。|近づかれぬほうがよろしいかと。=The Knights are already stationed in the north of the city in preparation for battle. It would be best to stay away from them.
+それは、北への旅行もできない、と|いうことでしょうか？=Does that mean you can't travel north, too?
+ええ、通行は全面的に禁止との触れ|が出ております。|ご承知置きください。=Yes, traffic north is completely prohibited. Please be aware of that.
+門番=Gatekeeper
 !FILE:event/ev_main/t02_rubi_main_010_asidome.wsb
 ぬしよ。|まず市場に行くと言ってはおらん|かったかの？=Didn't you say that you wanted to visit the market first?
 はは、そうだった。|なにか商品を仕入れないとな。|市場に向かおう。=Ha-ha, you're right. I need to buy some stuff. Let's go to the marketplace.
