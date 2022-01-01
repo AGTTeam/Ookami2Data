@@ -2368,12 +2368,12 @@
 とても博識な方ですから、きっと|力になってくれるでしょう。|訊ねてみるといいですよ。=
 それじゃ、よろしくお願いしますね。=
 !FILE:event/ev_main/t12_lune_main_290_yohan_yondome.wsb
-ああ、いらっしゃい、ロレンスさん。|オイゲンさんは今、眠っていらっし|ゃいます。=
-なるほど……。|薬の調達には時間がかかるのですね。|わかりました。=
-ご心配なさらずとも大丈夫ですよ。|オイゲンさんも、随分と頑張って|くれています。=
-気力が彼を支えているようです。|おそらくもうしばらくは持ちこたえ|てくれるでしょう。=
-私もオイゲンさんの容態が変わらぬ|よう、力を尽くします。|薬が届くまで、精一杯看病しますね。=
-それじゃ、ロレンスさんもどうぞ|道中お気を付けて。|よろしくお願いしますね。=
+ああ、いらっしゃい、ロレンスさん。|オイゲンさんは今、眠っていらっし|ゃいます。=Oh, welcome, Mr. Lawrence.|Mr. Eugen is sleeping right now.
+なるほど……。|薬の調達には時間がかかるのですね。|わかりました。=I see... So it takes a while to get the medication. I understand.
+ご心配なさらずとも大丈夫ですよ。|オイゲンさんも、随分と頑張って|くれています。=Don't worry about it. Eugen is holding out.
+気力が彼を支えているようです。|おそらくもうしばらくは持ちこたえ|てくれるでしょう。=His willpower seems to be supporting him. Probably he will be able to hold on for a while longer.
+私もオイゲンさんの容態が変わらぬ|よう、力を尽くします。|薬が届くまで、精一杯看病しますね。=I will do my best to keep Eugen condition the stable and nurse him until the medicine arrives.
+それじゃ、ロレンスさんもどうぞ|道中お気を付けて。|よろしくお願いしますね。=Well then, Mr. Lawrence, please take care. I look forward to seeing you again.
 !FILE:event/ev_main/t12_lune_main_310_yohan_godome.wsb
 おお、ロレンスさん。|ようこそいらっしゃいました。=
 私はもうしばらくここで身を隠して|いることにします。|この村は、比較的安全ですので。=
