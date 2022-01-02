@@ -6752,13 +6752,13 @@
 !FILE:event/system/debt_over.wsb
 いたぞ！|クラフト・ロレンスだ！=There he is! It's Lawrence Kraft!
 ……なんじゃ？=What?
-ぬしよ。|何やら見慣れぬ輩が蹄の音と共に|近づいてくるが……。=Hey, you. Some unfamiliar people are approaching. I can hear galloping.
+ぬしよ。|何やら見慣れぬ輩が蹄の音と共に|近づいてくるが……。=Hey, you. Some unfamiliar people are galloping towards us.
 払うもの払ってもらおうか。=Let's get you to pay what you owe.
 しまった！=Damn!
-借金の返済……。|すっかり、忘れてた……！=The payment for the debt... i totally forgot about that!
+借金の返済……。|すっかり、忘れてた……！=The payment for the debt... I totally forgot!
 なんじゃと！=What!?
 逃げろ、ホロ！|お前だけでも逃げるんだ！=Run, Holo! You've got to get out of here alone!
-＄全資産が没収されました=$All assets have been confiscated.
+＄全資産が没収されました=$All assets have been confiscated.#is the $ needed?
 俺は、借金のカタに２０日間の強制|労働を科せられた……。=I was sentenced to 20 days of forced labor to cover my debts...
 おお、ぬしよ……。|どうしたのじゃ、そんなに痩せて。|いったい、何があったのじゃ……？=Oh, my goodness... What's the matter with you, you've lost so much weight. What happened?
 思い出すのも辛い……。|少しだけでいい、そっとしておいて|くれ……。=I don't want to remember... Just leave me alone for a bit...
