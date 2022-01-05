@@ -795,7 +795,7 @@
 商品は、市場に並んでいます。|商品の購入は、タッチスクリーン|で行います。=Good are available from the marketplace. You can purchase them using the touch screen.
 商品アイコンをタッチし、荷馬車に|スライドすると商品が荷馬車に移動|します。=Touch a “Goods Icon” and drag it to your cart to add the item to your cart.
 大きい商品は、軽くタッチすると|９０度回転。隙間なく商品を仕入れ|て行きましょう。=Large items can be rotated 90 degrees with a gentle tap. Fill up your cart without leaving any gaps.
-商品を荷馬車に積んだ状態で下画面|左下の「決済アイコン」をタッチし、|金額を支払えば購入は完了です。=Once the goods are loaded onto your cart, touch the “Buy” icon on the lower left side of the screen to complete your purchase.
+商品を荷馬車に積んだ状態で下画面|左下の「決済アイコン」をタッチし、|金額を支払えば購入は完了です。=Once the goods are loaded onto your cart, touch “Finish” on the lower left side of the screen to complete your purchase.
 なお、商品棚に並んでいる商品でも、|在庫がないものや商品ランクが高い|ものは仕入れることができません。=However, even if they're visible, you can't buy certain goods if they're out of stock or above your level of expertise.
 　　　　−　ボタン操作　−|①商品の選択　　②キャンセル|③商品の回転　　④自動積み込み=<<- Button Controls -|① Select Goods    ② Cancel|③ Rotate an Item   ④ Add/Remove Items
 　|　―　商品ジャンルと商品ランク　―=|<< - Goods Types and Ranks -
@@ -2389,7 +2389,7 @@
 売った後は、商品の仕入れも忘れぬ|ようにな。=Don’t forget to stock up on goods once you’ve finished selling.
 　|　 ―　商品の売却について　―=|<<- Selling Goods -
 荷台の商品アイコンをタッチし、|市場にスライドすると商品を|市場に出品した状態になります。=Tap on a “Goods Icon” in your cart to select it, and drag it to the store to put it up for sale.
-商品を市場に出品した状態で|「決済アイコン」をタッチすれば|売却は完了です。=After moving the goods you’d like to sell to the store’s shelf, touch the “OK” button to  complete the sale.
+商品を市場に出品した状態で|「決済アイコン」をタッチすれば|売却は完了です。=After moving the goods you’d like to sell to the store’s shelf, touch “Finish” to complete the sale.
 商品を「荷台」と「市場」の|両方に置いて「決済」すれば|「購入と売却」を一度に行えます。=You can buy and sell items at the same time by placing goods in both the “cart” and the “market” and pressing “OK”.
 購入した商品を別の町に運んで|売却すれば、利益が出ます。=If you take the goods you have bought to another town and sell them, you will make a profit.
 「近すぎる町」で売っても損をして|しまいますので、売値をよく確認|して売却しましょう。=But, if you try to sell the goods in a town that is very close by, you may lose money, so be sure to check the selling price.
@@ -2560,8 +2560,8 @@
 そうそう、起きたときのために粥が|用意してある。|気が向いたら、食べるといい。=Ah yeah, we did prepare some porridge for when you woke up. If you feel like it, you should have some.
 そうじゃそうじゃ。|起きられるなら、少しでも食べて|おくがよかろう。=That’s right. If you can get up, you might as well eat a bit.
 なんなら、食べさせてやってもよい|ぞ？=If you’d like, we could even feed you.
-ホロに食べさせてもらう=Take Holo’s help.
-エーブに食べさせてもらう=Take Eve’s help.
+ホロに食べさせてもらう=Take Holo’s help
+エーブに食べさせてもらう=Take Eve’s help
 # Common lines
 なんだ、食べさせて欲しいのか。|仕方ないな。|ちょっと待ってろ。=Oh, so you want me to feed you? Alright, give me a second.
 おっと、結構熱いな。|まだ、作りたてだからな。|少し冷ましたほうがいいだろう。=Whoops, it’s still pretty hot. It was only freshly made. I should let it cool down a bit first.
@@ -3859,7 +3859,7 @@
 それはよかった。|確かに顔色も多少は戻っておるよう|じゃ。=
 あたたかい粥も用意してある。|起きられるなら、少しでも食べて|おくがよかろう。=
 なんなら、食べさせてやってもよい|ぞ？=If you’d like, I’ll even feed you.
-ホロに食べさせてもらう=Take Holo’s help.
+ホロに食べさせてもらう=Take Holo’s help
 自分で食べる=
 # Common lines
 い、いや、そこまで世話はかけられ|ない。|自分で食べるよ。=
@@ -4615,8 +4615,8 @@
 あ、そうだ！|おにいちゃん、ごはん食べられる？|あったかいお粥があるよ！=
 そうじゃそうじゃ。|起きられるなら、少しでも食べて|おくがよかろう。=That’s right. If you can get up, you might as well eat a bit.
 なんなら、食べさせてやってもよい|ぞ？=If you’d like, we could even feed you.
-ホロに食べさせてもらう=Take Holo’s help.
-ルカに食べさせてもらう=Take Luka’s help.
+ホロに食べさせてもらう=Take Holo’s help
+ルカに食べさせてもらう=Take Luka’s help
 # Common lines
 お兄ちゃん、寝たままでいいよ。|ルカが食べさせてあげる！=
 あちち……！|ちょっと、冷ますね。|ふーっ、ふーっ、ふーっ。=
@@ -5016,8 +5016,8 @@
 あっと、そうそう、ロレンスさん。|温かい麦のお粥があるんです。|もしよければ、どうですか？=
 そうじゃそうじゃ。|起きられるなら、少しでも食べて|おくがよかろう。=That’s right. If you can get up, you might as well eat a bit.
 なんなら、食べさせてやってもよい|ぞ？=If you’d like, we could even feed you.
-ホロに食べさせてもらう=Take Holo’s help.
-ノーラに食べさせてもらう=Take Norah’s help.
+ホロに食べさせてもらう=Take Holo’s help
+ノーラに食べさせてもらう=Take Norah’s help
 # Common lines
 わかりました。|じゃあ、少しさましますね。|やけどすると、いけませんから。=
 ふーっ、ふーっ、ふーっ……。|これくらいで、いいですか？=
