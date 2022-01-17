@@ -207,7 +207,7 @@
 女性なら誰でも一度は着てみた|いと思わせるほど豪華なドレス。=A dress so gorgeous, any woman would want to try it on.
 !FILE:gossip.dat
 町情報　ポロソン=Town Information: Poroson
-ポロソンならリュビンハイゲンの|南東にある町のことだろう。|かつては「異世界への玄関口」な|んて言われていたが、今は熱心な|正教徒たちの住む町だよ。=
+ポロソンならリュビンハイゲンの|南東にある町のことだろう。|かつては「異世界への玄関口」な|んて言われていたが、今は熱心な|正教徒たちの住む町だよ。=Poroson is the town southeast of Ruvinhaigen. It used to be called "the gateway to another world" but now it's a town of faithful adherents to the Church.
 町情報　リュビンハイゲン=Town Information: Ruvinheigen
 リュビンハイゲンは北方付近の正|教の中心地で教会の聖堂参事会に|よって管理されている都市である。|町は広く多くの商会や商館が存在|する。=Ruvinheigen is the center of the Church in the north. As such, the city is governed by the Church Council.|The town is large and has a large number of merchants and trading houses.
 町情報　ラムトラ=Town Information: Lamtra
@@ -499,7 +499,7 @@
 ガーノで価格高騰中？=Price hike in Gahno?#or "New confrontation in Gahno" if we want to be less repetitive?
 ガーノの町では最近また抗争がお|きているらしく市場でも商品が高|騰しているって噂だ。|３０日間はきっと１．３倍程の値|で取り引きできるんじゃないかな。=I've heard rumors that there's been another confrontation going on in Gahno and that the prices are going up in the market. I'm sure you'll be able to sell for 30% more for the next 30 days.
 羊毛がチャンス？=Woolen Opportunity?
-アールマルンで羊毛の値段が暴落|しているらしい。|近頃隣国から良質の羊毛が入った|ためかいつもの４割ほどの値だ。|４０日間はこんな感じだろう。=Someone told me that the price of wool is plummeting in Ahrmaln. The price is about 40% the usual due to the recent import of good quality wool from a neighboring country.
+アールマルンで羊毛の値段が暴落|しているらしい。|近頃隣国から良質の羊毛が入った|ためかいつもの４割ほどの値だ。|４０日間はこんな感じだろう。=Someone told me that the price of wool is plummeting in Ahrmaln. The price is about 40% the usual for 40 days due to the recent import of good quality wool from a neighboring country.
 アールマルンで価格高騰中？=Price hike in Ahrmaln?#or "Shortage in Ahrmaln?"?
 アールマルンの村で商品の値が高|騰してるって噂聞いたかい？|３０日間は１．３倍の値段になる|だろうって聞いたよ。|どうも品薄が原因らしいね。=Did you hear the rumor that the prices in the village of Ahrmaln increased? I heard that a shortage is the reason for the 30% increase for the next 30 days.
 小麦のパンが美味しい？=Profitable Wheat Bread?
