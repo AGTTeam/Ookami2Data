@@ -343,7 +343,7 @@
 特産品　東洋芥子=Special: Opium#as reccomended on line 180
 東洋芥子はブルラッティアの市場|で取り引きをしています。|市場を覗いてみるといいでしょう。|東洋芥子の取り扱いには注意した|方が良いですよ。=Opium is traded on the market of Bourattia. I highly recommend going to take a look, but you must be careful when handling it.
 特産品　没薬=Special: Myrrh
-没薬はディーモルンの市場で売っ|ていますよ〜。|でも入荷は少ないので要注意です。|間違って売ってしまったら大変|なことになっちゃいますよ〜。=Myrrh is sold at the market in Diemoln, but it’s very rare. If you sell some when you didn’t mean to, you’re gonna pay for it later~
+没薬はディーモルンの市場で売っ|ていますよ～。|でも入荷は少ないので要注意です。|間違って売ってしまったら大変|なことになっちゃいますよ～。=Myrrh is sold at the market in Diemoln, but it’s very rare. If you sell some when you didn’t mean to, you’re gonna pay for it later~
 特産品　サフラン=Special: Saffron
 ブルラッティアの市場にはサフラ|ンが特産品として並んでいるよ。|香辛料は需要があるから君も是非|仕入れてみると良いよ。=Saffron is one of the local products in the markets of Bourattia. Spices are in great demand, so you should definitely try to buy some.
 特産品　シナモン=Special: Cinnamon
