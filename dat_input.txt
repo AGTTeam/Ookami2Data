@@ -397,7 +397,7 @@
 人気の品　石材=Popular: Stone
 ブルラッティアでは石材が高く売|れると噂だよ。|特にポロソン辺りで採れるのが人|気が高いようだ。|取り引きには十分なネタだろ？=I've heard rumors that stone sells well in Bourattia. Especially the ones from the Poroson area. That's enough information to make some trades, right?
 人気の品　大理石=Popular: Marble
-デリンツコルツでは大理石が高値|品として有名だね。|知らない商人はいないんじゃない|かな。|ん？　顔色が悪いけどどうしたの？=Marble is famous for its high price in Delintskolz. I'm sure there's not a merchant in the world who doesn't know that. Hmm?　You look pale. What's wrong?
+デリンツコルツでは大理石が高値|品として有名だね。|知らない商人はいないんじゃない|かな。|ん？　顔色が悪いけどどうしたの？=Marble is famous for its high price in Delintskolz. I'm sure there's not a merchant in the world who doesn't know that. Hmm? You look pale. What's wrong?
 人気の品　銀=Popular: Silver
 レヤージュでは銀が高値で取り引|きされ始めたって話だね。|職人達も銀を使って色々と試して|みたいのかな。|なんにせよ商人には嬉しい話だよ。=They say silver is starting to be sold at a high price in Leyage. I wonder if the craftsmen want to experiment with it. Whatever the case, it's a good thing for merchants.
 人気の品　金=Popular: Gold
