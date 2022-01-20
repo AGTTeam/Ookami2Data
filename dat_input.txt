@@ -516,7 +516,7 @@
 東洋芥子はブルラッティアの市場|で手に入れられるようだ。=Opium seems to be available on the market of Bourattia.
 山百合散の買える町=Buying Powdered Lilies?
 山百合散はロズサルトの市場で手|に入れられるようだ。=It seems that powdered lilies can be obtained on the market in Rossalt.
-溶錬炉の買える町=Buying A Smelting Furnace?
+溶錬炉の買える町=Buying a Smelting Furnace?
 溶錬炉はガーノの市場で手に入れ|られるようだ。=It seems that smelting furnaces can be obtained on the market of Gahno.
 錬金釜の買える町=Buying an Alchemy Pot?
 錬金釜はラムトラの市場で手に入|れられるようだ。=It seems an alchemy pot can be obtained at the market in Lamtra.

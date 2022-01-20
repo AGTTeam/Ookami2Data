@@ -3761,40 +3761,40 @@
 むう……。=Mm...
 !FILE:event/ev_ren/ren_hor_20_oyogikata.wsb
 のう、ぬしよ。=You know...
-どうした、ホロ。=
-せせらぎが聞こえる。|この道の先には、川があるのかや？=
-ああ。|地図にも載らないようなほんの小さ|な川だ。=
-次の町への道は、川縁を通るだけだ|から、心配ない。=
-ならば安心じゃ。|また渡し守がおらぬ場所ではかなわ|ぬからの。=
-……ふむ、そうだな。|いい機会だから、ホロにひとつ聞い|ておこう。=
+どうした、ホロ。=What's the matter, Holo?
+せせらぎが聞こえる。|この道の先には、川があるのかや？=I can hear murmuring. Is there a river ahead of us?
+ああ。|地図にも載らないようなほんの小さ|な川だ。=Indeed.|It's such a small river, it's not even on the map.
+次の町への道は、川縁を通るだけだ|から、心配ない。=The road will only lead us along the river, don't worry.
+ならば安心じゃ。|また渡し守がおらぬ場所ではかなわ|ぬからの。='Tis good to hear. Having to to search for another ferryman would be ludicrous.
+……ふむ、そうだな。|いい機会だから、ホロにひとつ聞い|ておこう。=Hah, yes. Since this is a good opportunity, I'll ask you something.
 何かや？=Oh?
-もし万が一、舟の上から川へ放り出|されたとして……お前はどのくらい|泳げるんだ？=
-む。|この人間の姿では、ちと辛いの。=
-元の姿に戻ればそこらの小川など泳|ぐまでもなく渡れようが、それは最|後の手段じゃな。=
-ぬしのためにも、余計な騒ぎは起こ|したくないしの。=
-……そうだな。|俺も肝に銘じておく。=
-そうじゃ、ぬしよ。|わっちら狼がどうやって大きな川を|渡るか知っておるか？=
-狼だから犬かき？=
-他の獣の知恵を借りる？=
-狼が泳ぐとしたら……。|やっぱり犬かきのように泳ぐのか？=
-な、なんじゃと？|「狼だから犬かき」じゃと！？=
-……ぬしよ。|やはり人間と狼は分かり合えぬ宿命|なのかのう。=
-う……。|今の言葉は、俺が悪かった。|この通り、謝る！=
-犬は犬、狼は狼。|これからは必ず「狼かき」と言うと|約束する！=
-……まったく。|この朴念仁に、わっちの深く傷つい|た心をどう癒してもらおうかの……。=
-そうだな。|お前と会って、野の獣たちにも知恵|があることを知ったからな。=
-もし、そのまま渡っては危ないと思|う川があったら……。=
-その川を知り尽くした獣に渡りやす|い場所を教えてもらう──とか？=
-ふむ……。|そういう考えは、わっちらにはなか|ったの。=
-とはいえ、ぬしなりにわっちら獣の|眼からものを見ようとしたことはわ|かる。=
-ぬしよ、本当にぬしはおもしろい人|間じゃな。=
-……気に障ったか？=
-くふ、その逆じゃ。=
-今、改めてぬしと旅をしていて良か|ったと思っておる。=
-……惚れ直した、と言っても良いか|もしれぬ。=
-っっ──！！=
-ぬしは、本当におもしろい人間じゃ|な。=
-くふふ、これからもずっと楽しい旅|ができそうじゃ！=
+もし万が一、舟の上から川へ放り出|されたとして……お前はどのくらい|泳げるんだ？=If by any chance you were to fall from a the boat, how well would you be able to swim...?
+む。|この人間の姿では、ちと辛いの。=Hm.|It's a little hard for me to swim in my human form.
+元の姿に戻ればそこらの小川など泳|ぐまでもなく渡れようが、それは最|後の手段じゃな。=In my original form, I could cross those streams without even needing to swim. But that would be the last resort.
+ぬしのためにも、余計な騒ぎは起こ|したくないしの。=I don't want to cause any unnecessary trouble for you.
+……そうだな。|俺も肝に銘じておく。=I understand... I'll remember that well.
+そうじゃ、ぬしよ。|わっちら狼がどうやって大きな川を|渡るか知っておるか？=Well, you. Do you know how wolves like me cross a big river?
+狼だから犬かき？=A wolf? Dog paddle?
+他の獣の知恵を借りる？=You use the wisdom of other beasts?
+狼が泳ぐとしたら……。|やっぱり犬かきのように泳ぐのか？=If a wolf were to swim would it be something like a dog paddle?
+な、なんじゃと？|「狼だから犬かき」じゃと！？=W-What? “A wolf? Dog paddle?”!?
+……ぬしよ。|やはり人間と狼は分かり合えぬ宿命|なのかのう。=You... I guess it's fate that humans and wolves can't understand each other.
+う……。|今の言葉は、俺が悪かった。|この通り、謝る！=Agh...|That was unwise. I apologize.
+犬は犬、狼は狼。|これからは必ず「狼かき」と言うと|約束する！=A dog is a dog, a wolf is a wolf. From now on, I promise to always say “wolf paddle”!
+……まったく。|この朴念仁に、わっちの深く傷つい|た心をどう癒してもらおうかの……。=Good grief.|I wonder how this simple-minded man plans on healing my deeply wounded heart...
+そうだな。|お前と会って、野の獣たちにも知恵|があることを知ったからな。=That's right. Now that I've met you, I've learned that even the beasts of the field have wisdom.
+もし、そのまま渡っては危ないと思|う川があったら……。=If you find a river that you think is too dangerous to cross as it is... 
+その川を知り尽くした獣に渡りやす|い場所を教えてもらう──とか？=you ask a beast, which knows the river, to show you the best place to cross...?
+ふむ……。|そういう考えは、わっちらにはなか|ったの。=Heh...|We didn't have that idea.#unsure
+とはいえ、ぬしなりにわっちら獣の|眼からものを見ようとしたことはわ|かる。=However, I know that in your own way you tried to see things from the perspective of a beast.
+ぬしよ、本当にぬしはおもしろい人|間じゃな。=You really are an interesting human.
+……気に障ったか？=Did I irritate you...?
+くふ、その逆じゃ。=Heh-heh.|It's just the opposite.
+今、改めてぬしと旅をしていて良か|ったと思っておる。=Now, once again, I am glad that I am traveling with you.
+……惚れ直した、と言っても良いか|もしれぬ。=You could even say that I fell in love with you all over again...#unsure
+っっ──！！=--!!
+ぬしは、本当におもしろい人間じゃ|な。=You're a really interesting human.
+くふふ、これからもずっと楽しい旅|ができそうじゃ！=Heh-heh.|I think we will have an enjoyable journey throughout!
 !FILE:event/ev_ren/ren_hor_21_futukayoirore.wsb
 ──ぬしよ、起きるんじゃ。|いつまでわっちを放っておくつもり|かや？=
 ん……？|ああ、ホロか。=
@@ -6405,17 +6405,17 @@
 # Common lines
 神父=Priest
 !FILE:event/facilities/pub_t11_elne.wsb
-あら、こんにちわ～。|私に何か用ですか～？=
-え、没薬……の情報ですか～？|はい、知っていますよ～。|じゃあ…。=
-またお会いましたね～。|没薬の情報が知りたいんですよね？|じゃあ……。=
-銀貨@<number1@>枚で教えて|あげます～。|どうですか～？=
-情報を買う=
-今はあきらめる=
-うふふ、毎度あり～。|お役にたちましたか～？=
-じゃあ、またね～。=
-銀貨が足りないみたいですね～。|銀貨がたまったらまた来てください|ね～。=
-残念です～。|気が向いたらまた来てね～。=
-ごめんね、もう教えてあげられる情|報は無いの。|またね～。=
+あら、こんにちわ～。|私に何か用ですか～？=Oh, hello~. How can I help you~?#unsure about the ~ in this dialog
+え、没薬……の情報ですか～？|はい、知っていますよ～。|じゃあ…。=Wha? Information on myrrh~? Yes, I know something~. Well....
+またお会いましたね～。|没薬の情報が知りたいんですよね？|じゃあ……。=We meet again~. You want information on myrrh, right?|Well...
+銀貨@<number1@>枚で教えて|あげます～。|どうですか～？=I'll tell you for @<number1@> silver coins~. How about it~?
+情報を買う=Buy Information
+今はあきらめる=Maybe Later
+うふふ、毎度あり～。|お役にたちましたか～？=He-he-he, thank you. Did I help you?
+じゃあ、またね～。=Well then, see you later~.
+銀貨が足りないみたいですね～。|銀貨がたまったらまた来てください|ね～。=It looks like you don't have enough silver coins~. Please come back when you have enough~.
+残念です～。|気が向いたらまた来てね～。=That's a shame~. Please come back when you feel like it~.
+ごめんね、もう教えてあげられる情|報は無いの。|またね～。=I'm sorry, I have no more information I could tell you.|See you later~.
 # Common lines
 !FILE:event/facilities/pub_t12_lune.wsb
 こんにちは。|あら、今日は随分と男前な人が来た|のね。=Hello.|Oh, quite a handsome man has come.
@@ -6433,34 +6433,34 @@
 教えられることはもう無いんです。|それではごきげんよう。=There's nothing more I can tell you. Have a good day.
 # Common lines
 !FILE:event/facilities/pub_t13_deri.wsb
-はじめまして。=
-また会いましたね。=
-東洋芥子の情報ですか？|それなら銀貨@<number1@>枚で|教えてさしあげましょう。=
-情報を買う=
-今はあきらめる=
-毎度あり。=
-またよろしく。=
-お金が足りないようですね。=
-とっておきの情報なんですけどね。=
-提供できる情報はもう無いですね。=
+はじめまして。=Nice to meet you.
+また会いましたね。=We meet again.
+東洋芥子の情報ですか？|それなら銀貨@<number1@>枚で|教えてさしあげましょう。=Information on opium? I'll tell you for @<number1@> silver coins.
+情報を買う=Buy Information
+今はあきらめる=Maybe Later
+毎度あり。=Thank you.
+またよろしく。=I hope to meet you again.#unsure
+お金が足りないようですね。=You don't seem to have enough money.
+とっておきの情報なんですけどね。=It's a very special piece of information.
+提供できる情報はもう無いですね。=I don't have any more information to offer.
 # Common lines
-商人=
+商人=Merchant
 !FILE:event/facilities/pub_t15_luci.wsb
 いらっしゃいませ。|ご注文は？=Welcome! What can I get you?
-え、山百合散？=
-ああ、そっちの注文ですか。|そうですね、山百合散の情報なら|教えてあげられますよ。=
-いらっしゃいませ。|また、いらしたんですね。=
-山百合散の情報ですよね？=
-銀貨@<number1@>枚になります。|いかがですか？=
-情報を買う=
-今はあきらめる=
-はい、こちらになります。=
-あっと、このことはマスターには|内緒でお願いしますね。=
-ありがとうございました。=
-あれ、お金が足りないみたい。|お金が貯まったらまた来てください|ね。=
-そうですか…。|残念です。=
-ごめんなさい。|もう提供できる情報は無いんです。=
-あっと、あちらのお客さんが呼んで|ますのでこれで失礼しますね。=
+え、山百合散？=What?? Powdered lilies??
+ああ、そっちの注文ですか。|そうですね、山百合散の情報なら|教えてあげられますよ。=Ahh, that kind of order? Yes, I can give you information on powdered lilies.
+いらっしゃいませ。|また、いらしたんですね。=Welcome. I'm glad you're here again.
+山百合散の情報ですよね？=It's about the information on powdered lilies, isn't it?
+銀貨@<number1@>枚になります。|いかがですか？=That'll be @<number1@> pieces of silver. How about it?
+情報を買う=Buy Information
+今はあきらめる=Maybe Later
+はい、こちらになります。=Yes, this is what I can tell you.
+あっと、このことはマスターには|内緒でお願いしますね。=Oh, and please don't tell master about this.#unsure
+ありがとうございました。=Thank you very much.
+あれ、お金が足りないみたい。|お金が貯まったらまた来てください|ね。=Oh, I don't think you have enough money. Please come back when you have saved enough money.
+そうですか…。|残念です。=I see... That's a shame.
+ごめんなさい。|もう提供できる情報は無いんです。=I'm sorry. I don't have any more information to offer.
+あっと、あちらのお客さんが呼んで|ますのでこれで失礼しますね。=And there's a customer over there.|So if you'll excuse me.
 # Common lines
 !FILE:event/special/special_eve_b_end.wsb
 エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=
@@ -6769,12 +6769,12 @@
 信じておるぞ……。=
 ＄債券回収の契約期限まで|残りあと１ヶ月です=
 !FILE:event/system/end_on_3_month.wsb
-のう、ぬしよ。|あまりこういう事は言いたくないの|じゃが……。=
-ぬしの引き受けた債権とやらの回収|期限……。|そろそろなのではないのかや？=
-わっちの記憶によると、あと３ヶ月|ほどだったと思うのじゃが……。=
-ぬしは路銀の足しにすると言ってお|ったが、逆にそれで借金を背負って|しまったりせぬのか？=
-なに、ほんの少し心配になっただけ|じゃ。|……杞憂であればよいがの。=
-＄債券回収の契約期限まで|残りあと３ヶ月です=
+のう、ぬしよ。|あまりこういう事は言いたくないの|じゃが……。=I don't like to say this kind of thing, but ...
+ぬしの引き受けた債権とやらの回収|期限……。|そろそろなのではないのかや？=the deadline for collection of the debt is soon, isn't it?
+わっちの記憶によると、あと３ヶ月|ほどだったと思うのじゃが……。=If my memory doesn't trick me, it's about three months away.
+ぬしは路銀の足しにすると言ってお|ったが、逆にそれで借金を背負って|しまったりせぬのか？=You said you were going to use it to cover the traveling expenses, but it might even put you in debt.
+なに、ほんの少し心配になっただけ|じゃ。|……杞憂であればよいがの。=I'm just a little concerned, that's all.|I hope it's unfounded...
+＄債券回収の契約期限まで|残りあと３ヶ月です=＄There are only three months left until the contract deadline.
 !FILE:event/system/end_on_6_month.wsb
 よい天気じゃの……。=What sublime weather!
 こんな空の下で馬車に揺られておる|と、何のために旅をしているのか、|ついつい忘れてしまいんす。=When you're riding in a carriage under a sky like this, it's easy to forget what you're traveling for.
