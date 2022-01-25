@@ -1,7 +1,7 @@
 [Tavern]\nListen to rumors from guests and employees.
 [Market]\nBuy and sell goods.
-y–åz\n’¬‚ğo‚ÄŠX“¹‚É–ß‚è‚Ü‚·B
-yH–[z\n‰×”nÔ‚Ì‰×‘ä‚ğŠg’£‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+[Gate]\nLeave town and get back on the road.
+[Workshop]\nUpgrade cart storage capacity.
 y¤ŠÙz\n¤‰ï‚Æ‚ÌŒ_–ñ‚âØ‹à‚ª‚Å‚«‚Ü‚·B
 yh‰®z\nHHH
 y`z\nƒU[ƒ‰ƒ“ƒg‚Ö‚Ì‘D‚ªo‚Ä‚¢‚Ü‚·B

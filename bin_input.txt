@@ -13,9 +13,9 @@
 －%d枚=- %d SLV
 決済後=End Total
 報酬 ＋=Reward +
-商品の移動:商品をスライド　　 取引の確定:[決済]をタッチ=Move Goods: Slide the icons  Finish transaction: Touch 'Finish'
+商品の移動:商品をスライド　　 取引の確定:[決済]をタッチ=Move Goods: Slide the icons   Finish transaction: Touch 'Finish'
 商品の回転:商品を軽くタッチ=Rotate Goods: Lightly tap an icon
-商品の移動:商品をスライド　　 取引の確定:[完了]をタッチ=Move Goods: Slide the icons  Finish transaction: Touch 'Finish'
+商品の移動:商品をスライド　　 取引の確定:[完了]をタッチ=Move Goods: Slide the icons   Finish transaction: Touch 'Finish'
 仕入れたい商品をスライドさせて荷馬車に積み込みます。=Slide the goods you wish to purchase onto the cart.
 　※決済前であれば、スライドで市場に戻せます。=Slide non-purchased goods back to the market to return them.
 売却したい商品をスライドさせて市場に出庫します。=Slide the goods you wish to sell to the market shelf.
@@ -25,8 +25,8 @@
 在庫がありません。=Out of stock.
 荷台に戻せる依頼の品はありません。=No goods to return.
 商品知識が足りません。=Insufficient Goods Knowledge.
-⑩カーソル移動　①商品の選択　②キャンセル=⑩ Move Cursor    ① Select Goods　② Cancel
-　　　　　　　　③商品の回転　④商品の自動積み込み=③ Rotate Goods　④ Add/Remove items
+⑩カーソル移動　①商品の選択　②キャンセル=⑩ Move Cursor    　　① Select Goods　　　　② Cancel
+　　　　　　　　③商品の回転　④商品の自動積み込み=③ Rotate Goods　　　④ Add/Remove items
 %sの知識レベルが上がりました=Knowledge of %s|has increased. (%d → %d)
 未決済の商品がありますが、=Transaction is incomplete.
 取引を終了しますか？=Do you still want to leave?
@@ -204,7 +204,7 @@
 加工食品=Processed Food
 衣料素材=Fabrics
 鉱物素材=Minerals
-%UNK(0502)$'UNK(0502)商品をタッチすると詳細を確認できます=Touch a goods icon to view information.
+商品をタッチすると詳細を確認できます=Touch a goods icon to view information.
 納品期限  残り%3d日=Deadline   %3d days left
 報酬      %7d枚=Reward     %7d
 返済期限  残り%3d日=Deadline   %3d days left
@@ -217,7 +217,7 @@
 借金=Loan
 親密度=Intimacy
 アイコンをタッチすると、町情報を確認できます。|赤：知っている町　　青：現在位置　　数字：移動日数=Touch an icon to see the town information.  Red: Known towns|Green: Current location    Numbers: Travel time
-町の「特産品」と「人気の品」を確認できます。|数字は特産品と人気の品の平均価格です。=View a towns “local specialties" and “popular items".|The numbers shown are the average prices.
+町の「特産品」と「人気の品」を確認できます。|数字は特産品と人気の品の平均価格です。=View a towns 'local specialties' and 'popular items'.|The numbers shown are the average prices.
 本当に町から出ますか？=Leave town?
 『%s』=%s
 戛UNK(0C02)契約=
