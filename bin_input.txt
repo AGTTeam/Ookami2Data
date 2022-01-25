@@ -16,7 +16,7 @@
 商品の移動:商品をスライド　　 取引の確定:[決済]をタッチ=Move Goods: Slide the icons  Finish transaction: Touch 'Finish'
 商品の回転:商品を軽くタッチ=Rotate Goods: Lightly tap an icon
 商品の移動:商品をスライド　　 取引の確定:[完了]をタッチ=Move Goods: Slide the icons  Finish transaction: Touch 'Finish'
-仕入れたい商品をスライドさせて荷馬車に積み込みます。=Slide the goods you wish to purchase onto the cart. 
+仕入れたい商品をスライドさせて荷馬車に積み込みます。=Slide the goods you wish to purchase onto the cart.
 　※決済前であれば、スライドで市場に戻せます。=Slide non-purchased goods back to the market to return them.
 売却したい商品をスライドさせて市場に出庫します。=Slide the goods you wish to sell to the market shelf.
 　※決済前ならスライドで荷馬車に戻せます。=You can slide them back to the cart if you change your mind.
@@ -27,7 +27,7 @@
 商品知識が足りません。=Insufficient Goods Knowledge.
 ⑩カーソル移動　①商品の選択　②キャンセル=⑩ Move Cursor    ① Select Goods　② Cancel
 　　　　　　　　③商品の回転　④商品の自動積み込み=③ Rotate Goods　④ Add/Remove items
-%sの知識レベルが上がりました=Knowledge of %s has increased. 
+%sの知識レベルが上がりました=Knowledge of %s|has increased. (%d → %d)
 未決済の商品がありますが、=Transaction is incomplete.
 取引を終了しますか？=Do you still want to leave?
 ＋%d枚=+%d SLV
