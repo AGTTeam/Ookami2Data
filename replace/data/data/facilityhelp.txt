@@ -2,33 +2,33 @@
 [Market]\nBuy and sell goods.
 [Gate]\nLeave town and get back on the road.
 [Workshop]\nUpgrade cart storage capacity.
-y¤ŠÙz\n¤‰ï‚Æ‚ÌŒ_–ñ‚âØ‹à‚ª‚Å‚«‚Ü‚·B
-yh‰®z\nHHH
-y`z\nƒU[ƒ‰ƒ“ƒg‚Ö‚Ì‘D‚ªo‚Ä‚¢‚Ü‚·B
-y`z\n“nq§ŒÀ‚ª‚©‚©‚Á‚Ä‚¢‚Ä‘D‚Éæ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB
-y‰®•~z\n‰½‚©‰\‚ğ•·‚¯‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-y‹³‰ïz\ni‹³‚©‚ç˜b‚ğ•·‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-yh‰®z\n‰½‚©‰\‚ğ•·‚¯‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-y–åz\n‰½‚©‰\‚ğ•·‚¯‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB
-yh‰®z\nˆê‘§‚Â‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-y‹ó‰Æz\nî•ñ‰®‚ª‚¢‚Ü‚·B
-y`z\nV‹´‚É—‚Ìq‚ª‚¢‚Ü‚·B
-y–¯‰Æz\nƒ‹ƒJ‚Ì‰Æ‚Å‚·B
-y`z\n¬“‡‚Öo”­‚µ‚Ü‚·B
-yh‰®z\nƒˆƒnƒ“‚Æ‚¢‚¤’j‚ª‘Øİ‚µ‚Ä‚¢‚é‚æ‚¤‚Å‚·B
-yh‰®z\nƒˆƒnƒ“‚ÆƒIƒCƒQƒ“‚ª‘Øİ‚µ‚Ä‚¢‚Ü‚·B
-yh‰®z\nƒˆƒnƒ“‚ª‘Øİ‚µ‚Ä‚¢‚Ü‚·B
-yğêz\nƒG[ƒu‚ª‚¢‚Ü‚·B
-y‹³‰ïz\nƒm[ƒ‰‚ÆƒGƒlƒN‚ª‚¢‚Ü‚·B
-yh‰®z\nƒzƒ‚ª‚¢‚Ü‚·B
-y–¯‰Æz\nƒ‹ƒJ‚ª‚¢‚Ü‚·B
-y–¯‰Æz\n‚±‚Ì‰Æ‚ÉƒfƒBƒAƒ“‚Æ‚¢‚¤l‚ª‚¢‚é‚ç‚µ‚¢B
-yƒfƒBƒAƒi‚Ì‰Æz\n–òì¬‚É•K—v‚ÈŞ—¿‚ğ—a‚©‚è‚Ü‚·B
-yƒfƒBƒAƒi‚Ì‰Æz\n“Á’è‚Ì¤•i‚ğ˜B‹à‚Å•Ê¤•i‚É‚Å‚«‚Ü‚·B
-y“´ŒAz\nHHH
-y`z\nƒIƒCƒQƒ“‚ª‚¢‚Ü‚·B
-yƒƒ‹ƒt‚Ì‰Æz\nƒƒ‹ƒt‚ª‚¢‚Ü‚·B
-y‘º’·‚Ì‰Æz\n‘º’·‚ª‚¢‚Ü‚·B
-y’¬’·‚Ì‰Æz\n’¬’·‚ª‚¢‚Ü‚·B
-y‘‰¤‚Ì‰Æz\n‘‰¤‚ª‚¢‚Ü‚·B
-yƒfƒBƒAƒi‚Ì‰Æz\n˜B‹àH–[Šg’£‚É•K—v‚ÈŞ—¿‚ğ—a‚©‚è‚Ü‚·B
+[Trading House]\nSign contracts or borrow money at the trading house.
+[Inn]\n???
+[Port]\nThere is a ship leaving for Saarland.
+[Port]\nYou can't get on a boat due to travel restrictions.
+[Residence]\nMaybe you can hear a good rumor?
+[Church]\nYou can listen to what the bishop has to say here.
+[Inn]\nMaybe you can hear a good rumor?
+[Gate]\nMaybe you can hear a good rumor?
+[Inn]\nYou can relax here.
+[Vacant House]\nAn informant is here.
+[Port]\nThere is a girl on the Pier.
+[Private House]\nLuka's house.
+[Port]\nDepart for Iselt.
+[Inn]\nA man called Johan seems to be staying here.
+[Inn]\nJohan and Eugen are staying here.
+[Inn]\nJohan is staying here.
+[Tavern]\nEve is here.
+[Church]\nNorah and Enek are here.
+[Inn]\nHolo is here.
+[Private House]\nLuka is here
+[Private House]\nIt seems Dian can be found here.
+[Diana's House]\nHand over the materials needed for the medicine here.
+[Diana's House]\nCertain goods can be made into others using alchemy.
+[Cave]\n???
+[Port]\nEugen is here.
+[Rolf's House]\nRolf is here.
+[The Village Chief's House]\nThe village chief is here.
+[Town Mayor's House]\nThe town mayor is here.
+[King's House]\nThe king is here.
+[Diana's House]\nDeposit materials needed for the alchemy workshop here.
