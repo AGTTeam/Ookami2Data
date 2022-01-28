@@ -1,4 +1,4 @@
-﻿%d枚= %d
+%d枚=%d
 次回未定=
 あと%d日=%d Days
 入荷待=NULL #keep space
