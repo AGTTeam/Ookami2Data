@@ -3315,23 +3315,23 @@ You do not look so good.
 どういたしまして。|……さあ、さっさと出かけるぞ！=You're welcome.|Well, let's set out.
 !FILE:event/ev_ren/ren_hor_08_onsen.wsb
 # Common lines
-そういう意味では、手綱を握ってお|ったぬしの手柄でもあると言える。|わっちら二人のものじゃ。=
-そうだな、温泉は宝のようなものだ|からな。|旅の途中では、ことさらありがたい。=
+そういう意味では、手綱を握ってお|ったぬしの手柄でもあると言える。|わっちら二人のものじゃ。=That said, it's also your achievement since you hold the reins. It's a shared discovery.
+そうだな、温泉は宝のようなものだ|からな。|旅の途中では、ことさらありがたい。=Hot springs are like a treasure after all.|They are especially pleasant during travels.
 # Common lines
-何っ？|ここで入るのか？=
-当然じゃ！|何をためらっておる！|ほれ行くぞ、ぬしよ！=
-ふう……。|なかなかの湯じゃの。|日々の疲れが抜けてゆくようじゃ。=
-こういうものはいつの時代でも変わ|らぬ。|よいものはよいということじゃの。=
-ご機嫌だな。=
-悪くなるはずもなかろう。|温泉くさいのが唯一の難点じゃが、|この湯の幸せの前には些細なこと。=
-人の目をはばかる必要もない。|これだけ広々としておれば手足も尻|尾も伸ばせる。=
-渓流の音もさらさらと心地よい。|のう、ぬしよ、酒などないかや。=
-おいおい、こんなにあったまってる|のに、酒なんて飲んだらのぼせてし|まうぞ。=
-無粋なことを言うでない。|それにな、のぼせておるのはぬしの|ほうじゃろ。=
-どういうことだ？=
-ぬしはわっちにのぼせておる。|そうじゃろ？=
-違う、と言ったらひっかかれそうだ|な。|わかった、一杯だけだぞ。=
-くふふ、そうこなくてはの。=
+何っ？|ここで入るのか？=What!? Go in here?
+当然じゃ！|何をためらっておる！|ほれ行くぞ、ぬしよ！=Of course!|What are you hesitating about? Come on in!
+ふう……。|なかなかの湯じゃの。|日々の疲れが抜けてゆくようじゃ。=Haaa... The water is quite warm.|The fatigue built up over the days just melts off.
+こういうものはいつの時代でも変わ|らぬ。|よいものはよいということじゃの。=Hot springs don't change over the ages.|A good thing is and stays a good thing.
+ご機嫌だな。=You're in a good mood.
+悪くなるはずもなかろう。|温泉くさいのが唯一の難点じゃが、|この湯の幸せの前には些細なこと。=There is no reason for it to turn bad. The hot spring's stink is nothing compared to the happiness this water brings.#or smell
+人の目をはばかる必要もない。|これだけ広々としておれば手足も尻|尾も伸ばせる。=And I don't have to hold back in front of anyone. I can stretch out my arms, legs and tail as I want because it's so spacious.
+渓流の音もさらさらと心地よい。|のう、ぬしよ、酒などないかや。=And the ripple of the mountain stream is nice as well.|Say, you, do we have anything to drink?
+おいおい、こんなにあったまってる|のに、酒なんて飲んだらのぼせてし|まうぞ。=Hey hey. You have been warmed up so much, you'll get lightheaded if you drink now.
+無粋なことを言うでない。|それにな、のぼせておるのはぬしの|ほうじゃろ。=Don't say something so boorish.|And you're rather the one who gets lightheaded.
+どういうことだ？=What are you trying to say?
+ぬしはわっちにのぼせておる。|そうじゃろ？=You get lightheaded because of me.|Isn't that right?
+違う、と言ったらひっかかれそうだ|な。|わかった、一杯だけだぞ。=I think I can't say that you are wrong.|Okay, only one cup though.#unsure
+くふふ、そうこなくてはの。=Heh-heh-heh.|I suspected as much.
 # Common lines
 !FILE:event/ev_ren/ren_hor_09_horojoso.wsb
 ──ふう、食った食った。=
