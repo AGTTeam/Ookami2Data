@@ -6,29 +6,29 @@
 [Inn]\n???
 [Port]\nThere is a ship leaving for Saarland.
 [Port]\nYou can't get on a boat due to travel restrictions.
-[Residence]\nMaybe you can hear a good rumor?
+[Residence]\nYou might hear some interesting rumors.
 [Church]\nYou can listen to what the bishop has to say here.
-[Inn]\nMaybe you can hear a good rumor?
-[Gate]\nMaybe you can hear a good rumor?
+[Inn]\nYou might hear some interesting rumors.
+[Gate]\nYou might hear some interesting rumors.
 [Inn]\nYou can relax here.
 [Vacant House]\nAn informant is here.
-[Port]\nThere is a girl on the Pier.
+[Port]\nThere is a girl on the pier.
 [Private House]\nLuka's house.
-[Port]\nDepart for Iselt.
+[Port]\nDepart for the iselt.
 [Inn]\nA man called Johan seems to be staying here.
 [Inn]\nJohan and Eugen are staying here.
 [Inn]\nJohan is staying here.
 [Tavern]\nEve is here.
 [Church]\nNorah and Enek are here.
 [Inn]\nHolo is here.
-[Private House]\nLuka is here
+[Private House]\nLuka is here.
 [Private House]\nIt seems Dian can be found here.
 [Diana's House]\nHand over the materials needed for the medicine here.
-[Diana's House]\nCertain goods can be made into others using alchemy.
+[Diana's House]\nTransform goods using alchemy.
 [Cave]\n???
 [Port]\nEugen is here.
 [Rolf's House]\nRolf is here.
-[The Village Chief's House]\nThe village chief is here.
+[Village Leader's House]\nThe village leader is here.
 [Town Mayor's House]\nThe town mayor is here.
-[King's House]\nThe king is here.
+[Palace]\nThe king is here.
 [Diana's House]\nDeposit materials needed for the alchemy workshop here.
