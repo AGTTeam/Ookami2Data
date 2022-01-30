@@ -338,8 +338,8 @@
 リボールカントの特産品の宝石細|工はいつ見てもほれぼれするよ。|腕の立つ職人達が作るものは本当|輝きが違うから一度見てみなよ。=Liberkant’s famous gemwork is always a sight to behold. The pieces made by masters of the craft have an incomparable brilliance. You must see it for your own eyes!
 特産品　大理石像=Special: Marble Statue
 大理石像ならリボールカントの特|産品だと聞いたよ。|豪華な石像を買い付けに多くの商|人があの町を訪れるって噂だ。=I heard that marble statues are a specialty of Liberkant. Rumor has it, many merchants come to the town to buy those magnificent statues.
-特産品　山百合散=Special: Golden-rayed Lily
-山百合散ならロズサルトの市場で|取り扱っているという話です。|山百合散は貴重な商品らしいので、|大事に扱った方が良いですよ。=It is said that you can find golden-rayed lilies on the market in Rossalt. It seems the lilies are a valuable product, so you should handle them with care.
+特産品　山百合散=Special: Powdered Lilly
+山百合散ならロズサルトの市場で|取り扱っているという話です。|山百合散は貴重な商品らしいので、|大事に扱った方が良いですよ。=It is said that you can find powdered golden-rayed lilies on the market in Rossalt. It seems the lilies are a valuable product, so you should handle it with care.
 特産品　東洋芥子=Special: Opium#as reccomended on line 180
 東洋芥子はブルラッティアの市場|で取り引きをしています。|市場を覗いてみるといいでしょう。|東洋芥子の取り扱いには注意した|方が良いですよ。=Opium is traded on the market of Bourattia. I highly recommend going to take a look, but you must be careful when handling it.
 特産品　没薬=Special: Myrrh
@@ -612,9 +612,9 @@
 ディアンという人を探しにウ|ルリヒへ向かおう。=Let's go to Ulrich to look for someone called Dian.
 宿へ戻ろうか…。それとも誰|かを訪ねるか…。=Should I head to the inn? Or should I visit someone?
 まずはディアナさんから聞い|た必要材料を集めなければ。=I need to gather the materials that Diana told me about.
-次は処方に必要な薬の材料を|集めよう。=Next, let's gather the ingredients for the medicine.
+次は処方に必要な薬の材料を|集めよう。=Now, let's gather the ingredients for the medicine.
 薬が完成した。リューンのヨ|ハンさんのもとへ急ごう。=The medicine is ready. Let's hurry back to Johan in Lune.
-ルカのお父さんを探しに行こ|う。まずはベオリーヌだ。=Let's go find Luka's father. We'll start in Beorein.
+ルカのお父さんを探しに行こ|う。まずはベオリーヌだ。=Let's go find Luka's father.|We'll start in Beorein.
 桟橋へ行けばもう戻れない。|覚悟を決めなければ。=If we go to the pier, there's no going back.
 この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in the depths of this cave...?
 さあ、村に戻ろう。最後の大|一番だ。=
