@@ -1,4 +1,4 @@
-!FILE:COMMON
+﻿!FILE:COMMON
 ＄ホロと|とっても　いいカンジ！=＄Holo seems very pleased!#That seemed to go down well with Holo!
 ＄ノーラと|とっても　いいカンジ！=＄Norah seems very pleased!
 ＄エーブと|とっても　いいカンジ！=＄Eve seems very pleased!!
@@ -295,6 +295,8 @@
 ……本当かや？|まあ、嘘をついておる顔ではなさそ|うじゃがな。=
 次にぬしの気持ちがどう変わってお|るかはわからぬが……。|今回はおとなしく引き下がるかの。=
 酒場の主人=Barkeeper
+俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=I parted ways with Holo and stayed behind in Beorein, with Luka.
+俺は対岸の町、ザーラントと提携し、|商売を始めた。=I set up a partnership with Saarland across the sea, and started doing business with them.
 俺は、ホロと別れ――|エーブと組んで商売を始めた。=I parted ways with Holo and started doing business with Eve.
 俺たちはザーラントでの服の仕入れ|を皮切りに、あらゆる商売に手を出|した。=We started off with just buying clothes in Saarland, and ended up getting involved with all kinds of different ventures.
 結果、商売はどれも大当たり。|俺たちの資産はみるみる膨れあがり、|瞬く間に一財産を築き上げた。=As a result, all of them turned out to be very successful. Our profits quickly grew and we amassed a fortune in no time at all.
@@ -364,16 +366,16 @@
 ぬしは誰にでも優しいということが|今回の件でよーくわかったからの。|見境なしでは困る。=
 もうわっちとぬしとの二人旅に戻っ|たのじゃからな。|一人占めにさせてもらわねばの。=
 のう、ぬしよ。|これからはわっちだけに……優しく|してくりゃれ？=
-こちら側の土地では手に入らない珍|しい品々。|それを目当てに、客が集まってくる。=
-有名になるに連れ、商館の使いで大|口の買い物にくる客も訪れるように|なった。=
-小さかった村にも、変化が訪れた。|道が綺麗になり、人が増え、それに|伴って宿も増えた。=
-新しい店や建物が次々と増え、村が|発展していく様を見守るのは楽しい|ものだ。=
-しかし、ここ最近の何よりの楽しみ|は、ルカが同行してくれる月に一度|のザーラントへの買い付けだ。=
-昨年まではロルフさんと一緒だった|が、新しい技術を導入した船を購入|してからはルカが送ってくれている。=
-忙しくてなかなか話せなくなった今|となっては、船の上でのこの二人き|りの時間が何より貴重だ。=
-ルカは商売を始めたときと変わらず、|献身的に協力してくれている。|裏表のない、とてもいい子だ。=
-ただ、最近少し大人びて、笑いかけ|られるとこちらがどきりとしてしま|うことも多い。=
-ルカに変な虫が付いたりしないか。|店が安定した今、俺の目下の心配事|は、そのことぐらいだ……。=
+こちら側の土地では手に入らない珍|しい品々。|それを目当てに、客が集まってくる。=Customers have gathered from far and wide to purchase items which otherwise are hard to find on this side of the shores. 
+有名になるに連れ、商館の使いで大|口の買い物にくる客も訪れるように|なった。=As the village became famous, people from trading houses started visiting to purchase goods for wholesale.
+小さかった村にも、変化が訪れた。|道が綺麗になり、人が増え、それに|伴って宿も増えた。=Even the tides of change soon came knocking. The streets became cleaner, more people arrived and inns were built.
+新しい店や建物が次々と増え、村が|発展していく様を見守るのは楽しい|ものだ。=It's incredible to watch the village grow as new shops and buildings spring up one after another.
+しかし、ここ最近の何よりの楽しみ|は、ルカが同行してくれる月に一度|のザーラントへの買い付けだ。=But the thing I look forward to most is departing for my monthly shopping trip to Saarland with Luka.
+昨年まではロルフさんと一緒だった|が、新しい技術を導入した船を購入|してからはルカが送ってくれている。=Until last year we were accompanied by Rolf, but since he bought a new high-tech ship, Luka has been taking me alone.
+忙しくてなかなか話せなくなった今|となっては、船の上でのこの二人き|りの時間が何より貴重だ。=Being so busy it's hard to find time to speak, so having this time alone on the ship is precious.
+ルカは商売を始めたときと変わらず、|献身的に協力してくれている。|裏表のない、とてもいい子だ。=Luka is as dedicated to helping out as she was when we first started. She really is a good girl.
+ただ、最近少し大人びて、笑いかけ|られるとこちらがどきりとしてしま|うことも多い。=Although lately, she has become a lot more mature and I sometimes find my heart skipping a beat when she smiles at me.
+ルカに変な虫が付いたりしないか。|店が安定した今、俺の目下の心配事|は、そのことぐらいだ……。=What if she starts to attract the wrong attention? Now that my shop is stable, that's the only thing I'm worried about...
 俺は、ホロと別れ――|ここ、対岸の町ザーラントへ渡った。=
 俺は、この町で商売を始めた。|店を作るには、まず商品を知ること。|そう考えたのだ。=
 たくさんある衣料品店を少しずつ巡|っては基本の型や流行を追っていく。|毎日が勉強だ。=
@@ -1241,7 +1243,7 @@
 すまぬ……。|本来なら、わしが起きて出迎えねば|ならぬものを……。=Sorry... I should be the one up to welcome you...
 ぬしは……！=You’re--!
 ………………。=......
-オイゲンさん、無理は禁物ですよ。|動かないでください。|まだ、危険な状態なのですから……。=You mustn’t strain yourself, Eugen! Please stay still. You’re not out of the woods yet...
+オイゲンさん、無理は禁物ですよ。|動かないでください。|まだ、危険な状態なのですから……。=You mustn’t strain yourself, Mr. Eugen! Please stay still. You’re not out of the woods yet...
 私は、旅の医師でして。|この老人が海辺で倒れていたところ|に、たまたま通りかかったのです。=I’m a traveling doctor. I just happened to be passing by when I found this man lying on the beach.
 なるほど。|それでぬしが代理で商館へ依頼をし|にきた、というわけじゃな。=I see. So you went to the trading house seeking help on his behalf.
 そうなのです。|どうしても行かなければならない|場所があるのだそうで。=That's right. He said there was somewhere he had to go, no matter what.
@@ -1261,7 +1263,7 @@
 そうかや？|わっちにはあの小娘にたいそう興味|があるように見えたがの。=Is that so? From where I was stood, you seemed to be rather interested in her.
 ……っ！？=...!?
 いずれにせよ、知っておるのなら|ありがたい。|それに、信用もできそうだ。=Either way, if you’ve met her that’s a blessing to my ears. You seem to be someone I can trust.
-商人よ、これは相談だが……叶う|ものならそのルカという娘をここに|連れてきてはもらえぬだろうか。=Merchant, this is my request... I beseech you, could you to bring the girl, Luka, to me?
+商人よ、これは相談だが……叶う|ものならそのルカという娘をここに|連れてきてはもらえぬだろうか。=Merchant, this is my request... I beg you, could you to bring the girl, Luka, to me?
 何か聞かれたら、お前の父ロルフの|ことで話があると伝えて欲しい。=If she asks, tell her that I have something to tell her about her father, Rolf.
 あの娘の父と言うと、船乗りだった|という男のことかや？=Her father... You mean the ferryman?
 そこまで知っておるのであれば話は|早い。|商人よ、頼まれてはくれないか。=If you know that much, that’ll make this easier. Merchant, would you please grant my request?
@@ -1283,7 +1285,7 @@
 ……え？|船の話じゃないの？=...Eh? You didn’t come for the boat?
 ああ、今日は別の用事で来たんだ。=Yeah, we’re here for a different reason today.
 突然ですまないが、オイゲンという|人を知ってるかい？=Forgive the sudden question, but do you know a man called Eugen?
-オイゲン？|……誰のこと？=Eugen? ...Who’s that?
+オイゲン？|……誰のこと？=Eugen?|...Who’s that?
 ははは……。|誰、と言われると説明が難しいなあ。=Hah-hah-hah... That’s a tough question.
 ルカの知らない人だと思う。|聞いたことある名前のような気も|するけど、違うと思うし。=I don’t think I know him. The name sounds kind of familiar, but it’s not the same.
 そうか。|じゃあリューンって町は知ってる？=I see. Then, have you heard of a town called Lune?
@@ -1565,7 +1567,7 @@
 実はですね、不審者が現れまして。=To tell you the truth, a strange figure has been stalking around.
 不審者……？=A strange figure?
 そうなの。|なんだか、知らない人にじーっと見|られたの。=Yeah. I don’t know why, but this man I didn’t know was staring at me.
-オイゲンさんを襲った者の一派かも|しれないと思うと不安なのです。|思い過ごしだといいのですが……。=I’m worried that it might be one of the people who attacked Eugen. I hope I’m just overthinking it, but...
+オイゲンさんを襲った者の一派かも|しれないと思うと不安なのです。|思い過ごしだといいのですが……。=I’m worried that it might be one of the people who attacked Mr. Eugen. I hope I’m just overthinking it, but...
 私はなにぶん看病につきっきりです|し、この通り腕っ節も強くありませ|ん。=I’m basically just a carer, and as you can see, I’m not exactly built for fighting.
 なので、移動しているロレンスさん|たちと一緒に居る方が、かえって安|全かと思いまして。=So, I thought it might be safer for her to stay with you, Mr. Lawrence, as you’re always on the move.
 なるほど……。=I see...
@@ -2138,13 +2140,12 @@
 俺は今、旅を楽しんでさえいる。|何も言わないけれど、きっとホロも|そうなのだ。=
 今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=
 !FILE:event/ev_main/main_410_ending_luka.wsb
-俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=
-俺は、この村で海産物を扱う店を|始めた。=
-村の特産品を売り、その儲けで対岸|の町の服を買う。|そのつもりだった。=
-しかし、ひとつ誤算があった。|それは、思いの外一人での商店経営|が大変であったこと。=
-行商していたときと違い、商店は一|人ではなかなか回らないものらしい。|商売というのは難しいものだ。=
-ルカが手伝ってくれると思っていた|のだが、実際には忙しいようでなか|なか来てくれない。=
-旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=
+俺は、この村で海産物を扱う店を|始めた。=I set up a seafood shop in the village.#dupes with event/special/special_luka_c_end
+村の特産品を売り、その儲けで対岸|の町の服を買う。|そのつもりだった。=The idea was to sell the village's specialties and use the profits to buy clothes from the town across the sea.
+しかし、ひとつ誤算があった。|それは、思いの外一人での商店経営|が大変であったこと。=But, there was one thing I'd forgotten to account for. It was unexpectedly difficult to run a shop alone.
+行商していたときと違い、商店は一|人ではなかなか回らないものらしい。|商売というのは難しいものだ。=Unlike when I was a lone peddler, trying to run a shop by yourself is like sailing on a windless day. Business is difficult.
+ルカが手伝ってくれると思っていた|のだが、実際には忙しいようでなか|なか来てくれない。=I thought Luka would help me, but in reality, she seemed quite busy and could hardly visit.
+旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=I guess I should have spoken with her more while we were traveling. Though, it's a bit late for that now...
 俺は、この村で宿を始めた。=
 ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=
 この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=
@@ -2152,7 +2153,6 @@
 小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=
 いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=
 それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=
-俺は対岸の町、ザーラントと提携し、|商売を始めた。=
 # Common lines
 ……ん？|どうしたの、おにいちゃん。|ルカの顔、まじまじと見て。=
 いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=
@@ -2284,8 +2284,8 @@
 のう、ぬしよ。|商会の用事はいいのかや？=Don't you have business at the trading house?
 そうだな、先に商館に向かうか。|何やら「契約」の話があるような|話をしていたからな。=Right, I should probably head there first. There was talk of some kind of “contract” for me to look at.
 !FILE:event/ev_main/t04_cmer_main_040_gate_asidome.wsb
-のう、ぬしよ。|もしや「契約」の商品を買わずに|町を出るつもりかや？=You’re not going to leave town without buying the goods for the “contract”, are you?
-「コイ」を４匹仕入れてから出発|するのではなかったかの。=I thought you were going to buy four “carp” before you left.
+のう、ぬしよ。|もしや「契約」の商品を買わずに|町を出るつもりかや？=You’re not going to leave town without buying the goods for the contract, are you?
+「コイ」を４匹仕入れてから出発|するのではなかったかの。=I thought you were going to buy four carp before you left.
 おっと、そうだったな。|市場に戻ろう。=Oops, you’re right. Let’s go to the market.
 !FILE:event/ev_main/t04_cmer_main_040_koubou_asidome.wsb
 ぬしよ。|工房の扉は閉まっておるようじゃが|……。=The door to the workshop seems to be closed...
@@ -2308,10 +2308,10 @@
 よって、渡航許可を出せるのは教会|が渡航が必要だと認めた要人と商人|の方のみとさせて頂いております。=That’s why only dignitaries and merchants who have been recognized by the Church as needing to travel are allowed to do so.
 現在は商船といえども教会の護衛船|が同行する形を取らせていただいて|いる次第です、ご了承ください。=Even merchant ships are having to be accompanied by a Church escort at present. Please understand.
 !FILE:event/ev_main/t06_diem_main_140_mon_asidome.wsb
-のう、ぬしよ。|もう次の町に行くのかや？=
-うーん、どうしようか。|まだ情報が不足しているような気が|するのは事実だな。=
-すまない、やはり町に戻ろう。|もうしばらく情報集めに付き合って|くれ。=
-うむ。=Aye.
+のう、ぬしよ。|もう次の町に行くのかや？=Say, are we really leaving so soon?
+うーん、どうしようか。|まだ情報が不足しているような気が|するのは事実だな。=Well, that was the plan but, I guess we don't really have enough information yet.
+すまない、やはり町に戻ろう。|もうしばらく情報集めに付き合って|くれ。=Sorry, let's go back. We should try and find out some more first.
+うむ。=Mm!
 !FILE:event/ev_main/t06_diem_main_140_uwasa_01.wsb
 町の人間ならみんな知ってることで|すが、教会の渡航制限は要するに異|端者対策のためなんですよね。=This is common knowledge around here, but the Church’s travel restrictions are, in essence, a crackdown on pagans.
 異端者は船に乗れなくなりますし、|異端者とばれてしまえば教会から追|われてしまいます。=Pagans are not allowed to board ships, and if they are found, they will be hunted down by the Church.
@@ -2358,21 +2358,21 @@
 旅の無事を祈りましょう。|正教の神のお導きがあなた方の上に|ありますよう。=I pray for your safe travels. May the one true Lord watch over you.
 神父=Priest
 !FILE:event/ev_main/t08_leya_main_230_mon_asidome.wsb
-のう、ぬしよ。|ルカの荷物を取りに行くのでは|なかったのかや？=
-そういえばそうだったな。|ルカの家に寄っていこう。=
+のう、ぬしよ。|ルカの荷物を取りに行くのでは|なかったのかや？=Say, are you not going back to collect Luka's belongings?
+そういえばそうだったな。|ルカの家に寄っていこう。=Oh, I'd completely forgot. Let's drop by Luka's house.
 !FILE:event/ev_main/t12_lune_main_210_yohan_nidome.wsb
-今オイゲンさんは眠っていらっしゃ|います。|きっと、安心されたのでしょう。=
-ベオリーヌの村の、ルカさんを連れ|てきてあげてください。|きっと、待ってると思います。=
-それじゃ、よろしくお願いしますね。=
+今オイゲンさんは眠っていらっしゃ|います。|きっと、安心されたのでしょう。=Mr. Eugen is currently asleep. He must have finally felt able to relax.
+ベオリーヌの村の、ルカさんを連れ|てきてあげてください。|きっと、待ってると思います。=Please bring Miss Luka from Beorein Village here. We will be waiting for you.
+それじゃ、よろしくお願いしますね。=I wish you the best on your way.
 !FILE:event/ev_main/t12_lune_main_250_mon_asidome.wsb
-のう、ぬしよ。|もう町を出るのかや？=
-いや、ヨハンさんを待とう。|そろそろ家に戻ってくるころじゃ|ないかな。=
-うむ。|確かにもう少し話を聞いておきたい|ところじゃな。=
+のう、ぬしよ。|もう町を出るのかや？=Say, are we really leaving so soon?
+いや、ヨハンさんを待とう。|そろそろ家に戻ってくるころじゃ|ないかな。=No, let's wait for Johan. He should be back soon.
+うむ。|確かにもう少し話を聞いておきたい|ところじゃな。=Mm. I would certainly like to hear more.
 !FILE:event/ev_main/t12_lune_main_260_yohan_sandome.wsb
-ああ、いらっしゃい、ロレンスさん。|オイゲンさんは今、眠っていらっし|ゃいます。=
-ディアン・ルーベンスさんは現在|ウルリヒという町にお住まいだと|聞きました。=
-とても博識な方ですから、きっと|力になってくれるでしょう。|訊ねてみるといいですよ。=
-それじゃ、よろしくお願いしますね。=
+ああ、いらっしゃい、ロレンスさん。|オイゲンさんは今、眠っていらっし|ゃいます。=Oh, welcome ,Mr. Lawrence.|Mr. Eugen is sleeping right now.
+ディアン・ルーベンスさんは現在|ウルリヒという町にお住まいだと|聞きました。=I've heard that Dian Rubens is currently living in a place called Ulrich.
+とても博識な方ですから、きっと|力になってくれるでしょう。|訊ねてみるといいですよ。=Dian is very knowledgeable, and I am sure will be able to help. You should visit.
+それじゃ、よろしくお願いしますね。=Well then, I wish you the best on your way.
 !FILE:event/ev_main/t12_lune_main_290_yohan_yondome.wsb
 ああ、いらっしゃい、ロレンスさん。|オイゲンさんは今、眠っていらっし|ゃいます。=Oh, welcome, Mr. Lawrence.|Mr. Eugen is sleeping right now.
 なるほど……。|薬の調達には時間がかかるのですね。|わかりました。=I see... So it will take a while to get the medication. I understand.
@@ -2387,8 +2387,8 @@
 !FILE:event/ev_main/t13_deri_main_270_mon_asidome.wsb
 うーん、誰と一緒に旅をするべきか|……。|正直言って、悩むところだ。=Hmmm, who should I travel with?|...|I have to admit, I'm torn.
 しかしそろそろ決めなくてはな。|さて、町に戻るか。=But I'll have to make a decision soon. Well, let's get back to town.
-!FILE:event/ev_main/t20_koji_main_330_mon_asidome.wsb
-先を急ごう=
+!FILE:event/ev_main/t20_koji_main_330_mon_asidome.wsb#debug
+#先を急ごう=
 !FILE:event/ev_main/t5_reno_main_100_first_sell.wsb
 ぬしよ。|リュビンハイゲンで仕入れたクルミ|を売りにいくのかや？=Say, are you going to sell the walnuts you bought in Ruvinheigen?
 ああ、売却できる価格を確認して、|利益が出るなら売ってもいいだろう。=Yeah, I thought I’d check what the current selling price is, and sell them if there’s enough profit.
@@ -2396,7 +2396,7 @@
 　|　 ―　商品の売却について　―=|<<- Selling Goods -
 荷台の商品アイコンをタッチし、|市場にスライドすると商品を|市場に出品した状態になります。=Tap on a “Goods Icon” in your cart to select it, and drag it to the store to put it up for sale.
 商品を市場に出品した状態で|「決済アイコン」をタッチすれば|売却は完了です。=After moving the goods you’d like to sell to the store’s shelf, touch “Finish” to complete the sale.
-商品を「荷台」と「市場」の|両方に置いて「決済」すれば|「購入と売却」を一度に行えます。=You can buy and sell items at the same time by placing goods in both the “cart” and the “market” and pressing “OK”.
+商品を「荷台」と「市場」の|両方に置いて「決済」すれば|「購入と売却」を一度に行えます。=You can buy and sell items at the same time by placing goods in both the “cart” and the “market” and pressing “Finish”.
 購入した商品を別の町に運んで|売却すれば、利益が出ます。=If you take the goods you have bought to another town and sell them, you will make a profit.
 「近すぎる町」で売っても損をして|しまいますので、売値をよく確認|して売却しましょう。=But, if you try to sell the goods in a town that is very close by, you may lose money, so be sure to check the selling price.
 　　　−　ボタン操作　−|①商品の選択　　②キャンセル|③商品の回転　　=<<- Button Controls -|① Select Goods ② Cancel|③ Rotate an Item
@@ -2405,8 +2405,8 @@
 人気の品は「地図」「交易マップ」|画面で確認できます。=You can view which items are popular in a town on the “Map” and “Trade Map”.
 表示される「売値」「買値」は|「平均値」です。相場の上下で|実際の値段は変化します。=The “buy” and “sell” prices shown there are only “average prices”. The actual price will change as the market fluctuates.
 行く町の人気の品を確認して、|行商を行っていきましょう。=Check out what goods are popular in the town you intend to head to, and make your purchase wisely.
-「商品画面」では、商品の|「特産地」と「人気の町」を|一度に確認できます。=On the “goods screen”, you can check which towns specialize in a product, and where it is most popular.
-「人気の品」を効率よく販売|できるように、行商ルートを|組み立てていきましょう。=Plan your routes first to make the most of “popular goods”.
+「商品画面」では、商品の|「特産地」と「人気の町」を|一度に確認できます。=On the “Goods Screen”, you can check which towns specialize in a product, and where it is most popular.
+「人気の品」を効率よく販売|できるように、行商ルートを|組み立てていきましょう。=Plan your routes first to make the most of “Popular Items”.
 !FILE:event/ev_main/t5_reno_main_100_tuto_closede_gate.wsb
 のう、ぬしよ。|出発の前に、まだすることが|あるのではないのかや？=Say, don’t you still have business to do here before we depart?
 そうだな。|町の施設を一通り回ってみようか。=You’re right. I should finish visiting everywhere first.
@@ -6457,7 +6457,7 @@ bg_t02_rubi=bg_yadoheya_small
 もちろん！=You don't even have to ask!
 喜んで！=With pleasure!
 ありがとう、ロレンス。|お前は、最高の相棒だよ……！=Thank you, Lawrence. You're more than I could have ever hoped for...!
-!FILE:event/special/special_gameclear_eve.wsb
+!FILE:event/special/special_gameclear_eve.wsb#special_gameclear dupes with test sysevent_gameclear
 よう。|あんたもなかなか人が悪いな。|三人で旅をするなんて。=Hey. Turns out you do have a wicked soul too. Traveling as a threesome...
 でもまあ、緊張感があって悪くなか|ったぜ。|こういう旅も、いいもんだな。=But it's not so bad, having this tension in the air. This kind of trip can be fun too.
 またあんたと各地を巡る旅に出てみ|たいな。|もちろん、今度はあんたと二人で。=I want to go another around on another trip with you. Just you and me this time, of course.
@@ -6472,19 +6472,19 @@ bg_t02_rubi=bg_yadoheya_small
 じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=
 のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=
 !FILE:event/special/special_gameclear_luka.wsb
-あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=
-ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=
-だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=
-次は何か楽しい目的の旅がしたいな。|おにいちゃんも、そう思わない？=
-釣りに行ったりして、お兄ちゃんと|二人でのんびりしたり、遊んだり。|えへへ、だめかな……？=
-ルカが大きくなったら、またどこか|に連れていってね！|じゃあ、またね！=
+あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
+ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
+だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=So I was really happy to go with you. Traveling so fun!
+次は何か楽しい目的の旅がしたいな。|おにいちゃんも、そう思わない？=Next time, we should go on a trip somewhere just to have fun. Don't you agree, mister?
+釣りに行ったりして、お兄ちゃんと|二人でのんびりしたり、遊んだり。|えへへ、だめかな……？=We could go fishing, or just hang out together and have fun. Ehehe, is it too much...?
+ルカが大きくなったら、またどこか|に連れていってね！|じゃあ、またね！=When I grow up, please take me somewhere again! See you around!
 !FILE:event/special/special_gameclear_nora.wsb
-あっ、ロレンスさん……。|私との旅はどうでしたか？|楽しかったのなら、いいのですけど。=
-私とエネクと、本当にお世話になり|っぱなしで。|いくら感謝しても、しきれないです。=
-あの、ロレンスさん。|その……、旅の間は言えなかったん|ですが、私、伝えたいことがあって。=
-実は私……、その、えっと、何て言|ったらいいんでしょう。|その、ロレンスさんのことが……。=
-あっ、なっ、なんでもないです！|あはは、何て言えばいいのかわかん|なくなっちゃいました……。=
-また旅に出るときは、ぜひ声をかけ|てくださいね。|いつでもお供します。=
+あっ、ロレンスさん……。|私との旅はどうでしたか？|楽しかったのなら、いいのですけど。=Ah, Mr. Lawrence. What did you think of traveling with me? I hope you had fun.
+私とエネクと、本当にお世話になり|っぱなしで。|いくら感謝しても、しきれないです。=You've been such a great help to me and Enek. I could never thank you enough.
+あの、ロレンスさん。|その……、旅の間は言えなかったん|ですが、私、伝えたいことがあって。=Um, Mr. Lawrence... I... There was something I wanted to tell you on the trip, but I was never able to.
+実は私……、その、えっと、何て言|ったらいいんでしょう。|その、ロレンスさんのことが……。=You see, well, I, how should I say this... Mr. Lawrence, I-I lo--
+あっ、なっ、なんでもないです！|あはは、何て言えばいいのかわかん|なくなっちゃいました……。=Ah, n-no, ignore me! Ah-hah-hah, I don't even know what I'm saying anymore...
+また旅に出るときは、ぜひ声をかけ|てくださいね。|いつでもお供します。=If you set out on another trip, please let me know. I will join you any time.
 !FILE:event/special/special_horo_c_end.wsb
 # Common lines
 　|　――あれから、三年が経った。=
@@ -6519,47 +6519,41 @@ bg_t02_rubi=bg_yadoheya_small
 今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=
 # Common lines
 !FILE:event/special/special_luka_a_end.wsb
-俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=
-俺は対岸の町、ザーラントと提携し、|商売を始めた。=
 # Common lines
-!FILE:event/special/special_luka_b_end.wsb
-俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=
-俺は、この村で宿を始めた。=
-ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=
-この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=
-ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=
-小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=
-いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=
-それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=
-!FILE:event/special/special_luka_c_end.wsb
-俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=
-俺は、この村で海産物を扱う店を|始めた。=
-村の特産品を売り、その儲けで対岸|の町の服を買う。|そのつもりだった。=
-しかし、ひとつ誤算があった。|それは、思いの外一人での商店経営|が大変であったこと。=
-行商していたときと違い、商店は一|人ではなかなか回らないものらしい。|商売というのは難しいものだ。=
-ルカが手伝ってくれると思っていた|のだが、実際には忙しいようでなか|なか来てくれない。=
-旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=
+!FILE:event/special/special_luka_b_end.wsb#dupes
+俺は、この村で宿を始めた。=I opened an inn in the village.
+ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though few people rarely visited, more and more people began to come to buy goods important from across the sea.
+この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly coming back to life. Smiles are beginning to appear on people's faces.
+ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out will small chores at the inn. She's the real star of the show, drawing customers in.
+小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=“A small slice of happiness.”|That fits my humble life here down to a T.
+いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=One day I will bury my bones in this village. That's the way both I, and the people of this village, want it to be.
+それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=Until then, may this happiness continue on and on. That's my dream...
+!FILE:event/special/special_luka_c_end.wsb#dupes
+俺は、この村で海産物を扱う店を|始めた。=I set up a seafood shop in the village.
+村の特産品を売り、その儲けで対岸|の町の服を買う。|そのつもりだった。=The idea was to sell the village's specialties and use the profits to buy clothes from the town across the sea.
+しかし、ひとつ誤算があった。|それは、思いの外一人での商店経営|が大変であったこと。=But, there was one thing I'd forgotten to account for. It was unexpectedly difficult to run a shop alone.
+行商していたときと違い、商店は一|人ではなかなか回らないものらしい。|商売というのは難しいものだ。=Unlike when I was a lone peddler, trying to run a shop by yourself is like sailing on a windless day. Business is difficult.
+ルカが手伝ってくれると思っていた|のだが、実際には忙しいようでなか|なか来てくれない。=I thought Luka would help me, but in reality, she seemed quite busy and could hardly visit.
+旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=I guess I should have spoken with her more while we were traveling. Though, it's a bit late for that now...
 !FILE:event/special/special_luka_s_end.wsb
-俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=
-俺は対岸の町、ザーラントと提携し、|商売を始めた。=
 # Common lines
-……ん？|どうしたの、おにいちゃん。|ルカの顔、まじまじと見て。=
-いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=
-もう、大丈夫って言ったでしょ！|心配しなくても、ちゃんと向こう岸|に着くよ！=
-天気もいいし、大丈夫だよ。|ルカだって、もうこうして一人前に|なったんだから！=
-はは、すまんすまん。|そういうつもりで言ったんじゃなか|ったんだ。=
-まったくもう、おにいちゃんはいつ|までたってもルカのこと子供扱いな|んだから……。=
-そんなことないさ。|そうだな、ザーラントに着いたらお|詫びの印に何かごちそうしよう。=
-ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=
-そうなのか？|そんな情報、いつの間に……。=
-えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=
-お兄ちゃんの商売に役に立つかと思|って、いろいろ調べておいたんだ！=
-えっとね、羽根を織り込んだ白い帽|子が人気なんだって。|すっごく、可愛いんだって！=
-何だ、それが目当てか。=
-えへへ……。=
-よし、いいだろう。|視察を兼ねて行ってみようか。=
-それに、そんな可愛い帽子ならルカ|に良く似合うだろうしな。=
-ほんと？|おにいちゃん、だーいすき！=
+……ん？|どうしたの、おにいちゃん。|ルカの顔、まじまじと見て。=...Hm? What’s wrong, mister?|You've been staring at me.
+いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=N-No, it's nothing. I was just lost in thought. I've got a few worries on my mind.
+もう、大丈夫って言ったでしょ！|心配しなくても、ちゃんと向こう岸|に着くよ！=I already told you, it'll be fine! Don't worry, we'll make it to the other side!
+天気もいいし、大丈夫だよ。|ルカだって、もうこうして一人前に|なったんだから！=The weather is good too, so it's all fine. Even I'm old enough to sail by myself!
+はは、すまんすまん。|そういうつもりで言ったんじゃなか|ったんだ。=Hah-hah, sorry. I didn't mean it like that.
+まったくもう、おにいちゃんはいつ|までたってもルカのこと子供扱いな|んだから……。=Hmph. It's because you're always treating me like a child...
+そんなことないさ。|そうだな、ザーラントに着いたらお|詫びの印に何かごちそうしよう。=That's not true.|I know, how about I treat you to some food when we get to Saarland to make up for it?
+ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=I'm more interested in clothes. I heard that they built a new hat store on the main street?
+そうなのか？|そんな情報、いつの間に……。=Really? When did you hear that...?
+えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=Ehehe, I think I probably know more about that place than you.
+お兄ちゃんの商売に役に立つかと思|って、いろいろ調べておいたんだ！=I thought it might be useful for your business, so I did some research!
+えっとね、羽根を織り込んだ白い帽|子が人気なんだって。|すっごく、可愛いんだって！=Oh yeah, and I heard that white hats with feathers on them are very popular. Apparently, they're really pretty!
+何だ、それが目当てか。=So that's your motive.
+えへへ……。=Ehehe...
+よし、いいだろう。|視察を兼ねて行ってみようか。=Alright then, we can have a look around while we're there.
+それに、そんな可愛い帽子ならルカ|に良く似合うだろうしな。=Besides, I'm sure such a pretty hat would look great on you.
+ほんと？|おにいちゃん、だーいすき！=Really? I loooove you, mister!
 !FILE:event/special/special_max_haremevent.wsb
 ……ぬしよ。=
 んん……？=
@@ -6788,9 +6782,9 @@ bg_t02_rubi=bg_yadoheya_small
 『料理長自慢のおすすめメニューが|ついに完成、たまには大事な方と素|敵なお食事はいかが』……か。=“Our chef’s proudly recommended specials menu is now available. Why not try treating your special someone to a nice menu?”
 ほほう、大事な方……とな。|料理も気になるが、ぬしの行動も|気になるのう……。=Oh ho, a special someone, is it?  I’m interested in the food, but I’m also interested in what you’ll do...
 !FILE:event/system/visit_limitation.wsb
-のう、ぬしよ。|次はレノスの町に向かうのではなか|ったのかや？=
-てっきりわっちは契約を先に済ませ|るものだとばかり思っておったの|じゃが。=
-おっと、そうだったな。|レノスに向かおう。=
+のう、ぬしよ。|次はレノスの町に向かうのではなか|ったのかや？=Say, are we not going to visit the town of Lenos next?
+てっきりわっちは契約を先に済ませ|るものだとばかり思っておったの|じゃが。=I had thought that our first order of business would be to complete the contract.
+おっと、そうだったな。|レノスに向かおう。=Oops, you're right. Let's go to Lenos.
 !FILE:event/test/opening.wsb
 久しぶりじゃのう。|わっちの顔を覚えておったかや？=
 なに！？忘れたと！=
@@ -6800,13 +6794,13 @@ bg_t02_rubi=bg_yadoheya_small
 ・・・・・・・・。=
 !FILE:event/test/ren_dummy.wsb
 恋愛イベントのダミー=
-!FILE:event/test/sysevent_gameclear_eve.wsb#debug
-よう。|あんたもなかなか人が悪いな。|三人で旅をするなんて。=
-でもまあ、緊張感があって悪くなか|ったぜ。|こういう旅も、いいもんだな。=
-またあんたと各地を巡る旅に出てみ|たいな。|もちろん、今度はあんたと二人で。=
-商売ができることはもう十分すぎる|ほど判ったからな、次の旅はいっそ|商売抜きで行こうじゃないか。=
-そうだな、夏になったら山へ保養に|行くというのはどうだ？|誰も知らないような、静かな村へ。=
-ははっ、考えてたらこっちが照れく|さくなってきちまった。|じゃあ、またな！=
+!FILE:event/test/sysevent_gameclear_eve.wsb#debug? dupes with special_gameclear
+よう。|あんたもなかなか人が悪いな。|三人で旅をするなんて。=Hey. Turns out you do have a wicked soul too. Traveling as a threesome...
+でもまあ、緊張感があって悪くなか|ったぜ。|こういう旅も、いいもんだな。=But it's not so bad, having this tension in the air. This kind of trip can be fun too.
+またあんたと各地を巡る旅に出てみ|たいな。|もちろん、今度はあんたと二人で。=I want to go another around on another trip with you. Just you and me this time, of course.
+商売ができることはもう十分すぎる|ほど判ったからな、次の旅はいっそ|商売抜きで行こうじゃないか。=We've already done plenty on the business side of things, so how about we do something non-business next time?
+そうだな、夏になったら山へ保養に|行くというのはどうだ？|誰も知らないような、静かな村へ。=I know, what about in summer, we go to the mountains? To a quiet village where no one knows us.
+ははっ、考えてたらこっちが照れく|さくなってきちまった。|じゃあ、またな！=Hah-hah, just thinking about it has got me feeling embarrassed. Until then!
 !FILE:event/test/sysevent_gameclear_horo.wsb
 ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=
 わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=
@@ -6815,19 +6809,19 @@ bg_t02_rubi=bg_yadoheya_small
 じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=
 のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=
 !FILE:event/test/sysevent_gameclear_luka.wsb
-あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=
-ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=
-だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=
-次は何か楽しい目的の旅がしたいな。|おにいちゃんも、そう思わない？=
-釣りに行ったりして、お兄ちゃんと|二人でのんびりしたり、遊んだり。|えへへ、だめかな……？=
-ルカが大きくなったら、またどこか|に連れていってね！|じゃあ、またね！=
+あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
+ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
+だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=So I was really happy to go with you. Traveling so fun!
+次は何か楽しい目的の旅がしたいな。|おにいちゃんも、そう思わない？=Next time, we should go on a trip somewhere just to have fun. Don't you agree, mister?
+釣りに行ったりして、お兄ちゃんと|二人でのんびりしたり、遊んだり。|えへへ、だめかな……？=We could go fishing, or just hang out together and have fun. Ehehe, is it too much...?
+ルカが大きくなったら、またどこか|に連れていってね！|じゃあ、またね！=When I grow up, please take me somewhere again! See you around!
 !FILE:event/test/sysevent_gameclear_nora.wsb
-あっ、ロレンスさん……。|私との旅はどうでしたか？|楽しかったのなら、いいのですけど。=
-私とエネクと、本当にお世話になり|っぱなしで。|いくら感謝しても、しきれないです。=
-あの、ロレンスさん。|その……、旅の間は言えなかったん|ですが、私、伝えたいことがあって。=
-実は私……、その、えっと、何て言|ったらいいんでしょう。|その、ロレンスさんのことが……。=
-あっ、なっ、なんでもないです！|あはは、何て言えばいいのかわかん|なくなっちゃいました……。=
-また旅に出るときは、ぜひ声をかけ|てくださいね。|いつでもお供します。=
+あっ、ロレンスさん……。|私との旅はどうでしたか？|楽しかったのなら、いいのですけど。=Ah, Mr. Lawrence. What did you think of traveling with me? I hope you had fun.
+私とエネクと、本当にお世話になり|っぱなしで。|いくら感謝しても、しきれないです。=You've been such a great help to me and Enek. I could never thank you enough.
+あの、ロレンスさん。|その……、旅の間は言えなかったん|ですが、私、伝えたいことがあって。=Um, Mr. Lawrence... I... There was something I wanted to tell you on the trip, but I was never able to.
+実は私……、その、えっと、何て言|ったらいいんでしょう。|その、ロレンスさんのことが……。=You see, well, I, how should I say this... Mr. Lawrence, I-I lo--
+あっ、なっ、なんでもないです！|あはは、何て言えばいいのかわかん|なくなっちゃいました……。=Ah, n-no, ignore me! Ah-hah-hah, I don't even know what I'm saying anymore...
+また旅に出るときは、ぜひ声をかけ|てくださいね。|いつでもお供します。=If you set out on another trip, please let me know. I will join you any time.
 !FILE:event/test/sysevent_max_haremevent.wsb
 ……ぬしよ。=
 んん……？=
