@@ -618,10 +618,10 @@
 桟橋へ行けばもう戻れない。|覚悟を決めなければ。=If we go to the pier, there's no going back.
 この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in the depths of this cave...?
 さあ、村に戻ろう。最後の大|一番だ。=
-ベオリーヌに投資する銀貨は|１５００００枚だったな。=
-ベオリーヌに投資する銀貨は|３０００００枚だったな。=
-ベオリーヌに投資する銀貨は|６０００００枚だったな。=
-ベオリーヌに投資する銀貨は|１００００００枚だったな。=
+ベオリーヌに投資する銀貨は|１５００００枚だったな。=Beorein are hoping for an investment of 150000 coins.
+ベオリーヌに投資する銀貨は|３０００００枚だったな。=Beorein are hoping for an investment of 300000 coins.
+ベオリーヌに投資する銀貨は|６０００００枚だったな。=Beorein are hoping for an investment of 600000 coins.
+ベオリーヌに投資する銀貨は|１００００００枚だったな。=Beorein are hoping for an investment of 1000000 coins.
 みんな俺について来い。旅は|まだまだ続くぞ。=Everyone come with me. The journey continues!
 !FILE:town.dat
 ポロソン=Poroson
