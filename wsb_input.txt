@@ -1,4 +1,4 @@
-﻿!FILE:COMMON
+!FILE:COMMON
 ＄ホロと|とっても　いいカンジ！=＄Holo seems very pleased!#That seemed to go down well with Holo!
 ＄ノーラと|とっても　いいカンジ！=＄Norah seems very pleased!
 ＄エーブと|とっても　いいカンジ！=＄Eve seems very pleased!!
@@ -391,7 +391,7 @@
 ほれ、ぬしよ。|口を開けぬか。|あーん……。=Here, open wide. Say “aaah”.
 な、なんだか恥ずかしいな……。=T-This is kind of embarrassing.
 くふふ、そんなことを言える余裕が|あるなら大丈夫じゃ。=Heh, if you can make a retort like that, you must be okay.
-しかし、こんな機会は滅多にないか|らの。|観念して口を開けてくりゃれ？=But you shan’t rarely get a chance like this. Why don’t you just give up and open your mouth?
+しかし、こんな機会は滅多にないか|らの。|観念して口を開けてくりゃれ？=But you will rarely get a chance like this. Why do you not just give up and open your mouth?#would "shan't rarely" not mean often
 ほれ、あーん……。=Here, aaaah...
 あ、あーん……。=A-Aaah...
 ……どうじゃ？|美味いかや？=...How is it? Tasty?
@@ -3852,22 +3852,22 @@
 せっかく町に着いたんじゃ。|やはりあたたかい料理とよい酒じゃ|な、ぬしよ？=We're finally in a town. I think some warm food and good wine is in order, no?
 ………………。=......
 ぬし？|どうしたんじゃ？|そんなに汗をかいて。=What is it? You’re sweating quite a lot.
-あ、ああ、そうかな。|大丈夫な、つもりなんだが……。=A-Ah, is that right? I didn't think it was anything...
-大丈夫な顔はしておらんぞ。|少し、熱を計らせてみよ。=
-……これはいかん！|とにかく宿じゃ！|それまで倒れずに頑張れ、ぬし！=This will never do! Let’s find an inn, quick! Try to hold on until then.
+あ、ああ、そうかな。|大丈夫な、つもりなんだが……。=A-Ah, is that so? I hoped it's nothing but...
+大丈夫な顔はしておらんぞ。|少し、熱を計らせてみよ。=You don't make a face as if everything was all right.|Let me check if you have a fever.
+……これはいかん！|とにかく宿じゃ！|それまで倒れずに頑張れ、ぬし！=This will not do! Let’s find an inn, quick! Try to hold on until then.
 ……目が覚めたかや？=...Have you come to?
 俺、寝てたのか……。|なんとか部屋にたどり着いたところ|までは覚えているが……。=Was I sleeping? I just about remember getting into the room, but after that...
 倒れるように寝てしまったからの。|無理もない。=You nearly collapsed and fell asleep.|’Tis no wonder.
 そうか……。|でも、寝たら少しすっきりしたよう|だ。=I see... But, I do feel a little better now that I’ve slept.
-それはよかった。|確かに顔色も多少は戻っておるよう|じゃ。=
-あたたかい粥も用意してある。|起きられるなら、少しでも食べて|おくがよかろう。=
+それはよかった。|確かに顔色も多少は戻っておるよう|じゃ。=I'm glad to hear that.|It seems that the color has also returned to your face.
+あたたかい粥も用意してある。|起きられるなら、少しでも食べて|おくがよかろう。=I prepared some warm rice porridge. If you can get up, you could eat a little.
 なんなら、食べさせてやってもよい|ぞ？=If you’d like, I’ll even feed you.
 ホロに食べさせてもらう=Take Holo’s help
-自分で食べる=
+自分で食べる=Eat yourself.
 # Common lines
-い、いや、そこまで世話はかけられ|ない。|自分で食べるよ。=
-寝たら少し良くなったようだし。|気遣ってくれてありがとう、ホロ。=
-なに、礼を言われるほどのことは|しておらぬ。|食べてゆっくり休んでくりゃれ……。=
+い、いや、そこまで世話はかけられ|ない。|自分で食べるよ。=N-No, I can't bother you that much.|I'll eat by myself.
+寝たら少し良くなったようだし。|気遣ってくれてありがとう、ホロ。=I feel a little better after sleeping.|Thank you for your concern, Holo.
+なに、礼を言われるほどのことは|しておらぬ。|食べてゆっくり休んでくりゃれ……。=I didn't do anything so great as to deserve gratitude.|Eat and rest well...
 !FILE:event/ev_ren/ren_hor_23_kanemoti.wsb
 ほう。|うまそうな匂いのする露店が並んで|おる。=
 ぬしも、ちょうど腹がすいておる頃|じゃろう？|わっちは、あのあぶり肉がよい！=
