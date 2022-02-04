@@ -227,7 +227,7 @@
 町情報　グラハ=Town Information: Graha
 広大な畑の真ん中にグラハという|村があるよ。|素朴な田舎だが一面広がる麦畑は|とても美しいし、収穫祭の時期に|は人が集まって賑わう良い村だよ。=There is a village called Graha in the middle of vast fields. It's an unsophisticated country village, but the wheat fields surrounding it are beautiful. Graha is even nicer during the harvest festival, when it is bustling with people.
 町情報　エルン=Town Information: Erne
-ベオリーヌから南に進むとエルン|という村があるらしい。|近頃、山道が見つかりエルンへの|移動が楽になったようだ。=#ignore me
+ベオリーヌから南に進むとエルン|という村があるらしい。|近頃、山道が見つかりエルンへの|移動が楽になったようだ。=I heard that if you go south from Beorein, you will come across a village called Erne. Apparently, someone even discovered a mountain path which makes it easier to get there.
 町情報　リューン=Town Information: Lune
 川沿いに北へ向かえばリューンと|いう村にたどり着くよ。|昔は漁業で生計を立てていたけど|うまくいかなくなったのか今は工|房や畜産に力を入れてるね。=If you head north along the river, you'll reach a village called Lune. They used to make a living from fishing, but because that didn't work too well, they're focusing on workshops and livestock farming now.
 町情報　デリンツコルツ=Town Information: Delintskolz

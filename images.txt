@@ -444,6 +444,7 @@ towninfo/TownInfo01
 今は熱心な正教徒達の住む町。
 収入の大半を教会へ寄付して
 いるため町並みは質素である。
+It used to be a pagan sanctuary, but now it is a town of faithful adherents to the Church. The buildings are simple because most of the income is donated to the church.
 
 towninfo/TownInfo02
 リュビンハイゲン=Ruvinheigen
@@ -451,6 +452,7 @@ towninfo/TownInfo02
 都市。町の中心にある大聖堂
 や商館·露店を訪れる人で町
 は常に賑わっている。
+A large parish city surrounded by a sturdy wall. It's always bustling with visitors to the cathedral, shops and stalls in the center of the town.
 
 towninfo/TownInfo03
 ラムトラ=Lamtra
@@ -458,6 +460,7 @@ towninfo/TownInfo03
 の多く住む町。町の近くの草
 原には狼が出現するため旅人
 たちからは敬遠されている。
+A town home to many pagans surrounded by an eerie forest. The town is shunned by travelers due to the presence of wolves in the forest nearby.
 
 towninfo/TownInfo04
 クメルスン=Kumersun
@@ -465,6 +468,7 @@ towninfo/TownInfo04
 川沿いの町。川や湖で獲れる
 豊富な魚介類は多くの町へ出
 荷されている。
+A riverside town built for economic development. The abundant fish and shellfish caught in the rivers and lakes are shipped to many towns.
 
 towninfo/TownInfo05
 レノス=Lenos
@@ -472,6 +476,7 @@ towninfo/TownInfo05
 大きな港町。港には多くの船
 が発着し活気に満ちている。
 毛皮と木材の町として有名。
+A large port town built near the headwaters of the River Roam. The harbor is full of activity with boats arriving and departing. It's famous for furs and timber.
 
 towninfo/TownInfo06
 ディーモルン=Diemoln
@@ -479,6 +484,7 @@ towninfo/TownInfo06
 かつては凡庸な港町であった
 が近年は大聖堂が建てられる
 など教化が進んでいる。
+A large town that reaps benefits from its bay. It was once a forgettable port town, but in recent years it has become more cultured with the building of a new cathedral.
 
 towninfo/TownInfo07
 ベオリーヌ=Beorein
@@ -486,6 +492,7 @@ towninfo/TownInfo07
 村。目立った特産品もなく、
 商人が訪れることも少ない。
 そのため過疎化が進んでいる。
+A small fishing village surrounded by the scent of the sea. With no outstanding local products, merchants rarely visit, so its population has been shrinking. 
 
 towninfo/TownInfo07_lv2
 ベオリーヌ=Beorein
@@ -493,6 +500,7 @@ towninfo/TownInfo07_lv2
 村。最近ではささやかながら
 灯台も造られ、対岸の特産物
 が市場に並ぶようになった。
+A small fishing village surrounded by the scent of the sea. A small lighthouse was recently built, and local produce from the other side of the shore is now available to buy.
 
 towninfo/TownInfo07_lv3
 ベオリーヌ=Beorein
@@ -500,6 +508,7 @@ towninfo/TownInfo07_lv3
 町。道や港が整備されてから
 は、訪れる人や荷馬車も随分
 と多くなったと聞く。
+A small fishing village surrounded by the scent of the sea. The number of visitors and wagons has increased considerably since the roads and the port were improved.
 
 towninfo/TownInfo07_lv4
 ベオリーヌ=Beorein
@@ -507,6 +516,7 @@ towninfo/TownInfo07_lv4
 交易で栄え、急激に発展して
 いる。じきに隣町ディーモル
 ンを凌ぐのではないかとの噂。
+A large port town facing the landlocked sea. The town is flourishing and developing rapidly. Rumor has it that it will soon surpass the neighboring town of Diemoln.
 
 towninfo/TownInfo07_lv5
 ベオリーヌ=Beorein
@@ -514,6 +524,7 @@ towninfo/TownInfo07_lv5
 大港湾都市。その繁栄ぶりは
 既に地方都市の規模を越え、
 一大国家の体を為している。
+A large port city with a number of large merchant fleets. Its prosperity has surpassed that of a normal city, and it has become a nation of its own.
 
 towninfo/TownInfo08
 レヤージュ=Leyage
@@ -521,6 +532,7 @@ towninfo/TownInfo08
 な交易都市。異国から仕入れ
 られる生地は良質で各地から
 商人も多く訪れる。
+A small trading town located on the upper reaches of the River Roam. Its high-quality fabrics which are imported from foreign lands attract merchants from far and wide.
 
 towninfo/TownInfo09
 ウルリヒ=Ulrich
@@ -528,6 +540,7 @@ towninfo/TownInfo09
 さな町。旅の中継地点となる
 この町ではワインと温泉が旅
 人や商人達の心を癒している。
+The sweet scent of an orchard pervades this small town. Its wine and hot springs offer a welcome respite for travelers and traders.
 
 towninfo/TownInfo10
 グラハ=Graha
@@ -535,6 +548,7 @@ towninfo/TownInfo10
 ある小さな田舎村。春と秋に
 は豊作と収穫を祈願した祭が
 行われ近隣から多く人が集る。
+A small country village surrounded by vast fields of wheat. In the spring and autumn, the village hold a harvest festival which attracts people from all over the region.
 
 towninfo/TownInfo11
 エルン=Erne
@@ -542,6 +556,7 @@ towninfo/TownInfo11
 草原にある村。草原には家畜
 が放牧され、長閑なその姿は
 時の経つのも忘れさせる。
+A village covered in greenery as far as the eye can see. The gentle sight of livestock grazing in the meadows could make one forget all notion of time.
 
 towninfo/TownInfo12
 リューン=Lune
@@ -549,6 +564,7 @@ towninfo/TownInfo12
 かつては漁村であったが生計
 が成り立たず、現在は工房と
 畜産によってうるおっている。
+An ancient village on the coast. It used to be a fishing village, but unable to manage, its people now depend on workshops and livestock farming to live.
 
 towninfo/TownInfo13
 デリンツコルツ=Delintskolz
@@ -556,6 +572,7 @@ towninfo/TownInfo13
 だけでなく観出に訪れる者も
 多く常に活気のある町である。
 そびえる山々は美しく有名。
+A large city that acts as a link between regions. It is always lively with traders and visitors. The towering mountains which surround it are famous.
 
 towninfo/TownInfo14
 リボールカント=Liberkant
@@ -563,6 +580,7 @@ towninfo/TownInfo14
 誇り高き職人たちが多く集ま
 り、工房の立ち並ぶ旧市街地
 では昼夜明かりが灯っている。
+A town with a long history in manufacturing. The old town is full of proud craftsmen and their workshops are lit up both day and night.
 
 towninfo/TownInfo15
 ルッキホルク=Ruckiholk
@@ -570,6 +588,7 @@ towninfo/TownInfo15
 樹園にはリンゴの木が並び収
 穫期には綺麗な赤で彩られる。
 湖で捕れる魚の味は不評と噂。
+A village surrounded by forests and lakes. Apple trees line the forest and turn a beautiful red during the harvest season. Rumor has it that the local fish aren't very popular.
 
 towninfo/TownInfo16
 ガーノ=Gahno
@@ -577,6 +596,7 @@ towninfo/TownInfo16
 される豊富な資源を巡り、山
 向こうの町と争っているため
 町の北の門は封鎖されている。
+A large mining town. The northern gate of the town is sealed because of a dispute with the town on the other side of the mountain over resources.
 
 towninfo/TownInfo17
 アールマルン=Ahrmaln
@@ -584,6 +604,7 @@ towninfo/TownInfo17
 山越えをする商人たちを遊牧
 された羊達が迎えてくれる
 清純な正教徒が多く住む。
+A rustic village at the foot of the mountains. Home to many Orthodox believers, nomadic sheep greet traders as they cross the mountains.
 
 towninfo/TownInfo18
 ブルラッティア=Bourattia
@@ -591,6 +612,8 @@ towninfo/TownInfo18
 の商人が行き交う大商業者市。
 町中には珍しい商品が立ち並
 び、訪れる者を飽きさせない。
+A large commercial city which many merchants visit as a trading hub between east and west. The town has a wide range of unusual products so visitors never get bored.
+
 
 towninfo/TownInfo19
 ロズサルト=Rossalt
@@ -598,6 +621,7 @@ towninfo/TownInfo19
 治める町。小高い丘に作られ
 ているため訪れる人も少ない。
 高台から見下す景色は絶景。
+A town which has been governed by a pagan lord since ancient times. Built on a small hill, few people visit it. The view from the hill is spectacular.
 
 towninfo/TownInfo20
 小島=Iselt
@@ -605,6 +629,7 @@ towninfo/TownInfo20
 されている小島。
 島には洞窟があり奥には小さ
 な祭壇が祀られている。
+A small island that is considered to be sacred by the villagers of Beorein. The island is host to a cave with a small altar inside.
 
 towninfo/TownInfo21
 ザーラント=Saarland
@@ -612,3 +637,4 @@ towninfo/TownInfo21
 服飾で有名な町。
 北への玄関口としても多くの
 商人が訪れる。
+A town is famous for clothing, home to many different types. It also acts as the gateway to the north, and attracts many traders.

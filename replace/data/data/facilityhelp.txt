@@ -28,7 +28,7 @@
 [Cave]\n???
 [Port]\nEugen is here.
 [Rolf's House]\nRolf is here.
-[Village Leader's House]\nThe village leader is here.
+[Village Chief's House]\nThe village leader is here.
 [Town Mayor's House]\nThe town mayor is here.
 [Palace]\nThe king is here.
 [Diana's House]\nDeposit materials needed for the alchemy workshop here.
