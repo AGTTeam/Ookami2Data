@@ -22,28 +22,29 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.20,Default,,0,0,0,,さあゲームをプレイ終了しました。いかがでしたか
-Dialogue: 0,0:00:03.20,0:00:08.10,Default,,0,0,0,,や、今回ですね、第2作目狼と香辛料の第2作目ということでDSゲームね
-Dialogue: 0,0:00:08.10,0:00:10.52,Default,,0,0,0,,や〜ロレンスやっと出てきましたね
-Dialogue: 0,0:00:10.52,0:00:13.42,Default,,0,0,0,,や、前回寂しかったなぁ、はは
-Dialogue: 0,0:00:13.42,0:00:15.70,Default,,0,0,0,,いかがですか 皆さんロレンスになりまして
-Dialogue: 0,0:00:15.70,0:00:19.80,Default,,0,0,0,,皆さん、あの、いろいろね、女性のキャラクターたちとあんなことやそんなことやね
-Dialogue: 0,0:00:19.80,0:00:22.27,Default,,0,0,0,,こんなことにも合いながら大変な目に遭いまして
-Dialogue: 0,0:00:22.27,0:00:28.57,Default,,0,0,0,,そしてなぁ、良い思いもしながら、あの、いろいろね、イベントを乗り越えて
-Dialogue: 0,0:00:28.57,0:00:31.92,Default,,0,0,0,,あの、皆さんはホロのルートが良かったですか
-Dialogue: 0,0:00:32.67,0:00:34.45,Default,,0,0,0,,あ、あなたはエーブよかった？
-Dialogue: 0,0:00:35.00,0:00:37.10,Default,,0,0,0,,え？あなたはノーラがよかった？
-Dialogue: 0,0:00:37.62,0:00:41.52,Default,,0,0,0,,は〜ルカですか。へへ、この罪作り、へへ
-Dialogue: 0,0:00:41.47,0:00:44.87,Default,,0,0,0,,まぁ、いろいろね。あの、世人たちがね、いますので
-Dialogue: 0,0:00:44.87,0:00:47.87,Default,,0,0,0,,皆さんの好みにあった方が必ずいるんじゃないかなと思いながら
-Dialogue: 0,0:00:47.87,0:00:50.20,Default,,0,0,0,,え、うそ
-Dialogue: 0,0:00:50.20,0:00:52.20,Default,,0,0,0,,あなたはロレンスがいいですか？
-Dialogue: 0,0:00:52.20,0:00:54.45,Default,,0,0,0,,あ、そうですか。意外ですね
-Dialogue: 0,0:00:54.45,0:00:56.42,Default,,0,0,0,,男性にもモテるんですかね。髭は
-Dialogue: 0,0:00:56.42,0:00:58.95,Default,,0,0,0,,あ、失礼しました女性でしたね。はい
-Dialogue: 0,0:00:58.95,0:01:03.32,Default,,0,0,0,,いやなんとね老若男女すべての方々に支持されるゲームであってほしいと
-Dialogue: 0,0:01:03.32,0:01:04.82,Default,,0,0,0,,願う次第でございます
-Dialogue: 0,0:01:04.82,0:01:07.05,Default,,0,0,0,,さあ、皆さんこれを聞きましたらもう一度ですね
-Dialogue: 0,0:01:07.05,0:01:12.30,Default,,0,0,0,,あの、プレイしまして改めて自分の好みを再確認していただければ嬉しいだ
-Dialogue: 0,0:01:12.30,0:01:14.00,Default,,0,0,0,,入れてない俺頑張りました
-Dialogue: 0,0:01:14.00,0:01:17.87,Default,,0,0,0,,はい！それでは皆さんどうもありがとうございました。ロレンス役の福山潤
+Dialogue: 0,0:00:00.00,0:00:03.20,Default,,0,0,0,,You've cleared the game. What did you think?
+Dialogue: 0,0:00:03.20,0:00:08.10,Default,,0,0,0,,So, this is the second Spice & Wolf DS game...
+Dialogue: 0,0:00:08.10,0:00:10.52,Default,,0,0,0,,Ah~ Lawrence finally made an appearance.
+Dialogue: 0,0:00:10.52,0:00:13.42,Default,,0,0,0,,I missed him last time, hah-hah.
+Dialogue: 0,0:00:13.42,0:00:15.70,Default,,0,0,0,,So, how was it to become Lawrence?
+Dialogue: 0,0:00:15.70,0:00:19.80,Default,,0,0,0,,Spending time with the female characters...
+Dialogue: 0,0:00:19.80,0:00:22.27,Default,,0,0,0,,getting into all kinds of trouble,
+Dialogue: 0,0:00:22.27,0:00:28.57,Default,,0,0,0,,and having fun while clearing events.
+Dialogue: 0,0:00:28.57,0:00:31.92,Default,,0,0,0,,So, did you enjoy Holo's route?
+Dialogue: 0,0:00:32.67,0:00:34.45,Default,,0,0,0,,Ah, you preferred Eve's?
+Dialogue: 0,0:00:35.00,0:00:37.10,Default,,0,0,0,,Huh? You liked Norah's?
+Dialogue: 0,0:00:37.62,0:00:41.52,Default,,0,0,0,,Haaah, Luka? Heh-heh, how naughty~ Heh.
+Dialogue: 0,0:00:41.47,0:00:44.87,Default,,0,0,0,,Well, there's all kinds of characters,
+Dialogue: 0,0:00:44.87,0:00:47.87,Default,,0,0,0,,so I'm sure there must be one you like.
+Dialogue: 0,0:00:47.87,0:00:50.20,Default,,0,0,0,,Huh...? No way!
+Dialogue: 0,0:00:50.20,0:00:52.20,Default,,0,0,0,,Lawrence is your favorite?! 
+Dialogue: 0,0:00:52.20,0:00:54.45,Default,,0,0,0,,Huh, I see. I wasn't expecting that.
+Dialogue: 0,0:00:54.45,0:00:56.42,Default,,0,0,0,,Are beards also popular with men?
+Dialogue: 0,0:00:56.42,0:00:58.95,Default,,0,0,0,,Oh, you're a woman? Whoops.
+Dialogue: 0,0:00:58.95,0:01:03.32,Default,,0,0,0,,I hope that this game will be supported
+Dialogue: 0,0:01:03.32,0:01:04.82,Default,,0,0,0,,by people of all ages and sexes.
+Dialogue: 0,0:01:04.82,0:01:07.05,Default,,0,0,0,,Now you've seen this, you can start again.
+Dialogue: 0,0:01:07.05,0:01:12.30,Default,,0,0,0,,I hope you can reaffirm your favorites.
+Dialogue: 0,0:01:12.30,0:01:14.00,Default,,0,0,0,,I'll work hard to try and become one.
+Dialogue: 0,0:01:14.00,0:01:15.87,Default,,0,0,0,,Alright! Thank you, everyone.
+Dialogue: 0,0:01:15.00,0:01:17.87,Default,,0,0,0,,Jun Fukuyama playing Lawrence.

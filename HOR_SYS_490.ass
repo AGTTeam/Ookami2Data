@@ -22,18 +22,18 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.85,Default,,0,0,0,,お疲れ様でした。ホロ役の小清水亜美です。
-Dialogue: 0,0:00:03.85,0:00:07.90,Default,,0,0,0,,ホロのエンディング全部見ていただけたんですね。
-Dialogue: 0,0:00:07.90,0:00:09.47,Default,,0,0,0,,すごい嬉しいです。
-Dialogue: 0,0:00:09.47,0:00:12.65,Default,,0,0,0,,あの、前回に引き続き
-Dialogue: 0,0:00:12.65,0:00:17.22,Default,,0,0,0,,ホロを演じてなんかすごく楽しかったなんという
-Dialogue: 0,0:00:17.22,0:00:21.05,Default,,0,0,0,,今回はやっぱりこうロレンスが出てるっていうところで
-Dialogue: 0,0:00:21.05,0:00:23.82,Default,,0,0,0,,まただいぶ違ったんじゃないかななんて
-Dialogue: 0,0:00:23.82,0:00:25.45,Default,,0,0,0,,思っているんですけれども
-Dialogue: 0,0:00:25.45,0:00:29.05,Default,,0,0,0,,あの、ホロの他にもですね各キャラクター
-Dialogue: 0,0:00:29.05,0:00:31.90,Default,,0,0,0,,それぞれ何かエンディングがあるそうですよ。
-Dialogue: 0,0:00:31.90,0:00:36.80,Default,,0,0,0,,もしまだホロしかエンディング見てませんと言うのであれば
-Dialogue: 0,0:00:36.80,0:00:42.95,Default,,0,0,0,,ぜひぜひ他のキャラクターのエンディングも観ていただけたらなぁなんて思います。
-Dialogue: 0,0:00:42.95,0:00:49.12,Default,,0,0,0,,え、というわけで本当にエンディング見てくださってありがとうございました。
-Dialogue: 0,0:00:49.12,0:00:52.92,Default,,0,0,0,,これからも狼と香辛料をよろしくお願いします。
-Dialogue: 0,0:00:52.92,0:00:56.25,Default,,0,0,0,,というわけで、小清水亜美でした。おめでとう。
+Dialogue: 0,0:00:00.00,0:00:01.60,Default,,0,0,0,,You made it!
+Dialogue: 0,0:00:01.60,0:00:03.85,Default,,0,0,0,,I'm Holo's voice actor, Ami Koshimizu.
+Dialogue: 0,0:00:03.85,0:00:07.90,Default,,0,0,0,,So you've seen all of Holo's endings~
+Dialogue: 0,0:00:07.90,0:00:09.47,Default,,0,0,0,,I'm really happy!
+Dialogue: 0,0:00:09.47,0:00:12.65,Default,,0,0,0,,It was so much fun
+Dialogue: 0,0:00:12.65,0:00:17.22,Default,,0,0,0,,to reprise this role as Holo again.
+Dialogue: 0,0:00:17.22,0:00:21.05,Default,,0,0,0,,I think it was quite different
+Dialogue: 0,0:00:21.05,0:00:25.45,Default,,0,0,0,,since Lawrence was in it this time.
+Dialogue: 0,0:00:25.45,0:00:29.05,Default,,0,0,0,,You can even see endings
+Dialogue: 0,0:00:29.05,0:00:31.90,Default,,0,0,0,,with characters other than Holo.
+Dialogue: 0,0:00:31.90,0:00:36.80,Default,,0,0,0,,If you've only seen Holo's endings,
+Dialogue: 0,0:00:36.80,0:00:42.95,Default,,0,0,0,,please do look at the other characters too.
+Dialogue: 0,0:00:42.95,0:00:49.12,Default,,0,0,0,,Thank you so much for viewing Holo's endings!
+Dialogue: 0,0:00:49.12,0:00:52.92,Default,,0,0,0,,Please continue to support Spice & Wolf.
+Dialogue: 0,0:00:52.92,0:00:56.25,Default,,0,0,0,,That's all from me! Congratulations!

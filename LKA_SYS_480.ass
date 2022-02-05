@@ -22,21 +22,21 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.97,Default,,0,0,0,,ルカ攻略おめでとうございます
-Dialogue: 0,0:00:01.97,0:00:03.65,Default,,0,0,0,,そしてありがとうございます
-Dialogue: 0,0:00:03.65,0:00:06.97,Default,,0,0,0,,え、これをやらせていただきました 斎藤千和です
-Dialogue: 0,0:00:06.97,0:00:08.62,Default,,0,0,0,,いかがだったでしょうか
-Dialogue: 0,0:00:08.62,0:00:10.05,Default,,0,0,0,,かわいいですね
-Dialogue: 0,0:00:10.05,0:00:12.15,Default,,0,0,0,,本当に、あの、私が演じていて
-Dialogue: 0,0:00:12.15,0:00:14.70,Default,,0,0,0,,なんというか子犬みたいだなというか
-Dialogue: 0,0:00:14.70,0:00:18.10,Default,,0,0,0,,とっても表情がくるくるコロコロ変わって
-Dialogue: 0,0:00:18.10,0:00:22.45,Default,,0,0,0,,なんかわいらしい子だなと思いながらやらせていただきました
-Dialogue: 0,0:00:22.45,0:00:24.52,Default,,0,0,0,,ちょっと妹っぽいというか
-Dialogue: 0,0:00:24.52,0:00:28.75,Default,,0,0,0,,小さい女の子を相手にするような感じかもしれませんが
-Dialogue: 0,0:00:28.75,0:00:31.17,Default,,0,0,0,,なんかいい子いい子かわいいかわいいって言って
-Dialogue: 0,0:00:31.17,0:00:35.35,Default,,0,0,0,,あの、いい女に育つように、はは
-Dialogue: 0,0:00:35.35,0:00:38.65,Default,,0,0,0,,育てていけるような子かなと思いました
-Dialogue: 0,0:00:38.65,0:00:40.45,Default,,0,0,0,,本当に演じていてもなんか
-Dialogue: 0,0:00:40.45,0:00:44.77,Default,,0,0,0,,こう心があったかくなるようなとてもかわいらしい女の子でした
-Dialogue: 0,0:00:44.77,0:00:47.32,Default,,0,0,0,,はい！楽しんでいただけたらうれしいです
-Dialogue: 0,0:00:47.32,0:00:49.70,Default,,0,0,0,,ありがとうございました 斎藤千和でした
+Dialogue: 0,0:00:00.00,0:00:01.97,Default,,0,0,0,,Congratulations on finishing Luka's route!
+Dialogue: 0,0:00:01.97,0:00:03.65,Default,,0,0,0,,And, thank you!
+Dialogue: 0,0:00:03.65,0:00:06.97,Default,,0,0,0,,I'm Chiwa Saito who plays Luka.
+Dialogue: 0,0:00:06.97,0:00:08.62,Default,,0,0,0,,How did you find it?
+Dialogue: 0,0:00:08.62,0:00:10.05,Default,,0,0,0,,She's cute, isn't she?
+Dialogue: 0,0:00:10.05,0:00:12.15,Default,,0,0,0,,When I was recording the lines,
+Dialogue: 0,0:00:12.15,0:00:14.70,Default,,0,0,0,,it was like trying to channel a puppy.
+Dialogue: 0,0:00:14.70,0:00:18.10,Default,,0,0,0,,Her facial expression changes so rapidly,
+Dialogue: 0,0:00:18.10,0:00:22.45,Default,,0,0,0,,I kept thinking she was so cute.
+Dialogue: 0,0:00:22.45,0:00:24.52,Default,,0,0,0,,She's a bit like a little sister.
+Dialogue: 0,0:00:24.52,0:00:28.75,Default,,0,0,0,,It might feel like you're talking to a little girl,
+Dialogue: 0,0:00:28.75,0:00:31.17,Default,,0,0,0,,you just want to praise her and call her cute.
+Dialogue: 0,0:00:31.17,0:00:35.35,Default,,0,0,0,,I hope she grows up to be a good girl, ha-ha-ha.
+Dialogue: 0,0:00:35.35,0:00:38.65,Default,,0,0,0,,I felt like a parent,
+Dialogue: 0,0:00:38.65,0:00:40.45,Default,,0,0,0,,even though I'm the one playing her role
+Dialogue: 0,0:00:40.45,0:00:44.77,Default,,0,0,0,,she's very sweet and made me feel warm inside.
+Dialogue: 0,0:00:44.77,0:00:47.32,Default,,0,0,0,,Right! I hope you enjoyed it.
+Dialogue: 0,0:00:47.32,0:00:49.70,Default,,0,0,0,,Thank you! Chiwa Saito, signing off!
