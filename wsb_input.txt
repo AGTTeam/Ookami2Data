@@ -345,7 +345,7 @@
 荷物を運ぶ船じゃ、こうはいかない|からな。|この速さは、渡し船ならではだ。=It's not like this on a cargo ship. You can only go so fast on a ferry.
 こうして海風に吹かれていると、|旅の遅れなんて、ささいなことの|ように思えてくるな。=With the wind blowing like this, the delay we had setting off feels trivial.
 構わぬ。|もともと急ぐ旅でもない。|ぬしの債権の件さえなければの。=It doesn't matter. This was never a trip of urgency. If it weren't for the matter of your debt...
-まあそう言うな。|でも、これで路銀のあてもつくしな。|結果よければ全てよしだ。=Don't say that. It was food the sake of our travel expenses. If all goes well, we should be good.
+まあそう言うな。|でも、これで路銀のあてもつくしな。|結果よければ全てよしだ。=Don't say that. It was for the sake of our travel expenses. If all goes well, we should be good.
 うむ。|一時はどうなることかと思ったが、|まさに順風満帆じゃの。=Mm. For a while I was worried about how everything would turn out, but this truly is smooth sailing.
 しかし、これからどうするか……。|まずは、お前の故郷の手がかりを|探すところから再開だな。=Though, the question is what to do next... I guess we should start by looking for clues about your hometown.
 そうじゃな。|まあ、先のことは着いてからまた考|えればよいじゃろ。=Quite. Well, we can start thinking about our plans once we arrive.
@@ -6739,16 +6739,16 @@ bg_t02_rubi=bg_yadoheya_small
 商人レベルが上がった！=Merchant level has risen!
 女心もこれぐらいわかれば|いいんじゃがの。=If only you knew as much about a female’s heart.
 !FILE:event/system/time_over_ending.wsb
-ある朝目が覚めると、一通の書き置|きが残されていた。=
-『ぬしよ、世話になった。|　ぬしと旅を続けたかったが、どう|　やらここまでのようじゃ。=
-『夜明け前のことじゃ。|　遠くから馬の蹄の音と……ぬしの|　名を呼ぶ声が聞こえてきた。=
-『彼らはおそらく、ぬしの属してお|　る商会の者達じゃろう。|　債権がどうのと言っておった。=
-『彼らの目的は一つ。|　ぬしの借金の取り立てじゃ。=
-『ぬしが回収できなかった額面を、|　ぬしから取り立てようという算段|　なのであろう。=
-『ぬしが勝手に負った負債じゃ。|　わっちまで巻き込まれたくはない。=
-『それに、わっちがおっては何かと|　迷惑をかけることになる。|　ここが、別れの潮時であろう。=
-『わっちは幸い急がぬ旅じゃ。|　のんびりと北へと戻る道を探す|　ことにする。=
-『ぬしの幸せと旅の無事とを|　遠くから祈っておる。|　　　　　　　　　　　　　ホロ』=
+ある朝目が覚めると、一通の書き置|きが残されていた。=One morning I woke up to find a note left for me.
+『ぬしよ、世話になった。|　ぬしと旅を続けたかったが、どう|　やらここまでのようじゃ。="I am indebted to you. I would have liked to continue my journey with you, but it seems that this is as far as I can go."
+『夜明け前のことじゃ。|　遠くから馬の蹄の音と……ぬしの|　名を呼ぶ声が聞こえてきた。="It was just before dawn. In the distance, I heard the sound of horses' hoofs... And a voice calling your name."
+『彼らはおそらく、ぬしの属してお|　る商会の者達じゃろう。|　債権がどうのと言っておった。="They are probably from the trading company you made the contract with. They were talking about the debt."
+『彼らの目的は一つ。|　ぬしの借金の取り立てじゃ。="They have only one objective, to collect your debt."
+『ぬしが回収できなかった額面を、|　ぬしから取り立てようという算段|　なのであろう。="They will find a way to collect the debt from you because you could not collect it from the other merchant."
+『ぬしが勝手に負った負債じゃ。|　わっちまで巻き込まれたくはない。="It is the debt you carelessly took on. I will not get involved with this."
+『それに、わっちがおっては何かと|　迷惑をかけることになる。|　ここが、別れの潮時であろう。="Additionally, I would cause you all sorts of trouble.|This is the right time to say goodbye."
+『わっちは幸い急がぬ旅じゃ。|　のんびりと北へと戻る道を探す|　ことにする。="Fortunately, I am not in a hurry.　I will search for a way north at a leisurly pace."
+『ぬしの幸せと旅の無事とを|　遠くから祈っておる。|　　　　　　　　　　　　　ホロ』="I pray for your safe travels from far away.|                                                       - Holo"
 !FILE:event/system/trading_over_sophy.wsb#vist the market after missing a contract deadline
 あ、やっと見つけた！|お兄さん、商館からの伝言です！=Ah, I've finally found you! I've a message from the trading house, sir.
 えっと、今回の契約は契約期間が|過ぎてしまったため、契約不履行|となりました。=Let's see... “The deadline agreed upon has now passed, and the contract has been breached.”
