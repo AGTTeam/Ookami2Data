@@ -3121,7 +3121,7 @@
 おお、そうかや！|明日が楽しみじゃ。=Oh, I see! I'm looking forward to tomorrow.
 わ、なんじゃ。|部屋の窓に何か投げつけられておる！|まだ朝が早いというのに。=Wha--! What was that? Something was thrown at the window of our room! But it's still early in the morning.
 教会の仕業か？|それとも、いくさでも始まったのか|や？=Was it the Church? Or has a war started?
-どちらも間違ってはいない。|今日、この町は「ぶどう祭り」の日|なんだ。=Both are wrong. Today is the day of this town's “Grape Festival”.
+どちらも間違ってはいない。|今日、この町は「ぶどう祭り」の日|なんだ。=Both are not wrong. Today is the day of this town's “Grape Festival”.#間違ってはいない should be a double negation?
 そういえば、町中にぶどうの匂いが|しておるような……。=Now that you mention it, the whole town seems to smell of grapes...
 町中の人間が通りへ出て、|ぶどうを投げつけ合う祭りなんだ。|一日中、すごい騒ぎになる。=It's a festival where people from town go into the streets and throw grapes at each other. There's a huge uproar for the day.
 年に一度、日頃の身分を忘れて騒ぎ|まわる「祭り」。=Once a year for the festival the people forget their standing and make merry together.
@@ -6093,7 +6093,7 @@ bg_t02_rubi=bg_yadoheya_small
 えっ？|今、何て……？=Hm? Did you say something?
 あっと、えっと、その……。|ありがとうございます、って言いた|かったんです……！=Ah, no, I-I just wanted to say thank you...!
 !FILE:event/ev_ren/rru_nra_d2c.wsb
-ふあーあ……。|ぬしよ、すまぬがわっちはそろそろ|横にならせてもらいんす。=*Yawn*|I'm afraid I think I'll have to leave now.
+ふあーあ……。|ぬしよ、すまぬがわっちはそろそろ|横にならせてもらいんす。=*Yawn*|I'm afraid I think I'll have to leave now.#scene  doesn't work for me
 そうするといい。|明日も早いし、休んで体力をつける|のが賢明というものだろうな。=You do that. We've got another early start tomorrow, so it would be wise to take rest and gain strength.
 内容はともかく、とりあえず腹が|満たされれば眠くなる。|よくできたものじゃ。=It doesn't matter what it is, but as long as my stomach is full, sleep becomes me. 'Twas well made.
 ……ああ、そうだな。=...Yeah, right.
@@ -6733,14 +6733,14 @@ bg_t02_rubi=bg_yadoheya_small
 てっきりわっちは契約を先に済ませ|るものだとばかり思っておったの|じゃが。=I had thought that our first order of business would be to complete the contract.
 おっと、そうだったな。|レノスに向かおう。=Oops, you're right. Let's go to Lenos.
 !FILE:event/test/opening.wsb
-久しぶりじゃのう。|わっちの顔を覚えておったかや？=
-なに！？忘れたと！=
-この賢狼ホロの顔を忘れるとは、|いい度胸をしておるな。=
-こんにちは。|ノーラです。=
-旅は道連れです。|世は情けです。=
-・・・・・・・・。=
+久しぶりじゃのう。|わっちの顔を覚えておったかや？=It's been a long time. Do you remember my face?
+なに！？忘れたと！=What? You forgot!
+この賢狼ホロの顔を忘れるとは、|いい度胸をしておるな。=You have some nerve to forget the wisewolf Holo's face.
+こんにちは。|ノーラです。=Hello.|I am Norah.
+旅は道連れです。|世は情けです。=The journey is a companion. The world is compassion.#unsure
+・・・・・・・・。=. . . . . . . . . .
 !FILE:event/test/ren_dummy.wsb
-恋愛イベントのダミー=
+恋愛イベントのダミー=Intimacy Event Dummy
 !FILE:event/test/sysevent_gameclear_eve.wsb#debug? dupes with special_gameclear
 よう。|あんたもなかなか人が悪いな。|三人で旅をするなんて。=Hey. Turns out you do have a wicked soul too. Traveling as a threesome...
 でもまあ、緊張感があって悪くなか|ったぜ。|こういう旅も、いいもんだな。=But it's not so bad, having this tension in the air. This kind of trip can be fun too.
@@ -6749,12 +6749,12 @@ bg_t02_rubi=bg_yadoheya_small
 そうだな、夏になったら山へ保養に|行くというのはどうだ？|誰も知らないような、静かな村へ。=I know, what about in summer, we go to the mountains? To a quiet village where no one knows us.
 ははっ、考えてたらこっちが照れく|さくなってきちまった。|じゃあ、またな！=Hah-hah, just thinking about it has got me feeling embarrassed. Until then!
 !FILE:event/test/sysevent_gameclear_horo.wsb
-ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=
-わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=
-あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=
-ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=
-じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=
-のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=
+ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=Say, how was traveling with me?|Did you have fun?
+わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=I had a lot of fun while traveling with you.|I am really greatful to you.
+あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=We ate and drank all over the place and it was really fun with you. Every memory is a treasure to me.
+ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=You are so kind after all. I know 'tis disgraceful for a wise wolf, but I can not help but want to be spoiled by you.
+じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=But all this selfishness is because I want to be with you. You understand that, don't you?
+のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=Say, you...|Can we go together one more time?
 !FILE:event/test/sysevent_gameclear_luka.wsb
 あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
 ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
