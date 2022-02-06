@@ -2064,10 +2064,10 @@
 ホロはその夜、へそを曲げてぷいと|宿屋を出て行った。|いつもの気まぐれだろうと思った。=Holo's mood turned bad and she suddenly left the inn. I thought it would be fickle as usual.
 だが、ホロは朝になっても何日経っ|ても帰ってこなかった。|俺があさはかだった。=But, she didn't return in the morning nor any other of the following days. I was short-sighted and foolish.
 ホロはおそらく、それまでいろんな|不満を抱えていたんだろう。|俺は、ずっとそれに気づけなかった。=Holo had probably carried various complaints with her. I hadn't noticed it for a long time.
-だからこそ、あんなつまらない……|本当につまらないけんかで俺に対す|る不信が爆発してしまったのだろう。=Because of that in, this silly, truly foolish fight, her distrust towards me exploded.
+だからこそ、あんなつまらない……|本当につまらないけんかで俺に対す|る不信が爆発してしまったのだろう。=Because of that, such a silly, truly foolish fight was enough to cause her distrust towards me to explode.
 俺は、未だにこうして海岸線に沿っ|て移動しながら、細々と行商を続け|ている。=I'm still moving along the coastline, just scraping along as I peddle my wares.
 悲しみもだいぶ薄れたが、こんな晴|れた日はホロとの楽しかった旅が苦|い思い出と共にふと蘇ってくる。=The sadness has mostly faded. But on sunny days like this, the bitter memories of our travel are suddenly brought back.
-ホロは北の故郷に帰れたのだろうか。|今となっても、それだけが気に掛か|っている……。=I wonder whether Holo was able to return to her hometown in the north. That's the only thing left I'm wondering about...
+ホロは北の故郷に帰れたのだろうか。|今となっても、それだけが気に掛か|っている……。=I wonder whether Holo was able to return to her hometown in the north. That's the only thought which still toils on my mind...
 # Common lines
 ふあーあ……。|今日もよい天気じゃの……。=Haaa...|'Tis nice weather today!
 日差しはあたたかく、風もやわらか。|尻尾の手入れには絶好の日和よの。|そうは思わぬか、ぬしよ。=The sunlight is warm and there is a soft wind. It's the perfect day for grooming a tail, do you not think so?
@@ -2076,14 +2076,14 @@
 それに、ぬしがこの間買ってくれた|櫛がまた素晴らしい。|さすがは上級品じゃ。=More importantly, this comb you bought me is wonderful. As to be expected from such a luxury product.
 尻尾の毛をすいておるだけで、なん|とも心地よい。|つい、うとうとと……。=Just brushing through the fur of my tail feels so nice.|I will end up falling asleep...
 ははは、それはよかった。=Ha-ha-ha, I'm glad to hear that.
-おっと、わっちばかり夢見心地では|いかん。=But I can not be the only one in such a dreamy state of mind.
+おっと、わっちばかり夢見心地では|いかん。=But I cannot be the only one in such a dreamy state of mind.
 ぬしの助けになるよう、わっちが風|よけになってやろう。|……こんなふうに。=To your aid I will turn into a windbreak for you.|Like this...
-おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=H-Hey!|Holo, your tail and ears are obviously showing! If they are seen...!
+おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=H-Hey!|Holo, your tail and ears are obviously showing! If they get spotted...!
 くふふ、わっちは見られても一向に|構わぬ。=Heh-he, I don't mind at all if they are seen.
-俺とホロは、またこうして二人で|北への旅を続けている。=Holo and I are continuing our travel north together like this.
-ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=After we collected the debt in Saarland, we had more money than could've imagined. It seems that our hastiness paid off.#unsure
+俺とホロは、またこうして二人で|北への旅を続けている。=Holo and I are continuing our travel north together.
+ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=After we collected the debt in Saarland, we had more money than we could've imagined. It seems that our speed was well received.
 お陰で、かなり資金に余裕ができた。|それこそ、ホロに上等の櫛を買って|やれるくらいには。=Because of it we were able to get quite a surplus. So much that I could afford to buy Holo such an expensive comb.
-噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=According to the rumors Holo's hometown still is far away, so we are not hurrying there.
+噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=According to the rumors it seems Holo's hometown still is far away. However, we're in no rush.
 俺は今、旅を楽しんでさえいる。|何も言わないけれど、きっとホロも|そうなのだ。=I'm enjoying the journey even right now.|She doesn't say anything but I'm sure she enjoys it too.
 今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=Today the clouds flow through the blue sky accompanied by Holo's laughter...
 !FILE:event/ev_main/main_410_ending_luka.wsb
@@ -3120,8 +3120,8 @@
 ああ、いつもの暦通りならこの町は|明日、祭りのはずだ。|なかなか派手な祭りだぞ？=Yeah, if it's at the usual time, this town is supposed to have a festival tomorrow. It's a pretty flashy festival.
 おお、そうかや！|明日が楽しみじゃ。=Oh, I see! I'm looking forward to tomorrow.
 わ、なんじゃ。|部屋の窓に何か投げつけられておる！|まだ朝が早いというのに。=Wha--! What was that? Something was thrown at the window of our room! But it's still early in the morning.
-教会の仕業か？|それとも、いくさでも始まったのか|や？=Was it the Church? Or has a war started?
-どちらも間違ってはいない。|今日、この町は「ぶどう祭り」の日|なんだ。=Both are not wrong. Today is the day of this town's “Grape Festival”.#間違ってはいない should be a double negation?
+教会の仕業か？|それとも、いくさでも始まったのか|や？=Was it the Church? Or has a fight broken out?
+どちらも間違ってはいない。|今日、この町は「ぶどう祭り」の日|なんだ。=Neither are wrong. Today is the day of this town's “Grape Festival”.#間違ってはいない should be a double negation?
 そういえば、町中にぶどうの匂いが|しておるような……。=Now that you mention it, the whole town seems to smell of grapes...
 町中の人間が通りへ出て、|ぶどうを投げつけ合う祭りなんだ。|一日中、すごい騒ぎになる。=It's a festival where people from town go into the streets and throw grapes at each other. There's a huge uproar for the day.
 年に一度、日頃の身分を忘れて騒ぎ|まわる「祭り」。=Once a year for the festival the people forget their standing and make merry together.
@@ -6412,12 +6412,12 @@ bg_t02_rubi=bg_yadoheya_small
 そうだな、夏になったら山へ保養に|行くというのはどうだ？|誰も知らないような、静かな村へ。=I know, what about in summer, we go to the mountains? To a quiet village where no one knows us.
 ははっ、考えてたらこっちが照れく|さくなってきちまった。|じゃあ、またな！=Hah-hah, just thinking about it has got me feeling embarrassed. Until then!
 !FILE:event/special/special_gameclear_horo.wsb
-ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=
-わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=
-あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=
-ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=
-じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=
-のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=
+ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=Say, how was traveling with me?|Did you have fun?
+わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=I had a lot of fun while traveling with you.|I am really grateful.
+あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=We ate and drank all over the place, but all were a joy with you. Every memory is a treasure to me.
+ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=You are so kind after all. I know it is disgraceful for a wisewolf, but I cannot help but want to be spoiled by you.
+じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=But all this selfishness is because I want to be with you. You understand that, don't you?
+のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=Say...|Won't you always stay with me?
 !FILE:event/special/special_gameclear_luka.wsb
 あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
 ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
@@ -6434,16 +6434,16 @@ bg_t02_rubi=bg_yadoheya_small
 また旅に出るときは、ぜひ声をかけ|てくださいね。|いつでもお供します。=If you set out on another trip, please let me know. I will join you any time.
 !FILE:event/special/special_horo_c_end.wsb
 # Common lines
-　|　――あれから、三年が経った。=
-ホロは元気でいるだろうか。|対岸の町で別れたまま、姿を見てい|ない。=
-原因は、つまらないけんかだった。|あの町の名物、鯛の海賊焼きを食べ|るのに反対したのが発端だった。=
-ホロはその夜、へそを曲げてぷいと|宿屋を出て行った。|いつもの気まぐれだろうと思った。=
-だが、ホロは朝になっても何日経っ|ても帰ってこなかった。|俺があさはかだった。=
-ホロはおそらく、それまでいろんな|不満を抱えていたんだろう。|俺は、ずっとそれに気づけなかった。=
-だからこそ、あんなつまらない……|本当につまらないけんかで俺に対す|る不信が爆発してしまったのだろう。=
-俺は、未だにこうして海岸線に沿っ|て移動しながら、細々と行商を続け|ている。=
-悲しみもだいぶ薄れたが、こんな晴|れた日はホロとの楽しかった旅が苦|い思い出と共にふと蘇ってくる。=
-ホロは北の故郷に帰れたのだろうか。|今となっても、それだけが気に掛か|っている……。=
+　|　――あれから、三年が経った。=Three years have passed since then...
+ホロは元気でいるだろうか。|対岸の町で別れたまま、姿を見てい|ない。=I wonder whether Holo is doing well?|Since we parted on the opposite shore, I haven't seen her anymore.
+原因は、つまらないけんかだった。|あの町の名物、鯛の海賊焼きを食べ|るのに反対したのが発端だった。=The cause was a trivial quarrel. It all started when I objected to eating the town's famous grilled sea bream.
+ホロはその夜、へそを曲げてぷいと|宿屋を出て行った。|いつもの気まぐれだろうと思った。=Holo's mood turned bad and she suddenly left the inn. I thought it would be fickle as usual.
+だが、ホロは朝になっても何日経っ|ても帰ってこなかった。|俺があさはかだった。=But, she didn't return in the morning nor any other of the following days. I was short-sighted and foolish.
+ホロはおそらく、それまでいろんな|不満を抱えていたんだろう。|俺は、ずっとそれに気づけなかった。=Holo had probably carried various complaints with her. I hadn't noticed it for a long time.
+だからこそ、あんなつまらない……|本当につまらないけんかで俺に対す|る不信が爆発してしまったのだろう。=Because of that, such a silly, truly foolish fight was enough to cause her distrust towards me to explode.
+俺は、未だにこうして海岸線に沿っ|て移動しながら、細々と行商を続け|ている。=I'm still moving along the coastline, just scraping along as I peddle my wares.
+悲しみもだいぶ薄れたが、こんな晴|れた日はホロとの楽しかった旅が苦|い思い出と共にふと蘇ってくる。=The sadness has mostly faded. But on sunny days like this, the bitter memories of our travel are suddenly brought back.
+ホロは北の故郷に帰れたのだろうか。|今となっても、それだけが気に掛か|っている……。=I wonder whether Holo was able to return to her hometown in the north. That's the only thought which still toils on my mind...
 # Common lines
 !FILE:event/special/special_horo_s_end.wsb
 # Common lines
@@ -6454,14 +6454,14 @@ bg_t02_rubi=bg_yadoheya_small
 それに、ぬしがこの間買ってくれた|櫛がまた素晴らしい。|さすがは上級品じゃ。=More importantly, this comb you bought me is wonderful. As to be expected from such a luxury product.
 尻尾の毛をすいておるだけで、なん|とも心地よい。|つい、うとうとと……。=Just brushing through the fur of my tail feels so nice.|I will end up falling asleep...
 ははは、それはよかった。=Ha-ha-ha, I'm glad to hear that.
-おっと、わっちばかり夢見心地では|いかん。=But I can not be the only one in such a dreamy state of mind.
+おっと、わっちばかり夢見心地では|いかん。=But I cannot be the only one in such a dreamy state of mind.
 ぬしの助けになるよう、わっちが風|よけになってやろう。|……こんなふうに。=To your aid I will turn into a windbreak for you.|Like this...
-おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=H-Hey!|Holo, your tail and ears are obviously showing! If they are seen...!
+おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=H-Hey!|Holo, your tail and ears are obviously showing! If they get spotted...!
 くふふ、わっちは見られても一向に|構わぬ。=Heh-he, I don't mind at all if they are seen.
-俺とホロは、またこうして二人で|北への旅を続けている。=Holo and I are continuing our travel north together like this.
-ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=After we collected the debt in Saarland, we had more money than could've imagined. It seems that our hastiness paid off.#unsure
+俺とホロは、またこうして二人で|北への旅を続けている。=Holo and I are continuing our travel north together.
+ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=After we collected the debt in Saarland, we had more money than we could've imagined. It seems that our speed was well received.
 お陰で、かなり資金に余裕ができた。|それこそ、ホロに上等の櫛を買って|やれるくらいには。=Because of it we were able to get quite a surplus. So much that I could afford to buy Holo such an expensive comb.
-噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=According to the rumors Holo's hometown still is far away, so we are not hurrying there.
+噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=According to the rumors it seems Holo's hometown still is far away. However, we're in no rush.
 俺は今、旅を楽しんでさえいる。|何も言わないけれど、きっとホロも|そうなのだ。=I'm enjoying the journey even right now.|She doesn't say anything but I'm sure she enjoys it too.
 今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=Today the clouds flow through the blue sky accompanied by Holo's laughter...
 # Common lines
@@ -6750,11 +6750,11 @@ bg_t02_rubi=bg_yadoheya_small
 ははっ、考えてたらこっちが照れく|さくなってきちまった。|じゃあ、またな！=Hah-hah, just thinking about it has got me feeling embarrassed. Until then!
 !FILE:event/test/sysevent_gameclear_horo.wsb
 ぬしよ、わっちとの旅はどうじゃっ|たかの？|楽しんでもらえたかや？=Say, how was traveling with me?|Did you have fun?
-わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=I had a lot of fun while traveling with you.|I am really greatful to you.
-あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=We ate and drank all over the place and it was really fun with you. Every memory is a treasure to me.
-ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=You are so kind after all. I know 'tis disgraceful for a wise wolf, but I can not help but want to be spoiled by you.
+わっちはぬしと旅をして、とてもと|ても楽しかった。|本当に、感謝しておる。=I had a lot of fun while traveling with you.|I am really grateful.
+あちこちで飲み食いしたが、やはり|ぬしと一緒の食事は楽しいの。|どの思い出も、わっちの宝物じゃ。=We ate and drank all over the place, but all were a joy with you. Every memory is a treasure to me.
+ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=You are so kind after all. I know it is disgraceful for a wisewolf, but I cannot help but want to be spoiled by you.
 じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=But all this selfishness is because I want to be with you. You understand that, don't you?
-のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=Say, you...|Can we go together one more time?
+のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=Say...|Won't you always stay with me?
 !FILE:event/test/sysevent_gameclear_luka.wsb
 あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
 ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
