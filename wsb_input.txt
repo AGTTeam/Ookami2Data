@@ -6447,23 +6447,23 @@ bg_t02_rubi=bg_yadoheya_small
 # Common lines
 !FILE:event/special/special_horo_s_end.wsb
 # Common lines
-ふあーあ……。|今日もよい天気じゃの……。=
-日差しはあたたかく、風もやわらか。|尻尾の手入れには絶好の日和よの。|そうは思わぬか、ぬしよ。=
-おいおい、そんな盛大なあくびじゃ|賢狼の名も形無しだな。=
-ここにはぬしとわっち以外の者が|おるでなし。|構わぬじゃろ。=
-それに、ぬしがこの間買ってくれた|櫛がまた素晴らしい。|さすがは上級品じゃ。=
-尻尾の毛をすいておるだけで、なん|とも心地よい。|つい、うとうとと……。=
-ははは、それはよかった。=
-おっと、わっちばかり夢見心地では|いかん。=
-ぬしの助けになるよう、わっちが風|よけになってやろう。|……こんなふうに。=
-おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=
-くふふ、わっちは見られても一向に|構わぬ。=
-俺とホロは、またこうして二人で|北への旅を続けている。=
-ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=
-お陰で、かなり資金に余裕ができた。|それこそ、ホロに上等の櫛を買って|やれるくらいには。=
-噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=
-俺は今、旅を楽しんでさえいる。|何も言わないけれど、きっとホロも|そうなのだ。=
-今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=
+ふあーあ……。|今日もよい天気じゃの……。=Haaa...|'Tis nice weather today!
+日差しはあたたかく、風もやわらか。|尻尾の手入れには絶好の日和よの。|そうは思わぬか、ぬしよ。=The sunlight is warm and there is a soft wind. It's the perfect day for grooming a tail, do you not think so?
+おいおい、そんな盛大なあくびじゃ|賢狼の名も形無しだな。=Such a lavish yawn will ruin your reputation as a wisewolf.
+ここにはぬしとわっち以外の者が|おるでなし。|構わぬじゃろ。=There is no one here except you and me.|I don't mind.
+それに、ぬしがこの間買ってくれた|櫛がまた素晴らしい。|さすがは上級品じゃ。=More importantly, this comb you bought me is wonderful. As to be expected from such a luxury product.
+尻尾の毛をすいておるだけで、なん|とも心地よい。|つい、うとうとと……。=Just brushing through the fur of my tail feels so nice.|I will end up falling asleep...
+ははは、それはよかった。=Ha-ha-ha, I'm glad to hear that.
+おっと、わっちばかり夢見心地では|いかん。=But I can not be the only one in such a dreamy state of mind.
+ぬしの助けになるよう、わっちが風|よけになってやろう。|……こんなふうに。=To your aid I will turn into a windbreak for you.|Like this...
+おっ、おいっ！|お前、尻尾も耳も丸見えだぞ！|こんなところ見られたら……！=H-Hey!|Holo, your tail and ears are obviously showing! If they are seen...!
+くふふ、わっちは見られても一向に|構わぬ。=Heh-he, I don't mind at all if they are seen.
+俺とホロは、またこうして二人で|北への旅を続けている。=Holo and I are continuing our travel north together like this.
+ザーラントでの債権の回収は、想像|以上の銀貨を俺たちにもたらした。|拙速は、何よりも尊ばれるらしい。=After we collected the debt in Saarland, we had more money than could've imagined. It seems that our hastiness paid off.#unsure
+お陰で、かなり資金に余裕ができた。|それこそ、ホロに上等の櫛を買って|やれるくらいには。=Because of it we were able to get quite a surplus. So much that I could afford to buy Holo such an expensive comb.
+噂に聞けば、ホロの故郷はまだまだ|遠いという。|だが、焦ってはいない。=According to the rumors Holo's hometown still is far away, so we are not hurrying there.
+俺は今、旅を楽しんでさえいる。|何も言わないけれど、きっとホロも|そうなのだ。=I'm enjoying the journey even right now.|She doesn't say anything but I'm sure she enjoys it too.
+今日も、青空に雲が流れて行く。|ホロの笑い声と一緒に……。=Today the clouds flow through the blue sky accompanied by Holo's laughter...
 # Common lines
 !FILE:event/special/special_luka_a_end.wsb
 # Common lines
