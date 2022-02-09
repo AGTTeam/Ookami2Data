@@ -205,12 +205,13 @@
 衣料素材=Fabrics
 鉱物素材=Minerals
 商品をタッチすると詳細を確認できます=Touch a goods icon to view information.
-納品期限  残り%3d日=Deadline  %3d days left
-報酬      %7d枚=Reward　           %7d
-返済期限  残り%3d日=Deadline   %3d days left
+納品期限  残り%3d日=Deadline_%3d days left
+報酬      %7d枚=Reward ______%7d
+返済期限  残り%3d日=Deadline_%3d days left
 返済期限       超過=Deadline   Overdue
-返済額    %7d枚=To Repay            %7d
+返済額    %7d枚=To Repay ____%7d
 商人レベル=Merchant Level
+Lv.%2d=_%2d
 商人経験値=Trading EXP
 次のレベルUP=To Next Level
 契約=Contract
@@ -247,7 +248,7 @@
 －契約書－=- Contract Terms -
 納品先:%s=　   Destination: %s
 納品期限:残り%2d日=Deadline: In %2d days
-報酬 銀貨%7d枚=Reward: %7d SLV
+報酬 銀貨%7d枚=Reward:__%7d SLV
 %s×%2d=%s x %2d
 医療品=Medicine Ingredients
 錬金工房拡張用素材=Materials for Expansion
@@ -255,7 +256,7 @@
 返済期限:残り%3d日=Repayment deadline: In %3d days
 借用銀貨=Amount to Borrow
 %7d枚=%7d
-返済額（利子含む）=Full Amount to be Repaid
+返済額（利子含む）=Amount to be Repaid
 町全体で価格高騰中=Prices are soaring in the town
 町全体で価格暴落中=Prices have crashed in the town
 %sが価格高騰中=%s is currently up
@@ -272,8 +273,8 @@
 データを書けませんでした。|電源を切って、|カードを差し込み直してください。=Could not write data.|Please turn off the|console and try again.
 旅の記録%2d=Travel Log %2d
 商人レベル：%2d=Merchant Level: %2d
-日付：%s%2d日=Date: %s %2d
-銀貨：%7d 枚=Money: %7d
+日付：%s%2d日=Date:   %s %2d
+銀貨：%7d 枚=Money:_%7d
 %2d 周目=Round %2d
 %2d 年目=Year %2d
 エンドレスモード=Endless Mode

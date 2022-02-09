@@ -91,7 +91,7 @@ kaiwa/bg/bg_sys_tutorial_06
 依頼の品=Requested Goods
 全ての商品納品をすると報酬がもらえます。=Deliver everything to complete the contract.
 報酬金額=Reward
-※契約状況は「情報画面」で確認できます。=You can check the contract conditions using the "Info" Menu.
+※契約状況は「情報画面」で確認できます。=You can check the contract conditions using the "Tasks" Menu.
 
 kaiwa/bg/bg_sys_tutorial_07
 返済期限=Repayment Deadline
@@ -99,8 +99,8 @@ kaiwa/bg/bg_sys_tutorial_07
 借用銀貨=Amount to Borrow
 借りた金額です。=The amount of money to be borrowed.
 返済額（利子含む）=Full Amount to be Repaid
-返済が必要な金額です。=The amount of money to be repaid (including intrest).
-※借用状況は「情報画面」で確認できます。=You can check the loan conditions using the "Info" Menu.
+返済が必要な金額です。=The amount of money to be repaid (including interest).
+※借用状況は「情報画面」で確認できます。=You can check the loan conditions using the "Tasks" Menu.
 
 kaiwa/bg/bg_sys_tutorial_08
 銀貨を支払って荷台を拡張=Pay to upgrade storage space.
