@@ -185,7 +185,7 @@
 商品の届け先はここ、デリンツコル|ツのこの商館になります。=The goods are to be delivered to our trading house here in Delintskolz.
 商品の届け先はここ、ガーノの|この商館になります。=The goods are to be delivered to our trading house here in Gahno.
 ところでロレンスさん、この後のご|予定は？=By the way, Mr. Lawrence, what are your plans after this?
-北へと向かう予定です。|連れの目的地がヨイツという遙か北|の地で、そこを探しておりまして。=Heading to the northlands. My companion here wishes to reach Yoitsu, far to the north.
+北へと向かう予定です。|連れの目的地がヨイツという遙か北|の地で、そこを探しておりまして。=Heading to the northlands. My companion wishes to reach Yoitsu, far to the north.
 聞かない地名ですね。|となると、海を渡って向こう岸まで、|ということになりますかな。=I've never heard of it. Does that mean you will be crossing the sea?
 海？=The sea?
 ええ、もうしばらく北へと進むと、|海にぶつかります。=Yes, if you continue up north, you’ll soon hit the sea.
@@ -195,9 +195,9 @@
 それもありますし、異なる文化圏の|国を通ることにもなりますからね。|戦争の噂も聞こえてきますし。=That it is, but also because it means going through other countries with unusual customs. I’ve even heard talk of war.
 なるほど。|それでは船で行くのがよさそうです|ね。=I see. So it would be wiser to travel by boat.
 ええ、対岸にはザーラントという、|服飾で大層有名な町がありましてね。|たいがいの船は、そこへ行きます。=Quite. There is a town on the other side called Saarland, which is famous for its clothes. That's where most boats go.
-ディーモルンの港から船が出ており|ますから、そこから行かれるのがよ|ろしいでしょう。=Many leave from the port at Diemoln, so I might suggest that as a good starting point.
-ディーモルンは今最も栄えている港|町でしてね、昔は小さな町でしたが|今は立派な聖堂もあるんですよ。=Diemoln used to be a small town, but now it’s one of the prosperous port towns in the world.>>It even has a magnificent cathedral.
-何から何まで、ありがとうございま|す。|ではディーモルンに行ってみます。=Thank you for everything. Then, we will take leave for Diemoln.
+ディーモルンの港から船が出ており|ますから、そこから行かれるのがよ|ろしいでしょう。=Many leave from the port at Diemoln, so|I might suggest that as a good starting point.
+ディーモルンは今最も栄えている港|町でしてね、昔は小さな町でしたが|今は立派な聖堂もあるんですよ。=Diemoln used to be a small town, but now it’s one of the most prosperous ports in the world, magnificent cathedral included.
+何から何まで、ありがとうございま|す。|ではディーモルンに行ってみます。=Thank you for everything.|Then, we will take leave for Diemoln.
 ロレンスさん。|あなたはどうやら信頼に足る商人の|ようです。=Mr. Lawrence. It appears you are a trustworthy merchant.
 そこで……もしザーラントへ行かれ|るのなら、ひとつ頼みがあるのです|が。=So, if you are going to Saarland... I'd like to make a request.
 何でしょうか。=What is it?
@@ -206,17 +206,17 @@
 期限があと一年なので、そろそろ誰|かに行ってもらわなければと思って|いたところなのです。=Our deal will expire in a year, so I was thinking it’s about time to send someone out to collect it.
 どうです。|この証書を買い取りませんか。=Here, will you buy this deed?
 ……結構な、金額ですね。=...That's quite a hefty sum.
-お安くしておきますよ。|もちろん、回収したお金は好きにし|ていただいて結構です。=I'll sell it to you for a good price. Of course, the money you collect will be yours to do with as you please.
+お安くしておきますよ。|もちろん、回収したお金は好きにし|ていただいて結構です。=I'll sell it to you for a good price.|Of course, the money you collect will be yours to do with as you please.
 それに、これから船に乗るのであれ|ば一年の期限は全く問題にならない|でしょう。=And, if you do take a boat, the one-year deadline will hardly be an issue.
-旅をするには、資金も必要です。|回収できれば、路銀には十分すぎる|ほどの利益が出るはずです。=One cannot travel without money. If you collect this debt, you will have plenty to spare for the journey back.
+旅をするには、資金も必要です。|回収できれば、路銀には十分すぎる|ほどの利益が出るはずです。=One cannot travel without money. If you collect this debt, you will have plenty to spare for the journey.
 いかがでしょう。|当商会にとっても、ロレンスさんに|とってもよい話だと思うのですが。=What do you think? I believe it would be a good deal for both our company and for you.
 そうですね……。=That’s true...
 債権回収を引き受ける=I’ll take over the debt collection.
 ＄商会直々の頼みでは|断りにくい……=＄It's hard to say no to|a direct request...
 わかりました。|商会のためでもありますし、引き受|けますよ。=I understand. It's also for the good of the company, so I'll accept.
 おお、ありがとうございます！=Oh, thank you!
-では、この債権をお渡しします。|過ぎることはまずないと思いますが、|回収の期限は一年です。=Then, I will give you this bond. I doubt you will exceed it, but the deadline for collection is one year.
-信用買いで債権を購入した！=Bought the bond using credit!
+では、この債権をお渡しします。|過ぎることはまずないと思いますが、|回収の期限は一年です。=Then, I will give you this bond. I doubt|you will exceed it, but the deadline for collection is one year.
+信用買いで債権を購入した！=Bought the deed using credit!
 では、ザーラントまでのご無事を祈|っております。|よき旅でありますように。=Well then, I wish you safe passage to Saarland. May you have a pleasant journey.
 お待たせしました。|依頼の品です。|全て揃えて持って参りました……。=Sorry to have kept your waiting. I've brought the requested goods. I believe this should be everything.#Defeated Amati
 おや、ロレンスさん。|なぜあなたがこんな所に……？=Oh, Mr. Lawrence. What are you doing here?
@@ -774,7 +774,7 @@
 はは、そうだな。|よだれならまだいいが、はしゃぎす|ぎて尻尾を出すなよ。=Ha-ha, if you say so. Drooling is fine and all, but don't get over-excited and let your tail slip.
 よだれなど出ておらぬと言うのに！|ところでぬしよ、向こうから何やら|甘いにおいが……。=I said I wasn't drooling!|Incidentally, there's a sweet scent coming from over there...
 すまないが、寄り道はあとだ。|市で商品を見るのが先だな。=Sorry, but we'll have to save that for later. I need to go and check out what goods they have at the market first.
-仕事であれば仕方がない。|ではさっそく市場へと向かうことに|するかの。=Well, I suppose work is work. Let's make our way to the marketplace.
+仕事であれば仕方がない。|ではさっそく市場へと向かうことに|するかの。=Well, I suppose work is work. Let's make our way to the market.
 　|　　　―　町の施設への移動　―=|<<- Traversing Through Town -
 町ナビ画面では『施設アイコン』を|選択して、各施設へ移動することが|できます。=On the town navigation screen, touch the “Place Icons” to visit locations.
 　　　　−　ボタン操作　−|⑩カーソル移動　　　　　①決定|㊨＋⑩基本メニュー選択=<<- Button Controls -|⑩ Move the Cursor    ① Make Selection|㊨＋⑩ Use the Basic Menu
@@ -828,7 +828,7 @@
 お使いソフィー= Errand-Girl Sophie
 !FILE:event/ev_main/main_040_tutorial_kumerusun.wsb
 ようこそいらっしゃいました、我が|商会へ。|本日は、どのような御用向きで？=Welcome to our trading house. What can I do for you today?
-届け物の仕事で人を探していると|小耳に挟んだのですが。=I overheard that you were looking for someone to make a delivery.
+届け物の仕事で人を探していると|小耳に挟んだのですが。=I was told that you were looking for someone to make a delivery.
 ご興味を持っていただけたのですね。|助かります。=Thank you for your interest.
 実はですね、この町の名産のコイを|隣のレノスの町まで運んでいただき|たいのです。=We're looking for someone who can transport some of the city's famous carp to the neighboring town of Lenos.
 もちろん、報酬はご用意させていた|だきます。|この条件でいかがでしょう。=You will receive payment for your service, of course. How does this sound?
@@ -840,26 +840,26 @@
 まず、品の仕入れについて。|依頼の品はご自身で市場にてご購入|ください。=First, is the purchase of goods. You must buy the necessary goods from the market yourself.
 前払い金は出ませんので、契約をす|る前に手持ちの銀貨と依頼内容を確|かめておくのがよいでしょう。=There is no advance payment, so it’s advisable to check your available funds and the contract terms before signing.
 次に、契約の完了について。|契約は依頼の品が全て揃った時点で|完了となり、報酬が渡されます。=A contract is fulfilled when all of the required items arrive at their destination, and then your reward shall be given.
-依頼には決められた契約日があり、|この日を過ぎると契約不履行となっ|てしまいます。=There is a fixed date by which the request must be completed, and failing that will result in a breach of contract.
-契約不履行となりますと、お支払い|いただいたお金や商品は一切返って|きませんのでご注意ください。=If you breach the contract, you will not receive the reward money or be reimbursed for the goods that you have delivered.
+依頼には決められた契約日があり、|この日を過ぎると契約不履行となっ|てしまいます。=There is a fixed date by which the request must be completed, and exceeding that will result in a breach of contract.
+契約不履行となりますと、お支払い|いただいたお金や商品は一切返って|きませんのでご注意ください。=If you breach the contract, you will not receive the reward money or be reimbursed for any goods that you have delivered.
 ただし、期日より早く届けていただ|いた場合には、多めに報酬がもらえ|ることがあります。=However, if you deliver the goods before the deadline, you may receive more money than originally promised.
 ですから素早く依頼の品を集め、早|めに契約完了させることが儲けへの|近道です。=Hence, the best way to make a profit is to assemble the required goods and complete the contract as soon as possible.
 では、どうぞよろしくお願いいたし|ます。=May you make a speedy delivery!
 　|　　　―　商館での「契約」　―=|<< - Trading House Contracts -
 商館では、通常の売買とは異なる|「契約」の依頼が発生していること|があります。=At trading houses, you can receive “contracts”, which are different to regular trading.
 「契約」の噂を耳にしたら、|該当する町の商館へと向かって|みてもいいかもしれません。=If you hear a rumor about a contract, it may be a good idea to visit the trading house mentioned.
-契約を受けると、|「契約書」が発行されます。=When you enquire about a contract, you will be shown a document containing the “contract terms”.
+契約を受けると、|「契約書」が発行されます。=When you enquire about a contract, you|will be shown a document containing the “contract terms”.
 「契約書」には、|「依頼の品」「納品期限」|「納品先」が書かれています。=The contract terms will contain information about the “requested goods” as well as the delivery “destination” and “deadline”.
 期限までに依頼の品全てを|納品すると契約完了となり、報酬|を受け取ることができます。=If you deliver all the requested items on or before the deadline, you will have fulfilled the contract and will receive your reward.
 契約に失敗しても、違約金は|発生しませんが、納品済の商品は|没収されてしまいます。=If you breach a contract, you won’t be charged a penalty, but you will forfeit the goods you have already delivered.
-契約は利益も大きいですが、|失敗時の損失もありえますので|期間に注意してください。=Contracts can be very profitable, but they can also be costly, so be mindful of the time.
+契約は利益も大きいですが、|失敗時の損失もありえますので|期間に注意してください。=Contracts can be very profitable, but they can also be costly, so be mindful of the deadline.
 !FILE:event/ev_main/main_050_to_renose.wsb
 「契約」の品も仕入れたし、|レノスへ向かうとしよう。=Now that we've got the requested goods, let’s make our way to Lenos.
-うむ。|荷台に空きがあるようなら、|仕入れも忘れるでないぞ。=Make sure that you’ve filled the cart right up if there’s any space left.
+うむ。|荷台に空きがあるようなら、|仕入れも忘れるでないぞ。=Mm! Make sure that you’ve filled the cart right up if there’s any space left.
 # Common lines
 !FILE:event/ev_main/main_110_tutorial_end.wsb
 ……ホロ？|どこだ？=...Holo? Where is she?
-おーい、ホロ？|仕事、終わったぞ！=Hey, Holo? I finished what I was doing!
+おーい、ホロ？|仕事、終わったぞ！=Hey, Holo! I finished what I was doing!
 すまぬすまぬ。|そこの角で若い雄に声をかけられて|しまっての。=Apologies, I was approached that young male stood by corner.
 山ほどの甘い言葉をもらいんす。|この姿でおるのも、なかなか悪くな|いものじゃ。=He did flatter me so. Being in this form is not so bad at all.
 それよりぬしよ、嬉しそうじゃの。|商売が上手くいったんじゃな。=More importantly, you seem to be in high-spirits. Your deal went well, I take it?
@@ -869,46 +869,46 @@
 路銀の足しにと思って、ヨイツへ向|かう途中の町に証書を届ける仕事も|ついでに引き受けてきた。=To add to our travel funds, I bought a deed to be delivered to a town on our way to Yoitsu.
 大丈夫……なのかや？|期限ややっかいな制約があったり|するのではないか？=Was that wise...? Is there no time limit or other annoying restriction?
 一年以内に届けろとのことだったが、|どうせすぐ北に向かうんだ。|心配することは無いさ。=We do have to take it within the year, but we’re heading north soon anyway. There's nothing to worry about.
-それに、これで旅費のめどもついた。|このまま行商を続けてゆけば、北へ|向かっても困ることはないだろう。=Plus with this, we’re all set to leave. If this keeps up, we should have no problem when we reach the north.
-そう言ってくれるとわっちも嬉しい。|ぬしは、やはり優しい雄じゃな。=I am glad to hear you say so. You are a kind male, after all.
+それに、これで旅費のめどもついた。|このまま行商を続けてゆけば、北へ|向かっても困ることはないだろう。=Plus with this, we’re all set to leave. As long as this keeps up, we should have no problem when we reach the north.
+そう言ってくれるとわっちも嬉しい。|ぬしは、やはり優しい雄じゃな。=I am glad to hear you say so. You are a kind male.
 で、当面はどこに向かうつもりなの|かや、ぬしよ？=So, where do you intend to head first?
 ザーラントへ向かおうと思う。|その町に、聞き覚えはあるか？=I was thinking Saarland. Have you heard of it before?
 ……いや。|聞き覚えがないの。|ここから北にある町なのかや？=...No, it doesn't sound familiar. Is it a town north of here?
 うーん……。|北と言うより、対岸だな。=Well... More like north and then some. It’s on the other side of the shore.
-街道沿いに北上してしばらく行くと、|海が見えてくる。|ただ、海と言っても内海なんだ。=If we follow the path north, we’ll come upon the sea, but it is just an inland sea.
+街道沿いに北上してしばらく行くと、|海が見えてくる。|ただ、海と言っても内海なんだ。=If we follow the path north, we’ll come upon the sea, but it's just an inland sea.
 そこの対岸にあるのが、ザーラント。|旅人達には、北への玄関口と言われ|ている。=On the other side of the sea is Saarland. It’s said to be the gateway to the north for travelers.
 ふむ。=Hm.
 なので、まずはザーラント行きの船|に乗ろうと思っている。=So, I’m thinking first we’ll get a boat to Saarland.
 なんと、船かや！=What, a boat?!
-ああ、それが一番早くて楽だと思う。|陸路で行くとかなり大回りになって|しまうしな。=Yeah, no doubt it’s the quickest and easiest way. It's a long way round to go by land.
+ああ、それが一番早くて楽だと思う。|陸路で行くとかなり大回りになって|しまうしな。=Yeah, no doubt it’s the quickest and easiest way. It's a long way to go by land.
 商館で聞いてみたところ、ディーモ|ルンの港から行くのがいいだろうと|の噂だった。=According to what I heard at the trading house, word is departing from the port at Diemoln is the way to go.
 ディーモルンは湾岸沿いでは今最も|栄えていると言われている大きな町|らしい。=Diemoln is a big town, said to be the most prosperous on this coast.
 昔は小さな港町だったんだが、今や|立派な聖堂も擁する大都市なんだそ|うだ。=It used to be a small port town, but now it's a big city complete with a magnificent cathedral.
 なるほどの。|それだけ栄えておればいろいろと情|報を集めることもできそうじゃな。=I see. If it is as prosperous as the rumors say, it’ll be an easy thing to gather information.
 ああ、お前の故郷に関する話も聞け|るかもしれないな。|海を渡った記憶はあるのか？=Yeah, we might even hear something your homeland. Do you remember crossing the sea?
-あるような、ないような……。|何せ昔のことじゃからの。|よくは覚えておらぬ。=Perhaps... Perhaps not. 'Twas such a long time ago, I can hardly remember.
-じゃがぬしよ、舌や鼻は覚えておる|やもしれぬ。=But, my nose and tongue do not forget.
+あるような、ないような……。|何せ昔のことじゃからの。|よくは覚えておらぬ。=Perhaps... Perhaps not.|'Twas such a long time ago, I can hardly remember.
+じゃがぬしよ、舌や鼻は覚えておる|やもしれぬ。=But my nose and tongue do not forget.
 とびきりの海の幸でも食べれば、思|い出せるかもしれぬぞ。|どうじゃ、ぬしよ？=If I sample some of the best seafood they have to offer, perhaps I might remember something. What say you?
-残念ながら、船に乗る前には食べな|いのが鉄則だ。|ありがたい旅になりそうだな。=I'm sorry to say, it’s a hard fact that’s it’s better not to eat before you get on a boat. You’ll thank me later.
+残念ながら、船に乗る前には食べな|いのが鉄則だ。|ありがたい旅になりそうだな。=I'm sorry to say, it’s a hard fact that it’s better not to eat before you get on a boat. You’ll thank me later.
 ホロさん、か……。=Miss Holo, hm...?
 !FILE:event/ev_main/main_120_noratonodeai.wsb
 ……ん？|まずいぞ、ぬしよ。=...Hm?|This isn’t good.
 どうした。|そんなに鼻をひくひくさせて。=What’s wrong, sniffing around like that?
 ……何か、来るのか？=...Is something coming?
 風が湿っておる。|一雨来そうじゃ。=The wind is moist. It's going to rain.
-本当だ。|空が、急に暗くなってきたな。|町まで持てばいいんだが。=You’re right. The sky has suddenly gotten darken. I hope it’ll hold off until we get into town.
+本当だ。|空が、急に暗くなってきたな。|町まで持てばいいんだが。=You’re right. The sky has suddenly gotten darker. I hope it’ll hold off until we get into town...
 いや、おそらく無理じゃな。|早めに雨宿りしたほうがよい。|思いの外、激しくなりそうじゃ。=No, I doubt it. We'd best take shelter from the rain as soon as possible. It seems it’s going to pour down.
 それは大変だ。|少し飛ばして、大きめの木を探そう。=That won’t be good. Let’s pick up the pace and try to find a big tree for cover.
 うむ！=Mm!
 あら、こんにちは。|皆さんも、雨宿りですか？=Oh, hello there. Are you taking shelter from the rain too?
 ワォン！=Woof!
 ええ。|ここまで大降りになるとは思いませ|んでした。=Yeah, I didn't expect it to rain this hard.
-しかし、こんなに可愛らしい先客が|いらっしゃるとは。|雨宿りも、たまにはいいものですね。=But, to think we’d find such a fair maiden here first. I guess taking shelter from the rain once in a while isn’t so bad after all.
-むむっ。=Mm...
+しかし、こんなに可愛らしい先客が|いらっしゃるとは。|雨宿りも、たまにはいいものですね。=But, to think we’d find such a fair maiden here. I guess taking shelter from the rain once in a while isn’t so bad after all.
+むむっ。=Hrm...
 私は行商人のロレンスと言います。|こちらは連れのホロ。|あなたも、旅の途中ですか？=I am Lawrence, a traveling merchant. And this is my companion, Holo. Are you also traveling?
 はい。|私、羊飼いのノーラと……あっと、|もう羊飼いじゃないんでした。=Yes, I’m Norah, a shepherdess. Ah... I’m no longer a shepherdess, actually.
 はは、羊飼いだったんですか。|道理で頼もしい連れがいらっしゃる|わけですね。=Ha-ha, a shepherdess, is it? No wonder you have such a faithful companion.
-ワォンワォン！=Woof, woof!
+ワォンワォン！=Woof!
 ええ、この子と一緒に旅をしてます。|エネクって言うんです。|いろいろと、私を助けてくれてます。=Yes, his name is Enek. We’re traveling together. He’s always helping me out.
 ノーラさんはどちらまで？=Where are you heading, Norah?
 リュビンハイゲンに戻るところです。|私、服の仕立て職人になろうと思っ|ていたんです。=I’m on my way back to Ruvinheigen. I have always wanted to become a dressmaker...
@@ -924,9 +924,9 @@
 それに、船賃がすごく高くて……。|貯めたお金じゃ全然足りないことも|判ったので、戻ってきたんです。=Not to mention that the boat fare was very expensive... It turned out that the money I had saved was not enough, so I came back.
 リュビンハイゲンに戻れば、まだ仕|事のつてがありますから。=I knew if I returned to Ruvinheigen, I would be able to find more work.
 なるほど……。=I see...
-ロレンスさんは、商人さんなんです|よね？=You said you are a traveling merchant, Mr. Lawrence?
+ロレンスさんは、商人さんなんです|よね？=You said you are a traveling merchant,|Mr. Lawrence?
 ええ、旅から旅の、しがない行商人|です。=I'm but a humble merchant, who travels from place to place.
-もしお気が向けば、私を雇ってくだ|さいませんか？|護衛の仕事なら、私もできます。=If you would like, I was wondering if you mightn’t hire me. I can escort you.
+もしお気が向けば、私を雇ってくだ|さいませんか？|護衛の仕事なら、私もできます。=If you would like, I was wondering if you mightn’t hire me? I can escort you around.
 羊飼いをしていましたから、危険な|狼から馬車を守るくらいはできると|思います。=I used to be a shepherdess, so I believe I could protect a cart from wolves.
 確かに狼は危険ですからね=They certainly are dangerous.
 すみませんが、今回は遠慮します=I'm sorry, but I’ll have to pass.
@@ -942,58 +942,58 @@
 馬車に「あいのり」して、|一緒に旅をすることができますが、|今はまだそのときではありません。=You can go on a journey with them and travel together, but now is not the time.
 どこかで彼女たちと再会したとき、|誰と旅を続けていくかは、あなたの|選択にかかっています。=When you see them again, it will be up to you to decide who to continue your journey with.
 !FILE:event/ev_main/main_130_diemorn.wsb
-おお、ここがディーモルンかや！|確かに大きな町じゃの！|小綺麗な教会の建物がよう目立つ。=Oh, so this is Diemoln! It's a big town indeed! The church stands out.
+おお、ここがディーモルンかや！|確かに大きな町じゃの！|小綺麗な教会の建物がよう目立つ。=Oh, so this is Diemoln! 'Tis a big town indeed! The beautiful cathedral really stands out.
 じゃが、区画によって古い町並みと|新しい建物との差が激しいの。|道を曲がれば別の町のようじゃ。=But there is a big difference between the old and the new buildings around. Take one turn, and it's as if you’re in another city.
 仕方ないさ。|ここは最近になって急に大きくなっ|た町だそうだからな。=That’s how it goes. This is a town that has grown rapidly in recent years.
 まあ、新しい建物があるってことは、|それだけの活気があるってことさ。|悪いことじゃない。=The new buildings show just how much activity there’s been. It’s not a bad thing.
 しかしぬしよ、わっちは道中で出会|ったあの小娘が言っておったことが|気に掛かっておるのじゃが……。=Still, there is something bothering me about what that maid we met on the road said.#replace maid with girl?
-羊飼いのノーラと言っていたな。|船に乗れなかった、というあの話か。=Norah the shepherdess? You mean about not being able to get on the boat?
+羊飼いのノーラと言っていたな。|船に乗れなかった、というあの話か。=Norah the shepherdess? You mean about not being able to get on a boat?
 そうじゃ。|ぬしは相当でれでれしとったから、|覚えておらんかと思ったがな。=Aye. I thought you wouldn't remember it, seeing as you were so lovestruck.
-そうだったかな=I guess so.
+そうだったかな=Is that true?
 でれでれなんてしてない！=I wasn’t lovestruck!
 そうだったかな。|そんなことはなかったと思うが……。=Is that how it looked? I didn’t think I was acting strange...
-いや、相当でれでれしておった。|だらしなく鼻の下を伸ばしおって。=No, you were completely under her spell. I saw the way you ogled her.
+いや、相当でれでれしておった。|だらしなく鼻の下を伸ばしおって。=No, you were completely under her spell.|I saw the way you ogled her.
 ぬしはあのような、いかにもか弱く|て守ってやりたいようなのが好み|なんじゃな。=So you favor those weak sorts who seem to need protection, do you?
 さて、行くぞ、ぬしよ。|ほかの雌の話などしておっても不愉|快じゃし、物事も何も進まぬ。=Come now, let’s go. I’ve no mind to speak about other females, and it serves no purpose either.
 さっさと情報を集めて、海を渡って|しまおうではないか。=Better we gather information and make our way across the sea, no?
-でれでれなんてしてないだろう。|実際にあの会話で貴重な情報が聞け|たんだし。=I did no such thing! As a matter of fact, we were able to learn useful information from that conversation.#too long?
+でれでれなんてしてないだろう。|実際にあの会話で貴重な情報が聞け|たんだし。=I did no such thing! As a matter of fact, we were able to learn useful information from that conversation.
 まあ、それは一理ある。|しかし、わっちはぬしの態度が気に|入らん。=You do have a point, but I can't say I much like this attitude of yours.
-ぬしはああいう、如何にも守ってや|りたくなるような貧相で金髪の娘が|好みなんじゃとようく判った。=I see you have a thing for fair haired maidens who look like they need protection.
+ぬしはああいう、如何にも守ってや|りたくなるような貧相で金髪の娘が|好みなんじゃとようく判った。=I see you have a thing for such fair-haired maidens who look like they need protection.
 そんなにふてくされるな。|だいたい、俺はお前を船に乗せに来|たんじゃないか。=Don’t sulk now. Haven’t I come all this way to board the boat with you?
 お前はここにいて、あの娘はここに|いない。|この事実が何よりの証明だろう？=You're here and she's not. Isn't that proof enough?
 それとも俺たちの食費や旅費を削っ|てあの娘の船賃を払ってやったほう|がいいとでも？=Or would you rather I siphoned off our food and travel expenses to pay for her passage?
-くふ、これ以上問い詰めて本当に食|事の質を落とされてはかなわぬ。|ま、ここは素直に謝っておくかの。=Heh-heh, well I daren’t let our food quality slip by asking any more questions. I suppose an apology is in order, this time.
-ともかく、憶測だけで語っていても|何も始まらないからな。|街を回って、噂を集めてみよう。=Anyway, we won’t get anywhere with just talk. Let’s tour the city and see what news we can find.
+くふ、これ以上問い詰めて本当に食|事の質を落とされてはかなわぬ。|ま、ここは素直に謝っておくかの。=Heh-heh, well I daren’t let our food quality slip by asking any more questions.|I suppose an apology is in order, this time.
+ともかく、憶測だけで語っていても|何も始まらないからな。|街を回って、噂を集めてみよう。=Anyway, we won’t get anywhere with just talk. Let’s tour the city and see what we can find.
 そうじゃな。|いずれにせよ、とっとと海を渡って|しまいたいものじゃの。=Aye. At any rate, I’d like to make haste to get across the sea.
 !FILE:event/ev_main/main_140_diemorn_minato.wsb#some dupes with t06_diem_main_140_minato_nidome
 ……え？|ザーラントに渡りたい、と？=...Eh?|You want to travel to Saarland?
-ええと、どちら様ですかね？|ふむ、行商人のロレンス様。|お連れ様もいらっしゃる、と……。=And who might you me? Hm, a merchant Mr. Lawrence, and a traveling companion...
+ええと、どちら様ですかね？|ふむ、行商人のロレンス様。|お連れ様もいらっしゃる、と……。=And who might you be? Hm, Mr. Lawrence, a merchant, and a traveling companion...
 申し訳ありませんが、現在信用でき|る第三者のご紹介のない方のご乗船|はお断りさせていただいております。=I’m sorry, but at the moment we can’t allow anyone who hasn’t been introduced by a reputable source to board.
-今、海には「海の悪魔」と呼ばれる|大ガラスの怪物がいるようでしてね。|何人も犠牲になっているのです。=It seems the waters are being stalked by a large monster known as a “Sea Demon”. Many have already lost their lives it.
+今、海には「海の悪魔」と呼ばれる|大ガラスの怪物がいるようでしてね。|何人も犠牲になっているのです。=It seems the waters are being stalked by a large monster known as a “Sea Demon”. Many have already lost their lives to it.
 よって、渡航許可を出せるのは教会|が渡航が必要だと認めた要人と商人|の方のみとさせて頂いております。=That’s why only dignitaries and merchants who have been recognized by the Church as needing to travel are allowed to do so.
 現在は商船といえども教会の護衛船|が同行する形を取らせていただいて|いる次第です、ご了承ください。=Even merchant ships are having to be accompanied by a Church escort at present.
 ええと、つまりは教会の関係者か相|応に身分のある方でなければ渡すこ|とができないということでしょうか？=Do you mean that only church officials or people with appropriate status are allowed to travel across?
-そういうことです。|教会の船に守っていただいてる以上、|教会の通達は絶対です。=That's right. As it is the churches ship offering us protection, the Church's instructions are absolute.
+そういうことです。|教会の船に守っていただいてる以上、|教会の通達は絶対です。=That's right. As it is the Church's ships offering us protection, the Church's rules are absolute.
 何と言っても、正式な渡航許可を得|ているのはこの辺りだとうちの港ぐ|らいなものですからね。=When all’s said and done, we are the only port in the area with the right to authorize travel permits.
 こちらが渡航許可証です。|周辺地域の皆様のご協力もあり、現|在は我々が管理を行ってます。=Here is the proof. In cooperation with the people of the surrounding areas, we are currently managing the situation.
 大切な渡航権を預かる私どもとして|も、身元不明の方や異端の方を渡す|わけにも参りませんので。=Having been entrusted with this important role, we can't afford to give permits to anyone who is unknown to us or a heretic.
 なお、紹介がある方のお連れ様につ|きましてもご身分の提示は行ってい|ただきます。=Even those who are traveling with someone who has been granted permission will be asked to identify themselves.
-ご乗船の際には、顔もはっきりと確|認させていただきますので、その旨|ご了承ください。=We must check everyone’s faces as the board the ship, so we ask your patience and understanding.
+ご乗船の際には、顔もはっきりと確|認させていただきますので、その旨|ご了承ください。=We must check everyone’s faces as they board the ship, so we ask your patience and understanding.
 お連れ様はフードをしてらっしゃる|ようですが……。=I do note that your companion is wearing a hood...
 何か問題でもあるのかや？=Is there a problem?
 はい、念のためそのようなかぶり物|や外套などは、航海中私どもで預か|らせていただきます。=Yes, we will have to confiscate such headgear or cloaks during the voyage, just in case.
 なんじゃと？=What?
-大変ご面倒をおかけしますが、身分|を偽って乗船する不審者もおります|ので……何卒ご理解ください。=We apologize for the inconvenience, but we must be cautious to avoid allowing anyone with a false identity to come aboard.
+大変ご面倒をおかけしますが、身分|を偽って乗船する不審者もおります|ので……何卒ご理解ください。=We apologize for the inconvenience, but we must be cautious to avoid allowing anyone with a false identity to come on board.
 それでは、ごきげんよう。=Well then, good day.
 のう、ぬしよ。|どうも状況は芳しくなさそうじゃな。=Things aren’t looking so good for us.
 あの受付も融通が利きそうな輩では|なさそうじゃった。|何を言っても立て板に水だしの。=The portsman didn't seem to be a very accommodating person either. Anything we said was merely water off a duck’s back.
 ああ。|正攻法で渡るのは、かなり厳しいと|言わざるを得ないようだ。=Right. It seems like it will be difficult to cross the sea in any straightforward manner.
 しかし、ぬしよ。|「海の悪魔」とやらはいったい何な|のかの。=Still, I wonder what this “Sea Demon” business is about.
 わっちにはこの海にそんなあやしげ|なものがおるようにはとても思えぬ。|単なる口実ではないのかや。=I can’t imagine there being anything so notorious in this water. It must be a ruse.
-愚痴をこぼしても仕方ない。|旅には不条理がつきものさ。|そう言いたい気持ちは判るけどな。=No use complaining about it. Journeys are always full of obscurities. Though, I do understand well how you feel.
+愚痴をこぼしても仕方ない。|旅には不条理がつきものさ。|そう言いたい気持ちは判るけどな。=No use complaining about it. Journeys are always full of unfairness. Though, I do understand how you feel.
 さあ、そろそろ行こうか、ホロ。=Let’s go, Holo.
-……どこへじゃ？=...To where?
-もちろん、次の情報を集めにさ。|もっといろんな人に話を聞けば、突|破口も見つかるかもしれないだろう？=To see what we can find out, of course. If we talk to more people, we might just find a solution.
+……どこへじゃ？=To where?
+もちろん、次の情報を集めにさ。|もっといろんな人に話を聞けば、突|破口も見つかるかもしれないだろう？=To see what we can find out, of course. If we talk to more people, we might just find|a solution.
 ふさぎ込んでても何も変わらない。|うまいものでも食べて元気を付けて、|次の聞き込みに行こうじゃないか。=Feeling sorry will get us nowhere. How about we go for a nice meal to lift our spirits and then find our next port of call?
 くふ、それもそうじゃな。=Heh-heh, quite.
 !FILE:event/ev_main/main_160_diemorn_uwasa.wsb
@@ -1008,10 +1008,10 @@
 見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re pegging to cross the sea. There’s been a lot of your type around here lately.
 先に言っておくが、今この港で船を|使えるのは一握りの人間だけだ。|早めにあきらめた方がいいと思うぜ。=For the record, there’s only a handful of people permitted to use the boats here. You’d be better cutting your losses now.
 でも、まあそのうち渡れるように|なるんじゃないかってオレは思って|るところさ。=Though, I do think the ban will be lifted sooner or later.
-なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a system like this is going to last?
+なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a haphazard system like this is going to last?
 さっきあんたも聞いたろ？|この町の司教の話。=You heard about the bishop here, right?
 この町の司教はとにかく自分の名声|を高めて、教会の中での権力を握り|たいんだそうだ。=He just wants to make a name for himself and gain a position of power in the Church.
-司教は手段を選ばない奴だと評判だ。|異端者を手当たり次第に捕まえては、|自分の手柄にしているらしい。=He has a reputation for being unscrupulous. He’ll grab any pagan he can and take all the credit for turning them in.
+司教は手段を選ばない奴だと評判だ。|異端者を手当たり次第に捕まえては、|自分の手柄にしているらしい。=He has a reputation for being under- handed. He’ll grab any pagan he can and take all the credit for turning them in.#leave space
 渡航規制も教会と海運業者が裏で手|を組んで仕掛けているものらしい。|司教の出世のためにな。=I’ll bet the travel ban’s part of a secret deal between the Church and the maritime union, all for the bishop’s advancement.
 例の悪魔退治の話も嘘っぱちだって|話だ。|自分では行ってないんだとさ。=That story about subjugating the Sea Demon was also a lie. He didn’t go out there.
 まあ、あのお高くとまった司教様が|寒くて危険な海になんてわざわざ|出かけるはずもないからな。=At least, I could never imagine that ‘oh-so-important’ bishop purposely sailing out on the cold and dangerous sea.
@@ -1022,11 +1022,11 @@
 そうですか？=Is that so?
 あんた、話がわかるな。|商人なら誰だってこう考える。|もし抜け道ができたら……ってな。=You know it. “If only there was some loophole...” Every merchant has the same idea.
 あんたとは楽しい話ができそうだ。|一緒に商売をやっても面白いかも|しれないな。=You seem like a fun guy to talk to. It would be interesting to do business together.
-オレはここでしばらく情報を集めな|がら、儲け話でも探すとするよ。=I'm going to stick here for a while, gathering information and seeing what profitable schemes I can find.
+オレはここでしばらく情報を集めな|がら、儲け話でも探すとするよ。=I'm going to stick around here for a while, gathering information and seeing what profitable schemes I can find.
 まあ、興味があったらいつでも声を|かけてくれ。=Well, if you fancy it, call me anytime.
 そうですか？|私には、迷惑な話にしか思えないの|ですが。=I’m not sure. It sounds like more of a nuisance to me.
 そうかな。|儲け話ってのは案外こういう状況の|中に潜んでいるものかもしれないぜ？=Isn’t it precisely at times like this where you can find unexpectedly profitable schemes?
-オレはしばらくここにいる。|まあ、興味があったらいつでも声を|かけてくれ。=I’m going to stick here for a while, anyway. If you fancy it, call me anytime.
+オレはしばらくここにいる。|まあ、興味があったらいつでも声を|かけてくれ。=I’m going to stick around here for a while, anyway. If you fancy it, call me anytime.
 !FILE:event/ev_main/main_165_diemorn_yado.wsb
 ……どうする、ぬしよ。|あちこちで話を聞いてみたが、どう|も状況は芳しくなさそうじゃな。=...What now? We’ve asked around, but the situation doesn’t look good.
 そうみたいだな。|簡単に船に乗れるような雰囲気では|なさそうだ。=Right. It doesn't look like it's going to be easy to board a boat.
@@ -1572,7 +1572,7 @@
 ご挨拶をと思いまして。|おやすみなさい、ノーラさん。=I just wanted to drop by. Good night, Norah.
 はい、おやすみなさい。=Good night.
 !FILE:event/ev_main/main_290_diana.wsb
-あら、どちら様？=Oh, and who might you me?
+あら、どちら様？=Oh, and who might you be?
 あ、あの……。=A-Ah...
 むっ。|だらしないぞ、ぬしよ。|鼻の下など伸ばして……。=Mm. How unseemly. You’re practically drooling...
 ふふ、男前の顔がだいなしね。|で、何のご用？=Heh-heh, you'll ruin your handsome face. So, what can I do for you?
@@ -2227,34 +2227,33 @@
 　　　　−　ボタン操作　−|⑩カーソル移動　　①選択、決定|⑩＋④高速移動　　②馬車に戻る=<<- Button Controls -|⑩ Move the Cursor   ① Select + Choose|⑩＋④ Speedup        ② Recenter Map
 また、町の「門」から外に出ると|もと居た町に入りなおすことは|できません。=Note that you cannot return to a town you have just left.
 商品の「買い忘れ」「売り忘れ」|に注意してください。=Be careful not to forget to buy and sell your goods.
-!FILE:event/ev_main/t04_cmer_main_030_asidome.wsb
+!FILE:event/ev_main/t04_cmer_main_030_asidome.wsb#p1
 のう、ぬしよ。|商会の用事はいいのかや？=Don't you have business at the trading house?
-そうだな、先に商館に向かうか。|何やら「契約」の話があるような|話をしていたからな。=Right, I should probably head there first. There was talk of some kind of “contract” for me to look at.
-!FILE:event/ev_main/t04_cmer_main_040_gate_asidome.wsb
+そうだな、先に商館に向かうか。|何やら「契約」の話があるような|話をしていたからな。=Right, I should probably head there first. There was some kind of “contract” for me to look at.
+!FILE:event/ev_main/t04_cmer_main_040_gate_asidome.wsb#p1
 のう、ぬしよ。|もしや「契約」の商品を買わずに|町を出るつもりかや？=You’re not going to leave town without buying the goods for the contract, are you?
-「コイ」を４匹仕入れてから出発|するのではなかったかの。=I thought you were going to buy four carp before you left.
+「コイ」を４匹仕入れてから出発|するのではなかったかの。=I thought you were going to buy four carp before we left.
 おっと、そうだったな。|市場に戻ろう。=Oops, you’re right. Let’s go to the market.
 !FILE:event/ev_main/t04_cmer_main_040_koubou_asidome.wsb
 ぬしよ。|工房の扉は閉まっておるようじゃが|……。=The door to the workshop seems to be closed...
 どうやら休みのようだな。|出直そう。=They must be on a break. We should come back later.
-!FILE:event/ev_main/t04_cmer_main_040_syoukan_asidome.wsb
-ようこそ我が商館へ。|契約の内容のご確認ですか？=Welcome to the trading house. Have you come to confirm the details of our contract?
+!FILE:event/ev_main/t04_cmer_main_040_syoukan_asidome.wsb#p1
+ようこそ我が商館へ。|契約の内容のご確認ですか？=Welcome to the trading house. Have|you come to confirm the details of|the contract?
 お願いしたいのは、「コイ」の運搬|です。=We would like you to transport some “carp”.
 市場で「コイ」を４匹購入し、|レノスの商館まで届けて下さい。=Please buy four carp from the market and deliver them to the trading house in Lenos.
 では、よろしくお願いしますね。=Thank you for your help.
 !FILE:event/ev_main/t04_cmer_main_050_to_renose.wsb
-＄ルカとの気持ちが|ぐぐっと　近づいた！=＄You and Luka have become a lot closer!
 「契約」の品も仕入れたし、|レノスへ向かうとしよう。=Now that we've got the requested goods, let’s make our way to Lenos.
-!FILE:event/ev_main/t05_reno_main_050_asidome.wsb
+!FILE:event/ev_main/t05_reno_main_050_asidome.wsb#p1
 のう、ぬしよ。|商館へ行くのではなかったのかや？=Should we not head to the trading house?
 契約を受けていたと言っておった|ような気がするのじゃが。=I thought you had a contract with them.
-そうだな。|荷台のコイを届けて、「契約」を|完了させてしまおう。=You’re right. Let’s go deliver these “carp” and fulfil the contract.
+そうだな。|荷台のコイを届けて、「契約」を|完了させてしまおう。=You’re right. Let’s go deliver these carp and fulfil the contract.
 !FILE:event/ev_main/t06_diem_main_140_minato_nidome.wsb#dupes with main_140_diemorn_minato
 申し訳ありませんが、現在信用でき|る第三者のご紹介のない方のご乗船|はお断りさせていただいております。=I’m sorry, but at the moment we can’t allow anyone who hasn’t been introduced by a reputable source to board.
-今、海には「海の悪魔」と呼ばれる|大ガラスの怪物がいるようでしてね。|何人も犠牲になっているのです。=It seems the waters are being stalked by a large monster known as a “Sea Demon”. Many have already lost their lives it.
+今、海には「海の悪魔」と呼ばれる|大ガラスの怪物がいるようでしてね。|何人も犠牲になっているのです。=It seems the waters are being stalked by a large monster known as a “Sea Demon”. Many have already lost their lives to it.
 よって、渡航許可を出せるのは教会|が渡航が必要だと認めた要人と商人|の方のみとさせて頂いております。=That’s why only dignitaries and merchants who have been recognized by the Church as needing to travel are allowed to do so.
 現在は商船といえども教会の護衛船|が同行する形を取らせていただいて|いる次第です、ご了承ください。=Even merchant ships are having to be accompanied by a Church escort at present. Please understand.
-!FILE:event/ev_main/t06_diem_main_140_mon_asidome.wsb
+!FILE:event/ev_main/t06_diem_main_140_mon_asidome.wsb#p1
 のう、ぬしよ。|もう次の町に行くのかや？=Say, are we really leaving so soon?
 うーん、どうしようか。|まだ情報が不足しているような気が|するのは事実だな。=Well, that was the plan but, I guess we don't really have enough information yet.
 すまない、やはり町に戻ろう。|もうしばらく情報集めに付き合って|くれ。=Sorry, let's go back. We should try and find out some more first.
@@ -2276,17 +2275,17 @@
 ふん、用があるなら他の神父をあた|るんだな。=If you need something, go find another priest.
 つまらんお前達にも、せめて神のお|導きがありますように。=May god’s grace shine down on all of us, even you, insignificant fellows.
 本当、嫌な人ですよね？=Talk about unlikable, huh?
-あの司教はしばらく前にここの町に|来た人なんですが……。|出世することしか頭に無いんですよ。=That bishop is arrived in our city a while back... All he cares about is how to get ahead.
-みんな言ってます。|自分より立場の偉い人間にしか興味|が無いみたい、って。=Everyone knows it. They say he’s is only interested in people who are in a higher position than him.
+あの司教はしばらく前にここの町に|来た人なんですが……。|出世することしか頭に無いんですよ。=That bishop arrived in our city a while back... All he cares about is how to get ahead.
+みんな言ってます。|自分より立場の偉い人間にしか興味|が無いみたい、って。=Everyone knows it. They say he’s only interested in people who are in a higher position than him.
 あの人が来てからなんです。|この町で異端者狩りなんてものが|始まったのは。=The clampdown on pagans only started when he arrived here.
-何かあったら注意してくださいね。|目立ちがり屋で、手柄を立てるため|手段を選ばないような人ですから。=Please be careful. He’s a show-off who’ll stop at nothing to add credit to this name.
+何かあったら注意してくださいね。|目立ちがり屋で、手柄を立てるため|手段を選ばないような人ですから。=Please be careful. He’s a show-off who’ll stop at nothing to add credit to his name.
 司教=Bishop
 若い女性=Young Woman
 !FILE:event/ev_main/t06_diem_main_140_uwasa_03.wsb
 この町では教会の権力がすごくてね。|特に異端者に対しては厳しい取締り|があるの。=The Church has a lot of power in this city. Their laws against pagans are especially strict.
 異端者を見つけて報告すれば、教会|の手柄になるからなの。=If you find a pagan and report them, the Church will take the credit for it.
-ただ、教会と少し意見が合わないだ|けで異端者とされてしまう人も多い|みたいよ。=But there are many people who are considered heretics just...>>because they disagree with the Church over small matters.
-この前もね、若くて腕も立つのに教|会から追われたお医者様がいたって|話を聞いたわ。=I heard that the other day, a doctor who was pursued by the Church, even though he was young and skilled.
+ただ、教会と少し意見が合わないだ|けで異端者とされてしまう人も多い|みたいよ。=But there are many people who are considered heretics just because they disagree with the Church over small things.
+この前もね、若くて腕も立つのに教|会から追われたお医者様がいたって|話を聞いたわ。=I heard that the other day, a doctor was pursued by the Church, even though he was young and skilled.
 捕まったのか、逃げ延びたのかまで|はわからないけど……。|残念な話よね。=I don't know if he was caught or if he managed to escape... It's a sad story.
 町の人=Resident
 !FILE:event/ev_main/t06_diem_main_140_uwasa_04.wsb
@@ -2294,7 +2293,7 @@
 ここからならまずは東。|そのあと海沿いに北へと向かえば|行けるはずだ。=First, you must go east. After that you can head north following the coast.
 ただ最近、東の地方でよその国と小|競り合いをしてるって噂も聞くな。=However, there have been rumors that relationships inside the east country have turned sour lately.
 もし戦争に発展したら、北への通行|を禁止されるかもしれないね。=If war breaks out, they might ban all travel north.
-本当かって？|うーん、どうだろう。|詳しくはよく知らないんだ。=Are the rumors true? Well, who knows. I can’t say I know too much about it.
+本当かって？|うーん、どうだろう。|詳しくはよく知らないんだ。=Are the rumors true? Well, who knows.|I can’t say I know too much about it.
 なにせ、遠い町の話なもんでね。=It’s a rumor about some place far from here.
 町の人=Resident
 !FILE:event/ev_main/t06_diem_main_150_kyoukai_nidome.wsb
@@ -2338,23 +2337,23 @@
 #先を急ごう=
 !FILE:event/ev_main/t5_reno_main_100_first_sell.wsb
 ぬしよ。|リュビンハイゲンで仕入れたクルミ|を売りにいくのかや？=Say, are you going to sell the walnuts you bought in Ruvinheigen?
-ああ、売却できる価格を確認して、|利益が出るなら売ってもいいだろう。=Yeah, I thought I’d check what the current selling price is, and sell them if there’s enough profit.
+ああ、売却できる価格を確認して、|利益が出るなら売ってもいいだろう。=Yeah, I thought I’d check what the current selling price is, and sell them if I can make a good profit.
 売った後は、商品の仕入れも忘れぬ|ようにな。=Don’t forget to stock up on goods once you’ve finished selling.
 　|　 ―　商品の売却について　―=|<<- Selling Goods -
-荷台の商品アイコンをタッチし、|市場にスライドすると商品を|市場に出品した状態になります。=Tap on a “Goods Icon” in your cart to select it, and drag it to the store to put it up for sale.
+荷台の商品アイコンをタッチし、|市場にスライドすると商品を|市場に出品した状態になります。=Tap on a “Goods Icon” in your cart to select it, and drag it to the store to put|it up for sale.
 商品を市場に出品した状態で|「決済アイコン」をタッチすれば|売却は完了です。=After moving the goods you’d like to sell to the store’s shelf, touch “Finish” to complete the sale.
-商品を「荷台」と「市場」の|両方に置いて「決済」すれば|「購入と売却」を一度に行えます。=You can buy and sell items at the same time by placing goods in both the “cart” and the “market” and pressing “Finish”.
+商品を「荷台」と「市場」の|両方に置いて「決済」すれば|「購入と売却」を一度に行えます。=You can buy and sell items at the same time by placing goods in both the “cart” and the “market” and pressing “finish”.
 購入した商品を別の町に運んで|売却すれば、利益が出ます。=If you take the goods you have bought to another town and sell them, you will make a profit.
 「近すぎる町」で売っても損をして|しまいますので、売値をよく確認|して売却しましょう。=But, if you try to sell the goods in a town that is very close by, you may lose money, so be sure to check the selling price.
-　　　−　ボタン操作　−|①商品の選択　　②キャンセル|③商品の回転　　=<<- Button Controls -|① Select Goods ② Cancel|③ Rotate an Item
+　　　−　ボタン操作　−|①商品の選択　　②キャンセル|③商品の回転　　=<<- Button Controls -| ① Select Goods     ② Cancel| ③ Rotate an Item
 　|　―　「人気の品」について　―=|<<- Popular Items -
 「人気の品」とは、|その町で特に高く売却できる商品|です。=If an item is “popular” in a town, you can sell it there for a higher price.
-人気の品は「地図」「交易マップ」|画面で確認できます。=You can view which items are popular in a town on the “Map” and “Trade Map”.
+人気の品は「地図」「交易マップ」|画面で確認できます。=You can view which items are popular in a town on the “Map”.
 表示される「売値」「買値」は|「平均値」です。相場の上下で|実際の値段は変化します。=The “buy” and “sell” prices shown there are only “average prices”. The actual price will change as the market fluctuates.
-行く町の人気の品を確認して、|行商を行っていきましょう。=Check out what goods are popular in the town you intend to head to, and make your purchase wisely.
+行く町の人気の品を確認して、|行商を行っていきましょう。=Check out what goods are popular in the town you intend to head to, and make your purchases wisely.
 「商品画面」では、商品の|「特産地」と「人気の町」を|一度に確認できます。=On the “Goods Screen”, you can check which towns specialize in a product, and where it is most popular.
 「人気の品」を効率よく販売|できるように、行商ルートを|組み立てていきましょう。=Plan your routes first to make the most of “Popular Items”.
-!FILE:event/ev_main/t5_reno_main_100_tuto_closede_gate.wsb
+!FILE:event/ev_main/t5_reno_main_100_tuto_closede_gate.wsb#p1
 のう、ぬしよ。|出発の前に、まだすることが|あるのではないのかや？=Say, don’t you still have business to do here before we depart?
 そうだな。|町の施設を一通り回ってみようか。=You’re right. I should finish visiting everywhere first.
 !FILE:event/ev_main/t5_reno_main_100_tuto_opened_gate.wsb
@@ -2364,8 +2363,8 @@
 おう、新顔だな。|荷馬車の様子からすると、さしづめ|旅の商人ってとこか。=Oh, you're a new face. From the look of your cart, I'd say you're a traveling merchant.
 荷台を拡張したくなったらうちに|来な。|いつでも請け負ってやるぜ。=If you want to expand your cart, come to me. I'll take care of it for you.
 　|　　　　―　荷台の拡張　―=|<<- Storage Expansion -
-工房では、荷馬車の|「荷台の拡張」ができます。=You can expand your “storage space” at workshops.
-荷台を拡張すると、より多くの|商品を運べるようになり、|取引の量が上がります。=By expanding your storage, you will can carry more goods and perform more transactions.
+工房では、荷馬車の|「荷台の拡張」ができます。=You can expand your storage space at workshops.
+荷台を拡張すると、より多くの|商品を運べるようになり、|取引の量が上がります。=By expanding your storage, you can carry more goods and perform more transactions.
 １ブロック拡張するごとに、|拡張費用は値上がりしていき|ます。=As you add more blocks, the cost of each expansion will rise.
 親方=Cartwright
 !FILE:event/ev_main/t5_reno_main_100_visit_trading.wsb
@@ -6256,10 +6255,10 @@ bg_t02_rubi=bg_yadoheya_small
 見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re pegging to cross the sea. There’s been a lot of your type around here lately.
 先に言っておくが、今この港で船を|使えるのは一握りの人間だけだ。|早めにあきらめた方がいいと思うぜ。=There’s only a handful of people permitted to use the boats at this port. You’d be better cutting your losses now.
 でも、まあそのうち渡れるように|なるんじゃないかってオレは思って|るところさ。=Though, I do think the ban will be lifted sooner or later.
-なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a system like this is going to last?
+なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a haphazard system like this is going to last?
 さっきあんたも聞いたろ？|この町の司教の話。=You heard about the bishop here, right?
 この町の司教はとにかく自分の名声|を高めて、教会の中での権力を握り|たいんだそうだ。=He just wants to make a name for himself and gain a position of power in the Church.
-司教は手段を選ばない奴だと評判だ。|異端者を手当たり次第に捕まえては、|自分の手柄にしているらしい。=He has a reputation for being unscrupulous. He’ll grab any pagan he can and take all the credit for turning them in.
+司教は手段を選ばない奴だと評判だ。|異端者を手当たり次第に捕まえては、|自分の手柄にしているらしい。=He has a reputation for being under- handed. He’ll grab any pagan he can and take all the credit for turning them in.#leave space
 渡航規制も教会と海運業者が裏で手|を組んで仕掛けているものらしい。|司教の出世のためにな。=I’ll bet the travel ban’s part of a secret deal between the Church and the maritime union, all for the bishop’s advancement.
 例の悪魔退治の話も嘘っぱちだって|話だ。|自分では行ってないんだとさ。=That story about subjugating the Sea Demon was also a lie. He didn’t go out there.
 まあ、あのお高くとまった司教様が|寒くて危険な海になんてわざわざ|出かけるはずもないからな。=At least, I could never imagine that ‘oh-so-important’ bishop purposely sailing out on the cold and dangerous sea.
@@ -6270,11 +6269,11 @@ bg_t02_rubi=bg_yadoheya_small
 そうですか？=Is that so?
 あんた、話がわかるな。|商人なら誰だってこう考える。|もし抜け道ができたら……ってな。=You know it. “If only there was some loophole...” Every merchant has the same idea.
 あんたとは楽しい話ができそうだ。|一緒に商売をやっても面白いかも|しれないな。=You seem like a fun guy to talk to. It would be interesting to do business together.
-オレはここでしばらく情報を集めな|がら、儲け話でも探すとするよ。=I'm going to stick here for a while, gathering information and seeing what profitable schemes I can find.
+オレはここでしばらく情報を集めな|がら、儲け話でも探すとするよ。=I'm going to stick around here for a while, gathering information and seeing what profitable schemes I can find.
 まあ、興味があったらいつでも声を|かけてくれ。=Well, if you fancy it, call me anytime.
 そうですか？|私には、迷惑な話にしか思えないの|ですが。=I’m not sure. It sounds like more of a nuisance to me.
 そうかな。|儲け話ってのは案外こういう状況の|中に潜んでいるものかもしれないぜ？=Isn’t it precisely at times like this where you can find unexpectedly profitable schemes?
-オレはしばらくここにいる。|まあ、興味があったらいつでも声を|かけてくれ。=I'm going to stick here for a while, anyway. If you fancy it, call me anytime.
+オレはしばらくここにいる。|まあ、興味があったらいつでも声を|かけてくれ。=I'm going to stick around here for a while, anyway. If you fancy it, call me anytime.
 ごめんなさい。|もう知ってることはないんです。=I’m sorry, I’ve told you all I know.
 どうぞ、ゆっくりしていってくださ|いね。=Please enjoy your stay.
 # Common lines
@@ -6728,7 +6727,7 @@ bg_t02_rubi=bg_yadoheya_small
 なになに……。=What is it?
 『料理長自慢のおすすめメニューが|ついに完成、たまには大事な方と素|敵なお食事はいかが』……か。=“Our chef’s proudly recommended specials menu is now available. Why not try treating your special someone to a nice menu?”
 ほほう、大事な方……とな。|料理も気になるが、ぬしの行動も|気になるのう……。=Oh ho, a special someone, is it?  I’m interested in the food, but I’m also interested in what you’ll do...
-!FILE:event/system/visit_limitation.wsb
+!FILE:event/system/visit_limitation.wsb#p1
 のう、ぬしよ。|次はレノスの町に向かうのではなか|ったのかや？=Say, are we not going to visit the town of Lenos next?
 てっきりわっちは契約を先に済ませ|るものだとばかり思っておったの|じゃが。=I had thought that our first order of business would be to complete the contract.
 おっと、そうだったな。|レノスに向かおう。=Oops, you're right. Let's go to Lenos.

@@ -7,7 +7,7 @@
 [Port]\nThere is a ship leaving for Saarland.
 [Port]\nYou can't get on a boat due to travel restrictions.
 [Residence]\nYou might hear some interesting rumors.
-[Church]\nYou can listen to what the bishop has to say here.
+[Church]\nYou can listen to what the bishop has to say.
 [Inn]\nYou might hear some interesting rumors.
 [Gate]\nYou might hear some interesting rumors.
 [Inn]\nYou can relax here.
