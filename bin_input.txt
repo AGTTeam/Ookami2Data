@@ -1,5 +1,5 @@
 %d枚=%d
-次回未定=
+次回未定=? Days
 あと%d日=%d Days
 入荷待=NULL #keep space
 あと%d個=%d To Go
@@ -12,7 +12,7 @@
 残り日数=Time Left
 －%d枚=- %d SLV
 決済後=End Total
-報酬 ＋=Reward +
+報酬 ＋=Reward
 商品の移動:商品をスライド　　 取引の確定:[決済]をタッチ=Move Goods: Slide the icons   Finish transaction: Touch 'Finish'
 商品の回転:商品を軽くタッチ=Rotate Goods: Lightly tap an icon
 商品の移動:商品をスライド　　 取引の確定:[完了]をタッチ=Move Goods: Slide the icons   Finish transaction: Touch 'Finish'
