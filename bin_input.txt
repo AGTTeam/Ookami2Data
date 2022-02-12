@@ -1,5 +1,5 @@
 %d枚=%d
-次回未定=? Days
+次回未定=? Days #leave space
 あと%d日=%d Days
 入荷待=NULL #keep space
 あと%d個=%d To Go
@@ -32,11 +32,11 @@
 取引を終了しますか？=Do you still want to leave?
 ＋%d枚=+%d SLV
 商品の売却で得た利益=Profit from Sale
-取引を完了させてください=Please ensure goods are|correctly positioned.
+取引を完了させてください=Please ensure goods are|positioned correctly.
 所持金が不足しています=Insufficient funds.
 本当に決済しますか？=Proceed with the transaction?
 荷台に未決済の商品はありません=No goods selected.
-受け渡しを完了させてください=Please ensure goods are|correctly positioned.
+受け渡しを完了させてください=Please ensure goods are|positioned correctly.
 本当に引き渡しますか？=Hand over the goods?
 商品を渡していません=No items selected.
 「今売っても損をするだけだ=If I sell now, I'll only lose money.

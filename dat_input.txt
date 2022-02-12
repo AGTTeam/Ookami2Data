@@ -175,7 +175,7 @@
 石で出来た彫刻。物言わぬ像に|は芸術家の魂が込められている。=A stone sculpture. Carries the soul of the artist.
 大理石像=Marble Statue
 なめらかな大理石製の彫像。造|形の見事さに誰もが息を呑む。=A smooth marble sculpture. Leaves people breathless.
-山百合散=Powdered Lilly
+山百合散=Powdered Lily
 気付けに効くと言われる山百合|を乾燥して粉にした珍しい薬。=A rare medicine made from powdered golden-rayed lilies.
 東洋芥子=Opium#technically ‘oriental poppies’, which isn’t the denomination opium is actually made from, but with this description and (what I believe is) the goods image, this seems to be the implied connotation
 痛みをやわらげ、気を落ち着か|せる作用があると言われる妙薬。=A miracle drug said to relieve pain and calm the mind.
@@ -223,9 +223,9 @@
 町情報　レヤージュ=Town Information: Leyage
 ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=There is a town called Leyage in the upper reaches of the Roam River. Trade is lively there and merchants from all over travel to Leyage, especially for the high-quality fabric.
 町情報　ウルリヒ=Town Information: Ulrich
-ウルリヒという町はどうやらエル|ンから南へ進むとあるらしい。|大きな果樹園があり、温泉などで|も有名なようだ。=The town of Ulrich seems to be located south of Erne. It has a big orchard and it is famous for its hot springs.
+ウルリヒという町はどうやらエル|ンから南へ進むとあるらしい。|大きな果樹園があり、温泉などで|も有名なようだ。=The town of Ulrich seems to be located south of Erne. It has a vast orchard and is famous for its hot springs.
 町情報　グラハ=Town Information: Graha
-広大な畑の真ん中にグラハという|村があるよ。|素朴な田舎だが一面広がる麦畑は|とても美しいし、収穫祭の時期に|は人が集まって賑わう良い村だよ。=There is a village called Graha in the middle of vast fields. It's an unsophisticated country village, but the wheat fields surrounding it are beautiful. Graha is even nicer during the harvest festival, when it is bustling with people.
+広大な畑の真ん中にグラハという|村があるよ。|素朴な田舎だが一面広がる麦畑は|とても美しいし、収穫祭の時期に|は人が集まって賑わう良い村だよ。=Graha is an unsophisticated country village, but the wheat fields surrounding it are beautiful. It's even nicer during the harvest festival, when it is bustling with people.
 町情報　エルン=Town Information: Erne
 ベオリーヌから南に進むとエルン|という村があるらしい。|近頃、山道が見つかりエルンへの|移動が楽になったようだ。=If you go south from Beorein, you will come across a village called Erne. There's even a newly discovered mountain path which makes it easier to get there.
 町情報　リューン=Town Information: Lune
@@ -233,7 +233,7 @@
 町情報　デリンツコルツ=Town Information: Delintskolz
 大きな山の付近にデリンツコルツ|という大きな都市があってね。|観光地として有名な所なんだが商|人も多く訪れて町は賑わっている|よ。=There is a large city surrounded by mountains called Delintskolz. It's famous as a tourist destination and the streets are always bustling with merchants.
 町情報　リボールカント=Town Information: Liberkant
-リボールカントという職人達が集|まる町があるんだ。|そこでは日夜競うように職人達が|腕を磨きあっているんだ。|おかげで商品は良質な物が多いよ。=Craftsmen gather in the town called Liberkant. There they hone their skills in a constant competition with each other. Thanks to this, there are many high-quality products available there.
+リボールカントという職人達が集|まる町があるんだ。|そこでは日夜競うように職人達が|腕を磨きあっているんだ。|おかげで商品は良質な物が多いよ。=Craftsmen gather in a town called Liberkant. There they hone their skills in a constant competition with each other. Thanks to that, there are many high-quality products available there.
 町情報　ルッキホルク=Town Information: Ruckiholk
 ルッキホルクというリンゴの産地|があるぞ。|大きな湖が目印の村だ。|リンゴは美味いが獲れる魚は不味|いから注意するんだな。=There's an apple-growing region called Ruckiholk. The village is marked by a large lake. The apples there are delicious, but the fish taste bad. Be sure to watch out for that.
 町情報　ガーノ=Town Information: Gahno
@@ -338,7 +338,7 @@
 リボールカントの特産品の宝石細|工はいつ見てもほれぼれするよ。|腕の立つ職人達が作るものは本当|輝きが違うから一度見てみなよ。=Liberkant’s famous gemwork is always a sight to behold. The pieces made by masters of the craft have an incomparable brilliance. You must see it for your own eyes!
 特産品　大理石像=Special: Marble Statue
 大理石像ならリボールカントの特|産品だと聞いたよ。|豪華な石像を買い付けに多くの商|人があの町を訪れるって噂だ。=I heard that marble statues are a specialty of Liberkant. Rumor has it, many merchants come to the town to buy those magnificent statues.
-特産品　山百合散=Special: Powdered Lilly
+特産品　山百合散=Special: Powdered Lily
 山百合散ならロズサルトの市場で|取り扱っているという話です。|山百合散は貴重な商品らしいので、|大事に扱った方が良いですよ。=It is said that you can find powdered golden-rayed lilies on the market in Rossalt. It seems the lilies are a valuable product, so you should handle it with care.
 特産品　東洋芥子=Special: Opium#as reccomended on line 180
 東洋芥子はブルラッティアの市場|で取り引きをしています。|市場を覗いてみるといいでしょう。|東洋芥子の取り扱いには注意した|方が良いですよ。=Opium is traded on the market of Bourattia. I highly recommend going to take a look, but you must be careful when handling it.
@@ -529,7 +529,7 @@
 山百合散の情報=Information on Powdered Lilies
 山百合散を探してるって？|それならルッキホルクの酒場に行っ|てみるといい。|こっそり店員に話しかければ教え|てくれるだろう。=You're looking for powdered lilies? Then you should go to the tavern in Ruckiholk. If you talk to the barkeeper there, I think he can tell you something.
 溶錬炉の情報=Information on Smelting Furnaces
-溶錬炉のことならリューンの酒場|を訪ねてみるといい。|あの酒場に女の情報屋がいるんだ。|ただし、情報料は取られてしまう|けどね。=If you want to talk about smelting furnaces, you should visit Lune's tavern. There's a female informant there. You'll have to pay for the information, though.
+溶錬炉のことならリューンの酒場|を訪ねてみるといい。|あの酒場に女の情報屋がいるんだ。|ただし、情報料は取られてしまう|けどね。=If you want to know about smelting furnaces, you should visit Lune's tavern. There's a female informant there. You'll have to pay for the information, though.
 錬金釜の情報=Information on Alchemy Pots
 錬金釜について聞きたいならグラ|ハの酒場にいる神父に話を聞いて|みるといい。|なんで酒場に神父がいるのかって？|それは自分で確かめな。=If you want to know about an alchemy pot, you should talk to the priest at the tavern in Graha. Why is there a priest in the tavern? Find out for yourself.
 蒸留装置の情報=Information on Distillers
@@ -608,7 +608,7 @@
 ルカに会いにベオリーヌへ戻|ろう。=Let's go back to Beorein to find Luka.
 ルカの家で旅支度をしてから|リューンへ出発しよう。=Let's go to Luka's house and then leave for Lune.
 リューンの宿へ向かおう。オ|イゲンさん達が待っている。=We should head to the inn in Lune. Eugen's waiting for us.
-ヨハンさんにも話を聞いてみ|よう。宿にいるはずだ。=Let's listen to what Johan can tell us. He should be in the inn.
+ヨハンさんにも話を聞いてみ|よう。宿にいるはずだ。=I'll try talking to Johan.|He should be in the inn.
 ディアンという人を探しにウ|ルリヒへ向かおう。=Let's go to Ulrich to look for someone called Dian.
 宿へ戻ろうか…。それとも誰|かを訪ねるか…。=Should I head to the inn? Or should I visit someone?
 まずはディアナさんから聞い|た必要材料を集めなければ。=I need to gather the materials that Diana told me about.
