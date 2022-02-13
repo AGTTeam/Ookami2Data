@@ -612,8 +612,8 @@
 ディアンという人を探しにウ|ルリヒへ向かおう。=Let's go to Ulrich to look for someone called Dian.
 宿へ戻ろうか…。それとも誰|かを訪ねるか…。=Should I head to the inn? Or should I visit someone?
 まずはディアナさんから聞い|た必要材料を集めなければ。=I need to gather the materials that Diana told me about.
-次は処方に必要な薬の材料を|集めよう。=Now, let's gather the ingredients for the medicine.
-薬が完成した。リューンのヨ|ハンさんのもとへ急ごう。=The medicine is ready. Let's hurry back to Johan in Lune.
+次は処方に必要な薬の材料を|集めよう。=Now, let's gather the ingredients for the medicines.
+薬が完成した。リューンのヨ|ハンさんのもとへ急ごう。=The medicines are ready.|Let's hurry back to Lune.
 ルカのお父さんを探しに行こ|う。まずはベオリーヌだ。=Let's go find Luka's father.|We'll start in Beorein.
 桟橋へ行けばもう戻れない。|覚悟を決めなければ。=If we go to the pier, there's no going back.
 この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in the depths of this cave...?
