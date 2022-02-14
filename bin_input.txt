@@ -208,7 +208,7 @@
 納品期限  残り%3d日=Deadline`````%3d days left
 報酬      %7d枚=Reward`______%7d
 返済期限  残り%3d日=Deadline`````%3d days left
-返済期限       超過=Deadline   Overdue
+返済期限       超過=Deadline_____``Overdue
 返済額    %7d枚=To Repay ____%7d
 商人レベル=Merchant Level
 Lv.%2d=_%2d

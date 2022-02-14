@@ -457,7 +457,7 @@
 炭酸水が暴落？=Soda Water Slump?
 ディーモルンでは今、炭酸水の値|が暴落していて半値で仕入れるこ|とができるようだ。|３５日間位はこの状態が続くと思|うから買うなら今がチャンスだ。=The price of soda water in Diemoln is plummeting. You can buy it at half price for about 35 days. Now is the time to buy!
 ディーモルンで価格暴落中？=Prices Plummeting in Diemoln?
-ディーモルンの町では一時的に商|品の値段が暴落しているようだ。|ひと月は半値で交渉できるだろう。|原因は海産物が飽和状態になった|からとも言われているが…。=It seems the price of goods in Diemoln have temporarily plummeted. For a month you can probably negotiate with them to get half the price. Apparently, it was caused by the market being saturated with seafood...
+ディーモルンの町では一時的に商|品の値段が暴落しているようだ。|ひと月は半値で交渉できるだろう。|原因は海産物が飽和状態になった|からとも言われているが…。=It seems the price of goods in Diemoln have temporarily plummeted. For a month you can probably barter to get half price. Apparently, it was caused by the market being saturated with seafood...
 鶏の値が高騰中？=Chicken Prices on the Rise?
 ベオリーヌで鶏の価格が高騰しは|じめたって噂だよ。|聞いた話じゃなんと相場の１．５|倍の値で引き取ってくれるってさ。|３０日間程は高騰したままだろう。=I heard a rumor that the price of chickens has started to skyrocket in Beorein. They're willing to pay 1.5 times the usual market price. I think it will be like this for 30 days.
 ベオリーヌで価格高騰中？=Price Hike in Beorein?
@@ -615,7 +615,7 @@
 次は処方に必要な薬の材料を|集めよう。=Now, let's gather the ingredients for the medicines.
 薬が完成した。リューンのヨ|ハンさんのもとへ急ごう。=The medicines are ready.|Let's hurry back to Lune.
 ルカのお父さんを探しに行こ|う。まずはベオリーヌだ。=Let's go find Luka's father.|We'll start in Beorein.
-桟橋へ行けばもう戻れない。|覚悟を決めなければ。=If we go to the pier, there's no going back.
+桟橋へ行けばもう戻れない。|覚悟を決めなければ。=Once we go to the pier, there's no going back.
 この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in the depths of this cave...?
 さあ、村に戻ろう。最後の大|一番だ。=
 ベオリーヌに投資する銀貨は|１５００００枚だったな。=Beorein are hoping for an investment of 150000 coins.
