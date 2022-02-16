@@ -1723,27 +1723,27 @@
 こっちだよ！|早く早く！=It's this way! Come on!
 くふ、見張りもない小さな村で|助かったの。=Heh, 'tis a boon that this small village would be unguarded.
 全くだ。|……とと、足もとが少し危ないな。|月明かりでは、厳しいか。=You're telling me.|...Woah, the grounds a bit uneven here. It's not easy moving under the moonlight.
-夜目など、すぐに利くようになる。|目指すのは、どの船じゃ？=Your eyes will soon adjust to the low light.|So, which boat is our target!
+夜目など、すぐに利くようになる。|目指すのは、どの船じゃ？=Your eyes will soon adjust to the low light.|So, which boat is our target?
 あれだよ！|あの、はじっこにある漁船！=That one! The fishing boat at the end!
 あんな小さな船で大丈夫かや？=Will we truly be able to manage on such a small boat?
 大丈夫だよ！|だって、お父さんの船だもん！=It'll be okay! It's my dad's boat!
 見た目より丈夫そうだし、大きな船|ではかえって危ない。|小さな岩礁がたくさんあるからな。=It's stronger than it looks, and a big boat would be too dangerous. There are many small reefs.
-ふむ。|しかし、この海に漕ぎ出すとはなか|なかに勇気が必要じゃな。=Mm.|Though, it seems it will take a courageous heart to set sail on these waters.
+ふむ。|しかし、この海に漕ぎ出すとはなか|なかに勇気が必要じゃな。=Mm... It seems it will take a courageous heart to set sail on these waters.
 暗い波のゆらぎを見ておるだけで、|海の底へ引きずり込まれてしまいそ|うじゃ。=Just looking at the dark, shimmering waves, I feel as if I'm being dragged to the bottom of the sea.
 おや、あれは……？=Oh, that's...?
-どうしたの、お姉ちゃん？=What's wrong, lady?
+どうしたの、お姉ちゃん？=What's wrong?
 かすかに遠く……。|本当に小さくじゃが、灯りが見える。|灯台かや？=Faintly in the distance... 'Tis small, but I can see a light.
-え？|そんなのないよ、まっくらだよ。|ルカには見えないよ？=Huh? No way, it's pitch black out there. I can't see anything.
-嘘を言ってどうする。|わっちは顔も良いが目はもっと良い。|わっちを疑うのかや？=What would be the purpose of lying? I have a pretty face, but my eyes are even better. Do you doubt me?
+え？|そんなのないよ、まっくらだよ。|ルカには見えないよ？=Huh? No way, it's pitch black out there.|I can't see anything.
+嘘を言ってどうする。|わっちは顔も良いが目はもっと良い。|わっちを疑うのかや？=What would be the purpose of lying?|I have a pretty face, but my eyes are even better. Do you doubt me?
 そういうわけじゃ、ないけど……。=That's not...
-……まことのようだな。|わしにも、かすかに灯りが見える。=...It looks like she was right. I can see a faint light.
-揺らめいておる。|おそらく、焚き火か。=It's flickering. My guess is that it's a bonfire.
+……まことのようだな。|わしにも、かすかに灯りが見える。=It looks like she was right. I can see a faint light.
+揺らめいておる。|おそらく、焚き火か。=It's flickering. A bonfire...?
 お姉ちゃんの見てるほう、島のある|方角だよ！=The direction you're looking at is where the island is!
 と、いうことは……？=So that means...
-ロルフだ。|まだやはり……生きておる！=Rolf. He's still alive!
+ロルフだ。|まだやはり……生きておる！=Rolf. He's still alive...!
 お父さん……！=Dad!
 誰だ！|桟橋にいるのは！=Who's that on the pier!?
-まずい！|見つかった！=Damn, they've found us!
+まずい！|見つかった！=Damn, they've found us! 
 皆、急げ。|すぐに発つぞ。=Everyone, hurry! Let's go.
 うむ！=Mm!
 !FILE:event/ev_main/main_330_chisanasimahe_ship.wsb
@@ -1752,7 +1752,7 @@
 なんだって。|あいつらが、追ってきてるのか？=What? Do they intend to chase us?
 わしにも聞こえる。|だが、ここまで来ればもう大丈夫だ。|心配するな。=I hear it too. But now that we've made it this far, we should be safe. Don't worry.
 このあたりはもう、半端な腕では|座礁するのがおちだ。|普通の者では、まず入れん。=It's easy to get stranded in this area if you don't know what you're doing. Normal people wouldn't even come close.
-ましてやこの闇の中だ。|潮の流れを知り尽くしている者でも|おらん限り、追っては来られん。=Especially in this darkness. Unless you know the tides, you can't follow them.
+ましてやこの闇の中だ。|潮の流れを知り尽くしている者でも|おらん限り、追っては来られん。=Especially in this darkness. Unless they have someone who knows these tides, they won't be able to follow.
 おお、炎が見える。|ロルフよ、待っておれ……。=I see the fire.|Rolf, wait for us...
 !FILE:event/ev_main/main_340_saikai.wsb
 ルカ……！？=Luka...!?
@@ -2737,7 +2737,7 @@
 肩を貸しますよ=I’ll lend you my shoulder.
 薪は置いてください。|私が持ちますから。=Just leave the wood, I’ll carry it.
 しかも、こんなにたくさん……。|無茶のしすぎですよ。=Still, this is an awful lot... You really overdid it.
-はは、どうせならと思ったんだが、|やはり無理か。=Ha-ha, I thought I might as well try to get as much|as I could, but I guess it was pointless.
+はは、どうせならと思ったんだが、|やはり無理か。=Ha-ha, I thought I might as well try to get|as much as I could, but I guess it was pointless.
 じゃあ、すまないが薪は頼む。|手ぶらなら、歩いて帰れそうだ。=Sorry, I’ll have to leave the wood to you.|I think I can manage to walk if I’m not carrying anything.
 それはよかったです。|馬車はすぐそこですから、ともかく|戻りましょう。=I’m glad to hear that. The cart is not far, so let’s get you back.
 肩を貸しますよ。|つかまってください。=I’ll lend you my shoulder. Hold on to me.
@@ -3554,11 +3554,11 @@
 うむ！=Mm!
 !FILE:event/ev_ren/ren_hor_16_horonosippo.wsb
 どうしたんじゃ、ぬしよ。|じっと見つめて。=What's the matter with you, staring so long?
-いや……。|お前の尻尾、立派だなあと思ってな。=No...|I just thought you had a nice tail.
+いや……。|お前の尻尾、立派だなあと思ってな。=No...|I was just thinking you have a nice tail.
 どうしたんじゃ、急に。|まあ、立派と言われるに値する尻尾|だとは自負しておるがの。=Why now, all of a sudden? Well, I'm proud to say that I have a tail that deserves to be called magnificent.
 わっちのは一級品じゃからの。|毛並みといい、艶といい、そんじょ|そこらのものと一緒にされては困る。=Mine is first class, after all. This shine, this silkiness, you’d best not lump it together with any old furs.
 それに、先が少しだけ雪のように白|いであろう？|皆、こぞってほめたたえたものじゃ。=And isn't the tip as white as snow? Everyone praises it.
-で、ぬしよ。|どうして急にそう思ったんじゃ？=So... Why did you suddenly think that it is beautiful?
+で、ぬしよ。|どうして急にそう思ったんじゃ？=So... Why did you suddenly bring it up?
 実は毛皮の市を見てきたんだ=I've just been to a fur market.
 綺麗だなあと思ったんだ=I just thought it was beautiful.
 実はさっき、毛皮の安売り市を見て|きたところなんだ。=Actually, I just went to a cheap fur market.

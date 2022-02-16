@@ -616,7 +616,7 @@
 薬が完成した。リューンのヨ|ハンさんのもとへ急ごう。=The medicines are ready.|Let's hurry back to Lune.
 ルカのお父さんを探しに行こ|う。まずはベオリーヌだ。=Let's go find Luka's father.|We'll start in Beorein.
 桟橋へ行けばもう戻れない。|覚悟を決めなければ。=Once we go to the pier, there's no going back.
-この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in the depths of this cave...?
+この洞窟の奥にルカのお父さ|んがいる…のか？=Luka's father is in this cave...?
 さあ、村に戻ろう。最後の大|一番だ。=
 ベオリーヌに投資する銀貨は|１５００００枚だったな。=Beorein are hoping for an investment of 150000 coins.
 ベオリーヌに投資する銀貨は|３０００００枚だったな。=Beorein are hoping for an investment of 300000 coins.
