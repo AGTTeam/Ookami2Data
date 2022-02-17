@@ -456,3 +456,4 @@ Lv.%2d=_%2d
 %8s 枚=%8s SLV
 %8d 枚=%8d SLV
 %3s 日=%3s Days
+%3d 日=%3d Days
