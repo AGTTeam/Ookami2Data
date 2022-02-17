@@ -1,6 +1,6 @@
 %d枚=%d
 次回未定=? Days #leave space
-あと%d日=%d Days
+あと%d日= %d Days
 入荷待=NULL #keep space
 あと%d個=%d To Go
 売却中=SELL #keep space
@@ -8,7 +8,7 @@
 仕入品の総額=Total Spent
 仕入 －=Buying -
 売却 ＋=Selling +
-%d日=%d Days
+%d日=_ %d Days
 残り日数=Time Left
 －%d枚=- %d SLV
 決済後=End Total
