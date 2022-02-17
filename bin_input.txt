@@ -89,7 +89,7 @@
 足をくじいて…=Twisted Ankle
 のんびり行こう=Leisurely Travel
 お祭りみたい！=Like a Festival!
-#L|UNK(0402)二日酔いロレンス=Lawrence's Hangover
+二日酔いロレンス=Lawrence's Hangover
 旅が終わったら…=When You Leave...
 ルカの旅の思い出=Luka's Traveling Memories
 ホロの旅の思い出=Holo's Traveling Memories
@@ -344,7 +344,7 @@ Lv.%2d=_%2d
 全ての噂を入手する。=Obtain all rumors.
 全ての噂を入手した。=Obtained all rumors.
 ベオリーヌ救世主伝説=The Savior of Beorein
-#鍜|UNK(0283)Aイアムウイナー=I Win!
+アイアムウイナー=I Win!
 アマーティに会った。=Met Amati.
 ノーラともっとラブラブ=Very Close with Norah
 エーブともっとラブラブ=Very Close with Eve
