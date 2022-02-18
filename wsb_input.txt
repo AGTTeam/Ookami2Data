@@ -178,8 +178,8 @@
 でもご安心ください。|アマーティがこうして参りました|からには、もう心配ご無用です。=But now you can rest assured. Now that the great Amati is here, there is nothing left to fear.
 商品の届け先はここ、ラムトラの商|館になります。=The goods are to be delivered to our trading house here in Lamtra.
 商品の届け先はここ、レヤージュの|この商館になります。=The goods are to be delivered to our trading house here in Leyage.
-商品の届け先は、この町から北西に|あるリューンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house at Lune, north-west of here. Please check the terms carefully.
-商品の届け先は、この町から北西に|あるディーモルンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house at Diemoln, north-east of here. Please check the terms carefully.
+商品の届け先は、この町から北西に|あるリューンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house in Lune, north-west of here. Please check the terms carefully.
+商品の届け先は、この町から北西に|あるディーモルンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house in Diemoln, north-east of here. Please check the terms carefully.
 商品の届け先はここ、ブルラッティ|アにあるこの商館になります。=The goods are to be delivered to our trading house here in Bourattia.
 商品の届け先はここ、デリンツコル|ツのこの商館になります。=The goods are to be delivered to our trading house here in Delintskolz.
 商品の届け先はここ、ガーノの|この商館になります。=The goods are to be delivered to our trading house here in Gahno.
@@ -298,24 +298,24 @@
 ……なんじゃ。|何か文句があるのかや、ぬしよ。=...What? Do you have a complaint?
 いや、ない……。|すまなかった、ホロ……。=No, it's nothing... I'm sorry, Holo.
 で、でも……。|それを注文されたら俺は破算だ。|旅が続けられなくなってしまう。=B-But... If you order that, I'll go bankrupt. We won't be able to travel anymore.
-頼むから、今回は我慢してくれ。|次は必ず、お前の希望に応えるから。=Please, bear with it this time. I promise, I'll get you whatever you want next time.
+頼むから、今回は我慢してくれ。|次は必ず、お前の希望に応えるから。=Please, bear with it this time. I promise, I'll get you whatever you want next time!
 ……本当かや？|まあ、嘘をついておる顔ではなさそ|うじゃがな。=...Is that true? Well, it doesn't seem that you are lying.
 次にぬしの気持ちがどう変わってお|るかはわからぬが……。|今回はおとなしく引き下がるかの。=I don't know if your feelings will be different next time... But, I will back down for now.
 酒場の主人=Barkeeper
 俺はホロと別れ、この村――|ルカのいる、ベオリーヌに残った。=I parted ways with Holo and stayed behind in Beorein, with Luka.
 俺は対岸の町、ザーラントと提携し、|商売を始めた。=I set up a partnership with Saarland across the sea, and started doing business with them.
 俺は、ホロと別れ――|エーブと組んで商売を始めた。=I parted ways with Holo and started doing business with Eve.
-俺たちはザーラントでの服の仕入れ|を皮切りに、あらゆる商売に手を出|した。=We started off with just buying clothes in Saarland, and ended up getting involved with all kinds of different ventures.
+俺たちはザーラントでの服の仕入れ|を皮切りに、あらゆる商売に手を出|した。=We started off with just buying clothes in Saarland, and ended up getting involved in all kinds of different ventures.
 結果、商売はどれも大当たり。|俺たちの資産はみるみる膨れあがり、|瞬く間に一財産を築き上げた。=As a result, all of them turned out to be very successful. Our profits quickly grew and we amassed a fortune in no time at all.
-あまりにもうまくいきすぎて、信用|できる相棒がいるとこうも違うもの|かと驚いたくらいだ。=We were so successful, I was shocked at how different it could be by having a partner you can trust.
+あまりにもうまくいきすぎて、信用|できる相棒がいるとこうも違うもの|かと驚いたくらいだ。=We were so successful, I was shocked at how different things could be when you have a partner you trust.
 司教が狙っていた渡航権の独占は、|皮肉にも俺たち二人が成し遂げる結|果となった。=The bishop's ambition to monopolize travel rights was ironically achieved by the two of us.
-敵対関係にあったディーモルンも既|に俺達の支配下にある。|もう、怖いものはない。=We have already taken control of Diemoln, which had been our rival. We have nothing to fear.
+敵対関係にあったディーモルンも既|に俺達の支配下にある。|もう、怖いものはない。=We have already taken control of Diemoln, which had been our rival. We have nothing left to fear.
 エーブは今でも商売に厳しい。|二人きりでいるときのような微笑み|は、商談では微塵も見せない。=Eve is still as strict as ever when it comes to business. During meetings, there's not a trace of the smile I see when it's just us.
-だが、その厳しさの結果が「ベオリ|ーヌの海運王」とかいう大層な二つ|名を生んだのだと今でも思う。=But I think it's that strictness which earned her the name “The Shipping Tycoon of Beorein.”
-しかし、これで満ち足りた様子でな|いのがエーブの凄いところだ。|彼女らしいと言えば、彼女らしい。=But, the most amazing thing is that even that's not enough to satisfy her. It's just so like her.
+だが、その厳しさの結果が「ベオリ|ーヌの海運王」とかいう大層な二つ|名を生んだのだと今でも思う。=But I think it's that strictness which earned her the name “the Shipping Tycoon of Beorein.”
+しかし、これで満ち足りた様子でな|いのがエーブの凄いところだ。|彼女らしいと言えば、彼女らしい。=And, the most amazing thing is that even that's not enough to satisfy her. It's just so like her.
 エーブは更に、別の海域に手を伸ば|そうとしているようだ。|今はその準備に大忙しだ。=She's got her sights set on other waters. That's what we're busily prepping for right now.
 エーブは一流の商人だ。|敵に回すと怖いが、味方にすればこ|れほど心強いものはない。=Eve is a top-notch merchant. She's terrifying as an enemy, but none could be more reassuring to have as an ally.
-俺たちに逆らうものなどいない。|次の商売も、きっと上手くいくだろ|う。=No one can stop us now. I'm sure that this venture will also prove to be a success.
+俺たちに逆らうものなどいない。|次の商売も、きっと上手くいくだろ|う。=No one can stop us now. I'm sure that this next venture will also prove to be a success.
 俺たち二人に敵う商人など、いない|のだから。=There is no merchant alive who could compete with the two of us.
 さあ、ぬしよ。|そろそろ行こう。|名残は惜しいが、約束の時間じゃ。=Come, we should be leaving. 'Tis a sad thing to be parting, but the time is upon us.
 そうだな。|ロルフさんを待たせていても悪いし|な。=You're right. We shouldn't keep Rolf waiting.
@@ -373,16 +373,16 @@
 ぬしは誰にでも優しいということが|今回の件でよーくわかったからの。|見境なしでは困る。=I have seen that you are kind to everyone. But it will trouble me if you are so indiscriminate.
 もうわっちとぬしとの二人旅に戻っ|たのじゃからな。|一人占めにさせてもらわねばの。=We are back to traveling just the two of us. You'll have to let me monopolize you.
 のう、ぬしよ。|これからはわっちだけに……優しく|してくりゃれ？=Won't you keep that soft-touch... just for me?
-こちら側の土地では手に入らない珍|しい品々。|それを目当てに、客が集まってくる。=Customers have gathered from far and wide to purchase items which otherwise are hard to find on this side of the shores.
+こちら側の土地では手に入らない珍|しい品々。|それを目当てに、客が集まってくる。=Customers have gathered from far and wide to purchase items which otherwise are hard to find on this side of the shore.
 有名になるに連れ、商館の使いで大|口の買い物にくる客も訪れるように|なった。=As the village became famous, people from trading houses started visiting to purchase goods for wholesale.
 小さかった村にも、変化が訪れた。|道が綺麗になり、人が増え、それに|伴って宿も増えた。=Even the tides of change soon came knocking. The streets became cleaner, more people arrived and inns were built.
 新しい店や建物が次々と増え、村が|発展していく様を見守るのは楽しい|ものだ。=It's incredible to watch the village grow as new shops and buildings spring up one after another.
 しかし、ここ最近の何よりの楽しみ|は、ルカが同行してくれる月に一度|のザーラントへの買い付けだ。=But the thing I look forward to most is departing for my monthly shopping trip to Saarland with Luka.
 昨年まではロルフさんと一緒だった|が、新しい技術を導入した船を購入|してからはルカが送ってくれている。=Until last year we were accompanied by Rolf, but since he bought a new high-tech ship, Luka has been taking me alone.
-忙しくてなかなか話せなくなった今|となっては、船の上でのこの二人き|りの時間が何より貴重だ。=Being so busy it's hard to find time to speak, so having this time alone on the ship is precious.
+忙しくてなかなか話せなくなった今|となっては、船の上でのこの二人き|りの時間が何より貴重だ。=Being so busy it's hard to find time to speak, so having this time alone on the|ship is precious.
 ルカは商売を始めたときと変わらず、|献身的に協力してくれている。|裏表のない、とてもいい子だ。=Luka is as dedicated to helping out as she was when we first started. She really is a good girl.
-ただ、最近少し大人びて、笑いかけ|られるとこちらがどきりとしてしま|うことも多い。=Although lately, she has become a lot more mature and I sometimes find my heart skipping a beat when she smiles at me.
-ルカに変な虫が付いたりしないか。|店が安定した今、俺の目下の心配事|は、そのことぐらいだ……。=What if she starts to attract the wrong attention? Now that my shop is stable, that's the only thing I'm worried about...
+ただ、最近少し大人びて、笑いかけ|られるとこちらがどきりとしてしま|うことも多い。=Although lately, she has become a lot more mature and sometimes I even find my heart skipping a beat when she smiles at me.
+ルカに変な虫が付いたりしないか。|店が安定した今、俺の目下の心配事|は、そのことぐらいだ……。=What if she starts to attract the wrong attention? Now that my business is stable, that's the only thing I'm worried about...
 俺は、ホロと別れ――|ここ、対岸の町ザーラントへ渡った。=I parted ways with Holo and crossed over to Saarland, the town across the sea.
 俺は、この町で商売を始めた。|店を作るには、まず商品を知ること。|そう考えたのだ。=I've started a business here. If I want to open a shop, I need to be familiar with the goods first. That was my thought process.
 たくさんある衣料品店を少しずつ巡|っては基本の型や流行を追っていく。|毎日が勉強だ。=I've been visiting many stores and learning about the patterns and trends little by little. I learn something new every day.
@@ -1540,7 +1540,7 @@
 うん、わかった。|ルカ、迷惑かけないようにがんばる|よ！=Yeah, I get it! I won’t get in the way!
 ありがとうございます。|オイゲンさんは、必ず守ります。|どうぞ道中、お気を付けて……。=Thank you. I will look after Mr. Eugen. Please take care on your trip...
 なんでもない。|ただ、旅立つ前にちょっと顔が見た|かったんだ。=It’s nothing. Just that I wanted to see you before we left.
-えへへ、どうしちゃったの、おにい|ちゃん。=Eh-Heh-heh, did something happen, mister?
+えへへ、どうしちゃったの、おにい|ちゃん。=Ehehe, did something happen, mister?
 ルカ、がんばって看病するよ。|だから、お兄ちゃんたちもはやく帰|ってきてね！=I’ll do my best to help here, so come back soon!
 もちろんだ。|薬を手に入れて、必ず戻ってくるよ。=Of course. As soon as we get those medicines, we’ll be right back.
 !FILE:event/ev_main/main_280_select_nora.wsb
@@ -1820,7 +1820,7 @@
 うん……。|でも、おじいさん大丈夫かな……。=Yeah... But do you think he'll be okay?
 気遣いは要らんと思いんす。|あの雄は、遅れさえ取らねば負けは|せぬ。=I don't think you need worry. That male will not fall even if he is delayed.
 それに、わっちらには海の神様が|ついておるんじゃろ？=Besides, we have the Sea God on our side, does we not?
-そうだね。|神様、疑ってごめんなさい！|お父さんにも、ごめんなさい……。=You're right. I'm sorry I doubted you, God! And, I'm sorry dad...
+そうだね。|神様、疑ってごめんなさい！|お父さんにも、ごめんなさい……。=You're right. I'm sorry I doubted you, God! And, I'm sorry Dad...
 みんな、お父さんは村を裏切って|教会側についたって言ってた。|私もそう思ってた……。=Everyone said you betrayed the village and joined the Church, and I believed them...
 俺が？|教会に？=Me? To the Church?
 そう聞かされたもんでな。|司教様が、お前は教会の教えを受け|入れて、そのまま倒れたと……。=That's what we were told. The bishop said that you accepted the teachings of the Church and passed away.
@@ -2023,8 +2023,8 @@
 そうすれば、いつかロレンスさんが|私の服を見つけてくれるかもしれま|せんから……。=Maybe that way, you'll come across one of my pieces one day...
 ええ、楽しみにしています。|それまで、どうかお元気で。=I look forward to it!|Until then, take care.
 !FILE:event/ev_main/main_410_ending_eve.wsb
-綱渡りをするようなエーブの商売。|危険だが多額な利益をもたらす商売|に、俺は面食らうばかりだった。=Eve's way of doing business was like walking a tightrope. It was dangerous but lucrative, and I was taken aback.#dupes with special_eve_c_end
-確かに金は貯まった。|エーブとの関係も、順調だった。|そう、思っていた。=I had made a lot of money. And, my relationship with Eve was going well.|Or, so I thought.
+綱渡りをするようなエーブの商売。|危険だが多額な利益をもたらす商売|に、俺は面食らうばかりだった。=Eve's way of doing business was like walking a tightrope. It was dangerous but lucrative, and I was kept on my toes.#dupes with special_eve_c_end
+確かに金は貯まった。|エーブとの関係も、順調だった。|そう、思っていた。=I had made a lot of money, and my relationship with Eve was going well.|Or, so I thought...
 ――だが、甘かった。=I was naive.
 大きな取引が終わり、莫大な利益が|転がり込んだ日のことだった。|エーブは、忽然と姿を消した。=It happened after we'd secured a huge deal. The profits were rolling in, but Eve was nowhere to be seen.
 代わりに現れたのは、債権の取り立|て屋。=Instead, a debt collector came calling.
@@ -2034,22 +2034,22 @@
 俺は、世の中の厳しさというものを|骨の髄まで思い知らされた。=It was a reminder of the harsh reality of this world that hit me like a pile of bricks.
 今は全てを捨て、借金の取り立てか|ら逃げまどう毎日だ。=Abandoning everything I once had, I'm living each day on the run from debt collectors.
 身から出たさびとはいえ、この生活|はいつまで続くのだろうか……。=Reaping what I sow, my days must be numbered...
-エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were just what I'd expect. She sold the goods I'd bought for high prices one after the other.#special_eve_b_end dupes
+エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were undeniable. She sold the goods I bought for high prices one after the other.#special_eve_b_end dupes
 俺たちは、いい相棒同士になれた。|今でもこうして二人で各地を巡りな|がら行商を続けている。=We made good partners. Even now, the two of us continue to travel around, peddling our wares.
 商才もあり、気の合うエーブと一緒|の旅は、全く苦痛を感じない。|むしろ、楽しいとさえ思っている。=Traveling with the talented and like-minded Eve, I feel no spite. In fact, it's rather enjoyable.
 そろそろどこかに腰を落ち着けよう|かと思っているが、おそらくまだ先|のことになるだろう。=I had wanted to settle down somewhere, but it seems that'll be a way off yet.
 エーブは一流の商人だ。|商談でも胸中や真意をほとんど明か|すことはない。=Eve is a top-notch merchant. She rarely reveals her true intentions, even in business.
-ただ、商売以外でも本心を掴みづら|いのが目下の悩みだ。=But the problem at hand is that even outside of business, it's difficult to get to know her true feelings.
-エーブは好意を抱いてくれているよ|うな気もするが、俺のひとりよがり|のような気もする。=I think that she likes me, but I also wonder if that's not just me getting complacent.
+ただ、商売以外でも本心を掴みづら|いのが目下の悩みだ。=But the problem at hand is that even outside of business, it's difficult to get|to know her true feelings.
+エーブは好意を抱いてくれているよ|うな気もするが、俺のひとりよがり|のような気もする。=I think that she likes me, but I also wonder if that's not just my wishful thinking.
 エーブが本心を明かしてくれたその|暁には、どこかで二人で店でも構え|ようかと思っている。=When she does open up her heart to me, I'd like to start a shop somewhere, just the two of us.
 その日が来ることを願って、俺は今|日も馬車に揺られている……。=Hoping for that day to come, I'm driving down these same roads again today...
 # Common lines
 どうした、エーブ。|海図なんて眺めて。=What's up, Eve? Why are you consulting the charts?
-いや、そろそろこの地域でやれるこ|とも尽きてきたなと思ってな。|河岸を変えようかと思うんだ。=Well, I think we're running out of things to do in the area. I was thinking it's time for a change of scene.
-そうだな、頃合いかもしれない。|安定した商品や利権はもうほぼ独占|してしまったしな。=Yeah, maybe it's time. We've pretty much got a monopoly on stable products and trading rights.
+いや、そろそろこの地域でやれるこ|とも尽きてきたなと思ってな。|河岸を変えようかと思うんだ。=Well, it feels like we're running out of things to do in the area. I was thinking it's time for a change of scene.
+そうだな、頃合いかもしれない。|安定した商品や利権はもうほぼ独占|してしまったしな。=Yeah, maybe it is time. We've pretty much got a monopoly on stable products and trading rights now.
 細かい商売は部下達に任せて、別の|ところを開拓した方が利益は上がる|だろうな。=It would be more profitable to leave the small business to our employees and start anew in another place.
-やっぱりお前もそう思うか？|そこで……ひとつ提案があるんだ。=You think so too?|Well, I did have a proposal for you...
-前にも言ったかもしれないが、オレ|の故郷はな、海を渡ったところにあ|るウィンフィール王国って所なんだ。=I know I've told you this before, but the place I'm from, the kingdom of Winfiel, lies just across the sea.
+やっぱりお前もそう思うか？|そこで……ひとつ提案があるんだ。=You think so too?|Actually, I did have a proposal for you...
+前にも言ったかもしれないが、オレ|の故郷はな、海を渡ったところにあ|るウィンフィール王国って所なんだ。=I might have told you this before, but the place I'm from, the kingdom of Winfiel, lies just across the sea.
 なあ、ロレンス。|ここで築いた財産を使って、そこで|もう一旗揚げる気はないか？=Lawrence... How about using the fortune we've built to build another one there?
 もし、お前さえよければ……オレと|一緒に来てくれ。|ウィンフィールへ。=If you want... you could even come with me. To Winfiel.
 もちろん！=You don't even have to ask!
@@ -2094,22 +2094,22 @@
 旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=I guess I should have spoken with her more while we were traveling. Though, it's a bit late for that now...
 俺は、この村で宿を始めた。=I opened an inn in the village.
 ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though few people rarely visited, more and more people began to come to buy goods important from across the sea.
-この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly coming back to life. Smiles are beginning to appear on people's faces.
+この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly returning to life. Smiles are beginning to appear on people's faces.
 ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out will small chores at the inn. She's the real star of the show, drawing customers in.
 小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=“A small slice of happiness.”|That fits my humble life here down to a T.
 いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=One day I will bury my bones in this village. That's the way both I, and the people of this village, want it to be.
 それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=Until then, may this happiness continue on and on. That's my dream...
 # Common lines
 ……ん？|どうしたの、おにいちゃん。|ルカの顔、まじまじと見て。=...Hm? What’s wrong, mister?|You've been staring at me.
-いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=N-No, it's nothing. I was just lost in thought. I've got a few worries on my mind.
+いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=N-No, it's nothing. I was just lost in thought. I have a lot on my mind.
 もう、大丈夫って言ったでしょ！|心配しなくても、ちゃんと向こう岸|に着くよ！=I already told you, it'll be fine! Don't worry, we'll make it to the other side!
 天気もいいし、大丈夫だよ。|ルカだって、もうこうして一人前に|なったんだから！=The weather is good too, so it's all fine. Even I'm old enough to sail by myself!
 はは、すまんすまん。|そういうつもりで言ったんじゃなか|ったんだ。=Ha-ha, sorry. I didn't mean it like that.
 まったくもう、おにいちゃんはいつ|までたってもルカのこと子供扱いな|んだから……。=Hmph. It's because you're always treating me like a child...
 そんなことないさ。|そうだな、ザーラントに着いたらお|詫びの印に何かごちそうしよう。=That's not true.|I know, how about I treat you to some food when we get to Saarland to make up for it?
-ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=I'm more interested in clothes. I heard that they built a new hat store on the main street?
+ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=I'm more interested in clothes. I heard that they built a new hat store on the main street!
 そうなのか？|そんな情報、いつの間に……。=Really? When did you hear that...?
-えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=Ehehe, I think I probably know more about that place than you.
+えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=Ehehe, I think I probably know more about that town than you.
 お兄ちゃんの商売に役に立つかと思|って、いろいろ調べておいたんだ！=I thought it might be useful for your business, so I did some research!
 えっとね、羽根を織り込んだ白い帽|子が人気なんだって。|すっごく、可愛いんだって！=Oh yeah, and I heard that white hats with feathers on them are very popular. Apparently, they're really pretty!
 何だ、それが目当てか。=So that's your motive.
@@ -2134,7 +2134,7 @@
 ノーラはまだ仕立て屋の卵だ。|しかし、会う度に着実に腕を上げて|いる。=Norah is still only a fledgling tailor, but she's getting better and better every time I see her.
 早く町で商売を始めたいと持ちかけ|てみたものの、まだ修行中の身だか|らと言われてしまっている。=I told her of my intentions to open a shop here as soon as possible, though her response was that she's still in training.
 しかし、資金を貯めてザーラントの|商館に掛け合えば、俺も町に住める|ようになるかもしれない。=But, if I can save up the money and arrange a deal with the trading house, I might be able to move here permanently.
-店の許可さえ出れば、ノーラもきっ|と首を縦に振ってくれるだろう。=If I can get permission for the shop, I'm sure Norah join me.
+店の許可さえ出れば、ノーラもきっ|と首を縦に振ってくれるだろう。=If I can get permission for the shop, I'm sure Norah will join me.
 俺は今、その夢に近づけるよう日々|頑張っている……。=I'm working hard every day to make that dream come true...
 # Common lines
 お帰りなさい、ロレンスさん。=Welcome back, Mr. Lawrence.
@@ -3287,7 +3287,7 @@
 ──で、話は何じゃ？=So, what did you want to talk about?
 ぬしが昼間からごちそうを振る舞う|など、何か話でもあるのじゃろ？=Since you treated me to such a feast, there must be something you want to talk about.
 な、なぜわかったんだ？=H-How did you know?
-くふふ。|ぬしの考えていることなどお見通し|じゃ。=Heh-heh-he.|I can see through your plans.
+くふふ。|ぬしの考えていることなどお見通し|じゃ。=Heh-heh-heh.|I can see through your plans.
 ──ホロ、お前の本当の姿について|確認したいことがあるんだ。=Holo, I want to confirm something about your original form.
 ……まったく。|何かと思えば、そんなこととはの。=Honestly now...|I didn't think it would be something like that.
 今さら、ぬしに隠すこともない。|何が聞きたいんじゃ？=There is nothing I need to hide from you anymore.|What do you want to ask?
@@ -3365,7 +3365,7 @@
 そういうわけじゃ。|ぬしの好きにすると良い。=Quite. You should follow your heart.
 !FILE:event/ev_ren/ren_hor_11_watasiwoizumini.wsb
 ふぅ……。|よく澄んだ、いい湧き水じゃ。|ここなら景色も悪くない。=Phew...|There is nice, clear spring water here. And the view is not bad either.
-あとは、あの朴念仁がどこまで気付|いてくれるか楽しみじゃな。|くふふ……。=Now I just have to wait and see how much simple-minded man notices. Heh-heh-he...
+あとは、あの朴念仁がどこまで気付|いてくれるか楽しみじゃな。|くふふ……。=Now I just have to wait and see how much simple-minded man notices. Heh-heh-heh...
 ……ホロ！=...Holo!
 どうした、ぬしよ。|そんなに大きな声を出さずともよか|ろう。=What's the matter? You don't have to shout so loudly.
 お前こそ、戻ってくるのが遅いから|心配したんだぞ。=You didn't come back.|I was worried about you.
@@ -3444,7 +3444,7 @@
 ……おい、ホロ。|あんまりこっちに寄りかかると手綱|を扱いにくいじゃないか。=...Hey, Holo. I can't handle the reins if you lean so close to me.
 んむ……。|むにゃむにゃ……。=Mmmm...|Zzz...
 やれやれ。|たまに隣りに乗せてやっても結局は|居眠りか……。=Oh dear. Even though you sit right next to me, you just nod off...
-……くふ、すーすー。=Heh-heh|*Snooze*
+……くふ、すーすー。=Heh-heh.|*Snooze*
 ──んあ？|む……んん……。=*Mumble* *mumble*
 ……おい、まだ寝てるのか！？=...Hey, are you still sleeping?
 さて、この大胆不敵な狼の寝顔を|どうしてくれようか？=What am I supposed to do with a fierce wolf who’d show her sleeping face?
@@ -3464,7 +3464,7 @@
 （──とはいえ、どうしたものかな。|　ホロの頬を突っついてみたが……）=(...I don't know what to do. Guess I’ll try poking her cheek?)
 んん……ぬしよ……。=Mmm... You...
 ん？|俺がどうしたんだ、ホロ。=Hmm? What about me, Holo?
-んんん、くふふ……。|ぬしよ、ぬしよ──=Mmmm, Heh-heh-heh...|You, you...
+んんん、くふふ……。|ぬしよ、ぬしよ──=Mmmm, heh-heh-heh...|You, you...
 ど、どうしたんだ、ホロ……！=W-What's the matter, Holo?
 ──てくりゃれ……。=...Buy that for me...?
 …………。=......
@@ -3477,7 +3477,7 @@
 （普段もこの半分くらい|　おしとやかにしていてくれと|　いうのは贅沢な話か……）=(I guess it’d be too much to ask for her to be half this ladylike normally, huh?)
 んん……ぬしよ……。=Mmm... You...
 ん？|俺がどうしたんだ、ホロ。=Hmm? What about me, Holo?
-んんん、くふふ……。=Mmmm, Heh-heh-heh...
+んんん、くふふ……。=Mmmm, heh-heh-heh...
 （……ホロの奴。|　寝ている時さえ、|　目を離さないつもりか……）=(That Holo... Even when she's sleeping, she doesn't let me out of her sight.)
 !FILE:event/ev_ren/ren_hor_14_kosupure.wsb#several dupes with other ‘kosupure’ scenes
 ……何じゃ？|やけに人だかりができておるのう。=...Hm? That’s quite the crowd.
@@ -3508,7 +3508,7 @@
 特に、お嬢さんの耳と尻尾！|とても作り物とは思えないとみんな|驚いていましたよ！=Especially your ears and tail.|They look so natural, everyone was surprised.
 お嬢さんの美しさと相まって、すご|く神秘的な場面になりました。|ありがとうございました！=Coupled with your beauty, it made for a wonderfully mysterious scene.|Thank you very much!
 俺もそう思った。|劇だと判っていても、ホロの話には|すごく引き込まれたよ。=I think so too.|I knew it was a play, but even so Holo's voice drew me in.
-くふふ、そうかや？|まあ、それほどでもあるがの。=Heh-heh-he.|Am I really that great?
+くふふ、そうかや？|まあ、それほどでもあるがの。=Heh-heh-heh.|Am I really that great?
 すみませんが、さすがにちょっと。|私たち、旅の途中なものですから。=I’m sorry, but I’m afraid now’s a bad time. We’re in the middle of something, you see.
 そうですか、残念です……。=I understand. What a shame...
 わっちもちょっと残念じゃ。|どんな劇じゃったのかの……。=I think it's unfortunate too.|I wonder what play it was...
@@ -3605,7 +3605,7 @@
 丸のみするなとあれほど言ったじゃ|ないか……。=I told you not to eat it at once...
 まっ、丸のみはしておらぬ！|ただ、熱くてあわてただけじゃ！=I-I didn't eat it whole. It's only that I rushed it because it's hot!
 もう芋は逃げないから落ち着いてく|れ。|ゆっくり食べればいい。=You can calm down, the potato won't run away from you.|It's better if you eat it slowly.
-くふふ、面目ない。=Heh-heh-he.|That's boring.
+くふふ、面目ない。=Heh-heh-heh.|That's boring.
 だめだ、もうすぐ夕飯じゃないか。=We can't eat now, dinner is soon, right?
 それはそうじゃが……。|ぬしも腹が減っておるじゃろう？=That's true but...|Is your stomach not growling as well?
 減ってはいるが、芋なんて腹持ちの|いいものを食べたらもう入らないだ|ろう？=It is, but if we eat something as filling as a potato, we won't be able to eat anything for dinner.
@@ -3757,7 +3757,7 @@
 うっぷ。|勘弁してくれ。|俺はしばらく動けそうにない。=Urgh... Have mercy on me.|I won't be able to move for a while.
 なんじゃと？|それは困りんす。=What?|That's an issue...
 ──うむ。=Hm...
-ならば、心の広いわっちが|ぬしを看病するのはどうかや？|くふふふふ……。=Well, what if my gracious self was to care for you?|Heh-heh-he.
+ならば、心の広いわっちが|ぬしを看病するのはどうかや？|くふふふふ……。=Well, what if my gracious self was to care for you?|Heh-heh-heh.
 なぜ、そこで含み笑いをする！=Why are you chuckling like that?
 くっ……。|看病すると言ってくれるのは、あり|がたいが……。=Hrgh...|I'm happy that you want to take care of me, but...
 おとなしく看病される=Endure her care quietly
@@ -5192,7 +5192,7 @@
 じゃあ……。|おわびに、もうひとつとっておきの|お話をしますね。=Alright... Let me tell you another story as an apology.
 これは……。|とある山に住んでいた、ひとりの男|のお話なのですが……。=It's a story about a man who lived alone in the mountains.
 やっ、やめてくりゃれ。|もうだめじゃ、生きた心地がせぬ。=E-Enough. I can't take anymore.
-うふふふ、わかりました。|聞きたくなったら、またいつでも言|ってくださいね！=Heh-heh-heh, I understand. If you ever want to hear it, just ask!
+うふふふ、わかりました。|聞きたくなったら、またいつでも言|ってくださいね！=Tee-hee, I understand. If you ever want to hear it, just ask!
 あ、お気遣いありがとうございます。|でも、お気持ちだけいただいておき|ますね。=Oh, thank you for trying. But, I think we should leave it like that.
 ノーラさんに無理をさせたいわけで|はないのですから。|ご心配は無用ですよ。=I don't want to force you. Don't worry about it.
 なんじゃ。|わっちには無理させてもいいのかや。=What, but you were fine forcing me?
@@ -6367,18 +6367,18 @@ bg_t02_rubi=bg_yadoheya_small
 あっと、あちらのお客さんが呼んで|ますのでこれで失礼しますね。=Ah, there's a customer over there.|If you'll excuse me...
 # Common lines
 !FILE:event/special/special_eve_b_end.wsb#dupes
-エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were just what I'd expect. She sold the goods I'd bought for high prices one after the other.
+エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were undeniable. She sold the goods I bought for high prices one after the other.
 俺たちは、いい相棒同士になれた。|今でもこうして二人で各地を巡りな|がら行商を続けている。=We made good partners. Even now, the two of us continue to travel around, peddling our wares.
 商才もあり、気の合うエーブと一緒|の旅は、全く苦痛を感じない。|むしろ、楽しいとさえ思っている。=Traveling with the talented and like-minded Eve, I feel no spite. In fact, it's rather enjoyable.
 そろそろどこかに腰を落ち着けよう|かと思っているが、おそらくまだ先|のことになるだろう。=I had wanted to settle down somewhere, but it seems that'll be a way off yet.
 エーブは一流の商人だ。|商談でも胸中や真意をほとんど明か|すことはない。=Eve is a top-notch merchant. She rarely reveals her true intentions, even in business.
-ただ、商売以外でも本心を掴みづら|いのが目下の悩みだ。=But the problem at hand is that even outside of business, it's difficult to get to know her true feelings.
-エーブは好意を抱いてくれているよ|うな気もするが、俺のひとりよがり|のような気もする。=I think that she likes me, but I also wonder if that's not just me getting complacent.
+ただ、商売以外でも本心を掴みづら|いのが目下の悩みだ。=But the problem at hand is that even outside of business, it's difficult to get|to know her true feelings.
+エーブは好意を抱いてくれているよ|うな気もするが、俺のひとりよがり|のような気もする。=I think that she likes me, but I also wonder if that's not just my wishful thinking.
 エーブが本心を明かしてくれたその|暁には、どこかで二人で店でも構え|ようかと思っている。=When she does open up her heart to me, I'd like to start a shop somewhere, just the two of us.
 その日が来ることを願って、俺は今|日も馬車に揺られている……。=Hoping for that day to come, I'm driving down these same roads again today...
 !FILE:event/special/special_eve_c_end.wsb#dupes
-綱渡りをするようなエーブの商売。|危険だが多額な利益をもたらす商売|に、俺は面食らうばかりだった。=Eve's way of doing business was like walking a tightrope. It was dangerous but lucrative, and I was taken aback.
-確かに金は貯まった。|エーブとの関係も、順調だった。|そう、思っていた。=I had made a lot of money. And, my relationship with Eve was going well.|Or, so I thought.
+綱渡りをするようなエーブの商売。|危険だが多額な利益をもたらす商売|に、俺は面食らうばかりだった。=Eve's way of doing business was like walking a tightrope. It was dangerous but lucrative, and I was kept on my toes.
+確かに金は貯まった。|エーブとの関係も、順調だった。|そう、思っていた。=I had made a lot of money, and my relationship with Eve was going well.|Or, so I thought...
 ――だが、甘かった。=I was naive.
 大きな取引が終わり、莫大な利益が|転がり込んだ日のことだった。|エーブは、忽然と姿を消した。=It happened after we'd secured a huge deal. The profits were rolling in, but Eve was nowhere to be seen.
 代わりに現れたのは、債権の取り立|て屋。=Instead, a debt collector came calling.
@@ -6392,11 +6392,11 @@ bg_t02_rubi=bg_yadoheya_small
 !FILE:event/special/special_eve_s_end.wsb#dupes
 # Common lines
 どうした、エーブ。|海図なんて眺めて。=What's up, Eve? Why are you consulting the charts?
-いや、そろそろこの地域でやれるこ|とも尽きてきたなと思ってな。|河岸を変えようかと思うんだ。=Well, I think we're running out of things to do in the area. I was thinking it's time for a change of scene.
-そうだな、頃合いかもしれない。|安定した商品や利権はもうほぼ独占|してしまったしな。=Yeah, maybe it's time. We've pretty much got a monopoly on stable products and trading rights.
+いや、そろそろこの地域でやれるこ|とも尽きてきたなと思ってな。|河岸を変えようかと思うんだ。=Well, it feels like we're running out of things to do in the area. I was thinking it's time for a change of scene.
+そうだな、頃合いかもしれない。|安定した商品や利権はもうほぼ独占|してしまったしな。=Yeah, maybe it is time. We've pretty much got a monopoly on stable products and trading rights now.
 細かい商売は部下達に任せて、別の|ところを開拓した方が利益は上がる|だろうな。=It would be more profitable to leave the small business to our employees and start anew in another place.
-やっぱりお前もそう思うか？|そこで……ひとつ提案があるんだ。=You think so too?|Well, I did have a proposal for you...
-前にも言ったかもしれないが、オレ|の故郷はな、海を渡ったところにあ|るウィンフィール王国って所なんだ。=I know I've told you this before, but the place I'm from, the kingdom of Winfiel, lies just across the sea.
+やっぱりお前もそう思うか？|そこで……ひとつ提案があるんだ。=You think so too?|Actually, I did have a proposal for you...
+前にも言ったかもしれないが、オレ|の故郷はな、海を渡ったところにあ|るウィンフィール王国って所なんだ。=I might have told you this before, but the place I'm from, the kingdom of Winfiel, lies just across the sea.
 なあ、ロレンス。|ここで築いた財産を使って、そこで|もう一旗揚げる気はないか？=Lawrence... How about using the fortune we've built to build another one there?
 もし、お前さえよければ……オレと|一緒に来てくれ。|ウィンフィールへ。=If you want... you could even come with me. To Winfiel.
 もちろん！=You don't even have to ask!
@@ -6468,7 +6468,7 @@ bg_t02_rubi=bg_yadoheya_small
 !FILE:event/special/special_luka_b_end.wsb#dupes
 俺は、この村で宿を始めた。=I opened an inn in the village.
 ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though few people rarely visited, more and more people began to come to buy goods important from across the sea.
-この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly coming back to life. Smiles are beginning to appear on people's faces.
+この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly returning to life. Smiles are beginning to appear on people's faces.
 ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out will small chores at the inn. She's the real star of the show, drawing customers in.
 小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=“A small slice of happiness.”|That fits my humble life here down to a T.
 いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=One day I will bury my bones in this village. That's the way both I, and the people of this village, want it to be.
@@ -6483,15 +6483,15 @@ bg_t02_rubi=bg_yadoheya_small
 !FILE:event/special/special_luka_s_end.wsb
 # Common lines
 ……ん？|どうしたの、おにいちゃん。|ルカの顔、まじまじと見て。=...Hm? What’s wrong, mister?|You've been staring at me.
-いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=N-No, it's nothing. I was just lost in thought. I've got a few worries on my mind.
+いっ、いや、何でもない。|ちょっと考え事をしていたんだ。|いろいろと、心配になってな。=N-No, it's nothing. I was just lost in thought. I have a lot on my mind.
 もう、大丈夫って言ったでしょ！|心配しなくても、ちゃんと向こう岸|に着くよ！=I already told you, it'll be fine! Don't worry, we'll make it to the other side!
 天気もいいし、大丈夫だよ。|ルカだって、もうこうして一人前に|なったんだから！=The weather is good too, so it's all fine. Even I'm old enough to sail by myself!
 はは、すまんすまん。|そういうつもりで言ったんじゃなか|ったんだ。=Ha-ha, sorry. I didn't mean it like that.
 まったくもう、おにいちゃんはいつ|までたってもルカのこと子供扱いな|んだから……。=Hmph. It's because you're always treating me like a child...
 そんなことないさ。|そうだな、ザーラントに着いたらお|詫びの印に何かごちそうしよう。=That's not true.|I know, how about I treat you to some food when we get to Saarland to make up for it?
-ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=I'm more interested in clothes. I heard that they built a new hat store on the main street?
+ルカ、それよりも服がいいな。|目抜き通りに、新しい帽子の店が建|ったんだって！=I'm more interested in clothes. I heard that they built a new hat store on the main street!
 そうなのか？|そんな情報、いつの間に……。=Really? When did you hear that...?
-えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=Ehehe, I think I probably know more about that place than you.
+えへへ、あの町のことならたぶん|ルカの方が詳しいよ。=Ehehe, I think I probably know more about that town than you.
 お兄ちゃんの商売に役に立つかと思|って、いろいろ調べておいたんだ！=I thought it might be useful for your business, so I did some research!
 えっとね、羽根を織り込んだ白い帽|子が人気なんだって。|すっごく、可愛いんだって！=Oh yeah, and I heard that white hats with feathers on them are very popular. Apparently, they're really pretty!
 何だ、それが目当てか。=So that's your motive.
@@ -6613,7 +6613,7 @@ bg_t02_rubi=bg_yadoheya_small
 ノーラはまだ仕立て屋の卵だ。|しかし、会う度に着実に腕を上げて|いる。=Norah is still only a fledgling tailor, but she's getting better and better every time I see her.
 早く町で商売を始めたいと持ちかけ|てみたものの、まだ修行中の身だか|らと言われてしまっている。=I told her of my intentions to open a shop here as soon as possible, though her response was that she's still in training.
 しかし、資金を貯めてザーラントの|商館に掛け合えば、俺も町に住める|ようになるかもしれない。=But, if I can save up the money and arrange a deal with the trading house, I might be able to move here permanently.
-店の許可さえ出れば、ノーラもきっ|と首を縦に振ってくれるだろう。=If I can get permission for the shop, I'm sure Norah join me.
+店の許可さえ出れば、ノーラもきっ|と首を縦に振ってくれるだろう。=If I can get permission for the shop, I'm sure Norah will join me.
 俺は今、その夢に近づけるよう日々|頑張っている……。=I'm working hard every day to make that dream come true...
 !FILE:event/special/special_nora_c_end.wsb
 ここザーラントは服飾で知られた町。|老舗の店舗が並ぶ中、新たな服の店|を興すことがどれだけ困難なことか。=Saarland is famous for its clothes. I knew how difficult it would be to start a new clothing shop in a town full of them.
