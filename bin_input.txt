@@ -177,7 +177,7 @@
 エーブと蒸し風呂（頭巾あり）=Steam Bath (with Cowl)
 エーブと蒸し風呂（マントあり）=Steam Bath (with Cloak)
 あんたの全てを…（親密度Ａへ）=Your Everything... (Intimacy A)
-釣りの腕はお父さん仕込みだよ！=Fishing Is in My Blood!
+釣りの腕はお父さん仕込みだよ！=Fishing is in my Blood!
 は い= Yes
 Ｏ Ｋ=  OK
 いいえ=　No
