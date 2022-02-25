@@ -25,7 +25,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:03.20,Default,,0,0,0,,You've cleared the game. What did you think?
 Dialogue: 0,0:00:03.20,0:00:08.10,Default,,0,0,0,,So, this is the second Spice & Wolf DS game...
 Dialogue: 0,0:00:08.10,0:00:10.52,Default,,0,0,0,,Ah~ Lawrence finally made an appearance.
-Dialogue: 0,0:00:10.52,0:00:13.42,Default,,0,0,0,,I missed him last time, hah-hah.
+Dialogue: 0,0:00:10.52,0:00:13.42,Default,,0,0,0,,I was so lonely last time, hah-hah.
 Dialogue: 0,0:00:13.42,0:00:15.70,Default,,0,0,0,,So, how was it to become Lawrence?
 Dialogue: 0,0:00:15.70,0:00:19.80,Default,,0,0,0,,Spending time with the female characters...
 Dialogue: 0,0:00:19.80,0:00:22.27,Default,,0,0,0,,getting into all kinds of trouble,
