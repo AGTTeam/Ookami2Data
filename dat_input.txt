@@ -359,7 +359,7 @@
 特産品　タキシード=Special: Tuxedo
 ザーラントの有名な職人が作った|タキシードをベオリーヌの市場で|も扱えるようになりました。|セットで仮面も仕入れることがで|きれば良かったのですが…。=Tuxedos made by the famous tailors of Saarland are now available on the market of Beorein. It would have been nice if we could purchase them with masquerade masks as a set...
 特産品　セーター=Special: Sweater
-北の地方で人気のセーターをベオ|リーヌの市場で扱えるようにして|おきました。|どうぞお役立てください。=Some of the most popular sweaters from the northern regions are now available on the market in Beorein. We hope you can find a use for them.
+北の地方で人気のセーターをベオ|リーヌの市場で扱えるようにして|おきました。|どうぞお役立てください。=Some of the most popular sweaters from the northern regions are now available on the market in Beorein.|We hope you can find a use for them.
 特産品　シルクハット=Special: Silk Hat
 シルクハットがベオリーヌの市場|でも扱えるようになりました。|ザーラントでも人気の品です。|きっとベオリーヌから離れた町な|ら高く売れると思います。=Silk hats are now available on the market in Beorein. They're popular in Saarland, so I'm sure they'll sell well in places further afield.
 特産品　マフラー=Special: Muffler
@@ -622,7 +622,7 @@
 ベオリーヌに投資する銀貨は|３０００００枚だったな。=Beorein are hoping for an investment of 300000 coins.
 ベオリーヌに投資する銀貨は|６０００００枚だったな。=Beorein are hoping for an investment of 600000 coins.
 ベオリーヌに投資する銀貨は|１００００００枚だったな。=Beorein are hoping for an investment of 1000000 coins.
-みんな俺について来い。旅は|まだまだ続くぞ。=Everyone come with me. The journey continues!
+みんな俺について来い。旅は|まだまだ続くぞ。=Everyone come with me.|The journey continues!
 !FILE:town.dat
 ポロソン=Poroson
 リュビンハイゲン=Ruvinheigen
