@@ -23,11 +23,11 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.22,Default,,0,0,0,,I'm Norah's voice actor, Mai Nakahara.
-Dialogue: 0,0:00:02.22,0:00:07.20,Default,,0,0,0,,Congratulations on seeing all the endings.
+Dialogue: 0,0:00:02.22,0:00:07.20,Default,,0,0,0,,Congratulations on seeing all the endings!
 Dialogue: 0,0:00:07.20,0:00:09.55,Default,,0,0,0,,Wow~ It's amazing, really.
 Dialogue: 0,0:00:09.55,0:00:13.95,Default,,0,0,0,,We've just finished recording right now.
-Dialogue: 0,0:00:13.95,0:00:17.50,Default,,0,0,0,,It might be terrible of me as Norah,
-Dialogue: 0,0:00:17.50,0:00:20.15,Default,,0,0,0,,but I found it hard to say “Mr. Lawrence”.
+Dialogue: 0,0:00:13.95,0:00:17.50,Default,,0,0,0,,It might be terrible of me as Norah, but
+Dialogue: 0,0:00:17.50,0:00:20.15,Default,,0,0,0,,I found it hard to pronounce “Mr. Lawrence”.
 Dialogue: 0,0:00:20.15,0:00:24.20,Default,,0,0,0,,“Sheperdess” was also surprisingly difficult.
 Dialogue: 0,0:00:24.20,0:00:26.77,Default,,0,0,0,,All the times I said “Mr. Lawrence” in-game,
 Dialogue: 0,0:00:26.77,0:00:29.72,Default,,0,0,0,,came about after a lot of hard work.
