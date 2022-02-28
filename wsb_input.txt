@@ -3277,7 +3277,7 @@
 ──ふう、食った食った。=Haaa...|I ate and ate.
 肉は鳥もウサギもそのまま食うのが|一番じゃが、香草焼きもまたいける|の。=Both chicken and rabbit are best eaten as is, but herb-roasted meat also goes down a treat.
 すごい食べっぷりだったな。|驚いたよ。=You ate amazingly quickly.|I was surprised.
-肉の風味が引き立つだけではない。|そのまま食うには匂いのきつい香草|が肉の脂でまろやかになる。=Not only does it enhance the flavor but the herbs, which are too strong on their own, get mellowed by the fat from the meat.#I'm not I'm using the commas correctly
+肉の風味が引き立つだけではない。|そのまま食うには匂いのきつい香草|が肉の脂でまろやかになる。=It not only enhances the flavor but the herbs, which are too strong on their own, are mellowed by the fat from the meat.#I'm not I'm using the commas correctly
 このさじ加減は料理人の腕次第とい|うところじゃが、今回は格別じゃっ|た。=The right amount of seasoning depends on the skill of the cook. And this one was especially good.
 それは良かった。|連れてきた甲斐があったな。=I'm glad to hear that.|It was worth taking you here.
 ──で、話は何じゃ？=So, what did you want to talk about?
