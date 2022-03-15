@@ -452,7 +452,7 @@ towninfo/TownInfo02
 都市。町の中心にある大聖堂
 や商館·露店を訪れる人で町
 は常に賑わっている。
-A large parish city surrounded by a sturdy wall. It's always bustling with visitors to the shops, stalls, and the chathedral in the center of the town.
+A large parish city surrounded by a sturdy wall. It's always bustling with visitors to the shops, stalls, and the cathedral in the center of the town.
 
 towninfo/TownInfo03
 ラムトラ=Lamtra
