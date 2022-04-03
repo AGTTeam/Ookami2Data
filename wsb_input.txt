@@ -94,7 +94,7 @@
 ルカと　わかれた……=You’ve split from Luka...
 おや、ロレンス様ですね。|ようこそいらっしゃいました。=Oh, Mr. Lawrence. Welcome.
 大変に申し上げにくいのですが、|あなた様と交わした契約の期限が|先日過ぎてしまいました。=I regret to inform you that contract we signed with you recently expired.
-契約は破棄させていただきました。|ご了承ください。=The contract has been cancelled.|Please understand.
+契約は破棄させていただきました。|ご了承ください。=The contract has been canceled.|Please understand.
 なにか御用でしょうか？=Can I help you?
 ほかに何か？=Was there anything else?
 こんにちは、ロレンスさん。|どうも、お世話になっとります。=Good day, Mr. Lawrence. Thank you very much for your help.
@@ -378,7 +378,7 @@
 小さかった村にも、変化が訪れた。|道が綺麗になり、人が増え、それに|伴って宿も増えた。=Even the tides of change soon came knocking. The streets became cleaner, more people arrived and inns were built.
 新しい店や建物が次々と増え、村が|発展していく様を見守るのは楽しい|ものだ。=It's incredible to watch the village grow as new shops and buildings spring up one after another.
 しかし、ここ最近の何よりの楽しみ|は、ルカが同行してくれる月に一度|のザーラントへの買い付けだ。=But the thing I look forward to most is departing for my monthly shopping trip to Saarland with Luka.
-昨年まではロルフさんと一緒だった|が、新しい技術を導入した船を購入|してからはルカが送ってくれている。=Until last year we were accompanied by Rolf, but since he bought a new high-tech ship, Luka has been taking me alone.
+昨年まではロルフさんと一緒だった|が、新しい技術を導入した船を購入|してからはルカが送ってくれている。=Until last year we were accompanied by Rolf, but since he bought a new modern ship, Luka has been taking me alone.
 忙しくてなかなか話せなくなった今|となっては、船の上でのこの二人き|りの時間が何より貴重だ。=Being so busy it's hard to find time to speak, so having this time alone on the|ship is precious.
 ルカは商売を始めたときと変わらず、|献身的に協力してくれている。|裏表のない、とてもいい子だ。=Luka is as dedicated to helping out as she was when we first started. She really is a good girl.
 ただ、最近少し大人びて、笑いかけ|られるとこちらがどきりとしてしま|うことも多い。=Although lately, she has become a lot more mature and sometimes I even find my heart skipping a beat when she smiles at me.
@@ -2090,9 +2090,9 @@
 ルカが手伝ってくれると思っていた|のだが、実際には忙しいようでなか|なか来てくれない。=I thought Luka would help me, but in reality, she seemed quite busy and could hardly visit.
 旅の間にもう少しルカといろんな話|をしておいてやればよかったか。|そう思っても、後の祭りだ……。=I guess I should have spoken with her more while we were traveling. Though, it's a bit late for that now...
 俺は、この村で宿を始めた。=I opened an inn in the village.
-ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though few people rarely visited, more and more people began to come to buy goods important from across the sea.
+ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though people rarely visited, more and more people began to come to buy goods imported from across the sea.
 この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly returning to life. Smiles are beginning to appear on people's faces.
-ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out will small chores at the inn. She's the real star of the show, drawing customers in.
+ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out with small chores at the inn. She's the real star of the show, drawing customers in.
 小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=“A small slice of happiness.”|That fits my humble life here down to a T.
 いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=One day I will bury my bones in this village. That's the way both I, and the people of this village, want it to be.
 それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=Until then, may this happiness continue on and on. That's my dream...
@@ -4245,7 +4245,7 @@
 おお、これはまた美人のお客さん|だな！=Why, what a beautiful customer we have here!
 くふふ、口が上手いのう！=Heh-heh, and what a honeyed tongue on you.
 ………………。=......
-嬉しいから、おまけにパテもつけよ|うじゃないか。|しっかり食べていってくれ！=I’m honored. Let me give you give you an extra pate, on the house. Eat up, now!
+嬉しいから、おまけにパテもつけよ|うじゃないか。|しっかり食べていってくれ！=I’m honored. Let me give you an extra pate, on the house. Eat up, now!
 おお、よい店じゃの！=Oh, ’tis a splendid eatery this!
 美味いのはやはり熱いうちだからな。|早速いただくとするか。=It's best when they're still warm. So, shall we dig in?
 賛成じゃ！|じゃあ、わっちはこの白い香草入り|のを……。=You’ll find no arguing here! I’ll have this white one with the herbs...
@@ -4576,25 +4576,25 @@
 !FILE:event/ev_ren/ren_lka_11_mizuabi.wsb
 おにいちゃーん！|川が見えてきたよ！=Mister! I see a river!
 おお、これはまた大きな川じゃ！|水も澄んでいて、気持ちよさそう|じゃ。=Oh, and a considerable one at that!|The water is clear and looks nice.
-流れもゆるやかだな。|良い天気だし、視界も開けてるし、|休むにはちょうどよさそうだ。=The current's not too strong either. Plus, it's a clear day and scenery is nice, so it looks perfect for a little stop.
+流れもゆるやかだな。|良い天気だし、視界も開けてるし、|休むにはちょうどよさそうだ。=The current's not too strong either. Plus, it's a clear day and the scenery is nice, so it looks perfect for a little stop.
 馬を休ませてやろう=Let the horse rest
 洗濯でもしよう=Do laundry
-ちょっと早いけど、今日はこのあた|りで腰を落ち着けて馬を休ませて|やろうか。=It's a bit early, but I think we'll call it a day here for today and let the horse rest.
+ちょっと早いけど、今日はこのあた|りで腰を落ち着けて馬を休ませて|やろうか。=It's a bit early, but I think we'll call it a day here and let the horse rest.
 よいのではないかの。|ここのところ歩かせ通しじゃったし、|馬もくたびれておるじゃろ。=A fine idea. We've been traveling a lot lately so the horse must be equally as tired.
 ああ、ここで倒れられては困る。|たまには体を拭いてねぎらってやら|ないとな。=Yeah, it'd do us no good for him to collapse now. He needs a good wash every once in a while anyway.
 じゃあ、ルカはお水汲んでくる！=I'll go bring you some water!
-ならわっちゃあ火でもおこして荷物|番をしておるかの。|今日はのんびりできそうじゃ。=Then, I shall go start a fire and watch over the cargo. It seems I can have an easy time of it today.
+ならわっちゃあ火でもおこして荷物|番をしておるかの。|今日はのんびりできそうじゃ。=Then, I shall go start a fire and watch over the cargo. It seems I can have an easy time today.
 そうだな。|こんな日も、たまにはいいな……。=Yeah. It's nice to have a day like this on occasion...
-ちょっと早いけど、今日はこのあた|りで腰を落ち着けて洗濯でもすると|しようか。=It's a bit early, but I think we'll call it a day here for today and do some washing.
+ちょっと早いけど、今日はこのあた|りで腰を落ち着けて洗濯でもすると|しようか。=It's a bit early, but I think we'll call it a day here and do some washing.
 おお、それはよい！|賛成じゃ！=Oh, a fine idea! I'm all for it!
 ルカも！=Me too!
 あはははは！|おにいちゃん、避けるの遅いよ！=Ah-ha-ha! You're too slow, mister!
 こら！|濡れるから、やめなさい！=Hey! Stop that, I'm getting soaked!
-どうせ洗って干すのじゃ。|濡れたところで、どうということは|なかろう。=You are only going to wash and dry everything anyway. What's the harm in getting wet?
-……それ！|ぬしもちゃっちゃと脱がぬか！=...There! Why don't you take off those clothes, already?
+どうせ洗って干すのじゃ。|濡れたところで、どうということは|なかろう。=You are going to wash and dry everything anyway. What's the harm in getting wet?
+……それ！|ぬしもちゃっちゃと脱がぬか！=...There! Why don't you take off those clothes already?
 うわっぷ！=Uwah!
 あははは、お兄ちゃんどこ見てるの？|こっちこっち！=Ah-ha-ha, mister, where are you looking?|I'm over here!
-やったな！|待てっ、こらっ！=You've done in now! Stop running away--!
+やったな！|待てっ、こらっ！=You've done it now! Stop running away--!
 えへへへ、やだよーだ！=Ehehehe, no way~!
 ……わっ、わわっ？|すべった！=W-Wah! It's slippery!
 くふふ、まだまだ子供じゃの。=Heh-heh, you are still but a child.
@@ -4628,7 +4628,7 @@
 えいっ！=There!
 つかまえたー！=I caught it!
 はあ、はあ……。|はい、おにいちゃん！=*Pant, pant...*|Here, mister!
-ありがとう、助かったよ！|息まで切らせて……すまなかったな。=Thank you, that was a big help! Sorry for making you get out so of breath.
+ありがとう、助かったよ！|息まで切らせて……すまなかったな。=Thank you, that was a big help! Sorry for making you get out of breath.
 ううん、平気だよ！|だって、おにいちゃんのためだもん！=It's okay. I did it for you!
 今夜はなにかごちそうにしないとな。|そうだ、ルカの好きな包み焼きにし|ようか！=I'll have to treat you to something tonight. I know, how about something en papillote like you like?
 やったー！|ありがとう、おにいちゃん！=Yay! Thank you, mister!
@@ -4637,7 +4637,7 @@
 残念ながらまだだ。|日も高いし、しばらくこのままだろ|うな。=Not yet, I'm afraid. The sun is still high in the sky, so I'd think we have a few more hours traveling to go.
 そうだね、まだ全然景色が変わらな|いもん。|荷台で寝てても大丈夫だと思うよ。=Yeah, the scenery hasn't changed at all either. You might as well just sleep in the back.
 ん？|ルカはどこでしゃべっておる？=Hm? Where is Luka's voice coming from?
-ここだよ！|おにいちゃんのところ！=Over here! I'm sat at the front.
+ここだよ！|おにいちゃんのところ！=Over here! I'm sitting at the front.
 なんじゃと？！=What!?
 えへへ、おねえちゃん寝てたから|ルカがここに来たの。|おにいちゃんのお隣だよ！=Ehehe, I moved since you were asleep. Mister is right next to me.
 ここ、景色もよく見えるし、楽しい|ね！|ルカ、明日からここに座ろうかな。=It's really fun 'coz you can see everything from here. Maybe I'll start sitting here from tomorrow.
@@ -4739,7 +4739,7 @@
 いや、人混みがすごくてとてもじゃ|ないけどわからないな。|さて、先を急ごうか。=It's way too crowded for me to see anything. Come on, let's get a move on.
 うぅーっ。|今日のぬしは手強いの……。=Nnnn... You are being stubborn today.
 ねえねえ、あれのことだよね！=Oh, oh~! Is that the one you mean?
-なにっ？|こら、どこに行くんだ、ルカっ！=Huh?|Waits, where are you going, Luka--!?
+なにっ？|こら、どこに行くんだ、ルカっ！=Huh?|Wait, where are you going, Luka--!?
 ほらほら、こっちこっち！|オレンジの屋台だよ！=Come on, over here! There's an orange stall!
 よく見つけたな=That's a good find.
 戻っておいで！=Come back here!
@@ -4764,9 +4764,9 @@
 !FILE:event/ev_ren/ren_lka_17_utatane.wsb
 ぬしよ、川じゃぞ。|このあたりで今日は休まぬか？=Look, there’s a river. What say we rest here?
 そうだな。|そろそろ陽も落ちるし、今日はこの|あたりで休むとしよう。=Right. The sun’ll be going down soon, so maybe we should stop here for the day.
-うむ！|暗くなってから動くのは気が進まぬ。|夜は、ゆっくり休みたい。=Mm! I’m not inclined to travel when it’s dark. At night, I only wish to have a good sleep.
+うむ！|暗くなってから動くのは気が進まぬ。|夜は、ゆっくり休みたい。=Mhm! I’m not inclined to travel when it’s dark. At night, I only wish to have a good sleep.
 じゃあ、すまないが薪を取ってきて|くれないか？=Well, sorry to ask, but could you go get some firewood?
-なに、ルカにも手伝ってもらえば|すぐに終わるさ。=If you ask Luka for help, you can be done with it no time.
+なに、ルカにも手伝ってもらえば|すぐに終わるさ。=If you ask Luka for help, you'll be done in no time.
 ………………。=......
 ルカ？=Luka?
 なんと。=What...?
@@ -4913,7 +4913,7 @@
 娘よ、覚えておくがよい。|切り分けて提供するのは雄の仕事。|静かに食べるのが雌の仕事じゃ。=The male’s job is to carve and serve, and the female's is to eat quietly. You’d do well to remember that, girl.
 ふうん……。|そういうものなの？=Hm... Is that right?
 こういう場所ではそのほうが行儀が|いいとされているようだな。|はい、どうぞ。=It’s considered good manners to do so when you’re in a place like this. Here.
-わあい、ありがとう。|美味しそう！=Yay, thank you! It looks yum!
+わあい、ありがとう。|美味しそう！=Yay, thank you! It looks yummy!
 おにいちゃんが取ってくれたと思う|と、余計に嬉しいよ。=Knowing you prepared this for me makes me even happier, mister!
 ぬしよ、わっちはわき腹のところが|よい。|ももの上のほうの肉にしてくりゃれ。=I prefer the part on the side. Will you cut me the meat from the upper thigh?
 欲望をさらけ出さず、取り分けられ|たものに注文をつけないのが淑女と|いうものらしいと俺は聞いているぞ。=I’ve heard that a proper lady doesn’t expose her desires or order which parts she wants served.
@@ -5948,7 +5948,7 @@ bg_t21_zahl=bg_yadoheya_small
 おやおや、お嬢ちゃん。|どうしたんだい？=Oh, young lady. What are you doing here?
 おにいちゃんを待ってるの。|ロレンスおにいちゃん。|ここにいるんでしょ？=I'm waiting for Mister Lawrence. He's here, right?
 ああ、まだ商談中のようだね。|しばらくそこで待っててくれるかな。=Yes, he's still in a meeting. Would you mind waiting a little longer?
-もう……。|おねえちゃんは一緒なのに、ルカは|置いていくなんて……。=Gah... I can't believe took the lady but left me behind...
+もう……。|おねえちゃんは一緒なのに、ルカは|置いていくなんて……。=Gah... I can't believe he took the lady but left me behind...
 ルカだって、もう子供じゃないのに。=I'm not a kid anymore!
 ははは。|お嬢ちゃんの言うことも判るけどね。=Ha-ha. I understand how you feel, young lady.
 でも、今はロレンスさんは大事なお|話をしてるんだ。|邪魔しちゃ悪いだろう？=But Mr. Lawrence is having an important conversation right now. You wouldn't want to interrupt them, would you?
@@ -5995,7 +5995,7 @@ bg_t21_zahl=bg_yadoheya_small
 おいおい、ルカ……。|別にお前を放っておいたわけじゃな|いだろう？=Come on, Luka. It's not like we left you out, is it?
 だって……。|今日は難しいお話で、ルカ喋れなか|ったんだもん……。=But... You were talking about all difficult stuff so I couldn't join in...
 お話終わるの、ずーっと荷台で待っ|てたんだもん……。=I've been waiting in the back for you to finish this whole time.
-はは、わかったわかった。|じゃあ、俺と一緒に水汲みに行こう。|それでいいな？=Ha-ha, alright, I get it.|Then, how about we go to collect water together? Is that okay?
+はは、わかったわかった。|じゃあ、俺と一緒に水汲みに行こう。|それでいいな？=Ha-ha, alright, I get it.|Then, how about we go collect water together? Is that okay?
 うんっ！=Yeah!
 まったく……。|ぬしは本当に押しに弱い雄じゃな。=Honestly... You really are a pushover.
 !FILE:event/ev_ren/rru_lka_d2c.wsb
