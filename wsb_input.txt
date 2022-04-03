@@ -3136,7 +3136,7 @@
 ……うわ、またやられた！=Ack, I was hit again!
 ふふふ、ふふふっ。|ぬしよ、楽しいのう！=Ha-ha, aha-hah!|This is fun!
 壁で囲った町の中にも、こんな楽し|い祭りがあるとは。|捨てたものではありんせん！=I never knew they had such fun festivals in walled cities. 'Tis not without its charms.
-──え、なんだって！？|良く聞こえないぞ、ホロ！=Eh, what?|I can't properly hear you, Holo!
+──え、なんだって！？|良く聞こえないぞ、ホロ！=Eh, what?|I can't hear you properly, Holo!
 これからも、ぬしと旅をしておれば、|いろいろな町で、いろいろなものを|見られるんじゃな！=If I continue to travel with you, I know I will see many more things in many different cities!
 この町の祭りは、この町のものだ。|よそ者である俺たちは勝手に立ち入|らないほうがいい。=The festivals of this city belong to this city. It's better if strangers like us don't join in.
 うっかりお前の耳や尻尾が見えても|困るしな。=If you were to carelessly let your ears and tail show, we would be in trouble.
@@ -3345,7 +3345,7 @@
 そろそろ、戻ろうかの。=So, shall we get back?
 …………。=......
 どうした、ぬしよ。|巣は持って行かんのか？=What is it? Aren’t you going to take the nest?
-──これでどうだ。=... That should do it.#?
+──これでどうだ。=...That should do it.
 巣をきちんと戻してやれば、小鳥た|ちが助かる可能性はぐんと上がるは|ずだ。=If we put the nest back in the right place, the chicks should have a much better chance of survival.
 やれやれ。|ぬしのお人好しには呆れてものも|言えん。=Honestly now... Your good-nature leaves me speechless sometimes.
 それとも、とびきりのひねくれ者と|言うべきか？=Though, I suppose I should say that you are an extremely contrary person.
@@ -3424,8 +3424,8 @@
 構わぬ。=I don't mind.
 よっ、しょっと。=Whew...
 見えるか、ぬしよ。|満天の星々じゃ。|いまにも降ってきそうではないかや？=Do you see them? The stars of the sky.|They seem like they could fall down like raindrops at any moment.
-そうだな。|たまには、何も考えずに星を眺める|のも悪くない。=You're right. Sometimes just staring at the stars without thinking anything is not so bad.
-それにしても、ホロ。|「降り注ぐような星空」なんて優雅|な言葉、どこで覚えたんだ？=Anyway Holo, wherefrom did you learn such an elegant expression as “stars raining from the sky”?
+そうだな。|たまには、何も考えずに星を眺める|のも悪くない。=You're right. Sometimes just staring at the stars without thinking about anything is not so bad.
+それにしても、ホロ。|「降り注ぐような星空」なんて優雅|な言葉、どこで覚えたんだ？=Anyway Holo, where did you learn such an elegant expression as “stars raining from the sky”?
 ぬしのほうこそ、さしずめ星の光が|銀貨の輝きにしか見えぬような顔を|しておる。=You ask that while you make a face as if to say the sparkle of the stars is no more than the glitter of silver coins?
 ……痛いところを突かれたな。=You've hit me where it hurts...
 この輝く星が全部俺の銀貨だったら|どんなに素晴らしいか……！|心からそう思うよ。=How wonderful would it be if all of these sparkling stars were my silver coins...|My heart dreams it so.
@@ -3965,7 +3965,7 @@
 すまない、言い方が悪かった。=I'm sorry. I shouldn't have said it like that.
 今日の積荷はとても傷みやすい。|そして、買い手はぜいたく好きの|金持ちだ。=Today's cargo is very fragile. The only people who buy it are those who are rich with a taste for luxury.
 それはさっきも聞きんす。=You already said that.
-少しでも傷んでいるように見える|果物は、都合良く安値で買い叩か|れたり捨てられたりする。=Fruit that look even slightly damaged get sold for a cheap price or even thrown away.
+少しでも傷んでいるように見える|果物は、都合良く安値で買い叩か|れたり捨てられたりする。=Fruit that looks even slightly damaged gets sold for a cheap price or even thrown away.
 もったいない話じゃの……。='Tis such a waste.
 ああ、全くだ。=You're completely right.
 そこでホロには俺たちの様な庶民|だけにおいしく食べられるものを|うまく選別して欲しい。=So I want you to be good and find those that only common people like us can enjoy.
