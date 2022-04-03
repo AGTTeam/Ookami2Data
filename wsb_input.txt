@@ -2052,7 +2052,7 @@
 もちろん！=You don't even have to ask!
 喜んで！=With pleasure!
 ありがとう、ロレンス。|お前は、最高の相棒だよ……！=Thank you, Lawrence. You're more than I could have ever hoped for...!
-!FILE:event/ev_main/main_410_ending_horo.wsb
+!FILE:event/ev_main/main_410_ending_horo.wsb#proofread shnurks
 # Common lines
 　|　――あれから、三年が経った。=Three years have passed since then...
 ホロは元気でいるだろうか。|対岸の町で別れたまま、姿を見てい|ない。=I wonder whether Holo is doing well...?|I haven't seen her since we parted ways on the opposite shore.
@@ -2992,7 +2992,7 @@
 ぬしよ、そんなことはないぞ！|余計な気遣いは無用じゃ！=That wouldn’t happen! Don’t fret over such things!
 はは、残念だったな。|いつの世も、財布の持ち主が常に強|いものさ。=Ha-ha, that is a shame. But, it’s the one who’s paying for you that gets the final word.
 オレは食べてから合流する。|あんた達は先に宿に向かっててくれ。=I’ll come join you once I’m finished eating. You two can go ahead to the inn.
-!FILE:event/ev_ren/ren_hor_01_tukimi.wsb
+!FILE:event/ev_ren/ren_hor_01_tukimi.wsb#proofread shnurks
 おお、今宵はよい月じゃ……。|白く、冴え冴えと輝いておる。=Oh, ‘tis a fine moon tonight...|It shines in such a brilliant white.
 やけに明るいと思ったら満月か。|確かに見事だな。=I thought it was bright. A full moon, huh?|It's certainly stunning.
 わっちら狼もな、美しいものは判り|んす。|皆でしげしげと見上げたものじゃ。=We wolves know how to judge beauty. We often gaze up at it.
@@ -3015,13 +3015,13 @@
 そんなことはありんせん。|より楽しんで月が見られるなら、そ|のほうがよいではないか。=That won't happen.|If it helps to enjoy watching the moon even more, isn't it worth it?
 いや、俺はさわぐよりもしみじみと|見ていたいたちなんだ。=No, I'm the kind of person who would rather look at it quietly than make a big fuss.
 そんなものかや。|じゃあ、わっちも静かにぬしの隣に|座っているとしようかの……。=That's how it is?|Well, I'll just quietly sit next to you then...
-!FILE:event/ev_ren/ren_hor_02_tukemono.wsb
+!FILE:event/ev_ren/ren_hor_02_tukemono.wsb#proofread shnurks
 ……ぬしよ。=Say...
 何だ？=Yes?
 荷台の隅にある、このあやしげな壺|は何かや？|厳重に封がしてあるが……。=That dubious jar in the corner of the cart, what is it?|'Tis sealed rigidly...
 …………！=......!
 ど、どうしたんじゃ！？|急に真っ青になって。|顔色が悪いぞ、ぬしよ。=W-What is the matter?|You've suddenly turned very pale.|You don't look so good.
-しまった……。|すっかり忘れてた……！=Oh no... I totally forgot--!
+しまった……。|すっかり忘れてた……！=Oh no...|I totally forgot--!
 忘れた？|ぬしよ、話が見えぬ。|どういうことかや？=Forgot...? I don't follow.|What are you talking about?
 それは……。|リンゴの酢漬けなんだ……。=That is...|Apples pickled in vinegar...
 酢漬け？！|そんなものがうまいのかや？|すっぱくはないのかや？=Pickled in vinegar!? Does that taste good? Isn't it sour?
@@ -3074,7 +3074,7 @@
 ………………。=......
 ………………。=......
 ああ、今日もいい天気じゃな……。=Aah...|We have nice weather today...
-!FILE:event/ev_ren/ren_hor_03_omiyagewokao.wsb
+!FILE:event/ev_ren/ren_hor_03_omiyagewokao.wsb#proofread shnurks
 のう、ぬしよ。|あの露店で売っているのは何じゃ？=Say, what is it they're selling at that stand?
 あまーいリンゴの匂いがしておる|のに、リンゴがどこにも見当たらぬ。=It smells like sweet apples but I can't see any.
 あれはきっと、リンゴの煮込みの|一種だな。=It must be some form of apple stew.
@@ -3087,7 +3087,7 @@
 むうっ……。|しかし、ぬしも興味はあろう？|ぬしの眼がそう言っておる。=Nrgh...!|However, you seem curious as well.|That's what your eyes tell me.
 そうだな。|俺も久しぶりに食べてみたい。=You're right...|It's been so long since I last had any, it does seem tempting.#Holo hasn’t had it before
 今日の商談の帰りに買ってこよう。|ホロは宿で待っていてくれ。=I'll buy some on the way back from today's meeting.|Wait at the inn.
-うむ。|早く帰ってきてくりゃれ？=Mm! Come back soon.
+うむ。|早く帰ってきてくりゃれ？=Mhm! Come back soon.
 ん……？|さっきから誰かにつけられている|気がするな。=Hmm...?|I feel like someone has been following me for a while now.
 この足音、どこかで聞いたことが|あるような……。=I've heard those footsteps somewhere before...
 ……まさか、ホロ？=No way, Holo?
@@ -3097,11 +3097,11 @@
 隠れているつもりでも、はらぺこの|尻尾が丸見えだ。=Even though you tried hiding it, I can clearly see your hungry tail.
 む……。|ぬしは冗談が上手いの。=Hm...|Surely you jest.
 そこまで言うからには、可愛いわっ|ちの望みを|聞いてくれるのじゃろうな？=Now that you've called out to me, I'm sure you'll listen to what my cute self wishes for, no?
-さっきのリンゴの煮込みなら、今|から買いに行くところだ。=If it's the stewed apples you mean,|I'm about to go buy some.
+さっきのリンゴの煮込みなら、今|から買いに行くところだ。=If you mean the stewed apples from before, I'm about to go buy some.
 それだけかや？=That's all?
 宿でおとなしくして待てないような、|食い意地の張った狼にはしっかりと|した見張りが必要だ。=I can hardly leave a gluttonous wolf that can't wait quietly in the inn up to her own devices now, can I?
 一緒に買いに行こう。|ホロ。=Let's go buy some together, Holo.
-うむ！=Mm!
+うむ！=Mhm!
 ──気のせいか。=Must be my imagination...
 それよりも早く、あのリンゴの煮込|みを買っておかなきゃな。=I'd better buy that stewed apple soon.
 みやげに買っていけば、きっとホロ|も喜ぶだろう。=I'm sure Holo will be happy if I buy her some.
@@ -3109,16 +3109,16 @@
 せっかく可愛い雌が気を引いてやっ|ておるのに。=Even though there is a cute female trying to get your attention...
 ……まあ、わっちのことで頭がいっ|ぱいだったと言うなら仕方ありんせ|ん。=Well...|If you are so preoccupied with me, I don't blame you.
 ここは宿に戻って、大人しく待つこ|とにするか。=I guess I will just go back to the inn and wait quietly.
-!FILE:event/ev_ren/ren_hor_04_budomaturi.wsb
+!FILE:event/ev_ren/ren_hor_04_budomaturi.wsb#proofread shnurks
 なんだか町の人々がそわそわしてい|るようじゃの。|祭りの日でも近いのかや？=The people of this city seem to be restless. Is there a festival coming up?
 ああ、いつもの暦通りならこの町は|明日、祭りのはずだ。|なかなか派手な祭りだぞ？=Yeah, if it's at the usual time, this town is supposed to have a festival tomorrow. It's a pretty flashy one.
 おお、そうかや！|明日が楽しみじゃ。=Oh, I see! I'm looking forward to tomorrow.
-わ、なんじゃ。|部屋の窓に何か投げつけられておる！|まだ朝が早いというのに。=Wha--! What was that? Something was thrown at the window of our room! But it's still early in the morning...
+わ、なんじゃ。|部屋の窓に何か投げつけられておる！|まだ朝が早いというのに。=Wha--! What was that? Something was thrown at our window! But it's still early in the morning...
 教会の仕業か？|それとも、いくさでも始まったのか|や？=Was it the Church? Or has a fight broken out?
 どちらも間違ってはいない。|今日、この町は「ぶどう祭り」の日|なんだ。=Neither are wrong. Today is the day of this town's “Grape Festival”.#間違ってはいない should be a double negation?
 そういえば、町中にぶどうの匂いが|しておるような……。=Now that you mention it, the whole town seems to smell of grapes...
 町中の人間が通りへ出て、|ぶどうを投げつけ合う祭りなんだ。|一日中、すごい騒ぎになる。=It's a festival where people from town go into the streets and throw grapes at each other. There's a huge uproar for the day.
-年に一度、日頃の身分を忘れて騒ぎ|まわる「祭り」。=Once a year for the festival, the people forget their standings and make merry together.
+年に一度、日頃の身分を忘れて騒ぎ|まわる「祭り」。=Once a year, for the festival, the people forget their standings and make merry together.#Not 100% sure the comma is supposed to be there
 これだけは、教会からも黙認されて|いるのさ。=Even the Church tolerates it.
 ほう！|それは面白そうじゃ。|わっちも行っていいかや？=Hoh! That sounds amusing. May I go as well?
 慣れない旅人には危ないぞ？=It's dangerous for travelers who aren't used to it, you know.
@@ -3130,20 +3130,20 @@
 我慢しよう=Stay here.
 ……そこまで言うなら仕方ないか。|あまり羽目を外すなよ？=If you’re that set on it then I guess there's no stopping you...|Don't ruffle too many feathers, okay?
 わかっておる！|一年に一度のお祭りなんじゃろ？=I understand!|It's a once-a-year festival, is it not?
-ははは、全然人の話を聞いてないな。|危なそうな奴らには近づくなよ？=Ha-ha, you're not listening to me at all, huh? Just stay away from anyone who looks dangerous, okay?
+ははは、全然人の話を聞いてないな。|危なそうな奴らには近づくなよ？=Ha-ha, you're not listening to me at all, are you? Just stay away from anyone who looks dangerous, okay?
 何を言っておる。|ぬしも一緒に行くんじゃ！=What are you talking about?|You're coming with me!
 本気か！？|うわ、やめろ、ホロ……！=Are you serious?!|Ugh, stop it, Holo...!
 ……うわ、またやられた！=Ack, I was hit again!
 ふふふ、ふふふっ。|ぬしよ、楽しいのう！=Ha-ha, aha-hah!|This is fun!
 壁で囲った町の中にも、こんな楽し|い祭りがあるとは。|捨てたものではありんせん！=I never knew they had such fun festivals in walled cities. 'Tis not without its charms.
-──え、なんだって！？|良く聞こえないぞ、ホロ！=Eh, what?|I can't hear you very well, Holo!
+──え、なんだって！？|良く聞こえないぞ、ホロ！=Eh, what?|I can't properly hear you, Holo!
 これからも、ぬしと旅をしておれば、|いろいろな町で、いろいろなものを|見られるんじゃな！=If I continue to travel with you, I know I will see many more things in many different cities!
 この町の祭りは、この町のものだ。|よそ者である俺たちは勝手に立ち入|らないほうがいい。=The festivals of this city belong to this city. It's better if strangers like us don't join in.
 うっかりお前の耳や尻尾が見えても|困るしな。=If you were to carelessly let your ears and tail show, we would be in trouble.
 つまらんの……。|ぬしは頭の固い雄じゃ。|わっちがこんなに言っておるのに。=How boring.|You are a thickheaded male.|After all I said...
 夜になれば、どこの食堂でもタダで|ぶどう酒が振る舞われる。|その時くらいは連れてって……。=In the evening, all the establishments serve wine for free. I'll accompany you then--
 そういう問題ではありんせん！|このたわけめ。=That's not the problem!|You fool.
-!FILE:event/ev_ren/ren_hor_05_tabihadareno.wsb
+!FILE:event/ev_ren/ren_hor_05_tabihadareno.wsb#proofread shnurks
 ん……？|町の空気が少しピリピリしているよ|うだ。=Hm... The atmosphere in the town seems a little tense.
 何かあったのかや？|心なしか、戸を閉ざしている家が多|いようじゃが……。=Has something happened?|Most of the doors are shut.
 ……なるほどな。|今、向こうの通りにいた連中を見た|か？=...So that's it.|Do you see the group of people on the road over there?
@@ -3169,7 +3169,7 @@
 ホロ……。=Holo...
 ここは我慢してくれ=Please endure it.
 俺が悪かった=I'm sorry.
-内海を渡るまで、あともう少しの間|の辛抱だ。|ここは我慢してくれないか？=Until we cross the sea, you need to be patient for a bit more. Can you endure it?
+内海を渡るまで、あともう少しの間|の辛抱だ。|ここは我慢してくれないか？=You need to be patient for a bit longer, until we cross the sea. Can you endure it?
 …………。=......
 ……わかった。=Alright...
 ぬしも疲れておるのに、八つ当たり|などしたことは謝りんす。=I'm sorry I took my anger out on you even though you must be tired too.
@@ -3180,18 +3180,18 @@
 ──さて、この町だが、教会の中で|あわただしい動きがあるのは間違い|ない。=There's no doubt that there is a flurry of activity in the Church in this town.
 だから、お前を無用な危険にさらし|たくない。|それはさっきも言った通りだ。=So I don't want to put you in any unnecessary danger.|That's what I said before.
 ……それで？=And?
-だが、旅は隠れているだけでは先に|進めない。|これは、商売も同じだが。=But hiding is not the way to move forward in a journey. It's the same in business.
+だが、旅は隠れているだけでは先に|進めない。|これは、商売も同じだが。=But hiding is not the way to move forward in a journey. It's the same as in business.
 それで？=...And?
 俺は、お前と旅を続けたい。|だから、お前の力も貸して欲しい。=I want to continue my journey with you.|So, lend me your aid.
 ……たわけ。|ようやく気付いたか。=Fool...|It took you this long to realize?
 すまなかった。|明日はいっしょにこの町を出よう。=I'm sorry.|Let's get out of this town tomorrow, together.
-うむ！=Mm!
-!FILE:event/ev_ren/ren_hor_06_raimeinoyoru.wsb
+うむ！=Mhm!
+!FILE:event/ev_ren/ren_hor_06_raimeinoyoru.wsb#proofread shnurks
 ひどい雨だな。|この様子だと、雷雲もかなり近い|ようだ。=What terrible rain. From the looks of it, the thunderclouds seem to be pretty close.
 だが、雲の流れは速い。|ここで雨宿りをしていれば、じきに|上がるだろう。=But the clouds are moving fast. If we stay here and take shelter, the rain should soon pass.
 …………。=......
 どうした、さっきから押し黙って。|……雷が怖いのか？=What's the matter? You've been quiet for a while now. Are you afraid of lightning...?
-怖くはありんせん。|じゃが、何の不安もないと言ったら|嘘になる。=I am not afraid.|But, to say that I don't feel uneasy would be a lie.
+怖くはありんせん。|じゃが、何の不安もないと言ったら|嘘になる。=I am not afraid.|But, to say that I don't feel uneasy at all would be a lie.
 どう違うんだ？=How is that different?
 ぬしは……雷に打たれた木を見たこ|とがあるかや？=Have you ever seen a tree hit by lightning?
 それは見事なほどに黒焦げになる。|この前、わっちらが食ったまずい焼|き魚よりも丸焦げじゃ。=They turn deeply charred.|Much more burned than that awful roast fish we had.
@@ -3222,7 +3222,7 @@
 笑わないさ。|俺だってこれだけ雷雲が近ければ|不安になるし、足もすくむ。=I won't laugh. Even I get uneasy when the thunderclouds are this close, and my legs stop working too.
 くふっ。|やせ我慢はお互い様と言うわけじゃ|な。=Heh-heh.|I guess we both have to endure it.
 ぬしがそれだけわっちを気にかけて|くれるのなら、雷の夜も悪くはない|かもしれんの。=If you care for me this much, an evening thunderstorm might not be so bad.
-!FILE:event/ev_ren/ren_hor_07_inemuri_futuka.wsb
+!FILE:event/ev_ren/ren_hor_07_inemuri_futuka.wsb#proofread shnurks
 起きろ、ホロ。|いつまで寝てるんだ。|さっさと起きて、出発の準備だ。=Wake up, Holo. How long are you going to sleep? Come on, we need to prepare for our departure.
 ううぅ……。|ぬしよ、もう少し寝かせてくりゃれ。=Hwah...|Let me sleep a bit longer.
 昨日の夜は、つい飲み過ぎた。|身体が重い。|頭が割れそうじゃ……。=I ended up drinking too much yesterday.|My body feels heavy and my head feels like it's about to break...
@@ -3325,7 +3325,7 @@
 ふざけている場合じゃないぞ、ホロ。|俺は真面目な話をして……。=Don't joke about that, Holo.|I was being serious...
 ……この話は、もう終わりにして|くりゃれ？|冗談であるうちに、の。=Can we end this conversation here? While it's still something we can joke about...
 ……わかった。|余計なことを言ってすまなかった、|ホロ。=Alright...|I'm sorry if I said something uninvited.
-!FILE:event/ev_ren/ren_hor_10_hinadori.wsb
+!FILE:event/ev_ren/ren_hor_10_hinadori.wsb#proofread shnurks
 これで当分の薪は足りそうだな。|急いで戻るとするか。|ホロも待ちくたびれている頃だろう。=That should be enough firewood for now. I’d better get back.|I’m sure Holo is getting tired of waiting.
 ……ん？|あそこに落ちているのは何だ？=...Hm?|What’s that on the floor?
 鳥の巣か。|中の小鳥はまだ生きているようだが。=A bird's nest? It looks like there are still some chicks alive inside...
@@ -3345,10 +3345,10 @@
 そろそろ、戻ろうかの。=So, shall we get back?
 …………。=......
 どうした、ぬしよ。|巣は持って行かんのか？=What is it? Aren’t you going to take the nest?
-──これでどうだ。=--That should do it.
+──これでどうだ。=... That should do it.#?
 巣をきちんと戻してやれば、小鳥た|ちが助かる可能性はぐんと上がるは|ずだ。=If we put the nest back in the right place, the chicks should have a much better chance of survival.
 やれやれ。|ぬしのお人好しには呆れてものも|言えん。=Honestly now... Your good-nature leaves me speechless sometimes.
-それとも、とびきりのひねくれ者と|言うべきか？=Though, I suppose I could add in that you are an extremely contrary person.
+それとも、とびきりのひねくれ者と|言うべきか？=Though, I suppose I should say that you are an extremely contrary person.
 お前の方こそ、怒らないのか？|俺が商人としてふがいない奴でも。=Aren’t you going to get mad? I’m a useless merchant.
 降って沸いた大きな儲けをフイにす|るなど、商人としては失格じゃろう|な。=Someone who would throw away a money- making opportunity that just fell into their lap can hardly be called a merchant.#added space for better wordwrap
 それとも、ぬしはもっと儲かる算段|でも思いついたのかや？=Or have you come up with an even better way to make money?
@@ -3359,9 +3359,9 @@
 ぬしだから、面白いんじゃ。|そんなわっちを、ぬしは嫌いではな|いじゃろう？=’Tis because it’s you that it’s amusing. You do not hate this part of me either, do you?
 わかったわかった。|ここは俺の負けだ。=I get it, already. I lost this time.
 そういうわけじゃ。|ぬしの好きにすると良い。=Quite. All you need do is follow your heart.
-!FILE:event/ev_ren/ren_hor_11_watasiwoizumini.wsb
+!FILE:event/ev_ren/ren_hor_11_watasiwoizumini.wsb#proofread shnurks
 ふぅ……。|よく澄んだ、いい湧き水じゃ。|ここなら景色も悪くない。=Phew...|There is nice, clear spring water here.|And the view is not bad either.
-あとは、あの朴念仁がどこまで気付|いてくれるか楽しみじゃな。|くふふ……。=Now I just have to wait and see how much simple-minded male notices. Heh-heh-heh...
+あとは、あの朴念仁がどこまで気付|いてくれるか楽しみじゃな。|くふふ……。=Now I just have to look forward to whether the simple-minded male realizes that. Heh-heh-heh...#?
 ……ホロ！=...Holo!
 どうした、ぬしよ。|そんなに大きな声を出さずともよか|ろう。=What's the matter? You don't have to shout so loudly.
 お前こそ、戻ってくるのが遅いから|心配したんだぞ。=You didn't come back.|I was worried about you.
@@ -3405,7 +3405,7 @@
 ……ん？|ホロ、何か言ったか？=Hm?|Holo, did you just say something?
 何でもない。|ぬしは意外に力持ちな雄だと言った|だけじゃ。=It's nothing. I just said that you're a surprisingly strong male.
 そうだろう？|話がまとまったところで、早く戻ろ|う。=Right?|We've talked enough already, let's get back.
-!FILE:event/ev_ren/ren_hor_12_onajihosiga.wsb
+!FILE:event/ev_ren/ren_hor_12_onajihosiga.wsb#proofread shnurks
 ……ホロ、眠れないのか？=Holo, are you having trouble falling asleep?
 ぬしのほうこそ、どうしたんじゃ？|今までぐっすり眠っていたのに。|わっちが起こしてしまったかや？=I should ask you that. You've been sleeping so well. Did I wake you up?
 いや、たまたま目が覚めただけさ。=No, I just happened to wake up.
@@ -3424,19 +3424,19 @@
 構わぬ。=I don't mind.
 よっ、しょっと。=Whew...
 見えるか、ぬしよ。|満天の星々じゃ。|いまにも降ってきそうではないかや？=Do you see them? The stars of the sky.|They seem like they could fall down like raindrops at any moment.
-そうだな。|たまには、何も考えずに星を眺める|のも悪くない。=You're right. Sometimes just staring at the stars without thinking about anything is not so bad.
-それにしても、ホロ。|「降り注ぐような星空」なんて優雅|な言葉、どこで覚えたんだ？=Anyway Holo, where did you learn an elegant expression like “stars raining from the sky” from?
-ぬしのほうこそ、さしずめ星の光が|銀貨の輝きにしか見えぬような顔を|しておる。=Do you mean while you make a face as if to say the sparkle of the stars is no more than the glitter of silver coins?
+そうだな。|たまには、何も考えずに星を眺める|のも悪くない。=You're right. Sometimes just staring at the stars without thinking anything is not so bad.
+それにしても、ホロ。|「降り注ぐような星空」なんて優雅|な言葉、どこで覚えたんだ？=Anyway Holo, wherefrom did you learn such an elegant expression as “stars raining from the sky”?
+ぬしのほうこそ、さしずめ星の光が|銀貨の輝きにしか見えぬような顔を|しておる。=You ask that while you make a face as if to say the sparkle of the stars is no more than the glitter of silver coins?
 ……痛いところを突かれたな。=You've hit me where it hurts...
 この輝く星が全部俺の銀貨だったら|どんなに素晴らしいか……！|心からそう思うよ。=How wonderful would it be if all of these sparkling stars were my silver coins...|My heart dreams it so.
 くふ。|たわけた夢じゃが、大きい夢を持つ|若い雄は悪くない。=Heh-heh.|’Tis a foolish fantasy but... a young male with a grand dream is not a bad thing.
-わっちのためにも、しっかり稼いで|くりゃれ？=Will you earn a good amount for me?
+わっちのためにも、しっかり稼いで|くりゃれ？=Will you make a good amount for me?
 ああ、そうするつもりだ。=Yeah, that's the plan.
 ……優雅な星空の話が、いつの間に|か俗っぽい話になってしまったな。=And somehow all that graceful talk about starry skies turned into a mundane chat...
 良いのではないかや？|わっちは、ぬしの隣で同じ星を見る|時間が、とても楽しかった。=That's okay, is it not?|Spending time next to you looking at the same stars is very enjoyable.
 たとえそれが、銀貨の話でもの。=Even if it is about silver coins.
 ホロと同じ星、か……。=The same stars as you, huh...
-!FILE:event/ev_ren/ren_hor_13_inemuri_basha.wsb
+!FILE:event/ev_ren/ren_hor_13_inemuri_basha.wsb#proofread shnurks
 ……おい、ホロ。|あんまりこっちに寄りかかると手綱|を扱いにくいじゃないか。=...Hey, Holo. I can't direct the reins if you lean so close to me.
 んむ……。|むにゃむにゃ……。=Mmmm...|Zzz...
 やれやれ。|たまに隣りに乗せてやっても結局は|居眠りか……。=Good grief. Even though we’re sitting together for a change, you still nod off...
@@ -3475,7 +3475,7 @@
 ん？|俺がどうしたんだ、ホロ。=Hm? What about me, Holo?
 んんん、くふふ……。=Mmmm, heh-heh-heh...
 （……ホロの奴。|　寝ている時さえ、|　目を離さないつもりか……）=(That Holo... Even when she's sleeping, she doesn't let me out of her sight.)
-!FILE:event/ev_ren/ren_hor_14_kosupure.wsb#several dupes with other ‘kosupure’ scenes
+!FILE:event/ev_ren/ren_hor_14_kosupure.wsb#several dupes with other ‘kosupure’ scenes proofread shnurks
 ……何じゃ？|やけに人だかりができておるのう。=...Hm? That’s quite the crowd.
 祭りか何かかな。|きっと便乗した見せ物か大道芸でも|出ているんだろう。=I wonder if it’s a festival. I guess they decided to put a show or some kind of street performance on.
 おおおおおおおおおおおお！|あなた、あなたどうですか！|お美しいお嬢さん！=Oooh! You, yes you there! The beautiful young lady!
@@ -3508,7 +3508,7 @@
 すみませんが、さすがにちょっと。|私たち、旅の途中なものですから。=I’m sorry, but I’m afraid now’s a bad time. We’re in the middle of something, you see.
 そうですか、残念です……。=Is that so? What a shame...
 わっちもちょっと残念じゃ。|どんな劇じゃったのかの……。=I think it's unfortunate too.|I wonder what play it was...
-!FILE:event/ev_ren/ren_hor_15_sauna.wsb#eve_14_sauna dupes
+!FILE:event/ev_ren/ren_hor_15_sauna.wsb#eve_14_sauna dupes proofread shnurks
 ぬしよ、すっかり遅くなってしまっ|たの。=It has gotten rather late.
 ああ、でもここまで辿り着けてよか|った。|宿で休めるからな。=Yeah, but it’s good we managed to reach town. We can sleep in an inn tonight.
 そうじゃの。|しかし、ちと急ぎすぎた。|もうくたくたじゃ。=True. But, ’twas a bit too much.|I am thoroughly spent now.
@@ -3547,8 +3547,8 @@
 そう言われてみればそうじゃの。=Now that you mention it, it does seem odd.
 こういう派手なもので目を引いてお|いて、その隙に金品を奪う。|ありそうな話じゃ。=Catching someone’s eye with a flashy offer, then using the chance to steal their possessions. ’Tis a plausible story.
 ホロもそう思うか。|じゃあ、向こうの角にあるあっちの|宿にしよう。=So you thought the same. Alright, let’s head for the inn on the corner then, shall we?
-うむ！=Mm!
-!FILE:event/ev_ren/ren_hor_16_horonosippo.wsb
+うむ！=Mhm!
+!FILE:event/ev_ren/ren_hor_16_horonosippo.wsb#proofread shnurks
 どうしたんじゃ、ぬしよ。|じっと見つめて。=What's the matter with you, staring so long?
 いや……。|お前の尻尾、立派だなあと思ってな。=No...|I was just thinking you have a nice tail.
 どうしたんじゃ、急に。|まあ、立派と言われるに値する尻尾|だとは自負しておるがの。=Why now, all of a sudden? Well, I'm proud to say that I have a tail which deserves to be called magnificent.
@@ -3578,7 +3578,7 @@
 わっちのはそんじょそこらに転がっ|ておるようなものと一緒ではないと|言ったであろう？=I told you, you can't lump mine together with the ordinary furs...
 でも、ぬしよ。|それが判るようになったのは決して|悪いことではない。=It's not a bad thing that you've come to understand that.
 ぬしの目が肥えたということじゃか|らの。|誇りに思うがよい。=It means your eyes are discerning. You should be proud of that.
-!FILE:event/ev_ren/ren_hor_17_cheeseimo.wsb
+!FILE:event/ev_ren/ren_hor_17_cheeseimo.wsb#proofread shnurks
 ぬしよ、今の露店を見たかや？=Say, did you see that stall just now?
 何だ？|面白いものでもあったのか？=What was it?|Was it selling something interesting?
 ほれ、そこの子供じゃ。|焼いたじゃが芋の上に、たっぷりと|チーズを乗せて食べておる。=See, that child over there.|He's eating a roast potato with a lot of cheese on it.
@@ -3609,7 +3609,7 @@
 頭ではぬしの言うことが正しいと判|ってはおるのじゃがな、ああして見|せつけられるとの……。=I understand what you are saying in my head...|Ahh, but seeing them like that...
 はは、もう少しで宿だ。|きっと、夕飯にはもっといいものが|待ってるさ。=Aha-ha. We'll be at the inn soon.|I'm sure something even better is waiting for us there.
 そうじゃな、急いでくりゃれ……。=You're right, let's hurry back...
-!FILE:event/ev_ren/ren_hor_18_uranai_turugi.wsb
+!FILE:event/ev_ren/ren_hor_18_uranai_turugi.wsb#proofread shnurks
 今日の商談はすっかり長引いてしま|った……。=The negotiations dragged on forever today...
 宿でホロが待ちくたびれているに違|いない。|急いで戻ろう。=I'm sure Holo is tired of waiting for me.|I need to hurry back.
 ……そこの男。|少々よろしいか。|大事な話がある。=You, over there.|Do you have a bit of time?|I have something important to tell you.
@@ -3663,7 +3663,7 @@
 !FILE:event/ev_ren/ren_hor_19_koihanioide.wsb
 いつもの通り、俺はこの町の商館に|挨拶したらその後は得意先を回る。=As usual, after I say hello at the trading house, I'll go around to my regular clients.
 宿は手配してあるから、ホロはゆっ|くりするといい。=I've arranged accommodation, so you can relax.
-では、そうさせてもらおうかの。|しっかり稼いできてくりゃれ。=Then, I’ll do just that. Go and earn a good wage.
+では、そうさせてもらおうかの。|しっかり稼いできてくりゃれ。=Then, I’ll do just that. Go and earn a lot.
 ……む。|ぬしの服から、雌の匂いがする。=Hm... I can smell a female's scent on your clothes.
 何を言い出すのかと思えば、そんな|ことか。=I was wondering what you were going to say.
 町には人ごみも多い。|誰かの匂いが移ることなんて、よく|あるんじゃないか？=There are a lot of people in town. It’s not uncommon for someone else’s scent to stick, right?
@@ -3702,8 +3702,8 @@
 ……わっちとの旅のために、女心に|ついて学ぼうとは思わんのかや？=Don't you want to learn about a female’s heart to aid you in your journey with me?
 そのためには、まず自分の食費を|減らすことだな。=To do that, I'd have to cut back on my food budget first.
 たまには、俺の繊細な商人の心も|いたわって欲しいところだ。=I'd like my sensitive merchant heart cared for once in a while.
-むう……。=Mm...
-!FILE:event/ev_ren/ren_hor_20_oyogikata.wsb
+むう……。=Mhh...
+!FILE:event/ev_ren/ren_hor_20_oyogikata.wsb#proofread shnurks
 のう、ぬしよ。=You know...
 どうした、ホロ。=What's the matter, Holo?
 せせらぎが聞こえる。|この道の先には、川があるのかや？=I can hear murmuring. Is there a river ahead of us?
@@ -3739,7 +3739,7 @@
 っっ──！！=--!!
 ぬしは、本当におもしろい人間じゃ|な。=You really are an interesting human.
 くふふ、これからもずっと楽しい旅|ができそうじゃ！=Heh-heh.|I think we will have an enjoyable journey throughout!
-!FILE:event/ev_ren/ren_hor_21_futukayoirore.wsb
+!FILE:event/ev_ren/ren_hor_21_futukayoirore.wsb#proofread shnurks
 ──ぬしよ、起きるんじゃ。|いつまでわっちを放っておくつもり|かや？=You, wake up!|How long are you planning on ignoring me?
 ん……？|ああ、ホロか。=Hm...|It’s you, Holo?
 待ってろ。|今起きる──=Wait a second.|I'm getting up now.
@@ -3788,7 +3788,7 @@
 お前にも、昨日の埋め合わせをした|いしな。=I want to compensate you for yesterday|as well.
 くっ……。=Ngh...
 わっちのことは、気にせずとも良い。|それより、今日こそは早く帰ってき|てくりゃれ……。=You do not have to worry about me. More importantly, come back early today...
-!FILE:event/ev_ren/ren_hor_22_aan.wsb#dupes with other aan scenes
+!FILE:event/ev_ren/ren_hor_22_aan.wsb#dupes with other aan scenes proofread shnurks
 ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town. It has gotten rather late. I’m famished.
 せっかく町に着いたんじゃ。|やはりあたたかい料理とよい酒じゃ|な、ぬしよ？=We're finally in a town. I think some warm food and good wine are in order, no?
 ………………。=......
@@ -3809,7 +3809,7 @@
 い、いや、そこまで世話はかけられ|ない。|自分で食べるよ。=N-No, I can't bother you that much.|I'll eat by myself.
 寝たら少し良くなったようだし。|気遣ってくれてありがとう、ホロ。=I feel a little better after that sleep anyway. Thank you for your concern, Holo.
 なに、礼を言われるほどのことは|しておらぬ。|食べてゆっくり休んでくりゃれ……。=I didn't do anything so great as to deserve gratitude.|Eat and rest well...
-!FILE:event/ev_ren/ren_hor_23_kanemoti.wsb
+!FILE:event/ev_ren/ren_hor_23_kanemoti.wsb#proofread shnurks
 ほう。|うまそうな匂いのする露店が並んで|おる。=Hoh. Stalls with enticing scents are lined up one after another.
 ぬしも、ちょうど腹がすいておる頃|じゃろう？|わっちは、あのあぶり肉がよい！=Say, your stomach must be getting empty around now as well, yes?|I want that roasted meat!
 身を乗り出すんじゃない、ホロ。|馬車が揺れる！=Don't lean out like that, Holo.|You're rocking the cart!
@@ -3903,10 +3903,10 @@
 身なりの良い男=Well-dressed Man
 町人Ａ=Citizen A
 町人Ｂ=Citizen B
-!FILE:event/ev_ren/ren_hor_24_sinagire.wsb
+!FILE:event/ev_ren/ren_hor_24_sinagire.wsb#proofread shnurks
 ぬしよ、約束じゃぞ！|忘れたとは言わせぬぞ！=You promised! I won't let you forget!
 わ、わかった、わかったよ。|蜂蜜漬けだろ？=I know, I know...|Honeyed, was it?
-桃の蜂蜜漬けを食べさせてくれる。|そういう約束じゃったよな？=You are going to buy me honeyed peaches.|That was the deal, right?
+桃の蜂蜜漬けを食べさせてくれる。|そういう約束じゃったよな？=You are going to buy me honeyed peaches.|That was the promise, right?
 桃じゃぞ、桃！|桃だけでも甘くてとろりとしておる|のに、その上蜂蜜とは……。=Peaches, peaches!|Peaches alone are sweet and mellow,|but adding honey on top of that is...
 ああ、信じられぬ！|そんな食べ物が世の中にあるとは。|人間の業はどこまでも深いものよの。=Ahh, I can't believe it!|I didn't know there was such food in the world. Man's enterprising knows no bounds.
 それは確かにそうかもな。|あまりに贅沢すぎるので、教会もい|い顔をしていないと聞く。=You might be right there.|I heard that the Church doesn't approve of them because they’re too extravagant.
@@ -3939,7 +3939,7 @@
 それに、出来上がるのを待つのもま|た一興じゃ。|毎日が楽しくなりそうじゃの。=And it will be fun to wait for them to be done. I will look forward to them every day.
 よし、じゃあ材料を買いに行こうか。|桃と蜂蜜と……いちじくやショウガ|も入れるんだったかな？=Okay, let's go buy the ingredients. Peaches, honey, and... I think we were supposed to add figs and ginger?
 くふふ、ぬしに任しんす。|出来上がるのが楽しみじゃの！=Heh-heh-heh. I'll leave you to it.|I can't wait to see what you will make!
-!FILE:event/ev_ren/ren_hor_25_nonbiri.wsb
+!FILE:event/ev_ren/ren_hor_25_nonbiri.wsb#proofread shnurks
 …………。=......
 どうした、ホロ。|落ち着かない様子だな。=What's the matter, Holo?|You seem restless.
 今日は馬車の歩みが|ずいぶんと遅いようじゃ。|馬の調子が悪いのかや？=The cart seems to be moving very slowly today. Is something wrong with the horse?
@@ -3965,7 +3965,7 @@
 すまない、言い方が悪かった。=I'm sorry. I shouldn't have said it like that.
 今日の積荷はとても傷みやすい。|そして、買い手はぜいたく好きの|金持ちだ。=Today's cargo is very fragile. The only people who buy it are those who are rich with a taste for luxury.
 それはさっきも聞きんす。=You already said that.
-少しでも傷んでいるように見える|果物は、都合良く安値で買い叩か|れたり捨てられたりする。=Fruit that look even slightly damaged just gets sold for a cheap price or even thrown away.
+少しでも傷んでいるように見える|果物は、都合良く安値で買い叩か|れたり捨てられたりする。=Fruit that look even slightly damaged get sold for a cheap price or even thrown away.
 もったいない話じゃの……。='Tis such a waste.
 ああ、全くだ。=You're completely right.
 そこでホロには俺たちの様な庶民|だけにおいしく食べられるものを|うまく選別して欲しい。=So I want you to be good and find those that only common people like us can enjoy.
@@ -3985,7 +3985,7 @@
 これからわっちが、|傷みのある実を探す。|ぬしは、その実をどうするか決める。=From now on I'll look for the damaged fruit, and you can decide what to do with them.
 ああ。=Alright.
 二人で選り分けたのじゃから、食べ|るのも二人で半分ずつじゃ！=We're both sorting through them, so we will have to split the ones to eat equally.
-!FILE:event/ev_ren/ren_hor_26_amedama.wsb
+!FILE:event/ev_ren/ren_hor_26_amedama.wsb#proofread shnurks
 ホロ、今のうちにこれを渡しておく。|お前の分くらいしかないから、こっ|そり持っておいてくれ。=Holo, I wanted to take the chance to give you this. There’s only enough there for you, so be discreet about it.
 なんじゃ、この小瓶は。|宝石のカケラのようなものが入って|おるようじゃが……。=What’s this small bottle? There’s something which looks like jewels inside...
 ──ふむふむ。=...Hmm.
@@ -4026,7 +4026,7 @@
 そうじゃろ？=Now you understand!
 ……ぷっ、ははは。=...Pfft. Ha-ha-ha.
 くふふ……。=Heh-heh-heh.
-!FILE:event/ev_ren/ren_hor_27_uranai_jonan.wsb
+!FILE:event/ev_ren/ren_hor_27_uranai_jonan.wsb#proofread shnurks
 ……ふう。=Phew...
 待ち合わせ場所に来たのはいいが、|一人で待つのも、所在ないものだな|……。=I came to the meeting place, but waiting alone is boring...
 もしもし、そこなお方。|人待ちの慰めに、カード占いなどい|かが？=Good day to you, gentleman over there.|Why don't I do a tarot reading to distract you from the wait?
@@ -4040,15 +4040,15 @@
 ホロにおはらいを頼む=Ask Holo to purify you
 占い師に助けを求める=Ask for the fortune teller's help
 どうにか話を逸らす=Change the topic
-……頼む、ホロ。|俺が悪かった。=Will you help me, Holo? I was wrong...
+……頼む、ホロ。|俺が悪かった。=Could you help me, Holo? I'm sorry...
 くふ。|ぬしは物分かりがよいいい雄じゃの。=Heh-heh. You are a good male for understanding so quickly.
 ここは心の広いわっちが何も見なか|ったことにしてやろう。=My gracious self will pretend she did not see anything just now.
 心のこもった貢ぎ物があれば、なお|しばらくの間、災厄は避けられるか|もしれんの。=If you had a heartfelt tribute, maybe you could stave off disaster for the time being.
 ちょうどいい話がある。|上物のリンゴを仕入れている店を教|えてもらったところなんだ。=In that case, I have good news. I just got a tip on a place that has the best apples.
 これからその店に仕入れに行くとし|よう。=Let's go stock up on apples there!
-うむ！=Mm!
+うむ！=Mhm!
 そ、そうだ、ホロ。|きちんと占い師に話を聞いてから|考えようじゃないか。=W-Wait, Holo. We should hear what the fortune teller has to say first.
-「麺は麺屋」というだろう。|ゆっくり専門家に話を聞いてからで|も、遅くないはず……。=As they say, leave the kitchen to the cook. It shouldn’t be that imminent that we can’t listen to what the expert has to say.
+「麺は麺屋」というだろう。|ゆっくり専門家に話を聞いてからで|も、遅くないはず……。=As they say, leave the kitchen to the cook. It shouldn’t be so urgent that we can’t listen to what the expert has to say.
 ふん、そうかや。=Hm, is that so?
 そんなにその娘の話が気になるなら、|わっちはしばらく散歩でもしていよ|うかの。=If you are so interested in this female,|I will go for another walk.
 あー、腹が減ったのう。|その辺の雄たちにでもごちそうして|もらいんす。=Haa, I am hungry.|I suppose I'll have one of the males around here treat me.
@@ -4106,7 +4106,7 @@
 「琥珀の導き」か。|確かに「雷の子」は琥珀を好む。=The “Amber Guide”...|Indeed, thunderlings prefer amber.
 どういうわけか、よい布地や毛皮と、|琥珀のような装飾品をこすると強い|「雷の子」が起きるらしいな。=Somehow, rubbing good fabrics or furs and amber jewelry together seems to cause strong thunderlings.
 そのくらいはわっちも知っておる。=I know that much...
-若い男女が逢引をする時は、お互い|に普通は着ないような一張羅を着る|ものだろう？=When a young man and woman meet, they both wear something they wouldn't normally wear like their best clothes, yes?
+若い男女が逢引をする時は、お互い|に普通は着ないような一張羅を着る|ものだろう？=When a young man and woman meet, they both wear something they wouldn't normally wear. Like their best clothes, yes?
 知らぬうちに、普段より強い「雷の|子」を宿した二人が手を触れた時を|想像してみろ。=Imagine two people, who unknowingly carry a stronger-than-usual thunderling in them, touching hands.
 普段は決して感じることのない強い|「雷の子」を感じて、あたふたして|しまう──=They'd feel a thunderling stronger than ever before and get in a flutter...
 それが「琥珀の導き」の言い伝えの|正体だ。=That is the true nature behind the legend of the “Amber Guide”.
@@ -4131,7 +4131,7 @@
 ぬしが博識なのは、よくわかった。=I understand that you are knowledgeable.
 ……つまり、ぬしはわっちからの|「琥珀の導き」はご免被ると言い|たいのじゃな？=So, you're saying you've no interest in whether the amber's guidance leads you|to me?
 そ、それは……。=T-That's--
-!FILE:event/ev_ren/ren_hor_29_mekiki.wsb
+!FILE:event/ev_ren/ren_hor_29_mekiki.wsb#proofread shnurks
 ──商品の目利きは熟練の商人にも|なかなか難しい。=Judging an item’s quality is difficult for even the most experienced merchants.
 だから、見習いはまず偽物を見分け|る方法から覚えるんだ。=So the first thing an apprentice learns is how to tell a fake.
 腐った食べ物でなければ、味は悪く|ても食えぬことはない──というこ|とじゃな？=As long the prize is not rotten, it may taste bad, but it’s still usable...|Something like that?
@@ -4139,7 +4139,7 @@
 だが、織物や食品と違って貴金属の|偽物を見分けるのは難しい。=But unlike textiles and food, it's difficult to spot fakes when trading precious metals.
 見た目や手触りよりも、金属同士を|打ち合わせて、音を比べるのがいい|方法だ。=Rather than by sight or touch, a good way to check metals is by striking them together and comparing the sound.
 例えば、同じ形の銀貨でも銀の配合|が違えば音は違う。|当然、貨幣の価値も変わってくる。=A silver coin of the same shape will sound different if the silver is mixed differently. Naturally, the value will also change.
-うむ。=Mm.
+うむ。=Mhm.
 とはいえ、取引のたびに相手の眼の|前で打ち鳴らすのは失礼だと思わな|いか？=Nevertheless, don't you think it's rude to strike the coins together in front of the other's eyes when making a transaction?
 そうじゃな。|気持ちのいいものではなかろう。=Aye. 'Twould be unpleasant.
 そこで各地の商人たちは考えた。|お互いが合法的に、気持ちの良い形|式で偽物を調べるおまじないだ。=So merchants from all over came up with a magic spell to find out whether someone is using fakes in a pleasant way.
@@ -4182,7 +4182,7 @@
 男=Man
 女=Woman
 露天商=Vendor
-!FILE:event/ev_ren/ren_hor_30_amenimo.wsb
+!FILE:event/ev_ren/ren_hor_30_amenimo.wsb#proofread shnurks
 この雨は、夜も続きそうじゃの。=It seems this rain will last all night.
 ああ、暗くなる前に雨宿りできる場|所までたどり着けて良かったよ。=Yeah. At least we managed to find shelter before it got too dark.
 前の町でいろいろ調べておいた甲斐|があったというものさ。=It was worth doing that extra research in the last town.
@@ -4213,7 +4213,7 @@
 これも、わっちという愛らしい旅の|連れがいてこそ、じゃな。=It must be thanks to your lovely traveling companion.
 こんなわがままな連れの言い分を否|定できない自分に少々納得いかない|が……。=I’m not so sure about that, given that I couldn’t deny the selfish demands of my companion...
 お前のために、俺が汗水流しておこ|した火には違いない。|早く温かいスープを作ろう。=But, this fire is undoubtedly the result of my hard work for your sake. Let’s make some hot soup.
-うむ！=Mm!
+うむ！=Mhm!
 !FILE:event/ev_ren/ren_lka_01_tabigaowattemo.wsb
 ねえ、おにいちゃん……。=Hey, mister...
 どうした？|おなかすいたか？=What’s up? Are you hungry?
@@ -5840,10 +5840,10 @@ bg_t21_zahl=bg_yadoheya_small
 だがな、オレの話し相手が務まる奴|なんてそうそういないんだ。|香辛料よりもはるかに貴重品さ。=But it's not every day that I have someone to talk to. You're far more valuable than spices.
 まあ、あんたの意表をつけるものが|何なのか……旅の間にゆっくりと探|すことにでもするかな。=Well, I guess I'll just have to take my time looking for something that'll throw you off course as we travel.
 ――今後も楽しくなりそうだ。|改めてよろしく頼むぜ。=It seems it's going to be a fun journey yet. Here's to many more conversations.
-!FILE:event/ev_ren/rru_hor_b2a.wsb
+!FILE:event/ev_ren/rru_hor_b2a.wsb#proofread shnurks
 ……ぬしよ、今すれ違った荷馬車は|なんじゃ？|ずいぶんと大所帯じゃったが。=Say, what were those wagons we just passed? It seemed like a big group.
 ああ、おそらく旅芸人だろう。|劇団かもしれない。|人が多かったからな。=It was probably traveling entertainers. Could be a theater company. There were quite a few people.
-確かに幕やら張りぼてのようなもの|やらがあった。|運ぶのも一苦労なんじゃろうな。=Indeed, they did have a curtain and something papier mache like objects with them. Transporting that seems difficult.
+確かに幕やら張りぼてのようなもの|やらがあった。|運ぶのも一苦労なんじゃろうな。=Indeed, they did have a curtain and some papier mache like objects with them. Transporting that seems difficult.
 商売道具だから仕方ないさ。|それに、本当に大変なのは荷物の大|きさじゃないだろうし。=It's their tools of the trade, so they have no choice. Besides, transporting large luggage is likely the least of their worries.
 どういうことじゃ？=What are you talking about?
 ああいう旅の一座は、教会に目を付|けられやすいんだ。=The Church quickly zeros in on traveling companies.
@@ -5874,7 +5874,7 @@ bg_t21_zahl=bg_yadoheya_small
 ……くふふ、すまぬ。|要らん心配をさせたの。|今のは忘れてくりゃれ。=Heh-heh, sorry.|I do not want to worry you needlessly. Please forget I said anything.
 ぬしの話でも、不死の秘薬を求めた|領主は笑い者にされたのであろう？|わっちもたわけの仲間入りじゃな。=The lord who wanted the potion in your story was laughed at, right?|I belong to that foolish group as well.
 ぬしと二人での旅。|わっちゃあ、それだけで十分に満ち|足りておるのじゃから……。=Our trip together.|I am perfectly content with just that...
-!FILE:event/ev_ren/rru_hor_c2b.wsb
+!FILE:event/ev_ren/rru_hor_c2b.wsb#proofread shnurks
 なんだか町がざわついてるな。|みんな、華やかな格好をして歩いて|いる。=The town seems to be buzzing. Everyone is walking around in bright outfits.
 向こうからは何やらうかれた音楽が|聞こえてくるの。|花売りも多いし、祭りではないかや。=I can hear some kind of festive music coming from over there. There are many flower vendors too, it must be a festival.
 そのようだな。|今日は特に予定もないし、ちょっと|行ってみないか？=Looks like it. We don't have any plans for today, so why don't go for a bit?
@@ -5911,7 +5911,7 @@ bg_t21_zahl=bg_yadoheya_small
 わっちのために、踊ってくりゃれ？=Will you not dance for me?
 それはいいが……ホロ、転ぶなよ？=Okay, but... Holo, don't trip over.
 わっちを誰じゃと思っておる。|ぬしこそ根を上げるでないぞ！=Who do you think I am? You're the one who should focus!
-!FILE:event/ev_ren/rru_hor_d2c.wsb
+!FILE:event/ev_ren/rru_hor_d2c.wsb#proofread shnurks
 ふんふーん……。=Hm, hm~
 ずいぶんとご機嫌だな。=You seem to be in a good mood.
 当然じゃ。|靴を修繕するだけで、これだけ快適|に歩けるようになるとはの。=Of course. I had no idea that just mending my shoes would make them this much more comfortable to walk in.
@@ -5943,7 +5943,7 @@ bg_t21_zahl=bg_yadoheya_small
 ん？|今、何て……？=Hm?|What did you say...?
 くふふ、何でもありんせん。|それよりぬしよ、せっかく靴を直し|たのじゃから、少し歩こう？=Heh-heh-heh, ’twas nothing. More to the point, now that my shoes have been nicely mended, what say we go for a little walk?
 そうだな、町の中央に小さな泉が|あった。|行ってみようか。=There’s a small spring in the middle of town. Why don’t we go there?
-うむ。|今日はすこし遠回りして戻りたい気|分じゃの……。=Mm! I feel like taking the long way round today.
+うむ。|今日はすこし遠回りして戻りたい気|分じゃの……。=Mhm! I feel like taking the long way round today.
 !FILE:event/ev_ren/rru_lka_b2a.wsb
 おやおや、お嬢ちゃん。|どうしたんだい？=Oh, young lady. What are you doing here?
 おにいちゃんを待ってるの。|ロレンスおにいちゃん。|ここにいるんでしょ？=I'm waiting for Mister Lawrence. He's here, right?
