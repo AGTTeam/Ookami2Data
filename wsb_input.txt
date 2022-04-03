@@ -2378,7 +2378,7 @@
 借金をすると、期限以内に|「利子」を含めた金額を、一括で|返済しなくてはいけません。=When you take out a loan, you must repay it in full, including any “interest”, within the contracted time limit.
 返済は、各地のどの商館でも|行えます。返済期限に注意して|行商の旅をおこないましょう。=Repayments can be made at any trading house. Keep an eye on the repayment deadline as you travel.
 !FILE:event/ev_ren/ren_eve_01_hosizorawo.wsb
-……ん？|どうしたんだ、こんな夜中に起き出|して。=...Hm? What are you doing up at this time of night?
+……ん？|どうしたんだ、こんな夜中に起き出|して。=...Hm? What are you doing at this time of night?
 いえ、ふと目が覚めてしまいまして|ね。|そしたら物音が聞こえたもので。=Ah, I just happened to wake up. But then I heard a noise...
 すまないな、起こしてしまったか。=Sorry, guess I must’ve woken you.
 ご安心を。|物音で起きたわけではありませんか|ら。=Don’t worry. It wasn’t the noise that woke me.
@@ -2401,7 +2401,7 @@
 だめだ、こういうことを言い始める|と気が緩むな。|少し、飲み過ぎたようだ。=Oops. Once I start like this, I always get carried away. I must have had a bit too much to drink.
 さて、これ以上酔ってしまう前に寝|るとするか。|今夜はいい夢を見られそうだ。=I’m going to bed before I get any more drunk. I think I’m going to have a good dream tonight.
 いや、もう見てるのかもしれないな|……。=No, maybe I already have...
-いや、明日に備えて眠ることにしま|よ。|町に着くまで、まだありますしね。=No, I need to sleep in preparation for tomorrow. There’s still a ways to go before we’ll get to town.
+いや、明日に備えて眠ることにしま|よ。|町に着くまで、まだありますしね。=No, I need to sleep in preparation for tomorrow. There’s still a long way to go before we’ll get to town.
 そうか、残念だ。|しかしあんたもつれないな。|こんな美人の誘いを断るなんて。=I see, that’s a shame. But, you are too curt. You would refuse a beautiful woman’s offer?
 魅力的なだけに、恐ろしいですよ。|気がついたら朝になっていそうです。=It’s because you’re so charming that I’m worried. Morning would come before I knew it.
 はは。|確かにそうならない保証はないな。=Ha-ha. I suppose there's no guarantee that wouldn’t happen.
@@ -2415,8 +2415,8 @@
 はは、それぐらい言えなきゃ商人と|しては使い物にならないさ。|それにしても、混んでるな……。=Ha-ha, any merchant who couldn’t admit that would be no use as one. Though, it is pretty crowded...
 ええ、ここの通りは特に混んでます|ね。|見失ってしまいそうです。=Yeah, the streets here are particularly bad. I’m afraid I might lose you.
 そうだな、気をつけてないと今にも|はぐれそうだ。=Right. We’ll end up being separated if we’re not careful.
-そっと手を繋ぐ=Gently hold her hand.
-人混みから抜ける=Escape the crowd.
+そっと手を繋ぐ=Gently hold her hand
+人混みから抜ける=Escape the crowd
 さあ、つかまって。=Come on, take my hand.
 ………………！=...!
 はぐれてはいけませんから。|こうしていれば、確実でしょう？=We don’t want to get separated. This is the best way, right?
@@ -2438,10 +2438,10 @@
 ………………。=......
 どうしたんです？|何か、考え事でも？=What’s the matter? Something on your mind?
 いや、あんたとこうして水を汲みに|行ったり夕飯の準備をしたりするの|もあと少しかな、と思ってな。=No, I was just wondering how much longer I’ll be here to fetch water and prepare supper with you.
-あんたがつまづいて桶をひっくり返|す姿も見られなくなるな。|はは、なんだか寂しいもんだな。=I won’t be able to watch you trip up and spill the bucket anymore. Ha-ha, it’s a bit sad.
+あんたがつまづいて桶をひっくり返|す姿も見られなくなるな。|はは、なんだか寂しいもんだな。=I won’t be able to watch you trip and spill the bucket anymore. Ha-ha, it’s a bit sad.
 すみません。|そのたびにいつも手伝ってもらって|ましたからね。=Sorry. It always ends with you helping me.
 ……おっとっと。=Whoops--!
-おいおい、言ってる端から蹴つまづ|くなよ。=Hey, don’t trip up just as we’re talking about falling!
+おいおい、言ってる端から蹴つまづ|くなよ。=Hey, don’t trip just as we’re talking about falling!
 仕方ないな。|オレが桶ひとつ持ってやるよ。=Alright. Guess I’ll help carry a bucket too.
 お願いします=Thank you.
 いや、大丈夫です=No, that’s okay.
@@ -2512,7 +2512,7 @@
 エーブに食べさせてもらう=Take Eve’s help
 # Common lines
 なんだ、食べさせて欲しいのか。|仕方ないな。|ちょっと待ってろ。=Oh, so you want me to feed you? Alright, give me a second.
-おっと、結構熱いな。|まだ、作りたてだからな。|少し冷ましたほうがいいだろう。=Whoops, it’s still pretty hot. It was only freshly made. I'd better let it cool down a bit first.
+おっと、結構熱いな。|まだ、作りたてだからな。|少し冷ましたほうがいいだろう。=Whoops, it’s still pretty hot. It was freshly made. I'd better let it cool down a bit first.
 ふー、ふー……。=*Blow...*
 ……何だ。|そんなにまじまじと見ないでくれ。|気恥ずかしくなるじゃないか。=What? ...Don’t stare so much. You’ll make me feel embarrassed.
 ほら、口を開けろ。=Here, open your mouth.
@@ -2698,7 +2698,7 @@
 全くだ。|世間を知らないのかもしれないが、|こちらには関係ない。=True. He may be naive, but that's nothing to do with us.
 いいものを安く仕入れて、必要とし|ているところに高く売る。|オレたちは、その手間賃をいただく。=Merchants buy good things cheaply and sell them high where they’re wanted. Then, we keep the labor fee.
 当然、その手間賃が多ければオレた|ちだってやる気が出る。|正しい商売のあり方だと思うぜ。=Of course, if the payoff is high, it’s even more motivating. That’s how I think business should be done.
-ただ、職人の今後が心配といえば心|配だが。=But, I am worried about the future of that craftsmen.
+ただ、職人の今後が心配といえば心|配だが。=But, I am worried about the future of that craftsman.
 何故です？|あなたがそんなことを言うなんて。=How come? It’s not like you to say such a thing.
 いいもので安いものは、目を付けら|れやすいからな。|食い物にされやすいんだ。=Quality items sold at low prices will always draw attention. It’s all too easy to be ripped off.
 次に商売に来たときも質のいいもの|を魅力的な値段で売っていてくれと|祈るしかない。=The next time we come to do business, we can only pray we will still be able to buy such fine goods at attractive prices.
@@ -6438,7 +6438,7 @@ bg_t21_zahl=bg_yadoheya_small
 !FILE:event/special/special_gameclear_luka.wsb
 あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
 ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
-だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=So I was really happy to go with you. Traveling so fun!
+だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=So I was really happy to go with you. Traveling is so fun!
 次は何か楽しい目的の旅がしたいな。|おにいちゃんも、そう思わない？=Next time, we should go on a trip somewhere just to have fun. Don't you agree, mister?
 釣りに行ったりして、お兄ちゃんと|二人でのんびりしたり、遊んだり。|えへへ、だめかな……？=We could go fishing, or just hang out together and have fun. Ehehe, is it too much...?
 ルカが大きくなったら、またどこか|に連れていってね！|じゃあ、またね！=When I grow up, please take me somewhere again! See you around!
@@ -6486,9 +6486,9 @@ bg_t21_zahl=bg_yadoheya_small
 # Common lines
 !FILE:event/special/special_luka_b_end.wsb#dupes
 俺は、この村で宿を始めた。=I opened an inn in the village.
-ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though few people rarely visited, more and more people began to come to buy goods important from across the sea.
+ほとんど訪れる者がなかった村も、|対岸の町から仕入れた品を目当てに|ぽつぽつと人が来るようになった。=Even though people rarely visited, more and more people began to come to buy goods important from across the sea.
 この宿を中心にして、町には少しず|つ活気が戻りつつある。|人々に笑顔が見え始めた。=With the inn at the forefront, the village is slowly returning to life. Smiles are beginning to appear on people's faces.
-ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out will small chores at the inn. She's the real star of the show, drawing customers in.
+ルカも、宿のこまごまとした仕事を|手伝ってくれている。|今では店の看板娘だ。=Luka helps me out with small chores at the inn. She's the real star of the show, drawing customers in.
 小さな幸せ。|そう呼ぶにふさわしい、慎ましやか|な生活がここにはある。=“A small slice of happiness.”|That fits my humble life here down to a T.
 いずれ俺はこの村に骨を埋めること|になるだろう。|俺も、村の皆もそれを望んでいる。=One day I will bury my bones in this village. That's the way both I, and the people of this village, want it to be.
 それまでずっと、この幸せが続きま|すように。|俺はそう、願っている――。=Until then, may this happiness continue on and on. That's my dream...
