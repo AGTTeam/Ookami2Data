@@ -658,7 +658,7 @@
 !FILE:event/ev_main/endless_sanbashi.wsb
 おお、いつぞやは世話になった。|お陰で今はすっかり元気だ。=Thanks for your help back then. Now I'm as fit as a fiddle!
 最近はときどきここに来て、村の|様子を見守っておるよ。=I come here once in a while to keep an eye on things in the village.
-ロルフの航海の安全は、わしが保証|しよう。|安心して、行商に精を出してくれ。=I will see that Rolf crosses the sea safety. Rest assured, and work hard at your trade.
+ロルフの航海の安全は、わしが保証|しよう。|安心して、行商に精を出してくれ。=I will see that Rolf crosses the sea safely. Rest assured, and work hard at your trade.
 おお、商人。|元気そうで何よりだ。=Oh, Merchant. It's good to see you well.
 灯台ができてから、村の皆の表情も|明るくなった。|喜ばしいことだ。=Since the lighthouse was built, the faces of everyone in the village have become bright. It’s a wonderful thing.
 おっと、火が燃えてるから明るい|訳じゃあないぞ。|はっはっは……。=Oh, I didn't mean because of the fire in the lighthouse. Wah-hah-hah...
@@ -4719,7 +4719,7 @@
 よし、今夜はあの店にしようか。|カキは栄養もあると聞くから、旅の|疲れにもきっといいだろう。=Alright, we'll go there tonight. I hear that oysters are nutritious, so I'm sure they'll be good to have after all this traveling.
 やった！|ありがとう、おにいちゃん！=Yay! Thank you, mister!
 しかし、おねだりとはどうしたんじ|ゃ？=But, what made you ask for those?
-ああいうくん製ね、村にもあったの。|どこの家でも作ってたんだ。|見たら、懐かしくなっちゃって……。=We used to eat smoked oysters in my village. Every house used to make them. So when I saw them, I got nostalgic.#?
+ああいうくん製ね、村にもあったの。|どこの家でも作ってたんだ。|見たら、懐かしくなっちゃって……。=We used to eat smoked oysters in my village. Every house used to make them. So when I saw them, I just craved some.
 お母さん、よく海草や野菜と一緒に|煮て、スープにしてたんだ。|おいしかったな……。=My mum used to boil it with seaweed and vegetables and make it into soup. It was|so good...
 くふ、故郷の味は忘れがたいものと|言うからの。|無理からぬことじゃ。=Heh, they say the flavors of your hometown are unforgettable.|'Tis understandable.
 ルカのおすすめなら、きっと美味し|いんだろう。|宿に荷物を置いたら、食べに来よう。=If you recommend it, they must be good. Let's settle our belongings in the inn and then come back for food.
@@ -6017,12 +6017,12 @@ bg_t21_zahl=bg_yadoheya_small
 何を言ってるんだ。|商売も大事だが、ルカのことも同じ|くらい大事さ。=What are you talking about? Business is important, but you're just as important.
 そうだ、何か食べたいものはあるか？=I know, is there anything you want to eat?
 ううん、いらない……。=No, I'm not hungry...
-変な遠慮なんてしなくていいんだぞ。|旅をしている間は、みんな家族みた|いなものだからな。=You don't have to hold back like that. Traveling like this, we're as good as family.#変な遠慮?
+変な遠慮なんてしなくていいんだぞ。|旅をしている間は、みんな家族みた|いなものだからな。=You don't have to hold back. Traveling like this, we're as good as family.#変な遠慮 – being weirdly/inappropriately hesitant, even though it’d be perfectly normal for Luka to ask for help as a sick child.
 家族……？=Family...?
 ああ、家族も同然だ。|みんなで助け合って暮らしているん|だからな。=Yes, just like a family. We all look out for each other.
 それとも、ルカはそう思えないか？=Or do you not agree, Luka?
 ううん……。|ちがうの、嬉しいの……。=No... I'm happy...
-ルカのところ、お母さん小さい頃に|いなくなっちゃって、お父さんしか|いなかったから。=My mum left when I was very young, so I only had my dad.#passed away?
+ルカのところ、お母さん小さい頃に|いなくなっちゃって、お父さんしか|いなかったから。=My mum passed away when I was very young, so I only had my dad.
 家族って言われると、なんだか嬉し|くて……。|えへへ……。=Being called a family makes me kinda happy... Ehehe...
 そうか。|それなら、なおのこと遠慮なんて|してちゃだめだぞ。=I see. Then, all the more reason not to hold back.
 初めての旅で、ちょっと頑張りすぎ|たんだな。|今日はゆっくりするといいさ。=It's your first time traveling and you've pushed your body a bit too hard. You should take it easy today.
