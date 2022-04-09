@@ -6,11 +6,11 @@
 売却中=SELL #keep space
 資金=Money
 仕入品の総額=Total Spent
-仕入 －=Buying -
-売却 ＋=Selling +
+仕入 －=Buying －
+売却 ＋=Selling ＋
 %d日=_ %d Days
 残り日数=Time Left
-－%d枚=- %d SLV
+－%d枚=－%d
 決済後=End Total
 報酬 ＋=Reward
 商品の移動:商品をスライド　　 取引の確定:[決済]をタッチ=Move Goods: Slide the icons   Finish transaction: Touch 'Finish'
