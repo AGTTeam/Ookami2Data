@@ -188,7 +188,7 @@
 聞かない地名ですね。|となると、海を渡って向こう岸まで、|ということになりますかな。=I've never heard of it. Does that mean you will be crossing the sea?
 海？=The sea?
 ええ、もうしばらく北へと進むと、|海にぶつかります。=Yes, if you continue up north, you’ll soon hit the sea.
-海と言っても内海ですから、ぐるっ|と海岸沿いに陸路を進むことも不可|能ではありません。=Well, I say sea, but it is in fact landlocked, so it's not impossible to go overland by following the coast.
+海と言っても内海ですから、ぐるっ|と海岸沿いに陸路を進むことも不可|能ではありません。=Well, I say sea, but it is in fact landlocked, so it's not impossible to go over land by following the coast.
 ただ、陸路はおすすめしませんよ。|船に乗るのがよろしいでしょう。=However, I daren’t say I recommend it. Going by boat is far better.
 やはり、時間がかかるからですか？=Is it such a lengthy journey?
 それもありますし、異なる文化圏の|国を通ることにもなりますからね。|戦争の噂も聞こえてきますし。=That it is, but also because it means going through other countries with unusual customs. I’ve even heard talk of war.
@@ -725,10 +725,10 @@
 生憎わっちは人ではないからの。|残念でならぬが、その役目はぬしに|譲るとしよう。=Woefully I am no coachman, and so I'll leave that job to you.
 で、自分は結局毛づくろいという|わけか？=So you're just going to groom yourself?
 なんじゃ。|今日はぬし、やけにかみつくの。=You're being awfully snappy today.
-ほほう、さてはわっちが荷台にばか|りおるので、寂しくなったのじゃな？|いつまでも甘えん坊じゃのう。=Ho-ho, are you feeling lonely because I always sit in the back? You are a spoiled child.
+ほほう、さてはわっちが荷台にばか|りおるので、寂しくなったのじゃな？|いつまでも甘えん坊じゃのう。=Ho-ho, are you feeling lonely because I always sit in the back? What a spoiled child.
 つまりぬしはこう言いたいのじゃな。|俺はお前のぬくもりが恋しい、片時|も離れずいつも隣にいろ、と……。=What you're actually trying to say is,|“I miss your warmth, and I want you to be next to me every minute of every day", no?
 ……………。=...
-くふふふふ、今度はだんまりかや？|まあそう怒るでない。|つれない雄じゃ。=Heh-heh-heh, and now it's the silent treatment? Don't be so angry. You are|a cold male.
+くふふふふ、今度はだんまりかや？|まあそう怒るでない。|つれない雄じゃ。=Heh-heh-heh, and now it's the silent treatment? Don't be so angry. You are|quite the cold male.
 それにしても、思いの外かかるの。|もうすぐ町に着く頃だと思っておっ|たんじゃが。=Still, this is taking longer than I thought.|I figured we'd be nearly there by now.
 ああ、そのはずだ。|大きな町だからな、そろそろ何かし|ら見えてきてもいいんだが。=Yeah, we should be. It's a big town so we should be able to see it on the horizon soon.
 次の町は、リュビンハイゲンといっ|たかの？=This next town is called Ruvinheigen, is it?
@@ -856,32 +856,32 @@
 !FILE:event/ev_main/main_110_tutorial_end.wsb
 ……ホロ？|どこだ？=...Holo? Where is she?
 おーい、ホロ？|仕事、終わったぞ！=Hey, Holo! I finished what I was doing!
-すまぬすまぬ。|そこの角で若い雄に声をかけられて|しまっての。=Apologies, I was approached that young male stood by corner.
+すまぬすまぬ。|そこの角で若い雄に声をかけられて|しまっての。=Apologies, I was approached by that young male stood by the corner.
 山ほどの甘い言葉をもらいんす。|この姿でおるのも、なかなか悪くな|いものじゃ。=He did flatter me so. Being in this form is not so bad at all.
 それよりぬしよ、嬉しそうじゃの。|商売が上手くいったんじゃな。=More importantly, you seem to be in high-spirits. Your deal went well, I take it?
 ん？|そんな風に見えるのか？=Hm? Is that how it looks?
 ふふ、隠さずともよい。|その顔では、聞かずとも自ずと知れ|るというものじゃ。=Heh-heh, you don't have to hide it. With that look on your face, I can tell without even asking.
 実際だいぶ懐が温かくなったからな。|顔もほころぶというものさ。=It’s actually my wallet which has become flush. I guess it must be affecting my face as well.
 路銀の足しにと思って、ヨイツへ向|かう途中の町に証書を届ける仕事も|ついでに引き受けてきた。=To add to our travel funds, I bought a deed to be delivered to a town on our way to Yoitsu.
-大丈夫……なのかや？|期限ややっかいな制約があったり|するのではないか？=Was that wise...? Is there no time limit or other annoying restriction?
+大丈夫……なのかや？|期限ややっかいな制約があったり|するのではないか？=Was that wise...? Is there no time limit or any other annoying restriction?
 一年以内に届けろとのことだったが、|どうせすぐ北に向かうんだ。|心配することは無いさ。=We do have to take it within the year, but we’re heading north soon anyway. There's nothing to worry about.
 それに、これで旅費のめどもついた。|このまま行商を続けてゆけば、北へ|向かっても困ることはないだろう。=Plus with this, we’re all set to leave. As long as this keeps up, we should have no problem when we reach the north.
 そう言ってくれるとわっちも嬉しい。|ぬしは、やはり優しい雄じゃな。=I am glad to hear you say so. You are a kind male.
 で、当面はどこに向かうつもりなの|かや、ぬしよ？=So, where do you intend to head first?
 ザーラントへ向かおうと思う。|その町に、聞き覚えはあるか？=I was thinking Saarland. Have you heard of it before?
 ……いや。|聞き覚えがないの。|ここから北にある町なのかや？=...No, it doesn't sound familiar. Is it a town north of here?
-うーん……。|北と言うより、対岸だな。=Well... More like north and then some. It’s on the other side of the shore.
+うーん……。|北と言うより、対岸だな。=Well... More like north and then some. It’s on the opposite shore.
 街道沿いに北上してしばらく行くと、|海が見えてくる。|ただ、海と言っても内海なんだ。=If we follow the path north, we’ll come upon the sea, but it's just an inland sea.
 そこの対岸にあるのが、ザーラント。|旅人達には、北への玄関口と言われ|ている。=On the other side of the sea is Saarland. It’s said to be the gateway to the north for travelers.
 ふむ。=Hm.
 なので、まずはザーラント行きの船|に乗ろうと思っている。=So, I’m thinking first we’ll get a boat to Saarland.
 なんと、船かや！=What, a boat?!
 ああ、それが一番早くて楽だと思う。|陸路で行くとかなり大回りになって|しまうしな。=Yeah, no doubt it’s the quickest and easiest way. It's a long way to go by land.
-商館で聞いてみたところ、ディーモ|ルンの港から行くのがいいだろうと|の噂だった。=According to what I heard at the trading house, word is departing from the port at Diemoln is the way to go.
+商館で聞いてみたところ、ディーモ|ルンの港から行くのがいいだろうと|の噂だった。=According to what I heard at the trading house, departing from the port at Diemoln is the way to go.
 ディーモルンは湾岸沿いでは今最も|栄えていると言われている大きな町|らしい。=Diemoln is a big town, said to be the most prosperous on this coast.
 昔は小さな港町だったんだが、今や|立派な聖堂も擁する大都市なんだそ|うだ。=It used to be a small port town, but now it's a big city complete with a magnificent cathedral.
-なるほどの。|それだけ栄えておればいろいろと情|報を集めることもできそうじゃな。=I see. If it is as prosperous as the rumors say, it’ll be an easy thing to gather information.
-ああ、お前の故郷に関する話も聞け|るかもしれないな。|海を渡った記憶はあるのか？=Yeah, we might even hear something your homeland. Do you remember crossing the sea?
+なるほどの。|それだけ栄えておればいろいろと情|報を集めることもできそうじゃな。=I see. If it is as prosperous as the rumors say, it shall be an easy thing to gather information.
+ああ、お前の故郷に関する話も聞け|るかもしれないな。|海を渡った記憶はあるのか？=Yeah, we might even hear something about your homeland. Do you remember ever crossing the sea?
 あるような、ないような……。|何せ昔のことじゃからの。|よくは覚えておらぬ。=Perhaps... Perhaps not.|'Twas such a long time ago, I can hardly remember.
 じゃがぬしよ、舌や鼻は覚えておる|やもしれぬ。=But my nose and tongue do not forget.
 とびきりの海の幸でも食べれば、思|い出せるかもしれぬぞ。|どうじゃ、ぬしよ？=If I sample some of the best seafood they have to offer, perhaps I might remember something. What say you?
@@ -905,13 +905,13 @@
 はい。|私、羊飼いのノーラと……あっと、|もう羊飼いじゃないんでした。=Yes, I’m Norah, a shepherdess. Ah... I’m no longer a shepherdess, actually.
 はは、羊飼いだったんですか。|道理で頼もしい連れがいらっしゃる|わけですね。=Ha-ha, a shepherdess, is it? No wonder you have such a faithful companion.
 ワォンワォン！=Woof!
-ええ、この子と一緒に旅をしてます。|エネクって言うんです。|いろいろと、私を助けてくれてます。=Yes, his name is Enek. We’re traveling together. He’s always helping me out.
+ええ、この子と一緒に旅をしてます。|エネクって言うんです。|いろいろと、私を助けてくれてます。=Yes, his name is Enek. He’s always helping me out during our travels.
 ノーラさんはどちらまで？=Where are you heading, Norah?
 リュビンハイゲンに戻るところです。|私、服の仕立て職人になろうと思っ|ていたんです。=I’m on my way back to Ruvinheigen. I have always wanted to become a dressmaker...
 それで、服飾で有名なザーラントへ|行きたくて……。=So I was hoping to go to Saarland, which is famous for its clothes.
-ザーラント産の毛織物は質が良いと|評判の高級品ですからね。|商人の間でも、人気の品ですよ。=Saarland’s woolens have a reputation of being fine quality. They’re popular with merchants, too.
-ええ、私もあこがれてるんです。|それで、船で渡って、どこかに弟子|入りできたらいいなって思って。=Yes, I aspire to them too. I had dreamed of taking a boat across and undertaking an apprenticeship there.
-でも、ディーモルンで船に乗れない|ことが判って……。|仕方なく戻ってきたところなんです。=But, when I arrived in Diemoln, I learnt that I couldn’t take the boat... With nothing else to do, I just came back.
+ザーラント産の毛織物は質が良いと|評判の高級品ですからね。|商人の間でも、人気の品ですよ。=Saarland’s woolens have a reputation of being fine quality. They’re popular with merchants too.
+ええ、私もあこがれてるんです。|それで、船で渡って、どこかに弟子|入りできたらいいなって思って。=Yes, I aspire to them as well. I had dreamed of taking a boat across and undertaking an apprenticeship there.
+でも、ディーモルンで船に乗れない|ことが判って……。|仕方なく戻ってきたところなんです。=But, when I arrived in Diemoln, I learnt that I couldn’t take the boat... With nothing else to do, I just went back.
 何故じゃ？|船が、出ておらんのか？=Why’s that? Are there no boats?
 えっと、違います。|船自体は出ているみたいなんです。=Aah, it’s not that. It looked as if there were boats leaving the port.
 でも、今はディーモルンの港は渡航|制限がかかってるんです。|私、乗せてもらえなくて……。=But there's a travel restriction at Diemoln at the moment, so I wasn’t allowed on...
@@ -942,7 +942,7 @@
 じゃが、区画によって古い町並みと|新しい建物との差が激しいの。|道を曲がれば別の町のようじゃ。=But there is a big difference between the old and the new buildings around. Take one turn, and it's as if you’re in another city.
 仕方ないさ。|ここは最近になって急に大きくなっ|た町だそうだからな。=That’s how it goes. This is a town that has grown rapidly in recent years.
 まあ、新しい建物があるってことは、|それだけの活気があるってことさ。|悪いことじゃない。=The new buildings show just how much activity there’s been. It’s not a bad thing.
-しかしぬしよ、わっちは道中で出会|ったあの小娘が言っておったことが|気に掛かっておるのじゃが……。=Still, there is something bothering me about what that maid we met on the road said.#replace maid with girl?
+しかしぬしよ、わっちは道中で出会|ったあの小娘が言っておったことが|気に掛かっておるのじゃが……。=Still, there is something bothering me about what that girl we met on the road said.#replace maid with girl?
 羊飼いのノーラと言っていたな。|船に乗れなかった、というあの話か。=Norah the shepherdess? You mean about not being able to get on a boat?
 そうじゃ。|ぬしは相当でれでれしとったから、|覚えておらんかと思ったがな。=Aye. I thought you wouldn't remember it, seeing as you were so lovestruck.
 そうだったかな=Is that true?
@@ -1024,7 +1024,7 @@
 そうかな。|儲け話ってのは案外こういう状況の|中に潜んでいるものかもしれないぜ？=Isn’t it precisely at times like this where you can find unexpectedly profitable schemes?
 オレはしばらくここにいる。|まあ、興味があったらいつでも声を|かけてくれ。=I’m going to stick around here for a while, anyway. If you fancy it, call me anytime.
 !FILE:event/ev_main/main_165_diemorn_yado.wsb
-……どうする、ぬしよ。|あちこちで話を聞いてみたが、どう|も状況は芳しくなさそうじゃな。=...What now? We’ve asked around, but the situation doesn’t look good.
+……どうする、ぬしよ。|あちこちで話を聞いてみたが、どう|も状況は芳しくなさそうじゃな。=...What now? We’ve asked around, but the situation doesn’t look any better.
 そうみたいだな。|簡単に船に乗れるような雰囲気では|なさそうだ。=Right. It doesn't look like it's going to be easy to get on a boat.
 この町に来れば、すぐにザーラント|に渡れるものだとばかり思っていた|んだが……現実は厳しいようだ。=I thought that if we came here, we’d be able to cross over to Saarland right away... Reality is harsh.
 この町の船は教会に独占されている。|俺たちのような一般の人間には航路|が閉ざされているも同然だ。=The Church has monopoly over the boats of this town. It’s the same as saying the path is closed to normal folks like us.
@@ -1034,10 +1034,10 @@
 じゃが……。|わっちは、いくら金を積もうと船に|乗ることは叶わぬ。=But... No matter how much money I had,|I couldn’t take the boat.
 船に乗ったら、このかぶりものを取|らねばならぬ。=If I did, I’d have to remove my hood.
 自慢のこの耳も尻尾も、こういうと|きには邪魔になりんす。|皮肉なものじゃの。=My ears and tail are my pride, and yet, they get in the way at times like this. Ironic, isn’t it?
-……そうだ。|俺が一番恐れているのはお前のこと|だ。=...Right. My number one fear is you.
+……そうだ。|俺が一番恐れているのはお前のこと|だ。=...Right. My number one concern is you.
 どうやらこの町の司教は教会の上の|地位を狙っている野心家のようだ。|異端の者には容赦をしないだろう。=It seems the bishop is ambitious and wants to hold a higher position in the Church.|I doubt he’d show any mercy to pagans.
 こんなところでお前の正体を知られ|たら……。|そう考えると、危ない橋は渡れない。=If your true identify were to become known... When I think about that, I don’t want to take any risks.
-ぬしよ。|わっちは思うのだが、いざとなれば|ぬしだけでも……。=If all else were to fail, if at least you could...
+ぬしよ。|わっちは思うのだが、いざとなれば|ぬしだけでも……。=If all else were to fail, at least you could...
 いや、それには及ばない。|まだ希望はあると思ってる。=It won’t come to that. There’s still hope.
 俺は、規制が厳しいのはおそらくこ|の港だけじゃないかと思うんだ。|だから、他のところを探そう。=I can’t help but think this port is probably the only one with such strict regulations. We should look elsewhere.
 昔はこのあたりの他の村からも渡し|船が出ていたらしいしな。|そんな噂もあっただろ？=It sounded like there used to be ferry boats from other the villages around here. Didn’t we hear something like that?
@@ -1102,7 +1102,7 @@
 「海の悪魔」？|海賊の名前か何かかや？=A “Sea Demon”? Is that the name of a pirate or something thereof?
 いえ、教会が言うには海神様の正体|なんだそうで……。|なんでも、大ガラスの化け物だとか。=No, according to the Church, it’s the true identity of the Sea God... It's a large raven-like monster, so they say.
 組合長の船が襲われてるところを、|司教様の乗った船が偶然見つけたの|だと聞きました。=I heard that the bishop’s ship happened to find the head of the guild’s ship being attacked.
-その日は、大嵐の日でしてね。|戦いで傷ついた組合長とその船は|残念ながら救えなかったそうです。=It was the day of a great storm. Sadly, he had been wounded in the struggle, and neither he nor the ship could not be saved.
+その日は、大嵐の日でしてね。|戦いで傷ついた組合長とその船は|残念ながら救えなかったそうです。=It was the day of a great storm. Sadly, he had been wounded in the struggle, and neither he nor the ship could be saved.
 ただ死の間際、組合長は司教様のお|話に感激し、正教の教えを全面的に|受け入れたのだそうで。=However, on his deathbed, he was so moved by the bishop’s words that he converted to the Orthodox faith.
 司教様は組合長の告解を受け入れ、|正しき神の信徒と認めたのだそう|です。=The bishop accepted his confession and declared him to be a true believer.
 そして組合長はその証に自分の財産|と許可証を教会に寄進したのだと。|わしらは、そう聞いとります。=The head of the union donated his property and the permit to the Church as proof. That’s what we’ve heard.
@@ -1144,7 +1144,7 @@
 ぬしよ、じっとしておっても状況は|変わらぬ。|ならば、陸路で行かぬか？=Sitting around will not change the situation. What say we take the land path?
 この海は内海なのじゃろう？|とすると、向こう岸とは地続きなの|ではないのか？=The sea is landlocked, yes? That means there ought to be a road to the other side.
 それとも馬車の旅では何か不都合が|あるのかや？=Or do you have any objections to taking the cart?
-……そうだな、時間はかかるが素直|に陸路で行くとしようか。=...Yeah. It’ll take longer, but let’s go overland.
+……そうだな、時間はかかるが素直|に陸路で行くとしようか。=...Yeah. It’ll take longer, but let’s go over land.
 陸路だと東だな。|情報を集めて、東に向かおう。=The route starts east. Let’s gather more information and head that way.
 うむ。|それでこそぬしじゃ。=Mm. That’s more like it.
 !FILE:event/ev_main/main_200_beoreine_shuppatu.wsb
@@ -1355,7 +1355,7 @@
 何故じゃ？|賊も、島まで追ってくるのではない|か？=What makes you say that? Won’t the bandits follow him to the island?
 案ずるな。|賊は、あの島へは辿りつけぬ。|船が座礁するのがおちだ。=Don’t worry. They won’t reach the island. They’ll run their ship aground first.
 あの島周辺の海域は潮の流れが複雑|な上、暗礁が広がっている。|知っている者は、まず近づかん。=The waters around that island have complex tides and wide reefs. No one who knows about it would go anywhere near it.
-賊はおそらく、わしもロルフもあの|日に死んだと思っている筈だ。=The bandits probably think that me and Rolf died that day.
+賊はおそらく、わしもロルフもあの|日に死んだと思っている筈だ。=The bandits probably think that Rolf and I died that day.
 そこって、ひょっとして……。|海神のほこらのあるところ？=Do you mean... where the Sea God’s shrine is?
 そうだ。|あの村に住まうお前たちなら知って|いるはずだ。=That’s right. Of course the people who live in that village would know of it.
 ただ、肝心の船が壊れてしまって|いては、いくら腕の良い船乗りでも|あの島からは出られぬ……。=But, no matter how good of a sailor you are, if your boat is broken, there’s no way you can leave the island.
@@ -2285,7 +2285,7 @@
 捕まったのか、逃げ延びたのかまで|はわからないけど……。|残念な話よね。=I don't know if he was caught or if he managed to escape... It's a sad story.
 町の人=Resident
 !FILE:event/ev_main/t06_diem_main_140_uwasa_04.wsb
-北の対岸に行くには海路だけでなく、|陸路で行くことも可能だよ。=There is a way to cross the sea overland, rather than by boat.
+北の対岸に行くには海路だけでなく、|陸路で行くことも可能だよ。=There is a way to cross the sea over land, rather than by boat.
 ここからならまずは東。|そのあと海沿いに北へと向かえば|行けるはずだ。=First, you must go east. After that you can head north following the coast.
 ただ最近、東の地方でよその国と小|競り合いをしてるって噂も聞くな。=However, there have been rumors that relationships inside the east country have turned sour lately.
 もし戦争に発展したら、北への通行|を禁止されるかもしれないね。=If war breaks out, they might ban all travel north.
@@ -3409,7 +3409,7 @@
 ……ホロ、眠れないのか？=Holo, are you having trouble falling asleep?
 ぬしのほうこそ、どうしたんじゃ？|今までぐっすり眠っていたのに。|わっちが起こしてしまったかや？=I should ask you that. You've been sleeping so well. Did I wake you up?
 いや、たまたま目が覚めただけさ。=No, I just happened to wake up.
-……しまった。|一度ぐっすり眠ったせいか、かえっ|て目が冴えてきたようだ。=...Damn. Since I've already had a good sleep, now I feel wide awake.
+……しまった。|一度ぐっすり眠ったせいか、かえっ|て目が冴えてきたようだ。=...Damn. Since I've already had a good rest, now I feel wide awake.
 ならば、ぬしよ。|星でも見よう。|もっとわっちの傍に来てくりゃれ？=Well then... Let's look at the stars.|Will you come a little closer to me?
 ああ。|そうさせてもらおう。=Yes, I'll do that.
 ホロの正面に座る=Sit in front of Holo
@@ -3426,13 +3426,13 @@
 見えるか、ぬしよ。|満天の星々じゃ。|いまにも降ってきそうではないかや？=Do you see them? The stars of the sky.|They seem like they could fall down like raindrops at any moment.
 そうだな。|たまには、何も考えずに星を眺める|のも悪くない。=You're right. Sometimes just staring at the stars without thinking about anything is not so bad.
 それにしても、ホロ。|「降り注ぐような星空」なんて優雅|な言葉、どこで覚えたんだ？=Anyway Holo, where did you learn such an elegant expression as “stars raining from the sky”?
-ぬしのほうこそ、さしずめ星の光が|銀貨の輝きにしか見えぬような顔を|しておる。=You ask that while you make a face as if to say the sparkle of the stars is no more than the glitter of silver coins?
+ぬしのほうこそ、さしずめ星の光が|銀貨の輝きにしか見えぬような顔を|しておる。=You ask that while you make a face as if to say the sparkle of the stars is no more than the glitter of silver coins.
 ……痛いところを突かれたな。=You've hit me where it hurts...
 この輝く星が全部俺の銀貨だったら|どんなに素晴らしいか……！|心からそう思うよ。=How wonderful would it be if all of these sparkling stars were my silver coins...|My heart dreams it so.
 くふ。|たわけた夢じゃが、大きい夢を持つ|若い雄は悪くない。=Heh-heh.|’Tis a foolish fantasy but... a young male with a grand dream is not a bad thing.
-わっちのためにも、しっかり稼いで|くりゃれ？=Will you make a good amount for me?
+わっちのためにも、しっかり稼いで|くりゃれ？=Will you make a grand amount for me?
 ああ、そうするつもりだ。=Yeah, that's the plan.
-……優雅な星空の話が、いつの間に|か俗っぽい話になってしまったな。=And somehow all that graceful talk about starry skies turned into a mundane chat...
+……優雅な星空の話が、いつの間に|か俗っぽい話になってしまったな。=And somehow all that graceful talk about starry skies turned into mundane chat...
 良いのではないかや？|わっちは、ぬしの隣で同じ星を見る|時間が、とても楽しかった。=That's okay, is it not?|Spending time next to you looking at the same stars is very enjoyable.
 たとえそれが、銀貨の話でもの。=Even if it is about silver coins.
 ホロと同じ星、か……。=The same stars as you, huh...
@@ -3749,11 +3749,11 @@
 朝帰りのあげく、二日酔いで寝込む|とは自分勝手にも程がある。=And when you came home in the morning, you just fell asleep with a hangover. There's a limit to how selfish one can be.
 取引先に呼ばれて、仕方なく付き合|ったんだ。|遊びで飲んでいたわけじゃない。=I was invited by a business partner and had no choice but to accompany him. I wasn't drinking for fun.
 どっちでも同じじゃ。|今日は、わっちに付き合ってもらう|ぞ。=That is still the same thing, is it not?|Today I'll have you go out with me.
-まずは飯じゃ。|市場でたらふく食って、それから|──=First let's get food.|I will eat to my heart's content on the market. And then...
+まずは飯じゃ。|市場でたらふく食って、それから|──=First let's get food.|I will eat to my heart's content at the market. And then...
 うっぷ。|勘弁してくれ。|俺はしばらく動けそうにない。=Urgh... Have mercy on me.|I won't be able to move for a while.
 なんじゃと？|それは困りんす。=What? That's a problem...
 ──うむ。=Hm...
-ならば、心の広いわっちが|ぬしを看病するのはどうかや？|くふふふふ……。=Well, what if my gracious self was to care for you? Heh-heh-heh.
+ならば、心の広いわっちが|ぬしを看病するのはどうかや？|くふふふふ……。=Well, what if my gracious self were to care for you? Heh-heh-heh.
 なぜ、そこで含み笑いをする！=Why are you chuckling like that?
 くっ……。|看病すると言ってくれるのは、あり|がたいが……。=Hrgh...|I'm happy that you want to take care of me, but...
 おとなしく看病される=Endure her care quietly
