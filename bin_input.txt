@@ -94,7 +94,7 @@
 ルカの旅の思い出=Luka's Traveling Memories
 ホロの旅の思い出=Holo's Traveling Memories
 幸せはどんな味？=The Taste of Happiness
-あれが食べたい！=I Fancy That!
+あれが食べたい！=I Want That!
 花束の似合う女？=The Type Who Suits Flowers?
 こっそりてつなぎ=Stealthy Hand Holding
 傷ついたひな鳥を=Injured Chick
@@ -281,7 +281,7 @@ Lv.%2d=_%2d
 引き継ぎデータをセーブします。=Save the game clear data.
 セーブしますか？=Save game?
 「つづきから」で引き継ぎデータの|あるファイルを選ぶことで、|引き継ぎプレイが可能です。=By selecting a completed file|using “Continue” you can|start a New Game+.
-引き継ぎプレイでは|商品知識を引き継いだまま、|はじめからゲームをプレイ出来ます。=A New Game+ allows you to start|again from the beginning, while|retaining your Goods Knowledge.
+引き継ぎプレイでは|商品知識を引き継いだまま、|はじめからゲームをプレイ出来ます。=A New Game+ allows you to start|again from the beginning while|retaining your Goods Knowledge.
 旅好き=Avid Traveler
 成敗！=Judgement!
 男の夢=A Man's Dream

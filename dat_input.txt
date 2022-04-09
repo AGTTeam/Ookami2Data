@@ -338,7 +338,7 @@
 リボールカントの特産品の宝石細|工はいつ見てもほれぼれするよ。|腕の立つ職人達が作るものは本当|輝きが違うから一度見てみなよ。=Liberkant’s famous gemwork is always a sight to behold. The pieces made by masters of the craft have an incomparable brilliance. You must|see it for your own eyes!
 特産品　大理石像=Special: Marble Statue
 大理石像ならリボールカントの特|産品だと聞いたよ。|豪華な石像を買い付けに多くの商|人があの町を訪れるって噂だ。=I heard that marble statues are a specialty of Liberkant. Rumor has it many merchants visit the town just to buy them.
-特産品　山百合散=Special: Powdered Lily
+特産品　山百合散=Special: Powdered Lilies#for consistency
 山百合散ならロズサルトの市場で|取り扱っているという話です。|山百合散は貴重な商品らしいので、|大事に扱った方が良いですよ。=It is said that you can find powdered golden-rayed lilies on the market in Rossalt. It seems it's a valuable product, so you must handle with care.
 特産品　東洋芥子=Special: Opium#as reccomended on line 180
 東洋芥子はブルラッティアの市場|で取り引きをしています。|市場を覗いてみるといいでしょう。|東洋芥子の取り扱いには注意した|方が良いですよ。=Opium is traded on the market of Bourattia. I highly recommend going to take a look, just be careful when handling it.
