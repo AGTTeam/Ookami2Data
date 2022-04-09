@@ -4816,7 +4816,7 @@
 えへへ、びっくりした？|おにいちゃん達が来るかと思って|隠れてたんだ！=Ehehe, did I scare you? I knew you were coming so I hid!
 びっくりした！=You scared me!
 心配させるな！=Don't worry me like that!
-びっくりしたよ！|まったく、いたずら好きだな……。=... You sure did! Really now, you are cheeky.#oddly long pause at the start of the audio
+びっくりしたよ！|まったく、いたずら好きだな……。=...You sure did! Really now, you are cheeky.#oddly long pause at the start of the audio
 えへへっ。=Ehehe.
 ぬしは甘いの。=And you are soft.
 まあまあ、いいじゃないか。|子供のいたずらだ。=Well, she didn't do any harm. It's just a child's prank.
