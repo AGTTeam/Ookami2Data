@@ -819,7 +819,7 @@
 よかった、人違いじゃなくて！|私、商会で伝言の連絡役をしている|ソフィーと申します。=Oh phew, I was right! My name is Sophie, I'm a messenger for the trading company.
 お兄さん、確かうちの商会の方です|よね。|以前おみかけしたことがあります。=You are a member of our company, aren't you, sir? I'm sure I've seen you around before.
 実はですね、急な依頼が商会に舞い|込んできたらしくて、人を探してい|るところなんですよ。=To tell you the truth, we're currently looking for someone to fulfill an urgent request.
-隣町までの届け物の依頼なんですが、|今皆さん出払っていて、困ってしま|っているんです。=The request was for a delivery of goods to the next town, but all of our members are away right so we're in a pickle.
+隣町までの届け物の依頼なんですが、|今皆さん出払っていて、困ってしま|っているんです。=The request was for a delivery of goods to the next town, but all of our members are away right now so we're in a pickle.
 ロレンスさん、もしよろしければ商|館に来てみてください。|報酬も、出るらしいですよ！=Mr. Lawrence, if you're free, you should try going to the trading house. You'll be rewarded for it, of course!
 お使いソフィー= Errand-Girl Sophie
 !FILE:event/ev_main/main_040_tutorial_kumerusun.wsb
@@ -1036,7 +1036,7 @@
 自慢のこの耳も尻尾も、こういうと|きには邪魔になりんす。|皮肉なものじゃの。=My ears and tail are my pride, and yet, they get in the way at times like this. Ironic, isn’t it?
 ……そうだ。|俺が一番恐れているのはお前のこと|だ。=...Right. My number one concern is you.
 どうやらこの町の司教は教会の上の|地位を狙っている野心家のようだ。|異端の者には容赦をしないだろう。=It seems the bishop is ambitious and wants to hold a higher position in the Church.|I doubt he’d show any mercy to pagans.
-こんなところでお前の正体を知られ|たら……。|そう考えると、危ない橋は渡れない。=If your true identify were to become known... When I think about that, I don’t want to take any risks.
+こんなところでお前の正体を知られ|たら……。|そう考えると、危ない橋は渡れない。=If your true identity were to become known... When I think about that, I don’t want to take any risks.
 ぬしよ。|わっちは思うのだが、いざとなれば|ぬしだけでも……。=If all else were to fail, at least you could...
 いや、それには及ばない。|まだ希望はあると思ってる。=It won’t come to that. There’s still hope.
 俺は、規制が厳しいのはおそらくこ|の港だけじゃないかと思うんだ。|だから、他のところを探そう。=I can’t help but think this port is probably the only one with such strict regulations. We should look elsewhere.
@@ -1348,7 +1348,7 @@
 相当な距離を稼ぎ、そろそろあきら|めた頃かと思った矢先……急に、|激痛が走った。=I managed to put a large distance between us and started to think it was safe, when I suddenly felt a bolt of pain...
 いしゆみか何かだったのだろう。|わしは不意を突かれ、海に落ちた。|そこで意識を失い……。=It was probably a crossbow or the like. I was caught off guard, and fell into the sea where I lost consciousness...
 ヨハンさんに助けられた、という|わけですね。=And that’s when Johan found you.
-そうだ。|だが相当遠くまで流されたようでな。|どこにいるかも見当がつかなかった。=That’s right. But I had been swept out a long way out. I had no idea where I was.
+そうだ。|だが相当遠くまで流されたようでな。|どこにいるかも見当がつかなかった。=That’s right. But I had been swept out a long way out. I had no idea where I was.#remove/rephrase one "out"?
 はぐれる直前にロルフから聞いた|ルカという娘の名前と村の名だけが|頼りだったが……会えてよかった。=The only things I had to go on was the names of his village and his daughter that Rolf had told me... I'm glad I found you.
 お父さんは？|ねえ、お父さんはどうなったの？=And my dad? What happened to him!?
 無事だと思うが、保証はできん。|島へたどり着いていさえすれば、|おそらく安全なんだが……。=I think he’s safe, though I can’t say for sure. As long as he made it to the island, he should be okay...
@@ -1424,7 +1424,7 @@
 おや、こんにちは。|お久しぶりです。=Oh, hello. It’s been a long time!
 奇遇ですね、こんなところでお会い|するとは。|ご旅行を続けていらしたんですね。=What a coincidence, meeting you here. Did you decide to keep traveling?
 ええ、船が駄目なら歩いていこうか|と思いなおして……。=Yes, since I couldn’t take the boat, I decided to go there on foot...
-陸路では行けないと聞きました。|戦争になりそうで、北へと続く道は|封鎖されてしまっているようです。=We’ve heard that you can’t go by land. It seems a war may break out, so the road to the north has been blocked.
+陸路では行けないと聞きました。|戦争になりそうで、北へと続く道は|封鎖されてしまっているようです。=We’ve heard that you can’t go by land.|It seems a war may break out, so the road to the north has been blocked.
 えっ……。|そんな、どうしましょう……。=Huh...?|Oh no, what am I going to do...?
 オレもそう聞いてるぜ。|一儲けできそうな話じゃないか。=I heard the same. It sounds like a good way to make a buck.
 エーブさん！=Eve!
@@ -1452,7 +1452,7 @@
 幸いこの町には教会がありますので、|そこで今夜はご厄介になろうかと思|ってます。=Thankfully, this town has a church, so I was thinking of staying there tonight.
 もしよければロレンスさんの知って|いるお話を聞いてみたいのですけど、|でも、きっとお忙しいですよね……。=If you like, I’d love to hear more about what you were saying before, Mr. Lawrence, but I know you’re probably busy...
 では……。=Goodbye...
-驚いたの。|世界は広いというのに、こんな小さ|な町で一度に何人もに出くわすとは。=I’m surprised. The world's a big place, and yet we managed to run into so many people we knew in a little town like this.
+驚いたの。|世界は広いというのに、こんな小さ|な町で一度に何人もに出くわすとは。=I’m surprised. The world's a big place, and yet we managed to run into so many people we know in a little town like this.
 ところでぬしはどうするのじゃ？|あちこちの雌に粉をかけられておっ|たようじゃが。=And on that note, what is it you intend to do? It seems you have females making passes at you from every corner.
 皆それぞれ訳ありの様子ではあった|の。|そこが気に掛かるところじゃ。=They all seem to have their reasons. That’s what worries me.
 わっちはの、面倒に巻き込まれぬう|ちに町を出るのがよいと思いんす。|急ぐ旅でもあることだしの。=I think it would be best for us to leave before we get pulled into anything. There are times when one must rush their travels.

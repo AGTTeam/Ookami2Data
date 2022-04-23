@@ -219,7 +219,7 @@
 町情報　ディーモルン=Town Information: Diemoln
 海岸沿いにある大きな港町がディ|ーモルンだよ。|湾で採れる海産物を買い付けに多|くの商人が訪れているよ。|最近は教化が進んでいるようだね。=Diemoln is a big port town along the coast. A lot of merchants go there to buy seafood from the bay. It seems to be getting more and more cultured these days.
 町情報　ベオリーヌ=Town Information: Beorein
-ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's only a small so it might be hard to find. If you see a rundown village, that's it.
+ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's very small so it might be hard to find. If you see a rundown village, that's it.
 町情報　レヤージュ=Town Information: Leyage
 ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=There is a town called Leyage in the upper reaches of the River Roam. Trade there is thriving and merchants travel from all over to visit. The high-quality fabrics are particularly popular.
 町情報　ウルリヒ=Town Information: Ulrich
@@ -569,7 +569,7 @@
 買えない商品に関して=About Greyed-Out Goods
 市場に商品が並んでいても買えな|いのは、その商品の商品知識がま|だ足りていないからだね。|商品知識ランクを上げれば買い付|けることができるようになるよ。=If a product is on the market but you can't buy it, it's because you lack the right goods knowledge. To buy said item, you must increase your goods knowledge rank.
 他の町の情報を見るには？=Seeing Other Towns' Information?
-交易マップに表示されてる町アイ|コンを１回タッチするとその町の|特産品や人気の品を確認できるよ。|下画面下部の地図アイコンからで|も確認できるから便利だよ。=You can check the specialties and popular items of a town by touching its icon on the travel map once. You can also use the map from the menu the bottom of the screen to make it easier.
+交易マップに表示されてる町アイ|コンを１回タッチするとその町の|特産品や人気の品を確認できるよ。|下画面下部の地図アイコンからで|も確認できるから便利だよ。=You can check the specialties and popular items of a town by touching its icon on the travel map once. You can also use the map from the menu at the bottom of the screen to make it easier.
 商人のレベルを上げるには=Raising your Merchant Level
 商人として経験を得るには、何よ|りも商品の売り買いをすることだ|ね。|商人レベルが高くなれば、商品を|少しだけ高く売れるようになるよ。=The best way to gain experience as a merchant is to buy and sell goods. When your merchant level increases, you'll be able to sell your goods at a slightly higher price.
 商品知識を上げるには=Raising your Goods Knowledge
