@@ -162,7 +162,7 @@
 私にかなわないと知って、尻尾を|巻いて逃げたものだとばかり思って|おりましたよ。=I thought you knew that you were no match for me, and that you had turned tail and run.
 まあ、戻ってきたところで、残念な|がら勝負のゆくえが変わるわけでも|ないのですけどね。=Well, even if you come back, the outcome of this match is already set.
 では、ロレンスさん。|改めて勝負と参りましょう。=So, Mr. Lawrence, I'll challenge you again!
-先に依頼の品を揃え、契約を終わら|せた方が勝ち。|それで、よろしいですね？=The first one to obtain the requested items and fulfil the contract wins. A fair game, no?
+先に依頼の品を揃え、契約を終わら|せた方が勝ち。|それで、よろしいですね？=The first one to obtain the requested items and fulfill the contract wins. A fair game, no?
 ホロさん、待っていてくださいね。|どちらが商人として格上なのか……|すぐに示してご覧に入れますから。=Just you wait, Miss Holo. I will prove to you which of us is the better merchant.
 わが商館としては商品を先に届けて|いただいた方と契約を結ばせていた|だきます。=Our trading house will seal the contract with whoever can deliver the goods to us first.
 それでよろしいですかな。|では、契約の詳細をご説明致します。=Are we all clear?|Then, allow me to explain the terms of the contract.
@@ -818,7 +818,7 @@
 君は……？=You're...?
 よかった、人違いじゃなくて！|私、商会で伝言の連絡役をしている|ソフィーと申します。=Oh phew, I was right! My name is Sophie, I'm a messenger for the trading company.
 お兄さん、確かうちの商会の方です|よね。|以前おみかけしたことがあります。=You are a member of our company, aren't you, sir? I'm sure I've seen you around before.
-実はですね、急な依頼が商会に舞い|込んできたらしくて、人を探してい|るところなんですよ。=To tell you the truth, we're currently looking for someone to fulfil an urgent request.
+実はですね、急な依頼が商会に舞い|込んできたらしくて、人を探してい|るところなんですよ。=To tell you the truth, we're currently looking for someone to fulfill an urgent request.
 隣町までの届け物の依頼なんですが、|今皆さん出払っていて、困ってしま|っているんです。=The request was for a delivery of goods to the next town, but all of our members are away right so we're in a pickle.
 ロレンスさん、もしよろしければ商|館に来てみてください。|報酬も、出るらしいですよ！=Mr. Lawrence, if you're free, you should try going to the trading house. You'll be rewarded for it, of course!
 お使いソフィー= Errand-Girl Sophie
@@ -1740,7 +1740,7 @@
 ロルフだ。|まだやはり……生きておる！=Rolf. He's still alive...!
 お父さん……！=Dad!
 誰だ！|桟橋にいるのは！=Who's that on the pier!?
-まずい！|見つかった！=Damn, they've found us! 
+まずい！|見つかった！=Damn, they've found us!
 皆、急げ。|すぐに発つぞ。=Everyone, hurry! Let's go.
 うむ！=Mhm!
 !FILE:event/ev_main/main_330_chisanasimahe_ship.wsb#proofread shnurks
@@ -2243,7 +2243,7 @@
 !FILE:event/ev_main/t05_reno_main_050_asidome.wsb#p1
 のう、ぬしよ。|商館へ行くのではなかったのかや？=Should we not head to the trading house?
 契約を受けていたと言っておった|ような気がするのじゃが。=I thought you had a contract with them.
-そうだな。|荷台のコイを届けて、「契約」を|完了させてしまおう。=You’re right. Let’s go deliver these carp and fulfil the contract.
+そうだな。|荷台のコイを届けて、「契約」を|完了させてしまおう。=You’re right. Let’s go deliver these carp and fulfill the contract.
 !FILE:event/ev_main/t06_diem_main_140_minato_nidome.wsb#dupes with main_140_diemorn_minato
 申し訳ありませんが、現在信用でき|る第三者のご紹介のない方のご乗船|はお断りさせていただいております。=I’m sorry, but at the moment we can’t allow anyone who hasn’t been introduced by a reputable source to board.
 今、海には「海の悪魔」と呼ばれる|大ガラスの怪物がいるようでしてね。|何人も犠牲になっているのです。=It seems the waters are being stalked by a large monster known as a “Sea Demon”. Many have already lost their lives to it.
@@ -5398,7 +5398,7 @@ bg_t12_lune=bg_yadoheya_small
 bg_t13_deri=bg_yadoheya_small
 bg_t14_rebo=bg_yadoheya_small
 bg_t15_luci=bg_yadoheya_small
-bg_t16_gano=bg_yadoheya_small 
+bg_t16_gano=bg_yadoheya_small
 bg_t17_arma=bg_yadoheya_small
 bg_t18_bulr=bg_yadoheya_small
 bg_t19_rose=bg_yadoheya_small
