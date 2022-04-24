@@ -178,7 +178,7 @@
 でもご安心ください。|アマーティがこうして参りました|からには、もう心配ご無用です。=But now you can rest assured. Now that the great Amati is here, there is nothing left to fear.
 商品の届け先はここ、ラムトラの商|館になります。=The goods are to be delivered to our trading house here in Lamtra.
 商品の届け先はここ、レヤージュの|この商館になります。=The goods are to be delivered to our trading house here in Leyage.
-商品の届け先は、この町から北西に|あるリューンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house in Lune, north-west  of here. Please check the terms carefully.
+商品の届け先は、この町から北西に|あるリューンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house in Lune, north-west of here. Please check the terms carefully.
 商品の届け先は、この町から北西に|あるディーモルンの商館になります。|お間違いないようご確認を。=The delivery destination is the trading house in Diemoln, north-west of here. Please check the terms carefully.
 商品の届け先はここ、ブルラッティ|アにあるこの商館になります。=The goods are to be delivered to our trading house here in Bourattia.
 商品の届け先はここ、デリンツコル|ツのこの商館になります。=The goods are to be delivered to our trading house here in Delintskolz.
