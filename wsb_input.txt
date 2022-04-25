@@ -1841,7 +1841,7 @@
 では、ロルフさん。|村に戻ったら、今から言うとおりに|演じてください……。=Okay, Rolf. When we get back to the village, do exactly what I'm about to tell you...
 !FILE:event/ev_main/main_350_hamabenite.wsb#proofread shnurks
 だ……、誰だ、お前たちは！=W-Who are you people!?
-そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners would take to the sea without a permit!#rephrase this?
+そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners who would take to the sea without a permit!#or 'I see now! You must be sinners who'd cross the sea even without a permit!' 
 これはこれは司教様。|遠いところをようこそ。|お待ちしておりました。=My my, Lord Bishop. Welcome to this far off land. We have been expecting you.
 誰だ、お前は。|罪人である自覚はあるのか？|ふてぶてしいにも程があるぞ！=Who are you? Have you no awareness of your own sins? You've got no right to be so arrogant!
 私は行商人のロレンスと申します。|怪しいものではございません。=I am but a humble merchant. Lawrence, at your service. You needn't be wary of me.
@@ -1918,7 +1918,7 @@
 感謝の言葉はもちろん、俺が司教に|語った台詞も幾度となく繰り返され、|いささか辟易したほどだった。=As well as thanks, people kept repeating the lines I'd said to the bishop so much that it made me wince.
 一方ホロはというと、うまく村人を|あしらいながらここぞとばかりに飲|み食いしていた。=Holo, on the other hand, was eating and drinking her fill while entertaining the villagers.
 ホロにとっては祭りの主役になるな|んて慣れっこなのだろう。|貫禄を見せつけられた気がした。=She's used to being the star of a festival, and knows how to put on a show.
-酒宴は夜遅くまで続いた。|騒ぎ疲れ、笑い疲れた者から一人、|二人と、宴の場から抜けていった。=The drunken celebrations went on deep into the night. One or two people, tired of the noise and laughter, snuck out early.
+酒宴は夜遅くまで続いた。|騒ぎ疲れ、笑い疲れた者から一人、|二人と、宴の場から抜けていった。=The celebrations went on deep into the night. One by one, those who grew tired of the noise and laughter made their exits.
 宴は、いつのまにか終わった……。=The party ended before I knew it...
 いい月夜だ。|きっと、明日は晴れるだろう。|航海にはもってこいだ。=It's a nice moonlit night. It seems it'll be a clear day tomorrow, perfect for sailing.#dupe
 船乗りロルフは朝一番で渡し船を出|してくれると言った。|ありがたい話だ。=Rolf has offered to ferry us out first thing in the morning. It really is a blessing.#dupe
@@ -1929,14 +1929,14 @@
 どんなにぎやかな宴でも、私たち行|商人は、常に去る側。|残る人間ではありませんから。=No matter how lively the party, we peddlers are always the ones leaving. We're never the ones who stay.
 ……そうだな。|だが、あんたはこれで目的を達せる|んだろう？=...You're right. But now you can achieve your goal, can't you?
 ええ、そうです。|債権を持っていましてね。|ザーラントで資金を回収しないと。=Yeah. I have a bond to fulfil. I need to collect money in Saarland.
-なんだ、まとまった金が入るのか。|話すのをためらっていたんだが、そ|れはかえって好都合だな。=What, you're coming into some money? I wasn't sure whether to say this, but it might actually be good timing.
+なんだ、まとまった金が入るのか。|話すのをためらっていたんだが、そ|れはかえって好都合だな。=What, you're coming into some money?|I wasn't sure whether to say this, but it might actually be good timing.
 ……と言いますと？=...To say what?
 率直に言う。|あんた、俺と組まないか。=I'll be frank. Why don't you join me?
 それは……商売の話ですか？=You mean... in business?
 ……そうだ、と言っておこうか。|今のところはな。=...Yeah, you could say it like that. For now.
 本題に入ろう。|あんたはこの村の渡航権を取り戻し|た。=Let me get straight to the point. You've restored this village's right to travel.
 それは、取りも直さずこの村に新た|な通商航路を開いたってことに他な|らない。=In other words, you've opened a new trading route for the village.
-あんたは単に通り道が復活したぐら|いの気持ちでいるかもしれないが、|商売人にとっては一大事だ。=You may think it's just reviving a route that use to be, but it's a big deal for a merchant.
+あんたは単に通り道が復活したぐら|いの気持ちでいるかもしれないが、|商売人にとっては一大事だ。=You may think it's just reviving a route that used to be, but it's a big deal for a merchant.
 対岸の町との交易独占。|それは、あの組合と強欲司教が喉か|ら手が出るほど欲しがったものだ。=Trade monopoly with the town across the sea. That's what the union and the greedy bishop were desperately trying to obtain.
 ザーラント産の毛織物の質は折り紙|付きだ。|軽くさばいても一財産築けるだろう。=Saarland's wool is famous for being good quality. You could make a fortune even if you only sell a little.
 そこに一枚噛める利益は大きい。|しかも、今ならオレたちがそれを|牛耳ることも十分可能だ。=The benefits of just being involved are huge. And, with the two of us, we could even dominate the market.
@@ -2026,7 +2026,7 @@
 大きな取引が終わり、莫大な利益が|転がり込んだ日のことだった。|エーブは、忽然と姿を消した。=It happened after we'd secured a huge deal. The profits were rolling in, but Eve was nowhere to be seen.
 代わりに現れたのは、債権の取り立|て屋。=Instead, a debt collector came calling.
 差し出されたのは、とんでもない額|面が記された借用書。|しかも、俺の署名つき。=He presented me with a debt agreement for a ridiculous sum. And, it was my signature on the line.
-今回の取引の儲けで返すはずだった、|借金の証書だった。=It was a certificate for debt that should have been paid with the profits from our last deal.
+今回の取引の儲けで返すはずだった、|借金の証書だった。=It was the certificate for a debt that should have been paid with the profits from our last deal.
 俺は、エーブにだまされたのだ。=Eve had tricked me.
 俺は、世の中の厳しさというものを|骨の髄まで思い知らされた。=It was a reminder of the harsh reality of this world that hit me like a pile of bricks.
 今は全てを捨て、借金の取り立てか|ら逃げまどう毎日だ。=Abandoning everything I once had, I'm living each day on the run from debt collectors.
@@ -6402,7 +6402,7 @@ bg_t21_zahl=bg_yadoheya_small
 大きな取引が終わり、莫大な利益が|転がり込んだ日のことだった。|エーブは、忽然と姿を消した。=It happened after we'd secured a huge deal. The profits were rolling in, but Eve was nowhere to be seen.
 代わりに現れたのは、債権の取り立|て屋。=Instead, a debt collector came calling.
 差し出されたのは、とんでもない額|面が記された借用書。|しかも、俺の署名つき。=He presented me with a debt agreement for a ridiculous sum. And, it was my signature on the line.
-今回の取引の儲けで返すはずだった、|借金の証書だった。=It was a certificate for debt that should have been paid with the profits from our last deal.
+今回の取引の儲けで返すはずだった、|借金の証書だった。=It was the certificate for a debt that should have been paid with the profits from our last deal.
 俺は、エーブにだまされたのだ。=Eve had tricked me.
 俺は、世の中の厳しさというものを|骨の髄まで思い知らされた。=It was a reminder of the harsh reality of this world that hit me like a pile of bricks.
 今は全てを捨て、借金の取り立てか|ら逃げまどう毎日だ。=Abandoning everything I once had, I'm living each day on the run from debt collectors.
