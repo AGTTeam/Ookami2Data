@@ -1606,7 +1606,7 @@
 ではこれから、ヨハンさんの秘薬に|必要なものをお伝えします。|よろしいでしょうか？=Then, allow me to read what you’ll need for Johan’s prescription.
 山百合散、東洋芥子、没薬。|秘薬にはこの３つの材料が必要です。|全て、高価で稀少な品です。=Powdered Lilies, Opium and Myrrh. These are the three ingredients needed for the medicines. All are expensive and rare.
 しかし、この材料を揃える前に、秘|薬を作るための器具を揃えなければ|なりません。=But, before they can be assembled, one must make sure the necessary equipment is ready first.
-先にも申し上げましたが、この工房|はまだあまり大きくありません。|施設も不足しております。=As I said before, the workshop is only small. It won’t have the right facilities.
+先にも申し上げましたが、この工房|はまだあまり大きくありません。|施設も不足しております。=As I said before, the workshop is only small. It won’t have the right facilities.#only small -> very small?
 まずは製剤に必要な道具を買ってい|ただき、工房を拡張しなければなら|ないのです。=The first step will be to buy the necessary equipment and expand the workshop.
 ですので、薬の材料の前に、最初に|これらのもの……錬金工房の拡張用|素材を集めてきてください。=Might I ask you to please assemble these materials for the workshop, before buying the ingredients?
 材料が揃い次第、ここへお持ちくだ|さい。|お待ちしておりますね。=As soon as you have the materials, bring them here. I will be waiting for you.
@@ -1634,9 +1634,9 @@
 うん、わかった！=Yeah, you got it!
 おお……。|体が、体が軽くなったようだ……。=Oh, my body... My body feels lighter...
 はは、体の中をすっかりきれいに|させてもらいましたから。|そう感じるのかもしれませんね。=Ha-ha, your body has been cleansed from the inside. Maybe that's what you feel.
-膿も悪い血も取りましたし、熱も|引いています。|おそらく、大丈夫ですよ。=The pus and bad blood have been removed, and your fever has also gone down. I daresay you'll be fine.
+膿も悪い血も取りましたし、熱も|引いています。|おそらく、大丈夫ですよ。=The pus and bad blood have been removed, and your fever has also gone down.|I daresay you'll be fine.
 数日は傷が痛むかもしれませんが、|炎症を起こさなければあとは次第に|回復するはずです。=The wound may be sore for a few days, but as long as it does not become inflamed, it should gradually heal.
-たいしたものだ。|正直、わしは半ばあきらめておった。|もうずっとこのままかとな。=That's quite a feat. To be honest, I had half given up. I thought I'd bedbound till the end of my days.
+たいしたものだ。|正直、わしは半ばあきらめておった。|もうずっとこのままかとな。=That's quite a feat. To be honest, I had half given up. I thought I'd be bedbound till the end of my days.
 体に刃物を入れるなんて、わっちも|恐ろしかったが……。|この男の腕は確かだったの。=The idea of putting a blade into a body was terrifying to me as well. But this man knows what he is doing.
 そのようだ。|体に力が戻ってくるのを感じる。|技術というのは、進歩するものだな。=It seems so. I can feel the strength returning to my body. Technology really progresses, doesn't it?
 よかった……！|これで、お父さんのところに行ける|んだね！=I'm so happy! Now we can get to my dad!
@@ -1798,12 +1798,12 @@
 敵は少ない。|わっちが狼になって奴を引き倒す。|ぬしたちは、その間に逃げよ。=There are but a few enemies. I will become a wolf and bring them down. You escape in the meantime.
 そんな！|ホロはどうやって逃げるんだ！=I can't--! How are you going to get away!?
 迷っておる場合かや！|よいか、１０数えたら走れ。=Now is not the time to debate.|Run on the count of ten.
-待て、娘よ。|それには及ばん。=Wait, Lass. There's no need.
+待て、娘よ。|それには及ばん。=Wait, lass. There's no need.
 ………………。=......
 奴はわしの敵だ。|海神の名を汚す輩を、これ以上|ゆるすわけにはいかん。=He's my enemy. I'm not going to let him defile the name of the Sea God any longer.
 わしが……やらせてもらう。=Let me do it.
 オイゲンさん……。=Eugen...
-こそこそと話なんてしてても無駄|ですよ。|あきらめて書状を……。=Your whispers will lead you nowhere. Give up and hand me that docum--
+こそこそと話なんてしてても無駄|ですよ。|あきらめて書状を……。=Your whispers will lead you nowhere.|Give up and hand me that docum--
 うわあッ！|なっ、何を……！=Agh! W-What--!?
 行け！|早く！=Go! Quickly!
 すまぬ！=Thank you!
@@ -1841,16 +1841,16 @@
 では、ロルフさん。|村に戻ったら、今から言うとおりに|演じてください……。=Okay, Rolf. When we get back to the village, do exactly what I'm about to tell you...
 !FILE:event/ev_main/main_350_hamabenite.wsb#proofread shnurks
 だ……、誰だ、お前たちは！=W-Who are you people!?
-そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners would take to the sea without a permit!
+そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners would take to the sea without a permit!#rephrase this?
 これはこれは司教様。|遠いところをようこそ。|お待ちしておりました。=My my, Lord Bishop. Welcome to this far off land. We have been expecting you.
 誰だ、お前は。|罪人である自覚はあるのか？|ふてぶてしいにも程があるぞ！=Who are you? Have you no awareness of your own sins? You've got no right to be so arrogant!
-私は行商人のロレンスと申します。|怪しいものではございません。=I am but a humble merchant, Lawrence, at your service. You needn't be wary of me.
+私は行商人のロレンスと申します。|怪しいものではございません。=I am but a humble merchant. Lawrence, at your service. You needn't be wary of me.
 お前のことなど知らぬ。|衛兵よ、この者達を捕らえよ！|速やかに、連行するのだ！=I've never heard of you. Guards, seize them! Get them out of my sight, now!
 お待ちください、司教様。|失礼ながら何か勘違いをなさって|おられるのでは？=Please wait, Lord Bishop. Forgive me, but I think you are mistaken about something.
 そもそも、我らは許可をいただいて|海を渡ったのです。|やましいことは、しておりません。=We had permission to cross the sea. We have done nothing wrong.
 この期に及んで何を申すか！=What are you talking about now?
 この渡航許可証を見よ！|この通り、この村の渡航権は教会が|預かっておる。=Look at this travel permit! As you can see, the Church holds the right to travel in this village.
-出任せも大概にするがいい。|そもそも誰だ、そんなことを申した|のは。=You should think before you try to lie. Who even told you about this?
+出任せも大概にするがいい。|そもそも誰だ、そんなことを申した|のは。=You should think before you try to lie.|Who even told you about this?
 アザース氏です。=Sir Aserth did.
 アザースだと？|そうだ、アザースはどうしたのだ！=Aserth you say?|Yes, what happened to him?
 アザース氏は、勇敢でした。|私たちの代わりに、「海の悪魔」と|戦ってくださったのです。=Sir Aserth was truly brave. He fought with the Sea Demon on our behalf.
@@ -1868,7 +1868,7 @@
 ……誰だ、お前は。=...Who are you?
 お忘れですか？|海の悪魔を退治したときに、司教様|が説法をした男ですよ。=Have you forgotten? This is the man you sermonized when you fought the Sea Demon.
 渡し守のロルフです。|先日は私に神の教えを説いていただ|き、ありがとうございました。=I am Rolf the Ferryman. Thank you for delivering the word of God unto me.
-な……っ！|なぜだ、なぜここにいる！|ロルフは、死んだと聞いたが……！=Wha--! Why are you here!? I heard that you died...!
+な……っ！|なぜだ、なぜここにいる！|ロルフは、死んだと聞いたが……！=Wha--! Why are you here!?|I heard that you died...!
 司教様には感謝しております。|幸いにも一命を取り留めました。|きっと、神のお慈悲でありましょう。=I am grateful to you, Bishop. Fortunately,|I survived. I'm sure it was God's mercy.
 よもやお忘れではありませんよね、|司教様？=You haven't forgotten, have you, Lord Bishop?
 あ、ああ、もちろんだ。|少し記憶違いをしただけだ。|よく覚えておるとも。=N-No of course not. My memories were just a bit hazy. I remember it well.
@@ -1896,7 +1896,7 @@
 私も、神の信徒です。|司教様の御威光をおとしめるような|事態を招きたくはないのです。=I, too, am a believer in God. I don't want to bring about a situation which would tarnish your reputation.
 しかし、司教様がお望みでという|のであれば致し方ありません……。=But if this is what your Excellency wants, then so be it.
 そういえばぬしよ。|証書偽造はどこでも決まって大罪と|聞いておるが……。=Come to think of it, I've heard that forgery of permits is a cardinal sin under any jurisdiction.
-ああ、大罪だ。|でも、そんなことが現実に起こる|わけがないだろう？=Yes, it is a great sin. But such a thing happen would never happen in reality, would it?
+ああ、大罪だ。|でも、そんなことが現実に起こる|わけがないだろう？=Yes, it is a great sin. But such a thing would never happen in reality, would it?
 ましてや、神の僕である我々が嘘偽|りを言うわけがない。|そうですよね、司教様？=Moreover, we, the servants of God, are sworn never to lie. Isn't that right, Lord Bishop?
 ここでその証書をお渡しいただけれ|ば、司教様の御威光をおとしめるよ|うな事態にはなり得ないかと……。=If you relinquish your permit now, we won't be in a situation which could sully your name.
 う、うう……！=R-Rrrgh...!
@@ -2160,7 +2160,7 @@
 おっと、申し遅れました。|私、クメルスンで魚の仲買人をして|いたアマーティと申します。=Oh, where are my manners? I am Amati, a fish dealer out of Kumersun.
 ホロさんは以前一人旅ではないとお|っしゃってましたが、もしやあなた|が……？=Miss Holo did mention before that she wasn’t traveling alone. Might you be...?
 私の名は、クラフト・ロレンス。|見ての通り、行商人です。|どうぞよろしく。=My name is Kraft Lawrence. As you can see, I'm a traveling merchant. It's nice to meet you.
-なるほど、ご同業ですか。|私も今は新たな商品を求めて、行商|の旅に来ているところなんです。=I see, we are in the same business. I'm currently on a journey in search of new goods.
+なるほど、ご同業ですか。|私も今は新たな商品を求めて、行商|の旅に来ているところなんです。=I see, we are in the same business.|I'm currently on a journey in search of new goods.
 実は恥ずかしながら、今日は魅力的|な商品に出会えなくて、少し気落ち|していたところなんです。=I'm embarrassed to say that I was feeling a bit down today as I didn't find any products that appealed to me.
 でも、こんな遠くの町でホロさんに|再会できる幸運に巡り会えるなんて。|旅も、捨てたものではないですね。=But I never thought I'd be so lucky as to see Miss Holo again. Traveling is not something to be abandoned, is it?
 私もがぜんやる気が出てきました。|旅を続けていれば、またどこかでお|会いできるかもしれませんね。=I've suddenly become motivated.|If I continue my journey, we may meet again somewhere.
@@ -2489,7 +2489,7 @@
 そうですか、残念です……。=Is that so? What a shame...
 フフ、どんな役回りだったんだろう|な……。=Heh-heh, I wonder what part they would have had me do...?
 !FILE:event/ev_ren/ren_eve_05_aan.wsb#dupes with other aan scenes
-ふう、ようやく町に着いたかや。|すっかり遅くなってしまった。|腹が減ったぞ。=Haa, seems we’ve finally made it to town. It has gotten rather late. I’m famished.
+ふう、ようやく町に着いたかや。|すっかり遅くなってしまった。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 そうだな。|早くしないと、食いっぱぐれそうだ。|店じまいしているところもあるな。=Right. If we don’t hurry, we’ll miss out. Some of the stores have already closed.
 それはいかん。|ぬしよ、早く寝泊まりする場所を決|めて、すぐにも出かけなければ……。=That will never do! We must decide on our lodgings quickly and head out.
 ………………。=......
@@ -3789,7 +3789,7 @@
 くっ……。=Ngh...
 わっちのことは、気にせずとも良い。|それより、今日こそは早く帰ってき|てくりゃれ……。=You do not have to worry about me. More importantly, come back early today...
 !FILE:event/ev_ren/ren_hor_22_aan.wsb#dupes with other aan scenes proofread shnurks
-ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town. It has gotten rather late. I’m famished.
+ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 せっかく町に着いたんじゃ。|やはりあたたかい料理とよい酒じゃ|な、ぬしよ？=We're finally in a town. I think some warm food and good wine are in order, no?
 ………………。=......
 ぬし？|どうしたんじゃ？|そんなに汗をかいて。=What is it?|You’re sweating quite a lot.
@@ -4532,7 +4532,7 @@
 おーい。|早く、してくれ……！=Hey, could you please hurry it up...?
 あっ、ごめんなさいっ！|すぐ取るね！=Ah, I'm sorry! I'll pick some now!
 !FILE:event/ev_ren/ren_lka_10_aan.wsb#dupes with other aan scenes proofread shnurks
-ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town. It has gotten rather late. I’m famished.
+ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 そうだね、もう真っ暗だね。|泊まるところ、あるといいね……。=Yeah, it's already dark. I hope we can find somewhere to stay.
 寝泊まりするところぐらいなら、ど|うにかなるじゃろ。|問題は、飯のほうじゃ。=I'm sure that we can find an inn to stay at. The problem is food.
 せっかく町に着いたんじゃ。|やはりあたたかい料理とよい酒じゃ|な、ぬしよ？=We're finally in a town. I think some warm food and good wine are in order, no?
@@ -4934,7 +4934,7 @@
 ぬしよ、わっちのぶどう酒もおかわ|りじゃ！|もう人の目など気にしておられぬ！=I should like another serving of wine too.|I don’t care what people might think of us anymore!
 （間違った……か？）=(Did I say the wrong thing...?)
 !FILE:event/ev_ren/ren_nra_01_aan.wsb#dupes with other aan scenes
-ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town. It has gotten rather late. I’m famished.
+ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 もう外を歩いている人の姿もまばら|になってしまってますね……。=There's hardly anyone about now.
 いかんな。|ぬしよ、早く寝泊まりする場所を決|めて、すぐにも出かけなければ……。=That will never do. We must decide on our lodgings quickly and head out.
 ………………。=......

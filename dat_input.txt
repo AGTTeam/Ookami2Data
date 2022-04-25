@@ -293,7 +293,7 @@
 特産品　幻の小麦=Special: Phantom Wheat
 グラハでは５月頃になると幻の小|麦がひと月の間市場に並ぶよ。|収穫された麦の中でも特に良質な|麦を集めたものでね。|数も少なく価格も高いがね。=In Graha, in May, phantom wheat is on the market for about a month. This is the best of the best wheat the harvest has to offer. There is only very little and it's expensive.
 特産品　紅茶=Special: Black Tea
-ブルラッティアの特産品といえば|紅茶だろう。|異国との交易で仕入れた茶葉はま|だこの辺では珍しいからね。|美味しい商品だと思うよ。=The specialty of Bourattia is tea.|Tea leaves still are quite rare around here, so they are brought in from foreign countries. I'm a big fan.
+ブルラッティアの特産品といえば|紅茶だろう。|異国との交易で仕入れた茶葉はま|だこの辺では珍しいからね。|美味しい商品だと思うよ。=The specialty of Bourattia is tea.|Tea leaves are still quite rare around here, so they are brought in from foreign countries. I'm a big fan.
 特産品　塩=Special: Salt
 ベオリーヌの数少ない特産品と言|えば塩だろうね。|塩は需要があるから安定した商品|になるだろうよ。=One of the few specialties of Beorein is salt. Salt is always called for, so it's a safe bet to buy some.
 特産品　蜂蜜酒=Special: Mead
