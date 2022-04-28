@@ -541,7 +541,7 @@
 依頼人ヨハン=Johan’s Request
 依頼人の名前はヨハン。|リューンという村にいるらしい。|リューンへ行けば詳しい話が聞け|るだろう。=The client is a man named Johan. He lives in a village called Lune. If you head there, you should be able to find out more.
 変わった依頼=Strange Request
-デリンツコルツの商館で変わった|依頼が舞い込んで困っているって|噂を聞いたよ。|もし興味があるなら商館を訪ねて|みるといい。=Rumor has it that the trading house at Diemoln is struggling with an unusual request. If you're interested, you should pay them a visit.
+デリンツコルツの商館で変わった|依頼が舞い込んで困っているって|噂を聞いたよ。|もし興味があるなら商館を訪ねて|みるといい。=Rumor has it that the trading house at Delintskolz is struggling with an unusual request. If you're interested, you should pay them a visit.
 ベオリーヌの情報料=Information on Beorein
 銀貨３０００枚用意しな。|そうしたらベオリーヌの情報を教|えてやろう。|確かな情報だから安心していいぜ。=Prepare 3,000 silver coins. When you’ve got ’em, I’ll tell you what I know about Beorein. You can be certain that it’s trustworthy info.
 渡し守のいる村=Ferryman’s Home
