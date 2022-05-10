@@ -1841,7 +1841,7 @@
 では、ロルフさん。|村に戻ったら、今から言うとおりに|演じてください……。=Okay, Rolf. When we get back to the village, do exactly what I'm about to tell you...
 !FILE:event/ev_main/main_350_hamabenite.wsb#proofread shnurks
 だ……、誰だ、お前たちは！=W-Who are you people!?
-そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners who would take to the sea without a permit!#or 'I see now! You must be sinners who'd cross the sea even without a permit!' 
+そうか、さてはお前たちだな！|渡航許可もなく、勝手に海を渡った|罪深い者達というのは！=I see, you're sinners who would take to the sea without a permit!#or 'I see now! You must be sinners who'd cross the sea even without a permit!'
 これはこれは司教様。|遠いところをようこそ。|お待ちしておりました。=My my, Lord Bishop. Welcome to this far off land. We have been expecting you.
 誰だ、お前は。|罪人である自覚はあるのか？|ふてぶてしいにも程があるぞ！=Who are you? Have you no awareness of your own sins? You've got no right to be so arrogant!
 私は行商人のロレンスと申します。|怪しいものではございません。=I am but a humble merchant. Lawrence, at your service. You needn't be wary of me.
@@ -2998,7 +2998,7 @@
 わっちら狼もな、美しいものは判り|んす。|皆でしげしげと見上げたものじゃ。=We wolves know how to judge beauty. We often gaze up at it.
 こうも見事だと、確かにじっと見つ|めていたくなるな。|ほめたたえるのもわかる気がする。=When it's this magnificent, it does hold your gaze.|I can understand why you would praise it.
 このへんではそうでもないが、人間|も月をたたえて酒を飲んだり食べ物|を捧げたりする地方があるそうだ。=I heard that people in other regions offer food and drink to the moon to honor it.
-素晴らしい習慣じゃの。|早速真似しようではないか。|わっちも酒が欲しい。='Tis a great custom. What say we copy them? I wouldn't mind a drink myself.
+素晴らしい習慣じゃの。|早速真似しようではないか。|わっちも酒が欲しい。='Tis a great custom.|What say we copy them? I wouldn't mind a drink myself.
 じゃあ、少しだけ=Okay, just a little bit.
 それはもったいない=That would be a waste.
 じゃあ、せっかくだから少しだけ。|そこのぶどう酒の袋を取ってくれ。=Well, since it's such a good opportunity, let's have some. Pass me that wineskin.
@@ -3151,19 +3151,19 @@
 それはわからない。|だが、よそ者の俺たちには面倒な話|になる公算が高い。=I don't know.|But the odds are that it means trouble for strangers like us.
 ひとまず宿に急ごう！=For now, you should hurry back to the inn.
 う、うむ……。=R-Right...
-はぁ……。|また、わっちだけ宿に置いてけぼり|かや。=*Sigh...*|I am to be left behind in the inn again?
+はぁ……。|また、わっちだけ宿に置いてけぼり|かや。=*Sigh...*|I am to be left behind at the inn again?
 用心のためとはいえ、つまらん。|あー、つまらん、|つまらん、つまらーん！！=That's boring, even if it's out of caution.|Ahh... boring, boring, booring, booooring!!
 はぁ、はぁ……。|今、帰って来たぞ、ホロ！|そっちは大丈夫だったか？=*Huff, huff...*|I'm back, Holo! Is everything okay here?
 ……この通り。|哀れな囚われの美しい姫は、いまだ|檻の中じゃ。=Indeed...|The beautiful princess still is in her pitiful cage.
 それは上々だ、我がお姫様。|町をうろつく教会の連中のほうは|心配なかったよ。=That is good news, my princess. It seems the crowd of churchmen roaming around was nothing to worry about.
-お布施集めに熱心な司祭様が、|村人の家を回っているだけだ。|商売熱心なことだよ。=It's just priests going around to the peoples' houses, eager to collect offerings. It’s all about money.
+お布施集めに熱心な司祭様が、|村人の家を回っているだけだ。|商売熱心なことだよ。=It's just priests going around to the people's houses, eager to collect offerings. It’s all about money.
 なんじゃ、その程度かや。|明日からは、ぬしと一緒に町を回る|としよう。=What, that's all?|Then from tomorrow, let's go around the town together.
 待て、ホロ。|それは危険すぎる。=Wait, Holo.|That's too dangerous.
 お布施にしか興味がなくとも、教会|の関係者があちこちいるのは間違い|ないんだ。=Even if they're only interested in the offerings, there are bound to be people from the Church all over the place.
-それがどうしたと言うんじゃ？|今までずっと、教会のある町でも|旅をしてきたではないか。=Why do you say that now? We have been to visit towns with churches all this time.
+それがどうしたと言うんじゃ？|今までずっと、教会のある町でも|旅をしてきたではないか。=Why do you say that now? We have been visiting towns with churches all this time.
 お前がへまをするとは思ってない。|だが、まだこの地方の教会にはわか|らないことが多過ぎる。=It's not that I think you'll make a mistake. But, there are too many things I don't know about the Church in this area yet.
 だから、無用な危険にさらしたくな|い。|用心に越したことはないんだ。=So, I don't want to put us in unnecessary danger. There's nothing wrong with being cautious.
-……つまり、今のわっちは足手まと|いということかや？=So...|I am a burden now?
+……つまり、今のわっちは足手まと|いということかや？=So...|Am I a burden now?
 ならば、内海の向こうへは、ぬし一|人で行ってもよいし、全部あきらめ|るのでも構わぬ。=Then, you can cross the sea by yourself.|I care not if you choose to abandon everything.
 ぬしにとって、この旅はいったい|何じゃ？=What does this trip even mean to you?
 ホロ……。=Holo...
