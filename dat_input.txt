@@ -8,7 +8,7 @@
 豚=Pig
 食肉用家畜の代表格。何でも食|べるため飼いやすく、肉も美味。=A symbol of the meat trade.|Easy to raise and delicious.
 羊=Sheep
-羊毛も肉も皮も乳も取れるため、|多く飼われている有用動物。=An useful animal, raised for its wool, meat and milk.
+羊毛も肉も皮も乳も取れるため、|多く飼われている有用動物。=A useful animal, raised for its wool, meat and milk.#Although U is a vowel, the pronunciation of useful begins with a Y sound (yoos-ful) which is a consonant sound.
 卵=Egg
 鳥の卵。生命に必要な栄養素を|全て含むと言われている食材。=A bird's egg. Said to contain many essential nutrients.
 牛乳=Milk
@@ -38,7 +38,7 @@
 カワカマス=Pike
 淡水に棲む魚。くさみのない白|身は食べやすく喜ばれる食材。=A freshwater fish. The white, mild meat is a joy to eat.
 コイ=Carp
-独特の風味を持つ川魚。強壮効|果のある食材として知られる。=A river fish with an unique taste. Said to be a superfood.
+独特の風味を持つ川魚。強壮効|果のある食材として知られる。=A river fish with a unique taste. Said to be a superfood.
 小象=Baby Elephant
 長い鼻と大きな耳が特徴。|主に観賞用に売買されている。=It has a characteristically long nose and big ears.
 マグロ=Tuna
@@ -168,7 +168,7 @@
 水晶=Crystal
 澄んだ透明なクリスタル。魂を|磨き、浄化する石と伝えられる。=A clear, transparent crystal.|Said to cleanse the soul.
 金細工=Goldwork
-精緻な細工が見事な金細工。黄|金ならではの高貴な輝きを放つ。=Delicately crafted work. Shines with an unique luster.
+精緻な細工が見事な金細工。黄|金ならではの高貴な輝きを放つ。=Delicately crafted work. Shines with a unique luster.
 宝石細工=Gemwork
 きらびやかな宝石を惜しげもな|くちりばめた、贅沢な宝飾品。=A luxurious piece of jewelry laden with glittering gems.
 石像=Statue
