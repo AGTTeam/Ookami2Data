@@ -4229,7 +4229,7 @@
 ほんと？=Really?
 本当さ。|なんといっても、ここには商売で築|いた人脈や信用があるからな。=Really. After all, I’ve got contacts and a reputation that I’ve built here.
 うん……。|そうだね。=Yeah... I get it.
-それに、ルカを置いてはいけない|からな。|一人で置いておいたら、心配だ。=Besides, I couldn’t just leave you. If we left you all alone, I’d be worried.
+それに、ルカを置いてはいけない|からな。|一人で置いておいたら、心配だ。=Besides, I couldn’t just leave you.|If we left you all alone, I’d be worried.
 もうっ！|ルカ、一人で大丈夫だよ！=Rah! I’d be fine all by myself!
 でも、おにいちゃんが戻ってきてく|れるなら、心強いな……。=But knowing that you’ll come back makes me feel better.
 ルカ、本当は離れたくないよ……。=I really don’t want to lose you...
@@ -4245,14 +4245,14 @@
 おお、これはまた美人のお客さん|だな！=Why, what a beautiful customer we have here!
 くふふ、口が上手いのう！=Heh-heh, and what a honeyed tongue on you.
 ………………。=......
-嬉しいから、おまけにパテもつけよ|うじゃないか。|しっかり食べていってくれ！=I’m honored. Let me give you an extra pate, on the house. Eat up, now!
+嬉しいから、おまけにパテもつけよ|うじゃないか。|しっかり食べていってくれ！=I’m honored. Let me give you an extra p[t], on the house. Eat up, now!#pâté
 おお、よい店じゃの！=Oh, ’tis a splendid eatery this!
 美味いのはやはり熱いうちだからな。|早速いただくとするか。=It's best when they're still warm. So, shall we dig in?
 賛成じゃ！|じゃあ、わっちはこの白い香草入り|のを……。=You’ll find no arguing here! I’ll have this white one with the herbs...
 あっ、ルカもそれっ！|それがいい！=Ah, that’s mine! That’s the one I wanted!
 なんと？|他にもたくさんあるではないか！=Huh? But there are plenty others, aren’t there?
 はは、まあ譲ってやってもいいじゃ|ないか。=Ha-ha, I think you might have to give in there.
-そうじゃな、じゃあ先にこっちのパ|テをもらってみるかの。|匂いからすると、これは肝じゃな。=Well then, I suppose I’ll try the pate first. From the smell, it must be liver.
+そうじゃな、じゃあ先にこっちのパ|テをもらってみるかの。|匂いからすると、これは肝じゃな。=Well then, I suppose I’ll try the p[t] first. From the smell, it must be liver.#pâté
 うっ……。|ルカもそれ食べる！=Ngh... I'll eat that one too!
 おいおい。|ルカはそういうの苦手だって言って|なかったか……？=Hey now. Didn’t you say you don’t like that kind of thing?
 いいの！|食べるの！=It’s fine! I’ll have it!
@@ -4313,7 +4313,7 @@
 人助けだと思って頑張ってこい！=Just think of it as doing a good deed and try your best!
 ううう、ルカにできるのかなあ……。=Nnngh, can I really do this...?
 ああ、王子様。|どうして、どうして行ってしまわれ|るのですか……。=Oh, Prince. Why oh why are you going away?
-ルカは……じゃないや、私はこんな|にあなたをお慕いしておりますのに|……！=Even though I love you so much, Miste-- I mean, Prince...!#Luka has a childish way of speaking where she says her name in place of ‘I’, “Luka wants this” etc. In this line, she flubs it by using her name even though she’s ‘in-character’, but since the translations omit this quirk, I changed it to be as though she messed up by calling Lawrence instead of the play’s Prince. Change?
+ルカは……じゃないや、私はこんな|にあなたをお慕いしておりますのに|……！=Even though I love you so much, Miste--|I mean, Prince...!#Luka has a childish way of speaking where she says her name in place of ‘I’, “Luka wants this” etc. In this line, she flubs it by using her name even though she’s ‘in-character’, but since the translations omit this quirk, I changed it to be as though she messed up by calling Lawrence instead of the play’s Prince. Change?
 なんじゃ、この劇は。=What is this play?
 団長が言うには、人魚の姫が地上の|人間に恋をする話らしいぞ。=The director said it’s a story about a mermaid princess who falls in love with a human.
 ほほう。|恋物語かや！=Oh-ho, a love story?
@@ -4334,7 +4334,7 @@
 そうですか、残念です……。=Is that so? What a shame...
 !FILE:event/ev_ren/ren_lka_04_futon.wsb
 ううむ。|聞いてはおったが、本当に狭い部屋|じゃの……。=Mmm. He did warn us, but this really is a small room.
-仕方がないだろ。|もう、この部屋しか空いてなかった|んだから。=There’s nothing we can do about that. This is the only room they had left.
+仕方がないだろ。|もう、この部屋しか空いてなかった|んだから。=There’s nothing we can do about that.|This is the only room they had left.
 そもそもだな、誰かさんが買い食い|なんてしてなければ……=Perhaps if someone hadn’t blown all of our budget on food...
 まあ、泊まるところがないよりは|幾分ましじゃろ。|一つとはいえ、ベッドもあるしの。=Well, ’tis better than having nowhere to stay. There’s only one, but at least there’s a bed.
 ひとつ！？|ベッドが？=Only one bed!?
@@ -4419,11 +4419,11 @@
 そんなに丈夫じゃないんだけど、あ|れぐらいの大きさだったらたぶん大|丈夫……。=It's not that strong, but it's probably fine for those fish.
 っと、釣れたっ！=--I caught one!
 なんと！=What!?
-よっ、と……、もう一匹きたよ！|魚が人に慣れてないんだね。|どんどん釣れるよ！=There... I caught another one! I guess these fish aren't used to people. They just keep coming!
-すごいな。|お手柄だぞ、ルカ！|こんな才能があったなんて。=That's amazing. Good job, Luka! I never knew you could fish.#never knew you had such a talent. (?)
-えへへっ。|釣りなら誰にも負けないよ！|だって、お父さん仕込みだもん！=Ehehe, no one can beat me at fishing! It was my dad who trained me, after all!
+よっ、と……、もう一匹きたよ！|魚が人に慣れてないんだね。|どんどん釣れるよ！=There... I caught another one! I guess these fish aren't used to people.|They just keep coming!
+すごいな。|お手柄だぞ、ルカ！|こんな才能があったなんて。=That's amazing. Good job, Luka!|I never knew you could fish.#never knew you had such a talent. (?)
+えへへっ。|釣りなら誰にも負けないよ！|だって、お父さん仕込みだもん！=Ehehe, no one can beat me at fishing!|It was my dad who trained me, after all!
 丸々としておって美味そうじゃ。|わっちは焚き火の用意でもしておく|かの！=They look hearty and delicious. I think I shall go start the fire!
-せっかくだけど、今回は先を急ごう。|変なところに行って、ぬかるみに足|を取られたりしたら大変だ。=It looks nice, but we'd better hurry on. If we went off track and got stuck in the mud, it'd be game over.
+せっかくだけど、今回は先を急ごう。|変なところに行って、ぬかるみに足|を取られたりしたら大変だ。=It looks nice, but we'd better hurry on.|If we went off track and got stuck in the mud, it'd be game over.
 それもそうだね。=I guess that's true.
 さあ、天気がいいうちにもう少し|先へ行ってしまおう。=Come on, let's make some more progress while the weather is still good.
 ちょっと見てみたかったような気も|するけど……。|でも、先に進むのも大事だもんね！=I wanted to take a look, but... Making progress is important too!
@@ -4528,7 +4528,7 @@
 わあっ、高い！|急に、大人になったみたいだよ！=Waah, so high! It's like I'm suddenly an adult!
 どうだ？|届きそうか？=Well? Can you reach?
 うう……ん、もう、ちょっと……！|ほんのちょっと、なんだけど……。=Nn... A little more...! I'm so close, but...
-でも、こうして肩車してもらってる|のってなんだかいいね！|ルカ、このままでもいいな……。=It's fun just to have a piggyback ride! I wish I could stay like this...
+でも、こうして肩車してもらってる|のってなんだかいいね！|ルカ、このままでもいいな……。=It's fun just to have a piggyback ride!|I wish I could stay like this...
 おーい。|早く、してくれ……！=Hey, could you please hurry it up...?
 あっ、ごめんなさいっ！|すぐ取るね！=Ah, I'm sorry! I'll pick some now!
 !FILE:event/ev_ren/ren_lka_10_aan.wsb#dupes with other aan scenes proofread shnurks
@@ -4792,7 +4792,7 @@
 ……ぬしは意外なところで意外なこ|とを言うの。|わっちは困ってしまいんす。=...You say the most unexpected things in the most unexpected places. I’m not sure what to say.
 …………？=.........?
 わっちもな、本当はぬしと二人だけ|の旅がよい。|そうは思っておるのじゃがな？=I would have preferred to travel alone with you. Don’t you feel the same?
-今のわっちらは言わばこの娘の保護|者じゃ。|ちゃんとそれはわきまえておる。=We are currently this girl’s guardians. I am well aware of that.
+今のわっちらは言わばこの娘の保護|者じゃ。|ちゃんとそれはわきまえておる。=We are currently this girl’s guardians.|I am well aware of that.
 しかし、ぬしがそこまで二人きりに|なりたいと言うのであれば……。|わっちは……。=But, if you say that you want to be alone with me... I...
 い、いや、俺はルカも疲れてるんだ|ろうなあと思っただけなんだが。|何と言っても、初めての旅だしな。=N-No, I just thought Luka might be tired. It’s her first time traveling, after all.
 ………………。=......
@@ -4801,7 +4801,7 @@
 ……もうよい。=...Enough.
 えっ？|今、何て……？=Huh? What were you...?
 さてな。|いずれにせよ、もうすんだ話じゃ。=Who knows? Regardless, it’s in the past now.
-わっちは薪を集めてくる。|当分戻らぬから、好きに野営でも|なんでもするがよい。=I’m going to go and collect the firewood. I won’t be back for a while, so you should make camp or whatever you please.
+わっちは薪を集めてくる。|当分戻らぬから、好きに野営でも|なんでもするがよい。=I’m going to go and collect the firewood.|I won’t be back for a while, so you should make camp or whatever you please.
 ホロ！|おい、待てよ！=Holo! Hey, wait!
 ん、んん……。|どうしたの、おにいちゃん、おねえ|ちゃん……？=N-Nnn...|What’s wrong, mister...?
 !FILE:event/ev_ren/ren_lka_18_kakurenbo.wsb#proofread shnurks
@@ -4878,7 +4878,7 @@
 蜂蜜がけのパンもこれで買えるかや？=I can buy the honey-drizzled bread with this?
 買える。|ルカの分も買ってきてやってくれ。=Yeah. And get one for Luka, too.
 えっ、いいの？|ありがとう、おにいちゃん！=Huh, really? Thank you, mister!
-おっと、喜ぶのはまだ早い。|ルカはこれを覚えてからだ。=Hey now, it's too early for celebration. You can have it once you've memorized these.
+おっと、喜ぶのはまだ早い。|ルカはこれを覚えてからだ。=Hey now, it's too early for celebration.|You can have it once you've memorized these.
 ええーっ！？=Eeeeh!?
 くふ、何だかんだでぬしは優しいの。=Heh-heh, you are kind.
 残念。|これはランドバルト禿頭王銀貨。=Too bad. This is Bald King Landbard silver.
@@ -5972,7 +5972,7 @@ bg_t21_zahl=bg_yadoheya_small
 うまい茶だった。|礼を言うぞ。=The tea was good too. You have my thanks.
 ルカ、待たせてすまなかったな。|さあ、帰ろうか。=Sorry to have kept you waiting, Luka.|Let's go.
 うっ、うん……。=Y-Yeah...
-どうした、うつむいて。|ちゃんと返事しなさい。=What's up with you, turning away? Look at me when you talk.
+どうした、うつむいて。|ちゃんと返事しなさい。=What's up with you, turning away?|Look at me when you talk.
 ………………。=......
 ん？|なんだか顔が赤いな。|風邪でもひいたか？=Hm? Your face is a bit red.|Have you caught a cold?
 だっ、大丈夫だよ！|早く帰ろ、おにいちゃん！=I-I'm fine! Let's just go already!
@@ -6025,7 +6025,7 @@ bg_t21_zahl=bg_yadoheya_small
 ルカのところ、お母さん小さい頃に|いなくなっちゃって、お父さんしか|いなかったから。=My mum passed away when I was very young, so I only had my dad.
 家族って言われると、なんだか嬉し|くて……。|えへへ……。=Being called a family makes me kinda happy... Ehehe...
 そうか。|それなら、なおのこと遠慮なんて|してちゃだめだぞ。=I see. Then, all the more reason not to hold back.
-初めての旅で、ちょっと頑張りすぎ|たんだな。|今日はゆっくりするといいさ。=It's your first time traveling and you've pushed your body a bit too hard. You should take it easy today.
+初めての旅で、ちょっと頑張りすぎ|たんだな。|今日はゆっくりするといいさ。=It's your first time traveling and you've pushed your body a bit too hard.|You should take it easy today.
 こういうときは、おとなしく言うこ|とを聞いておくものだ。|なにか、して欲しいことはないか？=At times like this, you have to do as you're told. So, is there anything you want me to do for you?
 じゃあ……。|手、握っててくれる？=C-Could you hold my hand?
 おにいちゃんと一緒が、いちばん|嬉しい……。=Being with you is the best thing I could ask for...
@@ -6283,7 +6283,7 @@ bg_t21_zahl=bg_yadoheya_small
 だが、そういう奴が治めている町だ。|つけ込む隙がいくらでもありそうだ|とは思わないか？=But, he’s the one ruling this town. It’s the perfect setup to take advantage of, right?
 光が強ければ、闇もまた濃いものさ。|オレは、しばらくここで商売してみ|るのも悪くなさそうだと思ってるぜ。=The brighter the light, the darker the shadows it casts. I reckon there’s worth in staying here and doing business for a bit.
 それに、この航路が牛耳られている|って状況も、考え方によっては悪く|ない話だと思わないか？=Besides, depending how you look at it, having the trade links being dominated by one party isn’t so bad, don’t you think?
-そうですね=You’re right
+そうですね=You’re right.
 そうですか？=Is that so?
 あんた、話がわかるな。|商人なら誰だってこう考える。|もし抜け道ができたら……ってな。=You know it. “If only there was some loophole...” Every merchant has the same idea.
 あんたとは楽しい話ができそうだ。|一緒に商売をやっても面白いかも|しれないな。=You seem like a fun guy to talk to. It would be interesting to do business together.
