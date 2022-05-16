@@ -14,7 +14,7 @@
 [Vacant House]\nAn informant is here.
 [Port]\nThere is a girl on the pier.
 [Private House]\nLuka's house.
-[Port]\nDepart for the iselt.
+[Port]\nDepart for the islet.
 [Inn]\nA man called Johan seems to be staying here.
 [Inn]\nJohan and Eugen are staying here.
 [Inn]\nJohan is staying here.
