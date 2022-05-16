@@ -198,7 +198,7 @@
 マフラー=Muffler
 防寒用の襟巻き。服飾で有名な|ザーラントから持ち込まれた。=A scarf for protection against the cold.
 シルクハット=Silk Hat
-男性の礼装用帽子として愛用さ|れている。紳士の。=A favorite for men's formal wear. A must for a gentleman.
+男性の礼装用帽子として愛用さ|れている。紳士の必需品。=A favorite for men's formal wear. A must for a gentleman.
 セーター=Sweater
 ザーラントから北の地方で人気|の衣料品。心も体も温かくなる。=A popular garment in the regions north of Saarland.
 タキシード=Tuxedo
@@ -363,7 +363,7 @@
 特産品　シルクハット=Special: Silk Hat
 シルクハットがベオリーヌの市場|でも扱えるようになりました。|ザーラントでも人気の品です。|きっとベオリーヌから離れた町な|ら高く売れると思います。=Silk hats are now available on the market in Beorein. They're popular in Saarland, so I'm sure they'll sell well in places further afield.
 特産品　マフラー=Special: Muffler
-ザーラントから仕入れたマフラー|です。|わずかですがベオリーヌの市場で|買い付けることができるようにな|りました。=There's not many but a few mufflers have been brought to Beorein from Saarland. You can buy them on the market.
+ザーラントから仕入れたマフラー|です。|わずかですがベオリーヌの市場で|買い付けることができるようにな|りました。=There's not many, but a few mufflers have been brought to Beorein from Saarland. You can buy them on the market.
 人気の品　牛=Popular: Cow
 知ってるかい？|ポロソンの市場では牛が高く売れ|るようになったみたいだよ。|急に需要が高まったのかな？=Did you hear? It seems like cattle is selling for a lot more in the town of Poroson. Did the demand suddenly rise...?
 人気の品　馬=Popular: Horse
