@@ -219,7 +219,7 @@
 町情報　ディーモルン=Town Information: Diemoln
 海岸沿いにある大きな港町がディ|ーモルンだよ。|湾で採れる海産物を買い付けに多|くの商人が訪れているよ。|最近は教化が進んでいるようだね。=Diemoln is a big port town along the coast. A lot of merchants go there to buy seafood from the bay. It seems to be getting more and more cultured these days.
 町情報　ベオリーヌ=Town Information: Beorein
-ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is just east of Diemoln along the coast. It's very small so it might be hard to find. If you see a rundown village, that's it.
+ベオリーヌはディーモルンから海|岸沿いに東に行ったところにある。|小さな村で見つけづらいかもしれ|ねぇがな。|寂れた村があったらそこだよ。=Beorein is on the coast, just east of Diemoln. It's very small so it might be hard to find. If you see a rundown village, that's it.
 町情報　レヤージュ=Town Information: Leyage
 ローム川の上流にレヤージュとい|う町があるよ。|あそこは交易が盛んで各地から色|んな商人がやってくるよ。|特に良質な生地を目当てにね。=There is a town called Leyage in the upper reaches of the River Roam. Trade there is thriving and merchants travel from all over to visit.|The high-quality fabrics are particularly popular.
 町情報　ウルリヒ=Town Information: Ulrich
@@ -229,7 +229,7 @@
 町情報　エルン=Town Information: Erne
 ベオリーヌから南に進むとエルン|という村があるらしい。|近頃、山道が見つかりエルンへの|移動が楽になったようだ。=If you go south from Beorein, you will come across a village called Erne. There's even a newly discovered mountain path which makes it easier|to get there.
 町情報　リューン=Town Information: Lune
-川沿いに北へ向かえばリューンと|いう村にたどり着くよ。|昔は漁業で生計を立てていたけど|うまくいかなくなったのか今は工|房や畜産に力を入れてるね。=If you head north along the river, you'll reach a village called Lune. Its residents used to rely on fishing to get by, but because that didn't go too well, now they focus on workshops and livestock farming.
+川沿いに北へ向かえばリューンと|いう村にたどり着くよ。|昔は漁業で生計を立てていたけど|うまくいかなくなったのか今は工|房や畜産に力を入れてるね。=If you head north along the river, you'll reach a village called Lune. Its residents used to rely on fishing to get by, but because that didn't go too well, they focus on workshops and livestock farming now.
 町情報　デリンツコルツ=Town Information: Delintskolz
 大きな山の付近にデリンツコルツ|という大きな都市があってね。|観光地として有名な所なんだが商|人も多く訪れて町は賑わっている|よ。=There is a large city surrounded by mountains called Delintskolz.|It's famous as a tourist destination and the streets are always bustling with merchants.
 町情報　リボールカント=Town Information: Liberkant
@@ -281,15 +281,15 @@
 特産品　豚=Special: Pork
 エルンの特産品なら豚だろうね。|環境が良いから他で育った豚より|も元気が良いしね。|わたしも良く買い付けにいくよ。=The specialty of Erne is pork. Because the environment is good, the pigs are healthier than those raised elsewhere. I go there quite often myself.
 特産品　羊=Special: Sheep
-アールマルンの羊は可愛いよ。|あの村は商人たちの通り道なんだ|があまりの可愛さにそのまま買い|付けていく商人も多いと聞くよ。=The sheep in Ahrmaln are cute.|In fact, they’re so cute that many of the merchants who were just passing through town stop and buy some.
+アールマルンの羊は可愛いよ。|あの村は商人たちの通り道なんだ|があまりの可愛さにそのまま買い|付けていく商人も多いと聞くよ。=The sheep in Ahrmaln are cute.|In fact, they’re so cute that many of the merchants who are just passing through town stop and buy some.
 特産品　小象=Special: Baby Elephant
 ブルラッティアの市場では３月頃|になるとどこかの国から小象を仕|入れているらしいよ。|高額かつひと月程度で市場から消|えるから買い付けも難しいだろう。=I heard that around March they bring baby elephants from some other country to the market in Bourattia. They are expensive and sell out in a month or so, so it must be difficult to get one.
 特産品　キャビア=Special: Caviar
-ディーモルンのキャビアといえば、|有名な特産品だよ。|ただあの町はキャビアに限らず海|産物の値段が高いのがちょっとね。=Caviar from Diemoln is a famous specialty. However, all the seafood there is kind of expensive, not just the caviar.
+ディーモルンのキャビアといえば、|有名な特産品だよ。|ただあの町はキャビアに限らず海|産物の値段が高いのがちょっとね。=Caviar from Diemoln is a famous specialty. However, nut just the caviar but all the seafood there is kind of expensive.
 特産品　イワナ=Special: Char
-クメルスンは水産物で有名だが、|ここで扱ってるイワナは特に評判|がいいよ。|君も一度買い付けてみると良いよ。=Kumersun is famous for its seafood, but the char they sell is especially popular. You should try it for yourself some time.
+クメルスンは水産物で有名だが、|ここで扱ってるイワナは特に評判|がいいよ。|君も一度買い付けてみると良いよ。=Kumersun is famous for its seafood, but the char they sell there is especially popular. You should try it for yourself some time.
 特産品　マグロ=Special: Tuna
-７月頃になるとレノスの港から市|場にマグロが並ぶらしいよ。|良質のマグロでひと月ほどしか市|場には並ばないからとても貴重な|品のようだね。=I heard the fishermen of Lenos bring in good tuna around July. It’s high- quality fish but it’s only available for a month or so, so it must be in demand.#space for wordwrap
+７月頃になるとレノスの港から市|場にマグロが並ぶらしいよ。|良質のマグロでひと月ほどしか市|場には並ばないからとても貴重な|品のようだね。=I heard the fishermen of Lenos bring in good tuna around July. It’s high- quality fish but it’s only available for a month or so, so it must be well sought-after.#space for wordwrap
 特産品　幻の小麦=Special: Phantom Wheat
 グラハでは５月頃になると幻の小|麦がひと月の間市場に並ぶよ。|収穫された麦の中でも特に良質な|麦を集めたものでね。|数も少なく価格も高いがね。=In Graha, phantom wheat is on the market during May for about a month. It’s the best of the best wheat the harvest has to offer. Though, there’s only very little and it's expensive to boot.
 特産品　紅茶=Special: Black Tea
@@ -305,7 +305,7 @@
 特産品　大理石=Special: Marble
 ポロソンの名産品といえば高原か|ら採掘される石材だが、稀に良質|の大理石も採れるらしい。|市場を覗いてみてはどうかな。=Poroson’s specialty is stone mined from its plateau, but good quality marble is also uncovered from time to time. Why don't you take a look at the market and see whether you can get some?
 特産品　金=Special: Gold
-ラムトラなら金の取引が可能だぜ。|妖しい術で金を生み出してる…な|んて噂もあるがそれは嘘っぱちさ。|市場の人も良い人が多いよ。=Lamtra is one of the few places you can buy pure gold. Rumor has it they use a suspicious art to make the gold... but that can't be true.|The market is full of good people.
+ラムトラなら金の取引が可能だぜ。|妖しい術で金を生み出してる…な|んて噂もあるがそれは嘘っぱちさ。|市場の人も良い人が多いよ。=Lamtra is one of the few places you can buy pure gold. Rumor has it they use a suspicious art to make the gold... but that can't be true, the market is full of good people.
 特産品　銀=Special: Silver
 銀の買い付けならガーノだろうね。|あそこは町は物騒だが出てくる素|材は良いものばかりだ。|だから争いにもなってるんだがね。=If you're looking to buy silver, I'd suggest Gahno. The town there is rowdy, but their materials are all good. ...Which is also why there’s so much conflict.
 特産品　毛皮=Special: Pelt
@@ -343,7 +343,7 @@
 特産品　東洋芥子=Special: Opium#as reccomended on line 180
 東洋芥子はブルラッティアの市場|で取り引きをしています。|市場を覗いてみるといいでしょう。|東洋芥子の取り扱いには注意した|方が良いですよ。=Opium is traded on the market of Bourattia. I highly recommend going to take a look, but do be careful when handling it.
 特産品　没薬=Special: Myrrh
-没薬はディーモルンの市場で売っ|ていますよ～。|でも入荷は少ないので要注意です。|間違って売ってしまったら大変|なことになっちゃいますよ～。=Myrrh is sold at the market in Diemoln, but it’s very rare. If you sell some when you didn’t mean to, you’re gonna pay for it later~
+没薬はディーモルンの市場で売っ|ていますよ～。|でも入荷は少ないので要注意です。|間違って売ってしまったら大変|なことになっちゃいますよ～。=Myrrh is sold at the market in Diemoln, but it’s very rare. If you sell some when you don’t mean to, you’re gonna pay for it later~
 特産品　サフラン=Special: Saffron
 ブルラッティアの市場にはサフラ|ンが特産品として並んでいるよ。|香辛料は需要があるから君も是非|仕入れてみると良いよ。=Saffron is one of the local products in the markets of Bourattia. Spices are in great demand, so you should definitely try to buy some.
 特産品　シナモン=Special: Cinnamon
@@ -367,11 +367,11 @@
 人気の品　牛=Popular: Cow
 知ってるかい？|ポロソンの市場では牛が高く売れ|るようになったみたいだよ。|急に需要が高まったのかな？=Did you hear? It seems like cattle is selling for a lot more in the town of Poroson. Did the demand suddenly rise...?
 人気の品　馬=Popular: Horse
-レヤージュでは馬が高値品だって|ことを知らなかったみたいだね。|それなら今後は高く買い取っても|らえるようになるんじゃないかな。=It seems people don’t know that horses are overpriced in Leyage.|I’ll bet that means that next time we can demand more money if we sell 'em there.
+レヤージュでは馬が高値品だって|ことを知らなかったみたいだね。|それなら今後は高く買い取っても|らえるようになるんじゃないかな。=It seems people don’t know that horses are overpriced in Leyage.|I’ll bet that means we can demand more money when we sell 'em there next time.
 人気の品　鶏=Popular: Chicken
 ベオリーヌでは以前よりも鶏を高|く買い取ってくれるようになった|よ。|鶏を売るならベオリーヌがおすす|めだね。=I'm getting more money from selling my chickens in Beorein than I used to.|If you're looking to sell chickens, that's where I'd recommend.
 人気の品　小象=Popular: Baby Elephant
-小象ならラムトラの町で高く買い|取ってくれるぜ。|小象を一体何に使うのかはわから|ないが高く買い取ってくれるなら|問題ないだろう？=You can get a lot of money for a small elephant in Lamtra. I don't know what they do with them, but if they'll pay good money for it, what's the problem?
+小象ならラムトラの町で高く買い|取ってくれるぜ。|小象を一体何に使うのかはわから|ないが高く買い取ってくれるなら|問題ないだろう？=You can get a lot of money for a baby elephant in Lamtra. I don't know what they do with them, but if they'll pay good money for it, what's the problem?
 人気の品　キャビア=Popular: Caviar
 キャビアが大人気の町といえば、|ガーノだろう。|この辺では珍しい食べ物なせいか|ガーノではよく売れるらしい。|だから高値で取り引きされてるよ。=Caviar is very popular in Gahno.|It's a rare food around there so it sells well and for a high price.
 人気の品　イワナ=Popular: Char
@@ -437,7 +437,7 @@
 ポロソンで価格高騰中？=Inflation in Poroson?
 ポロソンの町で市場の価格が高騰|しているってさ、|なんでもいつもの１．３倍程値が|上がっているという話だ。|３０日間はこの状態が続くらしい。=I heard Poroson is in the middle of an inflation. Prices have gone up to 1.3 times the usual. It seems like it will stay this way for the next 30 days.
 石材が暴落？=Stone Slump?
-ポロソンで石材の値が暴落してい|るという噂だ。|３０日間は半値程度まで値が落ち|るだろうと言われている。|どこまで本当の話かは不明だがね。=Rumor has it that the price of stone in Poroson has plummeted. They say you can buy it at half its market value for the next 30 days. I'm not sure how much of that rumor is true though.
+ポロソンで石材の値が暴落してい|るという噂だ。|３０日間は半値程度まで値が落ち|るだろうと言われている。|どこまで本当の話かは不明だがね。=Rumor has it that the price of stone has plummeted in Poroson. They say you can buy it at half its market value for the next 30 days. I'm not sure how much of that rumor is true though.#?
 香水がお得？=Perfume at a Discount?
 リュビンハイゲンでは香水の取り|引き価格が下がっているらしい。|今ならいつもの７割程度の値段で|買い取ることが出来るって話だ。|４０日間はこんな状態だろう。=I heard that the price of perfume in Ruvinheigen has dropped. At the moment you can buy it for 70% of the usual price. It's going to be like this for the next 40 days.
 リュビンハイゲンで価格暴落中？=Price Crash in Ruvinheigen?
@@ -507,7 +507,7 @@
 ブルラッティアで価格高騰中？=Price Hike in Bourattia?
 商業都市ブルラッティアで商品が|高騰してるという噂だ。|いつもの１．３倍程の値段でやり|とりされてて３０日間はこの状態|じゃないかってことだよ。=Rumor has it that prices have risen in Bourattia. Goods are being traded at 1.3 times the usual price. I think it will stay like this for another 30 days.
 ダイヤモンド価格安？=Low Diamond Prices?
-ロズサルトでダイヤモンドが普段|より安く買い取れるって聞いたよ。|といってもいつもの８割程度の値|らしいが…。|４０日はきっとこのままだってさ。=Someone told me that you can buy diamonds in Rossalt at a lower price than usual. They seem to be selling for 80% less than what they normally cost. She was sure it will stay like that for the next 40 days.
+ロズサルトでダイヤモンドが普段|より安く買い取れるって聞いたよ。|といってもいつもの８割程度の値|らしいが…。|４０日はきっとこのままだってさ。=Someone told me that you can buy diamonds in Rossalt at a lower price than usual. They seem to be selling for 80% less than what they normally cost. She was sure it will stay like that for the next 40 days.#80% less or 80% of
 ロズサルトで価格暴落中？=Price Crash in Rossalt?
 近頃ロズサルトの町で商品を安価|で取り引きしてるという噂を聞い|たよ。|ひと月は半値で買い取れるようだ。|あそこは人が集まらないからな…。=I heard a rumor that goods are selling for low prices in Rossalt. Because few people ever go there, you can buy things at half price for a month.
 没薬の買える町=Buying Myrrh?
@@ -577,7 +577,7 @@
 ！アイコンは何？=What's the ! Icon?
 町に入ると色んな施設があります。|その中に「！」がついてる施設が|あったらそこで何か起こります。|何が起こるかは自分で確かめてく|ださいね。=There are many places you can visit once in a town. If a location has a “!” on it, something will happen there.|But, you'll have to find out what that something is by yourself.
 銀貨を借りる=Borrowing Coins
-商館に行けば銀貨を借りれるよ。|返却の際には利子をつけて返すこ|とになるけど困ってるときは借り|るのはありだと思うな。|でも、もし返却できなかったら…。=If you go to a trading house, you can borrow some silver coins. You'll have to pay interest when you return it, but it can be helpful when you are in trouble. Although, if you can't return it...
+商館に行けば銀貨を借りれるよ。|返却の際には利子をつけて返すこ|とになるけど困ってるときは借り|るのはありだと思うな。|でも、もし返却できなかったら…。=If you go to a trading house, you can borrow some silver coins. You'll have to pay interest when you return them, but it can be helpful when you are in trouble. Although, if you can't pay them back...
 会話画面の操作説明=Basic Controls
 　　−　タッチペン操作　−　　　|タッチ:会話送り、選択肢決定|　　　−　ボタン操作　−　　　　|①会話送り　　④オートリード切替|③会話早送り　⑩カーソル移動=<<- Touch Controls -|Touch: Advance text, make choices||<<- Button Controls -|① Advance text  `④ Toggle Auto Mode|③ Fast Forward   ⑩ Move the Cursor
 町ナビ画面の操作説明=Using the Town Navigation Screen
