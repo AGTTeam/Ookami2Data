@@ -285,7 +285,7 @@
 特産品　小象=Special: Baby Elephant
 ブルラッティアの市場では３月頃|になるとどこかの国から小象を仕|入れているらしいよ。|高額かつひと月程度で市場から消|えるから買い付けも難しいだろう。=I heard that around March they bring baby elephants from some other country to the market in Bourattia. They are expensive and sell out in a month or so, so it must be difficult to get one.
 特産品　キャビア=Special: Caviar
-ディーモルンのキャビアといえば、|有名な特産品だよ。|ただあの町はキャビアに限らず海|産物の値段が高いのがちょっとね。=Caviar from Diemoln is a famous specialty. However, nut just the caviar but all the seafood there is kind of expensive.
+ディーモルンのキャビアといえば、|有名な特産品だよ。|ただあの町はキャビアに限らず海|産物の値段が高いのがちょっとね。=Caviar from Diemoln is a famous specialty. However, all of the seafood there is kind of expensive.
 特産品　イワナ=Special: Char
 クメルスンは水産物で有名だが、|ここで扱ってるイワナは特に評判|がいいよ。|君も一度買い付けてみると良いよ。=Kumersun is famous for its seafood, but the char they sell there is especially popular. You should try it for yourself some time.
 特産品　マグロ=Special: Tuna
@@ -507,7 +507,7 @@
 ブルラッティアで価格高騰中？=Price Hike in Bourattia?
 商業都市ブルラッティアで商品が|高騰してるという噂だ。|いつもの１．３倍程の値段でやり|とりされてて３０日間はこの状態|じゃないかってことだよ。=Rumor has it that prices have risen in Bourattia. Goods are being traded at 1.3 times the usual price. I think it will stay like this for another 30 days.
 ダイヤモンド価格安？=Low Diamond Prices?
-ロズサルトでダイヤモンドが普段|より安く買い取れるって聞いたよ。|といってもいつもの８割程度の値|らしいが…。|４０日はきっとこのままだってさ。=Someone told me that you can buy diamonds in Rossalt at a lower price than usual. They seem to be selling for 80% less than what they normally cost. She was sure it will stay like that for the next 40 days.#80% less or 80% of
+ロズサルトでダイヤモンドが普段|より安く買い取れるって聞いたよ。|といってもいつもの８割程度の値|らしいが…。|４０日はきっとこのままだってさ。=Someone told me that you can buy diamonds in Rossalt at a lower price than usual. They seem to be selling for 20% less than what they normally cost. She was sure it will stay like that for the next 40 days.#80% of
 ロズサルトで価格暴落中？=Price Crash in Rossalt?
 近頃ロズサルトの町で商品を安価|で取り引きしてるという噂を聞い|たよ。|ひと月は半値で買い取れるようだ。|あそこは人が集まらないからな…。=I heard a rumor that goods are selling for low prices in Rossalt. Because few people ever go there, you can buy things at half price for a month.
 没薬の買える町=Buying Myrrh?
