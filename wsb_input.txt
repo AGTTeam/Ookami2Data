@@ -942,7 +942,7 @@
 じゃが、区画によって古い町並みと|新しい建物との差が激しいの。|道を曲がれば別の町のようじゃ。=But there is a big difference between the old and the new buildings around. Take one turn, and it's as if you’re in another city.
 仕方ないさ。|ここは最近になって急に大きくなっ|た町だそうだからな。=That’s how it goes. This is a town that has grown rapidly in recent years.
 まあ、新しい建物があるってことは、|それだけの活気があるってことさ。|悪いことじゃない。=The new buildings show just how much activity there’s been. It’s not a bad thing.
-しかしぬしよ、わっちは道中で出会|ったあの小娘が言っておったことが|気に掛かっておるのじゃが……。=Still, there is something bothering me about what that girl we met on the road said.#replace maid with girl?
+しかしぬしよ、わっちは道中で出会|ったあの小娘が言っておったことが|気に掛かっておるのじゃが……。=Still, there is something bothering me about what that maid we met on the road said.#replace maid with girl?
 羊飼いのノーラと言っていたな。|船に乗れなかった、というあの話か。=Norah the shepherdess? You mean about not being able to get on a boat?
 そうじゃ。|ぬしは相当でれでれしとったから、|覚えておらんかと思ったがな。=Aye. I thought you wouldn't remember it, seeing as you were so lovestruck.
 そうだったかな=Is that true?
@@ -1001,7 +1001,7 @@
 どうぞ、ゆっくりしていってくださ|いね。=Please enjoy your stay.
 よう、兄弟。|情報は集まったかい？=Hey, brother. Gathered all your info, have you?
 そんなに警戒するな。|オレの名はエーブ。|あんたと同じ、行商人さ。=No need to be so alarmed. The name’s Eve. I’m a merchant too.
-見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re pegging to cross the sea. There’s been a lot of your type around here lately.
+見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re aiming to cross the sea. There’s been a lot of your type around here lately.
 先に言っておくが、今この港で船を|使えるのは一握りの人間だけだ。|早めにあきらめた方がいいと思うぜ。=For the record, there’s only a handful of people permitted to use the boats here. You’d be better cutting your losses now.
 でも、まあそのうち渡れるように|なるんじゃないかってオレは思って|るところさ。=Though, I do think the ban will be lifted sooner or later.
 なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a haphazard system like this is going to last?
@@ -1830,7 +1830,7 @@
 まあ、いろいろとな。=Well, all sorts of things.
 俺も多少は働かないと、この先何を|言われるかわからないからな。|上手くいくよう祈ってくれ。=If I don't pitch in too, who knows what they'll say about me in the future?|I hope you'll give me your blessing too.
 くふふ、この状況でそれだけの口が|叩けるなら上等じゃ。|で、何を企んでおる？=Heh, if you can still talk big in these circumstances, it seems we're well met.|So what are you planning?
-こういう筋書きで行こうと思う。|みんな、聞いてくれ……。=Here's the score. Listen up, everyone...
+こういう筋書きで行こうと思う。|みんな、聞いてくれ……。=Here's the script. Listen up, everyone...
 ………………。=......
 面白い！|ぬし、案外劇作家で食べていけるの|ではないかや！=How amusing! You could go into business as a playwright yet!
 しかし、わっちなら最後にもう少し|追い打ちをかけるの。|とどめが欲しいところじゃ。=But, if it were me, I would add to the end. One needs a good curtain closer.
@@ -3231,9 +3231,9 @@
 あの蜂蜜酒もうまかった。|ビールも、蒸留酒も。|……うっぷ。=That mead was delicious too...|And the beer and the spirits... Urgh...
 おい、大丈夫か。|二日酔いでへばっている奴が、酒の|夢を見ているんじゃない。=Hey, are you okay?|Don't go dreaming about alcohol when you're hungover.
 ……おお、そうじゃ！|ぬしよ、昨日のうまい酒を持ってき|てくりゃれ？=Oh, yes!|Can you bring me some of that good wine from yesterday?
-そうすれば、二日酔いなどすぐに|吹っ飛びんす。|むにゃむにゃ……。=If you do that the hangover will disappear right away.|Hmnm...
+そうすれば、二日酔いなどすぐに|吹っ飛びんす。|むにゃむにゃ……。=If you do that, the hangover will disappear right away.|Hmnm...
 迎え酒はダメだぞ。|あれは……おいホロ、寝るな！=You shouldn't drink to get over a hangover.|That is-- Hey, don't sleep!
-うむ、わっちは大丈夫じゃ。|大丈夫じゃ……。=Mm, I am okay.|Okay...
+うむ、わっちは大丈夫じゃ。|大丈夫じゃ……。=Mhm, I am okay.|Okay...
 ……ぐう。=*Snore*
 この調子だと、|馬車までたどり着けるかも怪しいな。=At this rate, I doubt we'll even make it to the cart.
 朝のうちにこの町を出ないと、次の|町での取引が危ない。|参ったな……。=If we don't leave this morning, I risk losing a deal in the next town.|I don't know what to do...
@@ -3327,7 +3327,7 @@
 ……わかった。|余計なことを言ってすまなかった、|ホロ。=Alright...|I'm sorry if I said something uninvited.
 !FILE:event/ev_ren/ren_hor_10_hinadori.wsb#proofread shnurks
 これで当分の薪は足りそうだな。|急いで戻るとするか。|ホロも待ちくたびれている頃だろう。=That should be enough firewood for now. I’d better get back.|I’m sure Holo is getting tired of waiting.
-……ん？|あそこに落ちているのは何だ？=...Hm?|What’s that on the floor?
+……ん？|あそこに落ちているのは何だ？=...Hm?|What’s that on the ground?
 鳥の巣か。|中の小鳥はまだ生きているようだが。=A bird's nest? It looks like there are still some chicks alive inside...
 ぬしよ。|ここにいたか。=So this is where you were?
 そのひな鳥なら食わぬ方が良いぞ。|まだ肉がついとらん。=I wouldn’t recommend eating those chicks. There’s no meat on them yet.
@@ -3357,7 +3357,7 @@
 ぬしは、ただの商人でなくただのお|人好しでもない。|まったく面白い人間じゃ。=You’re not just a merchant, nor are you simply all charity. You are a very interesting human.
 そういうお前は、人の葛藤を見て楽|しむ狡猾で性悪な狼というわけだ。=And you’re just a cunning and wicked wolf who enjoys watching people’s struggles.
 ぬしだから、面白いんじゃ。|そんなわっちを、ぬしは嫌いではな|いじゃろう？=’Tis because it’s you that it’s amusing. You do not hate this part of me either, do you?
-わかったわかった。|ここは俺の負けだ。=I get it, already. I lost this time.
+わかったわかった。|ここは俺の負けだ。=I get it already. I lost this time.
 そういうわけじゃ。|ぬしの好きにすると良い。=Quite. All you need do is follow your heart.
 !FILE:event/ev_ren/ren_hor_11_watasiwoizumini.wsb#proofread shnurks
 ふぅ……。|よく澄んだ、いい湧き水じゃ。|ここなら景色も悪くない。=Phew...|There is nice, clear spring water here.|And the view is not bad either.
@@ -4839,7 +4839,7 @@
 え、ええと……。|これ、なんだっけ？|おねえちゃん、わかる？=Um... What was this one again? Do you know, lady?
 ファラなんとか銀貨……じゃなかっ|たかの。='Tis the Fara-something-or-other... is it not?
 残念。|それは後期ラデオン司教領銀貨。=Too bad. That's the Late Radeon Bishopry silver.
-ちなみにファラム銀貨はこっちだ。|で、これがミッツフィング大聖堂銀|貨。=So you know, the Faram silver is this one. And, this is Mitzfing Temple silver.
+ちなみにファラム銀貨はこっちだ。|で、これがミッツフィング大聖堂銀|貨。=So you know, the Faram silver is this one and this is a Mitzfing Temple silver.
 わかんないよ、そんなの！=How were we supposed to know that!?
 ……ぬ、ぬしよ。|わっちらのことからかっとるじゃろ。=...You're making sport of us, surely.
 そうだよ、全部同じに見えるよ。=Yeah! They all look the same.
@@ -5939,7 +5939,7 @@ bg_t21_zahl=bg_yadoheya_small
 たとえば靴の修繕代が安くなったり、|とかかや？=You mean because you can get a discount on the cost of shoe repairs?
 はは、そんな程度に考えられちゃこ|っちが困る。|いつものお前らしくないな。=Ha-ha, if you start analyzing everything to that extent, I’ll be the one who’s worrying. This isn’t like you.
 そうしおらしくされると、こっちの|調子が狂う。|牙を抜かれた狼みたいだぞ。=If you start acting so reserved, I won’t know what to do with myself. You’re like a wolf who’s been defanged.
-さして変わらぬ。|骨抜きにされておるようなものじゃ|からの……。=I am no different. It’s because I’ve become tame...
+さして変わらぬ。|骨抜きにされておるようなものじゃ|からの……。=I am no different. It’s because I’ve been tamed...
 ん？|今、何て……？=Hm?|What did you say...?
 くふふ、何でもありんせん。|それよりぬしよ、せっかく靴を直し|たのじゃから、少し歩こう？=Heh-heh-heh, ’twas nothing. More to the point, now that my shoes have been nicely mended, what say we go for a little walk?
 そうだな、町の中央に小さな泉が|あった。|行ってみようか。=There’s a small spring in the middle of town. Why don’t we go there?
@@ -6132,7 +6132,7 @@ bg_t21_zahl=bg_yadoheya_small
 大丈夫です。|私にはエネクがいますから。=It's okay. I've got Enek.
 では、お二人とも、お休みなさい。=Good night, both of you.
 くふ。|残念じゃったの、あてがはずれて。=Heh. What a shame, you missed the mark.
-別に、そういうつもりで言ったわけ|じゃないんだがな。=I wasn't trying to have anything on.
+別に、そういうつもりで言ったわけ|じゃないんだがな。=I didn't mean it like that.
 さて、どうだか。=I wonder about that.
 ふあーあ、これ以上ぬしらに付き|合っておっても腹が減るだけじゃ。|さっさと寝るとするかの……。=*Yawn*|Staying up with you is only going to make me hungry again. I think I'll go to sleep...
 ワンッ！=Woof!
@@ -6270,7 +6270,7 @@ bg_t21_zahl=bg_yadoheya_small
 どうぞ、ゆっくりしていってくださ|いね。=Please enjoy your stay.
 よう、兄弟。|情報は集まったかい？=Hey, brother. Gathered all your info, have you?
 そんなに警戒するな。|オレの名はエーブ。|あんたと同じ、行商人さ。=No need to be so alarmed. The name’s Eve. I’m a merchant too.
-見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re pegging to cross the sea. There’s been a lot of your type around here lately.
+見たところ、あんたも海を渡りたい|みたいだな。|ここ最近多いぜ、そういう奴。=Looks like you’re aiming to cross the sea. There’s been a lot of your type around here lately.
 先に言っておくが、今この港で船を|使えるのは一握りの人間だけだ。|早めにあきらめた方がいいと思うぜ。=There’s only a handful of people permitted to use the boats at this port. You’d be better cutting your losses now.
 でも、まあそのうち渡れるように|なるんじゃないかってオレは思って|るところさ。=Though, I do think the ban will be lifted sooner or later.
 なんでって？|そりゃあんた、こんな乱暴な仕掛け|がいつまでもつと思うんだ？=Why you ask? Well, how long do you think a haphazard system like this is going to last?
@@ -6699,7 +6699,7 @@ bg_t21_zahl=bg_yadoheya_small
 わっちも早く北へ渡りたい。|それに、ぬしも確か対岸の町に用が|あるのではなかったかの。=I am eager to reach the north. Besides, don't you have some business there?
 債権とやらの回収をせねばならぬと|ぬしは言っておったが、その刻限が|あと半年ほどなのではないかや？=The debt you have to collect is due in half a year, isn't it?
 まあ、ぬしのことだから大丈夫じゃ|ろうと踏んではおるがの。=Well, you are a competent male, so I'm sure you will be fine.
-のんびりした旅もよいが、やはり早|く北の地に渡って安心してしまいた|いものじゃな。=A leisurely journey is good, but I would rather like to cross over to the north soon for peace of mind.
+のんびりした旅もよいが、やはり早|く北の地に渡って安心してしまいた|いものじゃな。=A leisurely journey is all well and good, but I would rather like to cross over to the north soon for peace of mind.
 ＄債券回収の契約期限まで|残りあと半年です=＄The bond collection contract|expires in half a year.
 !FILE:event/system/level_up.wsb#p1
 のう、ぬしよ。|ここのところわっちは|思うのじゃが……。=Say, lately I’ve been thinking...
