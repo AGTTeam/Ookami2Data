@@ -2390,8 +2390,8 @@
 そうしましょう。|まだ、夜は長いことですしね。=Alright then, the night is still young.
 嬉しいね。|オレのわがままに付き合ってくれる|とは。=I’m happy. Thanks for going along with my whims.
 あんたはいつもそうだ。|なんだかんだ言いつつ、優しいから|ついつい甘えちまう。=I suppose you always do. Even when I go off about random things, you always spoil me because you’re so kind.
-そんなだから、オレが調子に乗って|しまうんだ。|……こんなふうにな。=Because you’re like that, I get carried away.|...Just like now.
-なあ。|こうして誰かと一緒に星を眺めるっ|てのも、なかなかにいいもんだな。=You know... It’s not all that bad, having someone there to watch the stars with.
+そんなだから、オレが調子に乗って|しまうんだ。|……こんなふうにな。=Because you’re like that, I get carried away.|... Just like now.
+なあ。|こうして誰かと一緒に星を眺めるっ|てのも、なかなかにいいもんだな。=You know...|It’s not all that bad, having someone there to watch the stars with.
 そうですね。|焚き火を囲んで静かに空を見上げる|なんて、町ではできないですから。=You’re right. You can’t sit around a fire like this and just quietly watch the sky when you’re in a town.
 しかも、こうして肩を並べて、なん|て気恥ずかしくてとてもじゃないけ|ど人に見せられないからな。=And, while I’m definitely not embarrassed that we’re sat so close, it isn’t the kind of position I’d like others to see me in.
 笑うなよ。|実を言うとな、こういう状況にちょ|っとだけ……あこがれていたんだ。=Don’t laugh. To tell you the truth, I... had been longing for this kind of thing.
@@ -2400,7 +2400,7 @@
 判っているつもりなのに、こうして|いても銅貨の一枚も儲かるわけでも|ないのに……つい頬がにやけちまう。=Although I know full well that such a thing will never make any money... I can’t stop myself from smiling.
 だめだ、こういうことを言い始める|と気が緩むな。|少し、飲み過ぎたようだ。=Oops. Once I start like this, I always get carried away. I must have had a bit too much to drink.
 さて、これ以上酔ってしまう前に寝|るとするか。|今夜はいい夢を見られそうだ。=I’m going to bed before I get any more drunk. I think I’m going to have a good dream tonight.
-いや、もう見てるのかもしれないな|……。=No, maybe I already have...
+いや、もう見てるのかもしれないな|……。=No, maybe I'm already dreaming...#?
 いや、明日に備えて眠ることにしま|よ。|町に着くまで、まだありますしね。=No, I need to sleep in preparation for tomorrow. There’s still a long way to go before we’ll get to town.
 そうか、残念だ。|しかしあんたもつれないな。|こんな美人の誘いを断るなんて。=I see, that’s a shame. But, you are too curt. You would refuse a beautiful woman’s offer?
 魅力的なだけに、恐ろしいですよ。|気がついたら朝になっていそうです。=It’s because you’re so charming that I’m worried. Morning would come before I knew it.
@@ -2456,9 +2456,9 @@
 ……何じゃ？|やけに人だかりができておるのう。=...Hm? That’s quite the crowd.
 賑やかだな。|踊りの曲……いや、歌か劇の曲のよ|うだな。=They're very lively. It sounds like dance music... no, maybe it’s some sort of play.
 大きな祭りでもあるんだろう。|便乗した見せ物か大道芸でも来てる|んじゃないか。=There must be a festival. I guess they decided to put a show or some kind of street performance on.
-おおおおおおおおおおおお！|あなた、あなたですよ！|頭巾で顔を隠したお姉さん！=Oooh! You, yes you there! The lady hiding her face with a cloak!
+おおおおおおおおおおおお！|あなた、あなたですよ！|頭巾で顔を隠したお姉さん！=Oooh! You, yes you there! The lady hiding her face with a cowl!#?
 何っ？！|オレを、女と一目で見抜くとは……。=What?! You could tell I was a woman with one glance?
-やはり！|その覆いの下は相当な美人とお見受|けしました！=I knew it! I could tell there must be a very beautiful woman under that cloth!
+やはり！|その覆いの下は相当な美人とお見受|けしました！=I knew it! I could tell there must be a very beautiful woman under that cloth!#under that cover/hood?
 ああ、こんなときにこんな謎めいた|美女が見つかるとは……。|これは神のお導きに違いない！=Ooh, to think I’d run into such an enigmatic beauty at a time like this... This must be God's guidance!
 ちょっと待ってください。|どなたですか？=Hold on a second. I don’t believe we’ve been introduced?
 おおっと、申し遅れました。|私、劇団の団長をしておりますパネ|ースと申します。=Oh dear, my apologies. I’m Phanes, the head of the theatre company.
@@ -2514,7 +2514,7 @@
 なんだ、食べさせて欲しいのか。|仕方ないな。|ちょっと待ってろ。=Oh, so you want me to feed you?|Alright, give me a second.
 おっと、結構熱いな。|まだ、作りたてだからな。|少し冷ましたほうがいいだろう。=Whoops, it’s still pretty hot. It was freshly made. I'd better let it cool down a bit first.
 ふー、ふー……。=*Blow...*
-……何だ。|そんなにまじまじと見ないでくれ。|気恥ずかしくなるじゃないか。=What? ...Don’t stare so much. You’ll make me feel embarrassed.
+……何だ。|そんなにまじまじと見ないでくれ。|気恥ずかしくなるじゃないか。=What?|... Don’t stare so much. You’ll make me feel embarrassed.
 ほら、口を開けろ。=Here, open your mouth.
 あ、あーん……。=A-Aaah...
 もう少し、大きく。|照れないで、口を開けろ。=A little bigger, please. Don’t be shy, open wide.
@@ -2537,8 +2537,8 @@
 そのようじゃの。|飯を食ってちょっとごろりとしたと|思ったら、いつのまにか眠り込んで。=It seems so. He said he was just going to have a lie down after lunch, but now he’s fast asleep.
 疲れてるんだろ。|今日は距離も稼いだし、少し寝かせ|ておいてやろう。=He must be tired. We covered a lot of distance today, so we should let him sleep.
 むにゃむにゃ……。=Mnnnnn...
-まくらを探す=Search for a pillow.
-毛布を探す=Search for a blanket.
+まくらを探す=Search for a pillow
+毛布を探す=Search for a blanket
 うーん、まくら、まくら……。=Mmm, pillow, pillow...
 うーん……。=Nnn...
 おお、起きたか、ねぼすけ。=Oh, are you awake, sleepyhead?
@@ -2681,7 +2681,7 @@
 少し、熱っぽいですね。|風邪かもしれません。=You're a little flushed. It could be a cold.
 そりゃ、熱っぽくもなるさ……。=There are other possibilities...
 机でなんて寝るからですよ。|着替えて、ベッドで寝てください。=It’s because you were sleeping at the desk. You should change your clothes and sleep in your bed.
-わかった、おとなしく従うよ。|これ以上熱があがっても困るからな|……。=Alright, I’ll do as you say. I don’t want to get any hotter than this...
+わかった、おとなしく従うよ。|これ以上熱があがっても困るからな|……。=Alright, I’ll do as you say. I don’t want my fever to get any higher than this...
 （疲れてそうだし、このまま寝かせ|　ておくか……）=(She looks really tired, so I should let her sleep.)
 ぬし、どうしたのじゃ？=What is it?
 シーッ、静かに……。|エーブが寝てるんだ。=Shh, not so loud. Eve is sleeping.
@@ -2791,7 +2791,7 @@
 いえ、宿まで走りましょう=No, let’s get back to the inn.
 そうですね……。|この店で、少し雨宿りして服を乾か|して行きましょうか。=Right... How about we take shelter in that store and dry our clothes a bit?
 いつやむかわからないですし、この|ままでは風邪を引いてしまいそうで|すしね。=We don’t know when it’s going to stop, but we’re sure to catch colds if we just wait around here.
-オレもそれがいいと思う。|空気も急に冷たくなってきたしな。=That sounds good to me. The air has suddenly become cold.
+オレもそれがいいと思う。|空気も急に冷たくなってきたしな。=That sounds good to me.|The air has suddenly become cold too.
 奥には暖炉もありそうだ。|とりあえず中で服を脱いで、温めた|ぶどう酒でももらおうじゃないか。=It looks like there’s a fireplace in the back. Let’s get these wet clothes off|and warm up with some wine.
 その誘惑には勝てなさそうです。=I can’t argue with that.
 はは、あんたにしてはのりが良い返|事だな。=Ha-ha, those are wise words coming from you.
@@ -2843,7 +2843,7 @@
 こういう派手なもので目を引いてお|いて、その隙に金品を奪う。|ありそうな話じゃ。=Catching someone’s eye with a flashy offer, then using the chance to steal their possessions. ’Tis a plausible story.
 なるほど、そういう手口もあるか。|確かに気の緩んだときが、一番の狙|い時だしな。=I see, so such scams also exist. It’s true that the best time to target someone is when they’re relaxed.
 そういうことです。|向こうの角にある、あっちの宿にし|ましょう。=Well, that’s that then. Let’s head for the inn on the corner instead.
-うむ！=Mm!
+うむ！=Mhm!
 !FILE:event/ev_ren/ren_eve_15_mihari.wsb
 ……どうした、ロレンス。|あんたは寝ないのか？|連れはもうとっくに寝ているだろう。=...What’s wrong, Lawrence? You’re not going to sleep? Your companion is probably far away in the land of nod by now.
 そうですね、もう高いびきです。|私もそろそろ休もうかなと思っては|いるところですよ。=Yeah, she’s snoring up a storm over there. I was thinking I should try and turn in for the night soon too.
@@ -5759,7 +5759,7 @@ bg_t21_zahl=bg_yadoheya_small
 ああ、結構な額だったよ！|なんといっても、あんたの全財産|なんだからな！=Yeah, it was a lot of money! After all, it was your money!
 なん……だって……？=Wh...at...?
 もしや、その羽振りのいい商人って|……。=When you said a wealthy merchant, you meant...
-そう、あんたのことだよ。|クラフト・ロレンス。=Yes, I'm talking about you. Mr-Kraft-Lawrence.
+そう、あんたのことだよ。|クラフト・ロレンス。=Yes, I'm talking about you. Mr Kraft Lawrence.
 以前のオレなら、一も二もなくこの|話に乗っていただろう。=In the past, I would have taken his offer without a second thought.
 しかし、オレは……！=But, now...!
 ……すまなかった。=...I'm sorry.
@@ -6386,7 +6386,7 @@ bg_t21_zahl=bg_yadoheya_small
 あっと、あちらのお客さんが呼んで|ますのでこれで失礼しますね。=Ah, there's a customer over there.|If you'll excuse me...
 # Common lines
 !FILE:event/special/special_eve_b_end.wsb#dupes
-エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were undeniable. She sold the goods I bought for high prices one after the other.
+エーブの手腕は、さすがだった。|俺が仕入れた品物を、次々と高値で|売りさばいていった。=Her skills were undeniable. She sold the goods I bought and got high prices one after the other.#was kinda ambiguous
 俺たちは、いい相棒同士になれた。|今でもこうして二人で各地を巡りな|がら行商を続けている。=We made good partners. Even now, the two of us continue to travel around, peddling our wares.
 商才もあり、気の合うエーブと一緒|の旅は、全く苦痛を感じない。|むしろ、楽しいとさえ思っている。=Traveling with the talented and like-minded Eve, I feel no spite. In fact, it's rather enjoyable.
 そろそろどこかに腰を落ち着けよう|かと思っているが、おそらくまだ先|のことになるだろう。=I had wanted to settle down somewhere, but it seems that'll be a way off yet.
