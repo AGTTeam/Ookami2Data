@@ -4214,7 +4214,7 @@
 こんなわがままな連れの言い分を否|定できない自分に少々納得いかない|が……。=I’m not so sure about that, given that I couldn’t deny the selfish demands of my companion...
 お前のために、俺が汗水流しておこ|した火には違いない。|早く温かいスープを作ろう。=But, this fire is undoubtedly the result of my hard work for your sake. Let’s make some hot soup.
 うむ！=Mhm!
-!FILE:event/ev_ren/ren_lka_01_tabigaowattemo.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_01_tabigaowattemo.wsb
 ねえ、おにいちゃん……。=Hey, mister...
 どうした？|おなかすいたか？=What’s up? Are you hungry?
 違うよっ！|ちょっと、気になることがあって。=No! I was just thinking about something.
@@ -4239,7 +4239,7 @@
 ホロの故郷がどこにあるのか、まだ|よくわかってないんだ。|長い旅になるかもな。=We’re still not sure where Holo’s hometown is. It could be a long trip.
 そっか……。|やっぱり、そうだよね。=Oh... I thought it might be like that.
 でも、おにいちゃんは戻ってきてく|れるって信じてる。|ルカ、待ってるよ……。=But, I believe that you’ll come back!|I’ll be waiting...
-!FILE:event/ev_ren/ren_lka_02_manekko.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_02_manekko.wsb
 ほい、腸詰め盛り合わせお待たせ！=Order up! One platter of assorted stuffed meats for you.
 おお、来た来た。|なんとも美味そうじゃの！=Ooh, it’s finally here! ’Tis a mouthwatering display!
 おお、これはまた美人のお客さん|だな！=Why, what a beautiful customer we have here!
@@ -4292,7 +4292,7 @@
 おいおい、たきつけないでくれ。|じゃあ、改めて乾杯しようか。=Hey, don’t rile her up even more. Alright, should we start again then with a toast?
 そうじゃそうじゃ！|もう、待ちきれぬ！=Good thinking! I can’t wait any longer!
 うん、かんぱーい！|いただきまーす！=Cheeeers~!|I’ll take this one!
-!FILE:event/ev_ren/ren_lka_03_kosupure.wsb#several dupes with other ‘kosupure’ scenes proofread shnurks
+!FILE:event/ev_ren/ren_lka_03_kosupure.wsb#several dupes with other ‘kosupure’ scenes
 ……何じゃ？|やけに人だかりができておるのう。=...Hm? That’s quite the crowd.
 なんだか、楽しそうな曲も聞こえて|くるよ！|お祭りかな……。=I can hear some nice music!|Is it a festival...?
 そうなのかもな。|見せ物か大道芸でも出ているのかも|しれない。=Could be. I guess they decided to put a show or some kind of street performance on.
@@ -4367,7 +4367,7 @@
 おにいちゃん、これ。|クローゼットに毛布の大きいのが|あったよ。=Here, mister. I found this big blanket in the wardrobe.
 おお、ありがたいな。|これ一枚あれば、どうにかなりそう|だ。=Oh, thank you. I think I should manage with this.
 うん、風邪引いちゃやだよ！|じゃ、おやすみなさい……。=Yeah, I don’t want you to catch a cold!|Well, good night...
-!FILE:event/ev_ren/ren_lka_05_sukosiha.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_05_sukosiha.wsb
 ……ん？|何だ、これ。=Hm? What's this?
 どうしたの、おにいちゃん？=What's wrong, mister?
 見慣れない傷があるんだ。|ほら、ここ。|荷台のところ。=There's some scratches I've never noticed before. Here, on the inside of the cart.
@@ -4397,7 +4397,7 @@
 だめだよ。|だって、それじゃ間に合わないもん|……。=I can't do that. I wouldn't be able to make it in time...
 えっ？|何に間に合わないって？=Huh? Make what in time?
 えへへ、何でもないよ！=Ehehe, nothing~!
-!FILE:event/ev_ren/ren_lka_06_turinoudeha.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_06_turinoudeha.wsb
 ……ん？|ぬしよ、何やら水のにおいがするの。=...Hm? I smell water.
 そろそろ川が近いからな。|気をつけて走らないと……。=We're coming up close to a river. I'd better watch our speed.
 あっ、おにいちゃん、おねえちゃん！|向こうに水面が見えるよ！=Ah, mister, lady! I can see water over there!
@@ -4428,7 +4428,7 @@
 さあ、天気がいいうちにもう少し|先へ行ってしまおう。=Come on, let's make some more progress while the weather is still good.
 ちょっと見てみたかったような気も|するけど……。|でも、先に進むのも大事だもんね！=I wanted to take a look, but... Making progress is important too!
 そうじゃな。|早く町について、のんびりしたい|のう……。=Quite right. I want to get into town soon and take it easy.
-!FILE:event/ev_ren/ren_lka_07_homesick.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_07_homesick.wsb
 ふう……。=*Sigh...*
 どうした。|ため息なんてついて。=What's wrong, sighing like that?
 それに、食事にも全然手をつけて|ないじゃないか。|風邪でもひいたか？=Plus, you've hardly touched your food, have you? Do you have a cold?
@@ -4494,7 +4494,7 @@
 くふ、温泉の楽しみを味わえるよう|になるにはもうしばらくかかりそう|じゃの。=Heh-heh, it seems she is still too young to be able to experience the pleasure of a hot spring.
 # Common lines
 いいもの……？|何だったのかな……。=Something good? I wonder what it was...
-!FILE:event/ev_ren/ren_lka_09_kagaguruma.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_09_kagaguruma.wsb
 おにいちゃん、おねえちゃん！|来て来て、こっち来て！=Mister, lady! Come here, over here!
 どうしたんだ、大声出して。=What's got you so worked up?
 上、上っ！|見てよ、これ！|すごいよ！=Look, up there! It’s amazing!
@@ -4531,7 +4531,7 @@
 でも、こうして肩車してもらってる|のってなんだかいいね！|ルカ、このままでもいいな……。=It's fun just to have a piggyback ride!|I wish I could stay like this...
 おーい。|早く、してくれ……！=Hey, could you please hurry it up...?
 あっ、ごめんなさいっ！|すぐ取るね！=Ah, I'm sorry! I'll pick some now!
-!FILE:event/ev_ren/ren_lka_10_aan.wsb#dupes with other aan scenes proofread shnurks
+!FILE:event/ev_ren/ren_lka_10_aan.wsb#dupes with other aan scenes
 ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 そうだね、もう真っ暗だね。|泊まるところ、あるといいね……。=Yeah, it's already dark. I hope we can find somewhere to stay.
 寝泊まりするところぐらいなら、ど|うにかなるじゃろ。|問題は、飯のほうじゃ。=I'm sure that we can find an inn to stay at. The problem is food.
@@ -4573,7 +4573,7 @@
 町に早く着くより、おにいちゃんの|方が大事だよ！=You're more important than just us getting to town sooner!
 ……そうだな。|明日には……元気になるよ。|ルカのためにも。=...You're right. I'll be better tomorrow. For your sake too.
 約束だよ！|もう絶対、こんな心配かけちゃやだ|よ……！=It's a promise! Don't ever make me worry like that again!
-!FILE:event/ev_ren/ren_lka_11_mizuabi.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_11_mizuabi.wsb
 おにいちゃーん！|川が見えてきたよ！=Mister! I see a river!
 おお、これはまた大きな川じゃ！|水も澄んでいて、気持ちよさそう|じゃ。=Oh, and a considerable one at that!|The water is clear and looks nice.
 流れもゆるやかだな。|良い天気だし、視界も開けてるし、|休むにはちょうどよさそうだ。=The current's not too strong either. Plus, it's a clear day and the scenery is nice, so it looks perfect for a little stop.
@@ -4601,7 +4601,7 @@
 おい、お前たち！=Hey, you two!
 おっと、逃げるが勝ちじゃ！|娘よ、行くぞ！='Tis our win if we escape! Come, girl!
 うんっ！|おにいちゃーん、こっちまでおいで|ーっ！=Okay! Catch us if you can, mister~!
-!FILE:event/ev_ren/ren_lka_12_kakekko.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_12_kakekko.wsb
 ぬし！|一羽、そっちに行ったぞ！=There! One of them went that way!
 えっ？|どこだ？|見えないぞ！=Huh? Where?|I can't see it!
 おにいちゃん！|そっちじゃないよ！|向こうの草陰！=Not that way, mister! Over there, in the grass!
@@ -4663,7 +4663,7 @@
 もっとも、今でも知れたものではな|いがな。|雄なんて単純じゃからの。=Though, perhaps he already is. Males are such simple creatures.
 ホロっ！=Holo!
 くふふ、冗談じゃ。=Heh-heh, I jest.
-!FILE:event/ev_ren/ren_lka_14_momononitayatu.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_14_momononitayatu.wsb
 ……ふう、ようやく着いたな。=*Sigh*|We're finally here.
 今回はしんどかったのう……。='Twas rather hard going this time.
 確かにきつかった。|途中で雨に降られたしな。=Yeah, it has been tough. Not to mention that rain we got caught in earlier.
@@ -4700,7 +4700,7 @@
 でも、あれって高価なものなんだよ|ね……。|ごめんね、おにいちゃん。=But they're expensive, aren't they?|I'm sorry, mister...
 お金はこういう時に使うものさ。|ルカが元気になってくれるのなら、|安いものだよ。=There's nothing wrong with spending money at times like this. If you're feeling better, it's a small price to pay.
 ありがとう、おにいちゃん……。=Thank you, mister...
-!FILE:event/ev_ren/ren_lka_15_osakana.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_15_osakana.wsb
 んー、いい匂いじゃ。|夕げの仕度の匂いがする。|町に戻ってくるのはいいものじゃな。=Mm, it smells good. 'Tis the smell of preparations for the oncoming evening.|How nice it is to be back in a town.
 ほっとする匂いだな。|俺たちも早く宿を見つけて、夕飯を|食べにいこう。=It is a comforting smell. Well, we should start getting ready for the night too and find a place to stay then grab some dinner.
 賛成じゃ！|今宵は何を食べさせてくれるのかや。=Agreed! What will you treat us to tonight?
@@ -4729,7 +4729,7 @@
 それより隣の店はどうだ？|肉を焼く、いい匂いがしている。|しかも、安くすみそうだ。=What about the place next door? It smells of roast meat. Plus, it's probably cheaper too.
 反対する理由もないの。|そこにするかや。=I see no reason to argue.|Shall we go there, then?
 うん……。=Okay...
-!FILE:event/ev_ren/ren_lka_16_mitakotonai.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_16_mitakotonai.wsb
 わあ、すごい！|露店がたくさん並んでるよ！|お祭りみたい！=Wow, it's amazing! There are so many stalls! It's like a festival!
 ずいぶんはしゃいでおるの。|まあ、これだけたくさんの店が並ん|でおれば無理からぬことじゃが。=You are certainly in high spirits. Well, 'tis no surprise with all these stalls around.
 確かに多いな。|珍しい屋台も出ているようだ。=There is a lot here. Some unusual ones, too.
@@ -4761,7 +4761,7 @@
 露店はまたあるさ。|今は先を急ごう。=There are other stores. Let's keep going.
 そうだね。|でも、思い返したらおなかがすいて|きちゃった……。=Right... But now that I think about it, I am hungry...
 娘よ、もう言うでない。|余計にひもじくなりんす……。=Don't say anymore, girl. You'll make me even hungrier...
-!FILE:event/ev_ren/ren_lka_17_utatane.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_17_utatane.wsb
 ぬしよ、川じゃぞ。|このあたりで今日は休まぬか？=Look, there’s a river. What say we rest here?
 そうだな。|そろそろ陽も落ちるし、今日はこの|あたりで休むとしよう。=Right. The sun’ll be going down soon, so maybe we should stop here for the day.
 うむ！|暗くなってから動くのは気が進まぬ。|夜は、ゆっくり休みたい。=Mhm! I’m not inclined to travel when it’s dark. At night, I only wish to have a good sleep.
@@ -4804,7 +4804,7 @@
 わっちは薪を集めてくる。|当分戻らぬから、好きに野営でも|なんでもするがよい。=I’m going to go and collect the firewood.|I won’t be back for a while, so you should make camp or whatever you please.
 ホロ！|おい、待てよ！=Holo! Hey, wait!
 ん、んん……。|どうしたの、おにいちゃん、おねえ|ちゃん……？=N-Nnn...|What’s wrong, mister...?
-!FILE:event/ev_ren/ren_lka_18_kakurenbo.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_18_kakurenbo.wsb
 ……あれ？|ルカは？=...Oh? Where's Luka?
 ん？|ぬしと一緒におったのではなかった|のかや？=Hm? Wasn't she with you?
 えっ？|さっき焚き火のそばにいたから、俺|はお前と一緒にいるものだと……。=Huh? You were near the fire, so I thought she was with you...
@@ -4835,7 +4835,7 @@
 そんな顔するな。|俺ももう怒ってないから。|水でも汲んできてくれないか。=Don't pull that face. I'm not mad anymore. Why don't you go and grab some water?
 ついでに顔を洗ってくるといい。|可愛い顔がだいなしだ。=You can wash your face while you're at it. You'll spoil your pretty face.
 えへへ……。|ありがとう、おにいちゃん……。=Ehehe... Thanks, mister...
-!FILE:event/ev_ren/ren_lka_19_ginkano.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_19_ginkano.wsb
 え、ええと……。|これ、なんだっけ？|おねえちゃん、わかる？=Um... What was this one again? Do you know, lady?
 ファラなんとか銀貨……じゃなかっ|たかの。='Tis the Fara-something-or-other... is it not?
 残念。|それは後期ラデオン司教領銀貨。=Too bad. That's the Late Radeon Bishopry silver.
@@ -4891,7 +4891,7 @@
 すごくはないが、流通している最低|限の貨幣は覚えてもらわないとな。|じゃあ、もういっぺん行くぞ。=Not really, all merchant's need to know the coins which are currently in circulation, at least. Alright, once again from the top.
 ミッツフィング聖誕祭銀貨、ミッツ|フィング大聖堂銀貨、偽ミッツフィ|ング大聖堂銀貨、聖ミッツ……。=Mitzfingmas silver, Mitzfing Temple silver, Fake Mitzfing Temple silver, Saint Mitz--
 やっぱりからかっとるじゃろ！=You are toying with us, aren't you?!
-!FILE:event/ev_ren/ren_lka_20_doyatte.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_lka_20_doyatte.wsb
 では、旅の無事と商売の成功を祈っ|て……。=Here’s to a safe journey and happy trading!
 乾杯じゃ！=Cheers!
 かんぱーい！=Cheeeers!
@@ -5944,7 +5944,7 @@ bg_t21_zahl=bg_yadoheya_small
 くふふ、何でもありんせん。|それよりぬしよ、せっかく靴を直し|たのじゃから、少し歩こう？=Heh-heh-heh, ’twas nothing. More to the point, now that my shoes have been nicely mended, what say we go for a little walk?
 そうだな、町の中央に小さな泉が|あった。|行ってみようか。=There’s a small spring in the middle of town. Why don’t we go there?
 うむ。|今日はすこし遠回りして戻りたい気|分じゃの……。=Mhm! I feel like taking the long way round today.
-!FILE:event/ev_ren/rru_lka_b2a.wsb#proofread shnurks
+!FILE:event/ev_ren/rru_lka_b2a.wsb
 おやおや、お嬢ちゃん。|どうしたんだい？=Oh, young lady. What are you doing here?
 おにいちゃんを待ってるの。|ロレンスおにいちゃん。|ここにいるんでしょ？=I'm waiting for Mister Lawrence. He's here, right?
 ああ、まだ商談中のようだね。|しばらくそこで待っててくれるかな。=Yes, he's still in a meeting. Would you mind waiting a little longer?
@@ -5976,7 +5976,7 @@ bg_t21_zahl=bg_yadoheya_small
 ………………。=......
 ん？|なんだか顔が赤いな。|風邪でもひいたか？=Hm? Your face is a bit red.|Have you caught a cold?
 だっ、大丈夫だよ！|早く帰ろ、おにいちゃん！=I-I'm fine! Let's just go already!
-!FILE:event/ev_ren/rru_lka_c2b.wsb#proofread shnurks
+!FILE:event/ev_ren/rru_lka_c2b.wsb
 ここは開けてよい景色じゃな。|沢もあるし、夜を過ごすにはもって|こいじゃ。=This is a nice open landscape, and there is a stream to boot. 'Twould be a good place to spend the night.
 そうだな、今夜はここで休むとしよ|うか。=You're right. How about we stop here for today?
 うん、賛成！=Yeah, agreed!
@@ -5998,7 +5998,7 @@ bg_t21_zahl=bg_yadoheya_small
 はは、わかったわかった。|じゃあ、俺と一緒に水汲みに行こう。|それでいいな？=Ha-ha, alright, I get it.|Then, how about we go collect water together? Is that okay?
 うんっ！=Yeah!
 まったく……。|ぬしは本当に押しに弱い雄じゃな。=Honestly... You really are a pushover.
-!FILE:event/ev_ren/rru_lka_d2c.wsb#proofread shnurks
+!FILE:event/ev_ren/rru_lka_d2c.wsb
 思いのほか早く着いた。|まだ日が高い。=We're here earlier than expected. The sun is still high.
 ああ、これならまだ商売にだって|出かけられそうだ。|体力も残ってるしな。=Yeah, I'm thinking I could go and do a bit of business. I've still got some energy left.
 ………………。=......
@@ -6435,7 +6435,7 @@ bg_t21_zahl=bg_yadoheya_small
 ぬしは優しいからの。|賢狼の名折れじゃとは思いつつも、|ついつい甘えたくなってしまいんす。=You are so kind. I know it is disgraceful for a wisewolf, but I cannot help but want to be spoiled by you.
 じゃがそんなわがままも、ぬしと一|緒にいたいがためなんじゃ。|わかってくれておるんじゃろ？=This selfishness is all because I want to be with you. You understand that, don't you?
 のう、ぬしよ……。|これからも、一緒にいてくりゃれ？=Say...|Won't you always stay with me?
-!FILE:event/special/special_gameclear_luka.wsb#proofread shnurks
+!FILE:event/special/special_gameclear_luka.wsb
 あっ、おにいちゃん！|ルカと一緒に旅をしてくれて、どう|もありがとう！=Ah, mister! Thank you for choosing to travel with me!
 ルカね、どうなるんだろうって本当|に不安だったんだ。|誰も味方はいなかったし……。=You know, I was really worried about what was going to happen. It was like no one was on my side...
 だからおにいちゃんと一緒にいられ|て、ルカはすっごく嬉しかったよ。|旅っていいね！=So I was really happy to go with you. Traveling is so fun!
