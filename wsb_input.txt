@@ -7,10 +7,10 @@
 ＄ノーラと|なんだか　いいカンジ！=＄Norah seems happy!
 ＄エーブと|なんだか　いいカンジ！=＄Eve seems happy!
 ＄ルカと|なんだか　いいカンジ！=＄Luka seems happy!
-＄ホロと|ちょっぴり　いいカンジ？=＄Holo seems a little happy.
-＄ノーラと|ちょっぴり　いいカンジ？=＄Norah seems a little happy.
-＄エーブと|ちょっぴり　いいカンジ？=＄Eve seems a little happy.
-＄ルカと|ちょっぴり　いいカンジ？=＄Luka seems a little happy.
+＄ホロと|ちょっぴり　いいカンジ？=＄Holo seems a little happier.
+＄ノーラと|ちょっぴり　いいカンジ？=＄Norah seems a little happier.
+＄エーブと|ちょっぴり　いいカンジ？=＄Eve seems a little happier.
+＄ルカと|ちょっぴり　いいカンジ？=＄Luka seems a little happier.
 ＄ちょっと|ハズしちゃったみたい……=＄That could have|gone better...
 ＄ホロの気持ちが|ぐぐっと　近づいた！=＄You and Holo have become|a lot closer!
 ＄ノーラの気持ちが|ぐぐっと　近づいた！=＄You and Norah have become|a lot closer!
