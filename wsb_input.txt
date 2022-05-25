@@ -261,7 +261,7 @@
 料理の仕方ひとつで、こんなに印象|が変わるものなんですね。|職人さんの技って、すごいですよね。=It's incredible how the way something's cooked can change it so much. The chef must be truly talented.#p1
 でも、ちょっぴり怖いです……。|こんなものを食べてしまうと、舌が|贅沢になってしまいそうで。=But it does make me a bit nervous... I fear that if I eat such food, my taste buds will grow accustomed to luxury.#p1
 おいしかったです。|ごちそうさまでした。=It was good. Thank you for treating me.#p1
-なかなかいけるじゃないか。|さすがはあんたが選んだ店だ。=It's a pretty swanky place, huh? I expected nothing less from a restaurant chosen by you.#p1
+なかなかいけるじゃないか。|さすがはあんたが選んだ店だ。=It's a pretty classy place, huh? I expected nothing less from a restaurant chosen by you.#p1
 しかしこんな料理をおごってくれる|なんて、あんたも豪気だな。|いつの間にそんなに儲けたんだ？=But you must be feeling bold to treat me something like this. When did you make that much money?#p1
 これだけの食感を残すには、相当き|め細かい技術が必要なはずだ。|料理長、相当な腕利きだな。=No doubt it took a great deal of finesse to get the texture just right. At least the head chef knows what he's doing.#p1
 ふふ、あんたも罪作りだな。|こんなうまい料理を食べさせて、オ|レをどうするつもりなんだ？=Heh-heh, but you're truly wicked. Now that you've filled me up with such fine food, what do you plan to do with me?#p1
@@ -1465,10 +1465,10 @@
 !FILE:event/ev_main/main_280_select_eve.wsb
 よう。|待ってたぜ、座れよ。|せっかくだ、ゆっくりしていけよ。=Hey, I’ve been waiting for you. Take a seat. Let’s enjoy ourselves.
 しかし航路に目を付けるなんて、あ|んたもなかなか隅には置けないな。|オレが見込んだだけのことはある。=If you’ve got your eyes on the sea, you must be pretty something. I knew I was right about you.
-考えてることもだいたい判る。|あんたもあの航路以外の抜け道を探|して海を渡ろうとしてるんだろう？=I know what you’re thinking. You’re trying to find another way across the sea, aren’t you?
+考えてることもだいたい判る。|あんたもあの航路以外の抜け道を探|して海を渡ろうとしてるんだろう？=I know what you’re thinking. You’re trying to find another way across, aren’t you?
 あの独占状態に穴を開けられれば、|莫大な利益が転がり込むのは間違い|ないだろうからな……。=I’m sure that if you could steal into that monopoly, you’d make a lot of money.
 そこでどうだい。|あんた達の旅に、オレを加えてみる|気はないか？=So what do you say? Will you let me join you in your travels?
-オレには商品をさばく人脈もある。|あちこちの町に手駒がいてな、売り|の仕掛けも一斉にかけられるんだ。=I’ve got trading contacts spread around here and there. I can set them all to start selling once.
+オレには商品をさばく人脈もある。|あちこちの町に手駒がいてな、売り|の仕掛けも一斉にかけられるんだ。=I also have a network of contacts who handle handmade wares. And I can make use of them anytime.
 あんたは知恵も度胸もありそうだ。|一緒に大きな商戦を仕掛けようじゃ|ないか。=You seem to have the brains and courage. We could wage a large-scale sales war together.
 一緒に行きましょう=Let’s go together.
 遠慮しておきます=I’ll have to decline.
