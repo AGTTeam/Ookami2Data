@@ -1468,7 +1468,7 @@
 考えてることもだいたい判る。|あんたもあの航路以外の抜け道を探|して海を渡ろうとしてるんだろう？=I know what you’re thinking. You’re trying to find another way across, aren’t you?
 あの独占状態に穴を開けられれば、|莫大な利益が転がり込むのは間違い|ないだろうからな……。=I’m sure that if you could steal into that monopoly, you’d make a lot of money.
 そこでどうだい。|あんた達の旅に、オレを加えてみる|気はないか？=So what do you say? Will you let me join you in your travels?
-オレには商品をさばく人脈もある。|あちこちの町に手駒がいてな、売り|の仕掛けも一斉にかけられるんだ。=I also have a network of contacts who handle handmade wares. And I can make use of them anytime.
+オレには商品をさばく人脈もある。|あちこちの町に手駒がいてな、売り|の仕掛けも一斉にかけられるんだ。=I have a network of contacts who specialize in shifting goods. And I can make use of them anytime.#‘handmade wares’ made it sound a little limited. She basically has contacts who know where to find the right market to sell things.
 あんたは知恵も度胸もありそうだ。|一緒に大きな商戦を仕掛けようじゃ|ないか。=You seem to have the brains and courage. We could wage a large-scale sales war together.
 一緒に行きましょう=Let’s go together.
 遠慮しておきます=I’ll have to decline.
