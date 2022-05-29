@@ -914,7 +914,7 @@
 でも、ディーモルンで船に乗れない|ことが判って……。|仕方なく戻ってきたところなんです。=But, when I arrived in Diemoln, I learnt that I couldn’t take the boat... With nothing else to do, I just went back.
 何故じゃ？|船が、出ておらんのか？=Why’s that? Are there no boats?
 えっと、違います。|船自体は出ているみたいなんです。=Aah, it’s not that. It looked as if there were boats leaving the port.
-でも、今はディーモルンの港は渡航|制限がかかってるんです。|私、乗せてもらえなくて……。=But there's a travel restriction at Diemoln at the moment, so I wasn’t allowed on...
+でも、今はディーモルンの港は渡航|制限がかかってるんです。|私、乗せてもらえなくて……。=But there's a travelling restriction at Diemoln at the moment, so I wasn’t allowed on...#?
 本当ですか？=Is that true?
 ええ、本当です。|私みたいな素性の知れない人間はお|断りだって言われちゃいました。=Yes. I was told that they don't accept strangers like me.
 それに、船賃がすごく高くて……。|貯めたお金じゃ全然足りないことも|判ったので、戻ってきたんです。=Not to mention that the boat fare was very expensive... It turned out that the money I had saved was not enough, so I came back.
@@ -1203,7 +1203,7 @@
 なんと！|ルカって、あの小娘のルカかや！=What?! Luka? That young girl?!
 なんと、知り合いか？！=You know her?!
 いや、私も会ったことがある程度で|彼女と知り会いというほどでは……。|そうだよな、ホロ。=No, we’ve met her, but I wouldn’t say we know her... Right, Holo?
-そうかや？|わっちにはあの小娘にたいそう興味|があるように見えたがの。=Is that so? From where I was stood, you seemed to be rather interested in her.
+そうかや？|わっちにはあの小娘にたいそう興味|があるように見えたがの。=Is that so? To me, you seemed to be rather interested in her.#?
 ……っ！？=...!?
 いずれにせよ、知っておるのなら|ありがたい。|それに、信用もできそうだ。=Either way, if you’ve met her that’s a blessing to my ears. You seem to be someone I can trust.
 商人よ、これは相談だが……叶う|ものならそのルカという娘をここに|連れてきてはもらえぬだろうか。=Merchant, this is my request... I beg you, could you bring the girl, Luka, to me?
@@ -1255,7 +1255,7 @@
 うん、そうする！=Yeah, okay!
 くふ。|ぬしも、お人好しじゃの。=Heh. You are a soft touch.
 でも、遠くの町まで馬車で旅する|なんて、なんだかすごい！|どきどきするなあ……。=I never thought I’d get to travel to a distant city in a horse-drawn cart! It’s amazing! I’m so excited~
-娘よ、遊びではないんじゃ。|おとなしくしておれよ。=It is not a toy, girl. You must behave yourself.
+娘よ、遊びではないんじゃ。|おとなしくしておれよ。=It is not for fun, girl. You must behave yourself.
 うん、わかったよ。|ホロお姉ちゃん！=I understand, Lady Holo!
 おね……！=La--!
 はは、相手が一枚上手だったな。|さあ、そうと決まったら旅支度だ。|旅の荷物をまとめておいで。=Ha-ha, she’s got you there. Alright, now that that’s decided, let’s get ready to depart. Go and pack up whatever you need.
@@ -1286,7 +1286,7 @@
 ちっ……。|仕方ないですね、お見せいたします|よ。=Tch... Guess I have no choice but to show my full hand.
 ほら、見てください。|この村の渡航許可証です！=Here, look at this. It’s the document approving sea travel in this village!
 これは……！=This is...!
-それ、お父さんの！|泥棒っ！|返せ、返せっ！=That’s my dad’s--! Thief! Give it back!
+それ、お父さんの！|泥棒っ！|返せ、返せっ！=That’s my dad’s--! Thief! Give it back, give it back!#more in line with the original sine we have the space
 このガキ……っ！|黙ってろと、あれほど……！=You brat...! I told you to shut up!
 ……待て、ルカ。=...Wait, Luka.
 お兄ちゃん……？=Mister...?
@@ -1302,7 +1302,7 @@
 なるほど、それはますます結構です！|いやはや、先に言ってくださいよ！|ささ、どうぞどうぞ……。=I see, that is most agreeable. You should have said so first! Please, go ahead...
 すまなかったな、ルカ。|よく我慢した。|いい子だったぞ。=I’m sorry, Luka. You had to put up with a lot. You’re a good girl.
 どうして……？|お兄ちゃん達は、あいつらの味方|なの？=Why did you...? Are you on their side?
-そんなわけ、ありんせん。|しかし、ぬしも思いの外あっさりと|引き下がったものじゃの。=Hardly. However, you did back down more easily than I expected.
+そんなわけ、ありんせん。|しかし、ぬしも思いの外あっさりと|引き下がったものじゃの。=Hardly.|However, you did back down more easily than I expected.
 ……まあ、な。=...Well, you know.
 くふ、涼しい顔しててもわっちは|だまされんぞ。|何か考えとるな、ぬしよ。=Heh-heh. I won’t be fooled by that calm expression. You have caught whiff of something, no?
 ああ。|はっきりとは言えないが、おそらく|あの書類は……。=Yeah. I can’t say for sure, but that document was probably...
@@ -1592,7 +1592,7 @@
 ええ、勿論です。|この近くに懇意の錬金術師がいます。|話を通しておきますね。=Yes, of course. I know of an alchemist very close by. I will talk to her.
 私のところまで必要な材料を持って|きてください。|調剤するように頼んでおきます。=Bring the ingredients you need to me. I will ask her to fill the prescription.
 ただ、いつも資金繰りに困っている|ため、工房は大きくありません。|作れない製剤もあると思います。=But, she only has a small workshop due to lack of funds. There may be things she can’t prepare.
-多少の資金援助が必要になるかも|しれませんから、そこはよろしく|お願いしますね。=I will have to ask you to take care of it should there be a need of financial support.
+多少の資金援助が必要になるかも|しれませんから、そこはよろしく|お願いしますね。=I will have to ask you to take care of it should there be a need for financial support.
 あと、処方の中にはこのあたりでは|入手が困難な材料がいくつかあるよ|うです。=Also, it seems that there are some ingredients in this prescription which would be difficult to source locally.
 もしどこに行けば良いかわからなく|なった場合は、聞いてください。|判る範囲でお答えしますよ。=If you find yourself unsure of where to go, please ask. I will do my best to answer.
 助かります！|なんとお礼を言っていいか……。=That would be amazing! How can I ever thank you--
@@ -2157,12 +2157,12 @@
 お世辞なんかじゃないですよ。|ホロさんは本当にお美しいですから。=It wasn’t flattery. You really are beautiful, Miss Holo.
 くふふ、口が上手いの。|ぬしも商人の端くれなら、これくら|いのことを言ってみてはどうじゃ？=Heh-heh. A fine talker. Say, seeing as though you’re a so-called merchant too, why don't you try speaking as he does?
 ………………。=......
-おっと、申し遅れました。|私、クメルスンで魚の仲買人をして|いたアマーティと申します。=Oh, where are my manners? I am Amati, a fish dealer out of Kumersun.
+おっと、申し遅れました。|私、クメルスンで魚の仲買人をして|いたアマーティと申します。=Oh, where are my manners? I am Amati, a fish dealer from Kumersun.
 ホロさんは以前一人旅ではないとお|っしゃってましたが、もしやあなた|が……？=Miss Holo did mention before that she wasn’t traveling alone. Might you be...?
 私の名は、クラフト・ロレンス。|見ての通り、行商人です。|どうぞよろしく。=My name is Kraft Lawrence. As you can see, I'm a traveling merchant. It's nice to meet you.
 なるほど、ご同業ですか。|私も今は新たな商品を求めて、行商|の旅に来ているところなんです。=I see, we are in the same business.|I'm currently on a journey in search of new goods.
 実は恥ずかしながら、今日は魅力的|な商品に出会えなくて、少し気落ち|していたところなんです。=I'm embarrassed to say that I was feeling a bit down today as I didn't find any products that appealed to me.
-でも、こんな遠くの町でホロさんに|再会できる幸運に巡り会えるなんて。|旅も、捨てたものではないですね。=But I never thought I'd be so lucky as to see Miss Holo again. Traveling is not something to be abandoned, is it?
+でも、こんな遠くの町でホロさんに|再会できる幸運に巡り会えるなんて。|旅も、捨てたものではないですね。=But I never thought I'd be so lucky as to see Miss Holo again. Traveling has it's charms, doesn't it.#iirc thats how you translate 捨てたものではない
 私もがぜんやる気が出てきました。|旅を続けていれば、またどこかでお|会いできるかもしれませんね。=I've suddenly become motivated.|If I continue my journey, we may meet again somewhere.
 ……ホロさん。=...Miss Holo.
 なんじゃ？=What is it?
@@ -4990,11 +4990,11 @@
 ええ、荷台に何も荷物がなかったで|すから。=Yeah, since it wasn't carrying anything.
 きっと、農家の荷馬車なのでしょう。|行商人の荷馬車なら、荷台が空とい|うことはありません。=It must be a farmer's wagon. A peddler's cart would never be empty.
 なるほど……。|言われてみれば、確かにそうですね。=I see... Now that you mention it, that makes a lot of sense.
-おそらく、町での取引を終えて村へ|戻るんでしょうね。|うらやましいことです。=They must have finished their business in town and be on their way home. I'm jealous.
+おそらく、町での取引を終えて村へ|戻るんでしょうね。|うらやましいことです。=They must have finished their business in town and be on their way home.|I'm jealous.
 うらやましい……ですか？=Jealous... of the farmer?
 ええ、とても。=Yes, very much so.
 帰るところがある幸福。|それは、行商人が常に求める夢です|からね。=The joy of having a place to return to. That's the dream of all merchants.
-そう、ですね……。|すみません、変なこと聞いてしまっ|て。=I see... Sorry, I asked something weird.
+そう、ですね……。|すみません、変なこと聞いてしまっ|て。=I see...|Sorry, I asked something weird.
 いえいえ、構わないですよ。=No, I don't mind.
 でも……。=But...
 ん？|何ですか？=Hm? What's up?
@@ -5011,7 +5011,7 @@
 さあ、急ぎましょう。|私たちも、明日また一緒に馬車に乗|らなければいけないのですから。=Come on, let's hurry on. We too will have to get back in the cart tomorrow and carry on our way.
 きっと……次の旅でも、一緒になれ|ますよ。=And I'm sure even on the next journey... we'll still be together.
 はい、ロレンスさん！=Yes, Mr. Lawrence!
-そうですね、私も寂しいです。|ずっと一緒に旅をしてきましたから|ね。=You're right. It will be hard for me too. We've been traveling together for so long now.
+そうですね、私も寂しいです。|ずっと一緒に旅をしてきましたから|ね。=You're right. It will be hard for me too. We've been traveling together for so long after all.#...からね
 でも、私たちにはやらなければなら|ないことがありますから。|それは自覚しているつもりです。=But, we all have things that we must do. That thought is never far from my mind.
 それに……。|旅が終わるのは、私たち全員にとっ|て喜ばしいことのはずでしょう？=And... Won't the end of our travels mean a good thing for us all?
 そう……ですよね。|すみません。=You're... right. I'm sorry.
@@ -5052,7 +5052,7 @@
 いやあ、ありがとうございました！|お陰様で、大盛況です！|割れんばかりの拍手でしたよ！=Why, thank you so much! Thanks to you, it was a great success! There was a huge applause!
 あれでよかったんでしょうか？|わ、私はちょっと恥ずかしかったで|す……。=Was that alright?|I-I was a bit embarrassed...
 何をおっしゃいますか！|もう、反響が凄かったですよ。|あの新しい子は誰なんだ、って。=What are you saying? The response was amazing. Everyone was asking who you were.
-もしよければ、うちの団に入ってく|れれば嬉しいんですが！|そして、是非続編を……！=If you would, I'd love for you to join our troupe! And, for the sequel...!
+もしよければ、うちの団に入ってく|れれば嬉しいんですが！|そして、是非続編を……！=If you would, I'd love for you to join our troupe! And, for the sequel--!#?
 えっ？！|それは困ります！|ロレンスさん、助けてください！=Huh!? I-I can't!|Mr. Lawrence, please help!
 すみませんが、さすがにちょっと。|私たち、旅の途中なものですから。=I’m sorry, but I’m afraid now’s a bad time. We’re in the middle of something, you see.
 そうですか、残念です……。=Is that so? What a shame...
@@ -5089,7 +5089,7 @@
 私、今すごく幸せです。|普段なかなかお伝えできないですけ|ど、本当に感謝してるんです。=I'm really happy. I always miss my chance to tell you this but, I really appreciate it.
 こうしてロレンスさんと二人でお話|しいるてと、雨がやまなければいい|のに……って、つい考えちゃいます。=Talking with you like this, I catch myself hoping that the rain will never stop.
 私……。|あのときから、ずっと同じ事を考え|ているのかもしれないです……。=I... think I've probably been hoping the same thing, ever since that day...
-!FILE:event/ev_ren/ren_nra_05_akogareno.wsb
+!FILE:event/ev_ren/ren_nra_05_akogareno.wsb#proofread shnurks
 おお、広場がにぎわっておるの！|人もたくさんおる！=Oh, the square is bustling today!|There are so many people!
 これは……なるほど、服の青空市の|ようだな。=It's... Ah I see, it looks like there's an open-air clothes market on.
 ええ。|色とりどりで、華やかで……見てい|るだけでも楽しくなりますよね！=Right. It's so colorful and splendid...|Just looking is so much fun!
@@ -5166,7 +5166,7 @@
 聞かせてください=Let's hear it.
 お気持ちだけいただきます=I appreciate the thought.
 聞かせてください。|面白そうです。=Please go ahead. It sounds interesting.
-あはは……。|そんなにご期待をいただくほどの話|ではないんですけど。=Ah-ha-ha, I don't know if it's anything worth getting your hopes up for, but...
+あはは……。|そんなにご期待をいただくほどの話|ではないんですけど。=Ah-ha-ha, I don't know if it's anything worth getting your hopes up for, but...#don't think ?
 構わぬ。|少なくとも、どこぞの商人の話より|は期待できそうじゃ。='Tis fine. It sounds more promising than these merchant tales, at least.
 ……こほん。|じゃあ、お話しますね。=*...Ahem*|Then, I'll get started.
 これは……。|私が昔、とある羊飼いから聞いた話|なのですが……。=This is a story I heard from a shepherd|I knew long ago...
@@ -5197,7 +5197,7 @@
 ぬしらが怖がって眠れなくなってし|まっては、明日からの旅に差し支え|るからの。=If you were too scared to sleep, we would not be able to travel tomorrow.
 うふふ、確かにそうですね。=Tee-hee, that's true.
 ホロ＆ロレンス=Holo & Lawrence
-!FILE:event/ev_ren/ren_nra_08_hanauri.wsb
+!FILE:event/ev_ren/ren_nra_08_hanauri.wsb#proofread shnurks
 ロレンスさん、今日の市は随分と賑|やかですね。=The market seems pretty busy today, right?
 大きなお祭りなんでしょう。|露店もたくさん出ているようです。=It must be a big festival with all these stalls up.
 見たことのない品が、あちこちにた|くさんあります。=There are a lot of things scattered around that I've never seen before.
@@ -5221,7 +5221,7 @@
 最近は、船で遠い異国の花も持ち込|まれたりしているようですからね。|見る機会も増えると思います。=These days, flowers from faraway lands are being brought in by ship. I think you're only going to see them more and more.
 そうなんですか……。|さすがロレンスさん、物知りなんで|すね。=I see...|You really do know a lot, Mr. Lawrence!
 ロレンスさんが大商人になったら、|いろんなお花を見せてくださいね。|私、楽しみにしてます。=When you make it big, I hope you'll show me all different kinds of flowers.|I'll be looking forward to it!
-!FILE:event/ev_ren/ren_nra_09_semairodide.wsb
+!FILE:event/ev_ren/ren_nra_09_semairodide.wsb#proofread shnurks
 ここは、不思議なところですね。|ずいぶんと入り組んでいて……。=This is a strange place.|The streets are very complex...
 この一角だけ妙に建物がぎっしりと|詰まっている感じがします。=Even this one corner seems overcrowded with buildings.
 ええ、この通りはこの町の経済の中|心ですからね。=This street is the economic center of the town.
@@ -5237,7 +5237,7 @@
 近道しましょう。|大回りして戻るのは、やはり骨が折|れます。=Let's take the shortcut. It's a lot of effort to go all the way back round.
 わあ……。|ここ、本当に狭いですね。=Wah... It's really narrow.
 ぎりぎりですが、おそらく大丈夫で|しょう。|さあ、行きますよ。=It's a squeeze, but I think we can make it.|Alright, let's go.
-はい、ロレンスさん。|なんとか……行けそうですね！=Okay, Mr. Lawrence! I think I do it...!
+はい、ロレンスさん。|なんとか……行けそうですね！=Okay, Mr. Lawrence!|I think I can manage...!
 おっと、昨日の雨がまだ残っている|みたいです。|下が少しぬかるんでいますね。=Ah, looks like it's still a bit wet from yesterday's rain. It's muddy underfoot.
 転ぶと危ないですから、一緒に行き|ましょう。|さあ、こちらへ。=It wouldn't be good to slip, so let's go together. Come on, with me.
 えっと……こうですか？=Um... Like this?
@@ -5377,7 +5377,7 @@
 私は何匹も牧羊犬がいるよりも、気|の合う子がいることのほうが大事だ|と思っていますけれど。=I think it's more important to have a friend that understands you rather than just having several dogs.
 そうよね、エネク？=Isn't that right, Enek?
 アォン！=Woof!
-!FILE:event/ev_ren/ren_nra_13_katatataki.wsb
+!FILE:event/ev_ren/ren_nra_13_katatataki.wsb#proofread shnurks
 bg_2_sora_a=bg_2_rousoku
 bg_t01_polo=bg_yadoheya_small
 bg_t02_rubi=bg_yadoheya_small
@@ -5415,15 +5415,15 @@ bg_t21_zahl=bg_yadoheya_small
 ふふ、いつもしかめっ面してる商人|さんより、そういうロレンスさんの|ほうが私はずっといいと思います。=Tee-hee, I think that you are much better than a merchant who is always frowning.
 ……あら、どうしたんですか？|肩なんて、ぐるぐる回して。=...Oh, did something happen to your shoulders? You're rubbing them.#He's rolling his arms around (doing shoulder stretches). Not sure how to make it sound natural in a question.
 緊張してたんでしょうね。|今になって肩が凝ってきたようでし|て……いてててて。=I must have been nervous. My shoulders are a bit stiff now-- Ngh...
-えっと、あの……。|私でよければ、肩、少しほぐしまし|ょうか？=Um... I-I could give you a shoulder massage, if you'd like?
+えっと、あの……。|私でよければ、肩、少しほぐしまし|ょうか？=Um... If you're fine with me, I could give you a shoulder massage, if you'd like?#?
 いいんですか？=Are you sure?
 いや、私がノーラさんの肩を……=No, I'll do yours.
 えっ？|いいんですか？=Huh? Are you sure?
 ええ。|ロレンスさんお疲れのようですし、|私でよければ……。=Yes. You seem tired, so if I could help...
 えっと、あの、もちろんご迷惑でな|ければの話ですけど……。=Um, I mean, if I'm not bothering you...
-いやいやそんな、申し訳ないぐらい|です！|じゃあ、お願いしていいですか？=N-No, it's the opposite! Would you mind?
+いやいやそんな、申し訳ないぐらい|です！|じゃあ、お願いしていいですか？=No, it's the opposite! Would you mind?
 はい！|じゃあ、始めますね。=No problem! I'll get started then.
-よいしょ、よいしょっと……。=There... Is this okay?
+よいしょ、よいしょっと……。=There... Is this okay?#this seems off, but I can't think of anything else either
 む、むむ……。=M-Mmhh...
 ロレンスさん、結構お疲れですね。|肩とか首とか、すごく固いです。=You must be exhausted, Mr. Lawrence.|Your shoulders and neck are so tight.
 ほら、こことか、こことか……。|固まっちゃってます。|少し強く押しますね……っと。=For example, here and... here, it's really stiff. I'll have to use a little more force.
@@ -5444,7 +5444,7 @@ bg_t21_zahl=bg_yadoheya_small
 えっと、えっと……。=Um, ahh...
 でも、やっぱり申し訳ないです……。=I think I will have to refrain...
 すみません、ちょっとでかけてきま|すね！=Excuse me. I'm going to step out for a bit!
-!FILE:event/ev_ren/ren_nra_14_kansetukiss.wsb
+!FILE:event/ev_ren/ren_nra_14_kansetukiss.wsb#proofread shnurks
 うふふ、こら、エネクったら！|くすぐったい！=Tee-hee-hee, stop it, Enek! That tickles!
 アォン！=Woof!
 あっ、もうっ、だめだってば！=A-Ah, enough!
@@ -5493,8 +5493,8 @@ bg_t21_zahl=bg_yadoheya_small
 それは困りましたね。|こら、だめだぞ、エネク。|ノーラさんに迷惑をかけちゃ。=That's a problem.|Listen now, Enek. You shouldn't go causing trouble for Norah.
 クゥーン……？=*Whine*
 まあ、エネクったら。=Oh, Enek...
-ふふ、でもわかってくれたみたいで|す。|ありがとうございます。=Tee-hee, but it seems he understood.|Thank you.
-!FILE:event/ev_ren/ren_nra_15_otosimono.wsb
+ふふ、でもわかってくれたみたいで|す。|ありがとうございます。=Heh, but it seems he understood.|Thank you.#it's super subtle in the audio
+!FILE:event/ev_ren/ren_nra_15_otosimono.wsb#proofread shnurks
 わあ、にぎやかな市ですね！|見てください、ロレンスさん。|綺麗なウリがカゴに山積みですよ！=Wow, what a lively town! Look, Mr. Lawrence, there are mountains of pretty melons piled up in baskets!
 新しく収穫したものが運ばれてきた|のでしょうね。|きっと、豊作だったんでしょう。=They must have been brought in from a recent harvest. It looks like it was a good one.
 それでみんな喜んでいるんですね。|なんだか、私までうかれた気持ちに|なってきてしまいます。=That's must be why everyone seems so happy. It makes me feel happy, too.
@@ -5586,11 +5586,11 @@ bg_t21_zahl=bg_yadoheya_small
 ぬしよ……。|こっぴどくやられたのう。=That was an utter failure...
 ああ、大丈夫だと思ったんだけど|なあ……。|イテテテテ……。=Yeah... I thought it'd be okay... Ouch--!
 すみません……。|私が余計なものを見つけてしまった|ばかりに……。=I'm sorry... I should have never brought it up.
-!FILE:event/ev_ren/ren_nra_17_enekunigohan.wsb
+!FILE:event/ev_ren/ren_nra_17_enekunigohan.wsb#proofread shnurks
 エネクーっ。|いい子にしてた？=Enek~! Have you been a good boy?
 アォン！=Woof!
-こらこら、吠えちゃだめでしょ。|ちゃんと座りなさい。=Hey, you know you mustn't bark. Sit now.
-ほら、ごはんよ。|どう？|おいしい？=Your dinner is ready, sir.|How is it? Is it good?
+こらこら、吠えちゃだめでしょ。|ちゃんと座りなさい。=Hey, you know you mustn't bark.|Sit now.
+ほら、ごはんよ。|どう？|おいしい？=Your dinner is ready.|How is it? Is it good?#Norah always uses polite with everyone except Enek
 おいしいのね？|ふふ……。=You like it, huh?|Tee-hee...
 黙って立ち去る=Leave them be
 声をかける=Interrupt
@@ -5615,7 +5615,7 @@ bg_t21_zahl=bg_yadoheya_small
 すみません……。|せっかくごちそうしてくださってい|るのに。=I'm sorry... After you specially paid for me...
 いえいえ、いいんですよ。|さあ、帰りましょう。|夜風は体に毒ですよ。=No, it's quite alright.|Come on, let's go back inside. The night air is bad for your health.
 はい。|おやすみ、エネク……。=Right. Good night, Enek...
-!FILE:event/ev_ren/ren_nra_18_bashatte.wsb
+!FILE:event/ev_ren/ren_nra_18_bashatte.wsb#proofread shnurks
 はわぁ……！|今日も今日とて、よい天気じゃの。=*Yawn*|'Tis another splendid day today.
 また盛大な大あくびだな。|少しは遠慮したらどうだ。=There you go, yawning loudly again.|Can't you show a little restraint?
 仕方ありんせん。|こう移動が楽だと、眠くなってしま|いんす。=I can't help it. Being rocked so gently makes me sleepy.
@@ -5676,7 +5676,7 @@ bg_t21_zahl=bg_yadoheya_small
 うむ、それがよい。=Mm, a sensible idea.
 ノーラさんも、しっかり捕まってて|くださいね！=Hold on tight, both of you!
 はい、わかりました！=Okay!
-!FILE:event/ev_ren/ren_nra_20_hagurechatta.wsb
+!FILE:event/ev_ren/ren_nra_20_hagurechatta.wsb#proofread shnurks
 おお、これはまた盛況な市じゃのう！|これだけ人が集まっていると、心ま|で沸き立つようじゃ。=Hoh, 'tis another thriving town! When there are so many people around, the excitement is infectious.
 ほれ、ぬしよ。|向こうから香ばしい匂いがするぞ！|焼き菓子かの！？=Say, over there! I can smell a tantalizing aroma! Is something baking!?
 ええ、美味しそうな匂いですね。|行列もできはじめたみたいです。|味も確かなのかもしれませんね。=Yes, it does smell nice. A queue is even starting to form. It must taste as good as it smells.
@@ -6062,7 +6062,7 @@ bg_t21_zahl=bg_yadoheya_small
 ノーラさん……。=Norah...
 あっ、ごめんなさい。|お邪魔してしまって、すみませんで|した。=Ah, pardon me. I'm sorry for interrupting.
 明日も早いですし、私、そろそろ寝|ますね。|おやすみなさい、ロレンスさん……。=We've got another early start tomorrow, so I think I should be getting to sleep soon.|Good night, Mr. Lawrence...
-!FILE:event/ev_ren/rru_nra_c2b.wsb
+!FILE:event/ev_ren/rru_nra_c2b.wsb#proofread shnurks
 ううむ、遅い。|奴め、いったいどこまで行ったん|じゃ。=Hmm, he's late. Just how far did he wander off to?
 ええ、ロレンスさん遅いですね。|ちょっと薪を集めたら、すぐに|戻るって言ってたのに……。=Yes, Mr. Lawrence does seem to be taking his time. He said he'd be right back after collecting some firewood.
 おーい。=Heey!
@@ -6311,11 +6311,11 @@ bg_t21_zahl=bg_yadoheya_small
 # Common lines
 !FILE:event/facilities/pub_t10_grah.wsb
 迷える子羊よ。|今日はどうなされましたか？=O lost lamb. Hast thou followed in the righteous path of God today?
-ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seem to be wondering what a priest is doing here.
-この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=There is no church in this village. Hence we borrow a corner of a tavern to hold our activities.
+ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seems to be wondering what a priest is doing here.
+この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=There is no church in this village. Hence we borrow a corner of a tavern for our activities.
 さて私に用件があるようですが？=Now then, doth thou have business with me?
 ふむ、錬金釜の情報ですか…。=Mhm, information on an alchemy pot...
-よろしい。|では、お布施をいただければ教えて|さしあげましょう。=Very well. If thee compose an offering,|I shall divulge it.
+よろしい。|では、お布施をいただければ教えて|さしあげましょう。=Very well. If thee composeth an offering,|I shall divulge it.
 迷える子羊よ。|お布施の用意はできましたかな？=O lost lamb. Art thou here to make an offering?
 では、|銀貨@<number1@>枚ほどで|いかがですかな。=So, how do @<number1@> silver coins sound?
 情報を買う=Buy information
