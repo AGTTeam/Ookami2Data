@@ -1668,12 +1668,12 @@
 ……本当だ。=You're right...
 あいつ、なんでまた来てるの！？|まだお父さんの荷物を？=Why is he here again!? Is he still after my dad's stuff?
 待て。|わしも、あの男には見覚えがある。=Wait. I've seen that man before.
-そうだ。|あいつは……わしとロルフを襲った|奴らだ！=I remember. He's the one who attacked me and Rolf!
+そうだ。|あいつは……わしとロルフを襲った|奴らだ！=I remember. He's one of those who attacked me and Rolf!#奴ら but idk
 何じゃと。|あいつらが、賊かや！=What? They were the bandits!?
 ……なるほど、判ったぞ。|あの男が探している「荷物」が。=I get it now. I know what it is that he's looking for...
 何なの？=What is it?
 本物の、渡航許可証だ。=It's the document approving sea travel in this village.
-……ほう。|奴に以前見せられたのは、違う書類|なのかや？=Hoh...|Is it a different permit than the one he showed us before?
+……ほう。|奴に以前見せられたのは、違う書類|なのかや？=Hoh...|Is it different from the permit than the one he showed us before?#?
 あれは……おそらく偽物だ。|偽造証書だ。=That probably was a fake, a forged document.
 あの書状は細部がディーモルン港で|見たものと微妙に違うんだ。|印章も異なるしな。=Small details of that permit were different from the one we saw in the port of Diemoln. The seal was different, too.
 今から考えればアザースとかいう男|の態度は怪しかった。|書状もすぐに引っ込めただろう？=In hindsight, Aserth's attitude was suspicious. He took back the document right away, didn't he?
@@ -1994,7 +1994,7 @@
 ええ、酔いを覚ましたくて。|少し飲み過ぎました。=Yes, I was trying to sober up. I think I've had a bit too much to drink.
 ふふ、無理もないです。|ロレンスさんは、この村の英雄さん|なんですから。=Tee-hee, that's understandable. You're the hero of this village, Mr. Lawrence.
 そんな大層なものじゃないですよ。|それは、よくご存じでしょう？=It really wasn't such a big deal. You understand, don't you?
-そうですか？|私はこの旅の間中ずっと、感心させ|られてばかりでした。=Is that so? I've been amazed by you throughout this whole trip.
+そうですか？|私はこの旅の間中ずっと、感心させ|られてばかりでした。=Is that so?|I've been amazed by you throughout this whole trip.
 ロレンスさんもホロさんもすごく強|くて、しっかりしていて……。|ずっと、びっくりのし通しでした。=You and Miss Holo are so strong, so knowledgeable... I was constantly taken aback.
 お二方と旅をして、私も少しだけ勇|気をもらったような気がします。|本当に、感謝しています。=Traveling with you, I feel like some courage has rubbed off on me. I am really grateful to you.
 私、本当は判っているんです。|私みたいな人間がザーラントに行っ|ても、雇ってもらうのは難しいって。=I'm not blind to reality. I know that it will be difficult for someone like me to get a job in Saarland.
@@ -3475,7 +3475,7 @@
 ん？|俺がどうしたんだ、ホロ。=Hm? What about me, Holo?
 んんん、くふふ……。=Mmmm, heh-heh-heh...
 （……ホロの奴。|　寝ている時さえ、|　目を離さないつもりか……）=(That Holo... Even when she's sleeping, she doesn't let me out of her sight.)
-!FILE:event/ev_ren/ren_hor_14_kosupure.wsb#several dupes with other ‘kosupure’ scenes proofread shnurks
+!FILE:event/ev_ren/ren_hor_14_kosupure.wsb#several dupes with other ‘kosupure’ scenes
 ……何じゃ？|やけに人だかりができておるのう。=...Hm? That’s quite the crowd.
 祭りか何かかな。|きっと便乗した見せ物か大道芸でも|出ているんだろう。=I wonder if it’s a festival. I guess they decided to put a show or some kind of street performance on.
 おおおおおおおおおおおお！|あなた、あなたどうですか！|お美しいお嬢さん！=Oooh! You, yes you there! The beautiful young lady!
@@ -3508,7 +3508,7 @@
 すみませんが、さすがにちょっと。|私たち、旅の途中なものですから。=I’m sorry, but I’m afraid now’s a bad time. We’re in the middle of something, you see.
 そうですか、残念です……。=Is that so? What a shame...
 わっちもちょっと残念じゃ。|どんな劇じゃったのかの……。=I think it's unfortunate too.|I wonder what play it was...
-!FILE:event/ev_ren/ren_hor_15_sauna.wsb#eve_14_sauna dupes proofread shnurks
+!FILE:event/ev_ren/ren_hor_15_sauna.wsb#eve_14_sauna dupes
 ぬしよ、すっかり遅くなってしまっ|たの。=It has gotten rather late.
 ああ、でもここまで辿り着けてよか|った。|宿で休めるからな。=Yeah, but it’s good we managed to reach town. We can sleep in an inn tonight.
 そうじゃの。|しかし、ちと急ぎすぎた。|もうくたくたじゃ。=True. But, ’twas a bit too much.|I am thoroughly spent now.
@@ -3788,7 +3788,7 @@
 お前にも、昨日の埋め合わせをした|いしな。=I want to compensate you for yesterday|as well.
 くっ……。=Ngh...
 わっちのことは、気にせずとも良い。|それより、今日こそは早く帰ってき|てくりゃれ……。=You do not have to worry about me. More importantly, come back early today...
-!FILE:event/ev_ren/ren_hor_22_aan.wsb#dupes with other aan scenes proofread shnurks
+!FILE:event/ev_ren/ren_hor_22_aan.wsb#dupes with other aan scenes
 ふう、ようやく町に着いたかや。|すっかり遅くなってしまったの。|腹が減ったぞ。=Haa, seems we’ve finally made it to town.|It has gotten rather late. I’m famished.
 せっかく町に着いたんじゃ。|やはりあたたかい料理とよい酒じゃ|な、ぬしよ？=We're finally in a town. I think some warm food and good wine are in order, no?
 ………………。=......
@@ -5089,7 +5089,7 @@
 私、今すごく幸せです。|普段なかなかお伝えできないですけ|ど、本当に感謝してるんです。=I'm really happy. I always miss my chance to tell you this but, I really appreciate it.
 こうしてロレンスさんと二人でお話|しいるてと、雨がやまなければいい|のに……って、つい考えちゃいます。=Talking with you like this, I catch myself hoping that the rain will never stop.
 私……。|あのときから、ずっと同じ事を考え|ているのかもしれないです……。=I... think I've probably been hoping the same thing, ever since that day...
-!FILE:event/ev_ren/ren_nra_05_akogareno.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_05_akogareno.wsb
 おお、広場がにぎわっておるの！|人もたくさんおる！=Oh, the square is bustling today!|There are so many people!
 これは……なるほど、服の青空市の|ようだな。=It's... Ah I see, it looks like there's an open-air clothes market on.
 ええ。|色とりどりで、華やかで……見てい|るだけでも楽しくなりますよね！=Right. It's so colorful and splendid...|Just looking is so much fun!
@@ -5197,7 +5197,7 @@
 ぬしらが怖がって眠れなくなってし|まっては、明日からの旅に差し支え|るからの。=If you were too scared to sleep, we would not be able to travel tomorrow.
 うふふ、確かにそうですね。=Tee-hee, that's true.
 ホロ＆ロレンス=Holo & Lawrence
-!FILE:event/ev_ren/ren_nra_08_hanauri.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_08_hanauri.wsb
 ロレンスさん、今日の市は随分と賑|やかですね。=The market seems pretty busy today, right?
 大きなお祭りなんでしょう。|露店もたくさん出ているようです。=It must be a big festival with all these stalls up.
 見たことのない品が、あちこちにた|くさんあります。=There are a lot of things scattered around that I've never seen before.
@@ -5221,7 +5221,7 @@
 最近は、船で遠い異国の花も持ち込|まれたりしているようですからね。|見る機会も増えると思います。=These days, flowers from faraway lands are being brought in by ship. I think you're only going to see them more and more.
 そうなんですか……。|さすがロレンスさん、物知りなんで|すね。=I see...|You really do know a lot, Mr. Lawrence!
 ロレンスさんが大商人になったら、|いろんなお花を見せてくださいね。|私、楽しみにしてます。=When you make it big, I hope you'll show me all different kinds of flowers.|I'll be looking forward to it!
-!FILE:event/ev_ren/ren_nra_09_semairodide.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_09_semairodide.wsb
 ここは、不思議なところですね。|ずいぶんと入り組んでいて……。=This is a strange place.|The streets are very complex...
 この一角だけ妙に建物がぎっしりと|詰まっている感じがします。=Even this one corner seems overcrowded with buildings.
 ええ、この通りはこの町の経済の中|心ですからね。=This street is the economic center of the town.
@@ -5377,7 +5377,7 @@
 私は何匹も牧羊犬がいるよりも、気|の合う子がいることのほうが大事だ|と思っていますけれど。=I think it's more important to have a friend that understands you rather than just having several dogs.
 そうよね、エネク？=Isn't that right, Enek?
 アォン！=Woof!
-!FILE:event/ev_ren/ren_nra_13_katatataki.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_13_katatataki.wsb
 bg_2_sora_a=bg_2_rousoku
 bg_t01_polo=bg_yadoheya_small
 bg_t02_rubi=bg_yadoheya_small
@@ -5444,7 +5444,7 @@ bg_t21_zahl=bg_yadoheya_small
 えっと、えっと……。=Um, ahh...
 でも、やっぱり申し訳ないです……。=I think I will have to refrain...
 すみません、ちょっとでかけてきま|すね！=Excuse me. I'm going to step out for a bit!
-!FILE:event/ev_ren/ren_nra_14_kansetukiss.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_14_kansetukiss.wsb
 うふふ、こら、エネクったら！|くすぐったい！=Tee-hee-hee, stop it, Enek! That tickles!
 アォン！=Woof!
 あっ、もうっ、だめだってば！=A-Ah, enough!
@@ -5494,7 +5494,7 @@ bg_t21_zahl=bg_yadoheya_small
 クゥーン……？=*Whine*
 まあ、エネクったら。=Oh, Enek...
 ふふ、でもわかってくれたみたいで|す。|ありがとうございます。=Heh, but it seems he understood.|Thank you.#it's super subtle in the audio
-!FILE:event/ev_ren/ren_nra_15_otosimono.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_15_otosimono.wsb
 わあ、にぎやかな市ですね！|見てください、ロレンスさん。|綺麗なウリがカゴに山積みですよ！=Wow, what a lively town! Look, Mr. Lawrence, there are mountains of pretty melons piled up in baskets!
 新しく収穫したものが運ばれてきた|のでしょうね。|きっと、豊作だったんでしょう。=They must have been brought in from a recent harvest. It looks like it was a good one.
 それでみんな喜んでいるんですね。|なんだか、私までうかれた気持ちに|なってきてしまいます。=That's must be why everyone seems so happy. It makes me feel happy, too.
@@ -5586,7 +5586,7 @@ bg_t21_zahl=bg_yadoheya_small
 ぬしよ……。|こっぴどくやられたのう。=That was an utter failure...
 ああ、大丈夫だと思ったんだけど|なあ……。|イテテテテ……。=Yeah... I thought it'd be okay... Ouch--!
 すみません……。|私が余計なものを見つけてしまった|ばかりに……。=I'm sorry... I should have never brought it up.
-!FILE:event/ev_ren/ren_nra_17_enekunigohan.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_17_enekunigohan.wsb
 エネクーっ。|いい子にしてた？=Enek~! Have you been a good boy?
 アォン！=Woof!
 こらこら、吠えちゃだめでしょ。|ちゃんと座りなさい。=Hey, you know you mustn't bark.|Sit now.
@@ -5615,7 +5615,7 @@ bg_t21_zahl=bg_yadoheya_small
 すみません……。|せっかくごちそうしてくださってい|るのに。=I'm sorry... After you specially paid for me...
 いえいえ、いいんですよ。|さあ、帰りましょう。|夜風は体に毒ですよ。=No, it's quite alright.|Come on, let's go back inside. The night air is bad for your health.
 はい。|おやすみ、エネク……。=Right. Good night, Enek...
-!FILE:event/ev_ren/ren_nra_18_bashatte.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_18_bashatte.wsb
 はわぁ……！|今日も今日とて、よい天気じゃの。=*Yawn*|'Tis another splendid day today.
 また盛大な大あくびだな。|少しは遠慮したらどうだ。=There you go, yawning loudly again.|Can't you show a little restraint?
 仕方ありんせん。|こう移動が楽だと、眠くなってしま|いんす。=I can't help it. Being rocked so gently makes me sleepy.
@@ -5676,7 +5676,7 @@ bg_t21_zahl=bg_yadoheya_small
 うむ、それがよい。=Mm, a sensible idea.
 ノーラさんも、しっかり捕まってて|くださいね！=Hold on tight, both of you!
 はい、わかりました！=Okay!
-!FILE:event/ev_ren/ren_nra_20_hagurechatta.wsb#proofread shnurks
+!FILE:event/ev_ren/ren_nra_20_hagurechatta.wsb
 おお、これはまた盛況な市じゃのう！|これだけ人が集まっていると、心ま|で沸き立つようじゃ。=Hoh, 'tis another thriving town! When there are so many people around, the excitement is infectious.
 ほれ、ぬしよ。|向こうから香ばしい匂いがするぞ！|焼き菓子かの！？=Say, over there! I can smell a tantalizing aroma! Is something baking!?
 ええ、美味しそうな匂いですね。|行列もできはじめたみたいです。|味も確かなのかもしれませんね。=Yes, it does smell nice. A queue is even starting to form. It must taste as good as it smells.
@@ -6032,7 +6032,7 @@ bg_t21_zahl=bg_yadoheya_small
 わかった。|手を握っててあげるから、少し眠り|なさい。=Alright. I'll hold your hand, so try to get some sleep.
 ありがとう、おにいちゃん……。=Thank you, mister...
 !FILE:event/ev_ren/rru_nra_b2a.wsb
-あら、ロレンスさん。|こんな遅くまで、何をなさっている|んですか？=Oh, Mr. Lawrence. What have you been doing that's kept you up this late?
+あら、ロレンスさん。|こんな遅くまで、何をなさっている|んですか？=Oh, Mr. Lawrence. What have you been doing to keep you up this late?#?
 えっ、いや、たいしたことをしてい|るわけじゃないですよ。=Huh? Ah, it's nothing really.
 これは……お店の絵ですか？|ロレンスさん、絵もお上手なんです|ね。=Is this... a drawing of a shop? You're a wonderful artist, Mr. Lawrence.
 はは、恐縮です。|商売柄、絵を描いて説明することも|多いものですから。=Ha-ha, you flatter me. I often draw pictures for business to help explain things.
@@ -6062,7 +6062,7 @@ bg_t21_zahl=bg_yadoheya_small
 ノーラさん……。=Norah...
 あっ、ごめんなさい。|お邪魔してしまって、すみませんで|した。=Ah, pardon me. I'm sorry for interrupting.
 明日も早いですし、私、そろそろ寝|ますね。|おやすみなさい、ロレンスさん……。=We've got another early start tomorrow, so I think I should be getting to sleep soon.|Good night, Mr. Lawrence...
-!FILE:event/ev_ren/rru_nra_c2b.wsb#proofread shnurks
+!FILE:event/ev_ren/rru_nra_c2b.wsb
 ううむ、遅い。|奴め、いったいどこまで行ったん|じゃ。=Hmm, he's late. Just how far did he wander off to?
 ええ、ロレンスさん遅いですね。|ちょっと薪を集めたら、すぐに|戻るって言ってたのに……。=Yes, Mr. Lawrence does seem to be taking his time. He said he'd be right back after collecting some firewood.
 おーい。=Heey!
