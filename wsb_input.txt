@@ -6311,7 +6311,7 @@ bg_t21_zahl=bg_yadoheya_small
 # Common lines
 !FILE:event/facilities/pub_t10_grah.wsb
 迷える子羊よ。|今日はどうなされましたか？=O lost lamb. Hast thou followed in the righteous path of God today?
-ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seem to be wondering what a priest is doing here.#‘Thou’ is the archaic equivalent of ‘you’, which usually pairs with just ‘seem’ .
+ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seems to be wondering what a priest is doing here.
 この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=There is no church in this village. Hence we borrow a corner of a tavern for our activities.
 さて私に用件があるようですが？=Now then, doth thou have business with me?
 ふむ、錬金釜の情報ですか…。=Mhm, information on an alchemy pot...

@@ -68,6 +68,9 @@ The patch comes with a translated cheats file ready to be used with the emulator
 SUBTITLES
 You may notice a full or partial black line flash up for a second when subtitles begin playing. Subtitles are used for the opening movie, end credits and special messages. This is merely a visual error and should not cause any playback issues.
 
+***NOTE: FLASHCART COMPATIBILTY***
+Unrelated to the above, testing the patch on hardware revealed that some flashcarts will randomly crash when playing the opening movie. As this is a hardware issue, we are unfortunately unable to fix the problem, and recommend that anyone experiencing crashing skips the movie by tapping the touch screen or pressing any button.
+
 BUG FIX
 The patch contains a fix for a rare bug present in the original game which prevented the contract to deliver 1 Milk, 1 Egg and 2 Mussels to Dielmon from being completed.
 
