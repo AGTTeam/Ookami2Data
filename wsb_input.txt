@@ -914,7 +914,7 @@
 でも、ディーモルンで船に乗れない|ことが判って……。|仕方なく戻ってきたところなんです。=But, when I arrived in Diemoln, I learnt that I couldn’t take the boat... With nothing else to do, I just went back.
 何故じゃ？|船が、出ておらんのか？=Why’s that? Are there no boats?
 えっと、違います。|船自体は出ているみたいなんです。=Aah, it’s not that. It looked as if there were boats leaving the port.
-でも、今はディーモルンの港は渡航|制限がかかってるんです。|私、乗せてもらえなくて……。=But there's a travelling restriction at Diemoln at the moment, so I wasn’t allowed on...#?
+でも、今はディーモルンの港は渡航|制限がかかってるんです。|私、乗せてもらえなくて……。=But there's a travel restriction in Diemoln at the moment, so I wasn’t allowed on...#‘travel restriction’ is a set phrase. You could say ‘restriction on traveling’ (one l in ‘traveling’ in American English)
 本当ですか？=Is that true?
 ええ、本当です。|私みたいな素性の知れない人間はお|断りだって言われちゃいました。=Yes. I was told that they don't accept strangers like me.
 それに、船賃がすごく高くて……。|貯めたお金じゃ全然足りないことも|判ったので、戻ってきたんです。=Not to mention that the boat fare was very expensive... It turned out that the money I had saved was not enough, so I came back.
@@ -5415,7 +5415,7 @@ bg_t21_zahl=bg_yadoheya_small
 ふふ、いつもしかめっ面してる商人|さんより、そういうロレンスさんの|ほうが私はずっといいと思います。=Tee-hee, I think that you are much better than a merchant who is always frowning.
 ……あら、どうしたんですか？|肩なんて、ぐるぐる回して。=...Oh, did something happen to your shoulders? You're rubbing them.#He's rolling his arms around (doing shoulder stretches). Not sure how to make it sound natural in a question.
 緊張してたんでしょうね。|今になって肩が凝ってきたようでし|て……いてててて。=I must have been nervous. My shoulders are a bit stiff now-- Ngh...
-えっと、あの……。|私でよければ、肩、少しほぐしまし|ょうか？=Um... If you're fine with me, I could give you a shoulder massage, if you'd like?#?
+えっと、あの……。|私でよければ、肩、少しほぐしまし|ょうか？=Um... I-I could give you a shoulder massage, if you'd like?#Adding the ‘私でよければ’ back into Norah is no problem, but here I think it sounds like too many questions “If you're fine with me” & “if you'd like?”, so it was expressed with the stutter on “I-I”.
 いいんですか？=Are you sure?
 いや、私がノーラさんの肩を……=No, I'll do yours.
 えっ？|いいんですか？=Huh? Are you sure?
@@ -6311,7 +6311,7 @@ bg_t21_zahl=bg_yadoheya_small
 # Common lines
 !FILE:event/facilities/pub_t10_grah.wsb
 迷える子羊よ。|今日はどうなされましたか？=O lost lamb. Hast thou followed in the righteous path of God today?
-ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seems to be wondering what a priest is doing here.
+ん？|神父がなぜこんな場所にいるのか？|といった顔をなさってますね。=Hmm? Thou seem to be wondering what a priest is doing here.#‘Thou’ is the archaic equivalent of ‘you’, which usually pairs with just ‘seem’ .
 この村には教会がありません。|ですので、こうして酒場の一角をお|借りして活動をしているのです。=There is no church in this village. Hence we borrow a corner of a tavern for our activities.
 さて私に用件があるようですが？=Now then, doth thou have business with me?
 ふむ、錬金釜の情報ですか…。=Mhm, information on an alchemy pot...
