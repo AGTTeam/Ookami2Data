@@ -1668,12 +1668,12 @@
 ……本当だ。=You're right...
 あいつ、なんでまた来てるの！？|まだお父さんの荷物を？=Why is he here again!? Is he still after my dad's stuff?
 待て。|わしも、あの男には見覚えがある。=Wait. I've seen that man before.
-そうだ。|あいつは……わしとロルフを襲った|奴らだ！=I remember. He's one of those who attacked me and Rolf!#奴ら but idk
+そうだ。|あいつは……わしとロルフを襲った|奴らだ！=I remember. He's one of the men who attacked me and Rolf!#奴ら but idk
 何じゃと。|あいつらが、賊かや！=What? They were the bandits!?
 ……なるほど、判ったぞ。|あの男が探している「荷物」が。=I get it now. I know what it is that he's looking for...
 何なの？=What is it?
 本物の、渡航許可証だ。=It's the document approving sea travel in this village.
-……ほう。|奴に以前見せられたのは、違う書類|なのかや？=Hoh...|Is it different from the permit than the one he showed us before?#?
+……ほう。|奴に以前見せられたのは、違う書類|なのかや？=Hoh...|Is it different from the permit that he showed us before?
 あれは……おそらく偽物だ。|偽造証書だ。=That probably was a fake, a forged document.
 あの書状は細部がディーモルン港で|見たものと微妙に違うんだ。|印章も異なるしな。=Small details of that permit were different from the one we saw in the port of Diemoln. The seal was different, too.
 今から考えればアザースとかいう男|の態度は怪しかった。|書状もすぐに引っ込めただろう？=In hindsight, Aserth's attitude was suspicious. He took back the document right away, didn't he?
